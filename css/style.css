@@ -1,0 +1,45 @@
+
+#menuPanel {
+    width: 25%;
+    height: 1100px;
+    float: left;
+   /* background-color: pink;*/
+}
+
+#matrixPanel {
+    width: 60%;
+    height: 1100px;
+    float: left;
+    /*background-color: blue;*/
+}
+
+#sliderPanel {
+    width: 15%;
+    height: 1100px;
+    float: left;
+    /*background-color: purple;*/
+}
+
+
+
+
+#topChart {
+    width: 100%;
+    height: 150px;
+    float: left;
+    /*background-color: pink;*/
+}
+
+#mainSVG {
+    width: 85%;
+    height: 850px;
+    float: left;
+    /*background-color: blue;*/
+}
+
+#sideChart {
+    width: 15%;
+    height: 850px;
+    float: left;
+    /*background-color: purple;*/
+}
