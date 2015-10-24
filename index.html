@@ -2,18 +2,20 @@
 <html>
 
 <head>
-    <title>Worldwide Arms and Ammuntion Visual Analytics Tool</title>
+    <title>Worldwide Arms and Ammunition Visual Analytics Tool</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/heatMapStyle.css"/>
 </head>
 
-<body class="bdy">
+<body class="bdy" onload="init()">
 
     <!--libraries called here-->
     <script src="lib/d3/d3.v3.min.js"></script>
     <script src="lib/d3/d3.layout.cloud.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="lib/jquery-1.11.3.js"></script>
 
     <!--Main Divs declared here-->
     <center>       
@@ -21,6 +23,17 @@
             <div id="matrixPanel" class="clMatrixPanel">
                 <div id="topChart" class="clTopChart"></div>
                 <div id="mainSVG" class="clMainSVG"></div>
+                    <div id="tooltip" class="hidden">
+                        <p><span id="value"></p>
+                    </div>
+                    <select id="order">
+                        <option value="hclust">by cluster</option>
+                        <option value="probecontrast">by probe name and contrast name</option>
+                        <option value="probe">by probe name</option>
+                        <option value="contrast">by contrast name</option>
+                        <option value="custom">by log2 ratio</option>
+                    </select>
+                    <div id="chart" style='overflow:auto; width:960px; height:480px;'></div>
                 <div id="sideChart" class="clSideChart"></div>
             </div>
             <div id="sliderPanel" class="clSliderPanel"></div>      
@@ -30,6 +43,7 @@
 
     <!--script files declared here-->
     <script src="js/mainFile.js"></script>
+    <script src="js/heatMap.js"></script>
 </body>
 
 </html>
