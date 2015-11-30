@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,2004,0
+United States,North America,Canada,North America,2004,54106834
+United States,North America,Mexico,North America,2004,2563386
+United States,North America,Brazil,South America,2004,2095083
+United States,North America,Argentina,South America,2004,1522841
+United States,North America,United Kingdom,Europe,2004,11600438
+United States,North America,Netherlands,Europe,2004,16119002
+United States,North America,Belgium,Europe,2004,12410473
+United States,North America,France,Europe,2004,3447059
+United States,North America,Switzerland,Europe,2004,922432
+United States,North America,Spain,Europe,2004,3060676
+United States,North America,Portugal,Europe,2004,1238770
+United States,North America,Germany,Europe,2004,14158079
+United States,North America,Poland,Europe,2004,569336
+United States,North America,Austria,Europe,2004,688363
+United States,North America,Hungary,Europe,2004,127218
+United States,North America,Czech Republic,Europe,2004,948873
+United States,North America,Slovakia,Europe,2004,143097
+United States,North America,Italy,Europe,2004,8921046
+United States,North America,Croatia,Europe,2004,61654
+United States,North America,Serbia,Europe,2004,35349
+United States,North America,Bosnia,Europe,2004,15162
+United States,North America,Greece,Europe,2004,5803278
+United States,North America,Bulgaria,Europe,2004,360827
+United States,North America,Romania,Europe,2004,7019
+United States,North America,Russia,Asia,2004,151299
+United States,North America,Ukraine,Europe,2004,399465
+United States,North America,Finland,Europe,2004,1382899
+United States,North America,Sweden,Europe,2004,1483839
+United States,North America,Norway,Europe,2004,10588358
+United States,North America,Denmark,Europe,2004,2052177
+United States,North America,South Africa,Africa,2004,900719
+United States,North America,Turkey,Asia,2004,3565653
+United States,North America,Israel,Asia,2004,28362555
+United States,North America,United Arab Emirates,Asia,2004,5415877
+United States,North America,Taiwan,Asia,2004,3111417
+United States,North America,South Korea,Asia,2004,63284966
+United States,North America,Japan,Asia,2004,9467396
+United States,North America,India,Asia,2004,97973
+United States,North America,Pakistan,Asia,2004,806
+United States,North America,Thailand,Asia,2004,3540573
+United States,North America,Malaysia,Asia,2004,446162
+United States,North America,Singapore,Asia,2004,1088859
+United States,North America,Philippines,Asia,2004,2271197
+United States,North America,Indonesia,Asia,2004,38430
+United States,North America,Australia,Oceania,2004,25351616
+United States,North America,Cyprus,Europe,2004,57596
+United States,North America,China,Asia,2004,141067
+United States,North America,Ivory Coast,Africa,2004,3297
+United States,North America,Congo,Africa,2004,0
+Canada,North America,United States,North America,2004,59923077
+Canada,North America,Canada,North America,2004,239764
+Canada,North America,Mexico,North America,2004,221385
+Canada,North America,Brazil,South America,2004,0
+Canada,North America,Argentina,South America,2004,2210
+Canada,North America,United Kingdom,Europe,2004,906339
+Canada,North America,Netherlands,Europe,2004,3848435
+Canada,North America,Belgium,Europe,2004,667904
+Canada,North America,France,Europe,2004,6318014
+Canada,North America,Switzerland,Europe,2004,192819
+Canada,North America,Spain,Europe,2004,159328
+Canada,North America,Portugal,Europe,2004,24096
+Canada,North America,Germany,Europe,2004,645382
+Canada,North America,Poland,Europe,2004,35744
+Canada,North America,Austria,Europe,2004,18090
+Canada,North America,Hungary,Europe,2004,18252
+Canada,North America,Czech Republic,Europe,2004,604606
+Canada,North America,Slovakia,Europe,2004,5190
+Canada,North America,Italy,Europe,2004,238461
+Canada,North America,Croatia,Europe,2004,3384
+Canada,North America,Serbia,Europe,2004,1722
+Canada,North America,Bosnia,Europe,2004,8022
+Canada,North America,Greece,Europe,2004,36627
+Canada,North America,Bulgaria,Europe,2004,41948
+Canada,North America,Romania,Europe,2004,5384
+Canada,North America,Russia,Asia,2004,7759
+Canada,North America,Ukraine,Europe,2004,0
+Canada,North America,Finland,Europe,2004,54115
+Canada,North America,Sweden,Europe,2004,125968
+Canada,North America,Norway,Europe,2004,517206
+Canada,North America,Denmark,Europe,2004,2437825
+Canada,North America,South Africa,Africa,2004,0
+Canada,North America,Turkey,Asia,2004,7693
+Canada,North America,Israel,Asia,2004,55682
+Canada,North America,United Arab Emirates,Asia,2004,17252
+Canada,North America,Taiwan,Asia,2004,129281
+Canada,North America,South Korea,Asia,2004,16865
+Canada,North America,Japan,Asia,2004,61882
+Canada,North America,India,Asia,2004,3832
+Canada,North America,Pakistan,Asia,2004,0
+Canada,North America,Thailand,Asia,2004,3070
+Canada,North America,Malaysia,Asia,2004,0
+Canada,North America,Singapore,Asia,2004,174349
+Canada,North America,Philippines,Asia,2004,0
+Canada,North America,Indonesia,Asia,2004,40010
+Canada,North America,Australia,Oceania,2004,281092
+Canada,North America,Cyprus,Europe,2004,0
+Canada,North America,China,Asia,2004,16389
+Canada,North America,Ivory Coast,Africa,2004,0
+Canada,North America,Congo,Africa,2004,0
+Mexico,North America,United States,North America,2004,1897865
+Mexico,North America,Canada,North America,2004,23182
+Mexico,North America,Mexico,North America,2004,0
+Mexico,North America,Brazil,South America,2004,0
+Mexico,North America,Argentina,South America,2004,0
+Mexico,North America,United Kingdom,Europe,2004,0
+Mexico,North America,Netherlands,Europe,2004,0
+Mexico,North America,Belgium,Europe,2004,1517666
+Mexico,North America,France,Europe,2004,0
+Mexico,North America,Switzerland,Europe,2004,0
+Mexico,North America,Spain,Europe,2004,0
+Mexico,North America,Portugal,Europe,2004,0
+Mexico,North America,Germany,Europe,2004,5855
+Mexico,North America,Poland,Europe,2004,0
+Mexico,North America,Austria,Europe,2004,0
+Mexico,North America,Hungary,Europe,2004,0
+Mexico,North America,Czech Republic,Europe,2004,8754
+Mexico,North America,Slovakia,Europe,2004,0
+Mexico,North America,Italy,Europe,2004,0
+Mexico,North America,Croatia,Europe,2004,0
+Mexico,North America,Serbia,Europe,2004,0
+Mexico,North America,Bosnia,Europe,2004,0
+Mexico,North America,Greece,Europe,2004,0
+Mexico,North America,Bulgaria,Europe,2004,0
+Mexico,North America,Romania,Europe,2004,0
+Mexico,North America,Russia,Asia,2004,0
+Mexico,North America,Ukraine,Europe,2004,0
+Mexico,North America,Finland,Europe,2004,7876
+Mexico,North America,Sweden,Europe,2004,0
+Mexico,North America,Norway,Europe,2004,0
+Mexico,North America,Denmark,Europe,2004,0
+Mexico,North America,South Africa,Africa,2004,0
+Mexico,North America,Turkey,Asia,2004,0
+Mexico,North America,Israel,Asia,2004,134785
+Mexico,North America,United Arab Emirates,Asia,2004,0
+Mexico,North America,Taiwan,Asia,2004,0
+Mexico,North America,South Korea,Asia,2004,0
+Mexico,North America,Japan,Asia,2004,0
+Mexico,North America,India,Asia,2004,0
+Mexico,North America,Pakistan,Asia,2004,0
+Mexico,North America,Thailand,Asia,2004,0
+Mexico,North America,Malaysia,Asia,2004,0
+Mexico,North America,Singapore,Asia,2004,0
+Mexico,North America,Philippines,Asia,2004,0
+Mexico,North America,Indonesia,Asia,2004,0
+Mexico,North America,Australia,Oceania,2004,0
+Mexico,North America,Cyprus,Europe,2004,0
+Mexico,North America,China,Asia,2004,0
+Mexico,North America,Ivory Coast,Africa,2004,0
+Mexico,North America,Congo,Africa,2004,0
+Brazil,South America,United States,North America,2004,72079124
+Brazil,South America,Canada,North America,2004,400382
+Brazil,South America,Mexico,North America,2004,366241
+Brazil,South America,Brazil,South America,2004,0
+Brazil,South America,Argentina,South America,2004,3711699
+Brazil,South America,United Kingdom,Europe,2004,652415
+Brazil,South America,Netherlands,Europe,2004,346305
+Brazil,South America,Belgium,Europe,2004,6189880
+Brazil,South America,France,Europe,2004,437284
+Brazil,South America,Switzerland,Europe,2004,489878
+Brazil,South America,Spain,Europe,2004,796331
+Brazil,South America,Portugal,Europe,2004,539261
+Brazil,South America,Germany,Europe,2004,3760623
+Brazil,South America,Poland,Europe,2004,54264
+Brazil,South America,Austria,Europe,2004,536891
+Brazil,South America,Hungary,Europe,2004,0
+Brazil,South America,Czech Republic,Europe,2004,147944
+Brazil,South America,Slovakia,Europe,2004,15225
+Brazil,South America,Italy,Europe,2004,383128
+Brazil,South America,Croatia,Europe,2004,216
+Brazil,South America,Serbia,Europe,2004,0
+Brazil,South America,Bosnia,Europe,2004,0
+Brazil,South America,Greece,Europe,2004,0
+Brazil,South America,Bulgaria,Europe,2004,246911
+Brazil,South America,Romania,Europe,2004,0
+Brazil,South America,Russia,Asia,2004,0
+Brazil,South America,Ukraine,Europe,2004,0
+Brazil,South America,Finland,Europe,2004,298120
+Brazil,South America,Sweden,Europe,2004,134615
+Brazil,South America,Norway,Europe,2004,94935
+Brazil,South America,Denmark,Europe,2004,16274
+Brazil,South America,South Africa,Africa,2004,206894
+Brazil,South America,Turkey,Asia,2004,0
+Brazil,South America,Israel,Asia,2004,146281
+Brazil,South America,United Arab Emirates,Asia,2004,262783
+Brazil,South America,Taiwan,Asia,2004,0
+Brazil,South America,South Korea,Asia,2004,0
+Brazil,South America,Japan,Asia,2004,0
+Brazil,South America,India,Asia,2004,5373
+Brazil,South America,Pakistan,Asia,2004,427213
+Brazil,South America,Thailand,Asia,2004,259446
+Brazil,South America,Malaysia,Asia,2004,18709
+Brazil,South America,Singapore,Asia,2004,1465756
+Brazil,South America,Philippines,Asia,2004,1475369
+Brazil,South America,Indonesia,Asia,2004,11521620
+Brazil,South America,Australia,Oceania,2004,804825
+Brazil,South America,Cyprus,Europe,2004,375
+Brazil,South America,China,Asia,2004,7847
+Brazil,South America,Ivory Coast,Africa,2004,0
+Brazil,South America,Congo,Africa,2004,0
+Argentina,South America,United States,North America,2004,6112016
+Argentina,South America,Canada,North America,2004,3080
+Argentina,South America,Mexico,North America,2004,0
+Argentina,South America,Brazil,South America,2004,0
+Argentina,South America,Argentina,South America,2004,0
+Argentina,South America,United Kingdom,Europe,2004,0
+Argentina,South America,Netherlands,Europe,2004,0
+Argentina,South America,Belgium,Europe,2004,0
+Argentina,South America,France,Europe,2004,4371
+Argentina,South America,Switzerland,Europe,2004,6554
+Argentina,South America,Spain,Europe,2004,25011
+Argentina,South America,Portugal,Europe,2004,8812
+Argentina,South America,Germany,Europe,2004,0
+Argentina,South America,Poland,Europe,2004,0
+Argentina,South America,Austria,Europe,2004,0
+Argentina,South America,Hungary,Europe,2004,0
+Argentina,South America,Czech Republic,Europe,2004,0
+Argentina,South America,Slovakia,Europe,2004,0
+Argentina,South America,Italy,Europe,2004,0
+Argentina,South America,Croatia,Europe,2004,0
+Argentina,South America,Serbia,Europe,2004,0
+Argentina,South America,Bosnia,Europe,2004,0
+Argentina,South America,Greece,Europe,2004,0
+Argentina,South America,Bulgaria,Europe,2004,0
+Argentina,South America,Romania,Europe,2004,0
+Argentina,South America,Russia,Asia,2004,0
+Argentina,South America,Ukraine,Europe,2004,0
+Argentina,South America,Finland,Europe,2004,0
+Argentina,South America,Sweden,Europe,2004,0
+Argentina,South America,Norway,Europe,2004,0
+Argentina,South America,Denmark,Europe,2004,0
+Argentina,South America,South Africa,Africa,2004,0
+Argentina,South America,Turkey,Asia,2004,0
+Argentina,South America,Israel,Asia,2004,0
+Argentina,South America,United Arab Emirates,Asia,2004,0
+Argentina,South America,Taiwan,Asia,2004,0
+Argentina,South America,South Korea,Asia,2004,0
+Argentina,South America,Japan,Asia,2004,0
+Argentina,South America,India,Asia,2004,0
+Argentina,South America,Pakistan,Asia,2004,0
+Argentina,South America,Thailand,Asia,2004,0
+Argentina,South America,Malaysia,Asia,2004,0
+Argentina,South America,Singapore,Asia,2004,0
+Argentina,South America,Philippines,Asia,2004,28601
+Argentina,South America,Indonesia,Asia,2004,0
+Argentina,South America,Australia,Oceania,2004,0
+Argentina,South America,Cyprus,Europe,2004,0
+Argentina,South America,China,Asia,2004,0
+Argentina,South America,Ivory Coast,Africa,2004,0
+Argentina,South America,Congo,Africa,2004,0
+United Kingdom,Europe,United States,North America,2004,57801176
+United Kingdom,Europe,Canada,North America,2004,621657
+United Kingdom,Europe,Mexico,North America,2004,0
+United Kingdom,Europe,Brazil,South America,2004,306740
+United Kingdom,Europe,Argentina,South America,2004,52431
+United Kingdom,Europe,United Kingdom,Europe,2004,10862041
+United Kingdom,Europe,Netherlands,Europe,2004,671018
+United Kingdom,Europe,Belgium,Europe,2004,1364196
+United Kingdom,Europe,France,Europe,2004,1182079
+United Kingdom,Europe,Switzerland,Europe,2004,770463
+United Kingdom,Europe,Spain,Europe,2004,431636
+United Kingdom,Europe,Portugal,Europe,2004,119718
+United Kingdom,Europe,Germany,Europe,2004,1869807
+United Kingdom,Europe,Poland,Europe,2004,157197
+United Kingdom,Europe,Austria,Europe,2004,94733
+United Kingdom,Europe,Hungary,Europe,2004,43882
+United Kingdom,Europe,Czech Republic,Europe,2004,893971
+United Kingdom,Europe,Slovakia,Europe,2004,164977
+United Kingdom,Europe,Italy,Europe,2004,1022957
+United Kingdom,Europe,Croatia,Europe,2004,1684
+United Kingdom,Europe,Serbia,Europe,2004,24504
+United Kingdom,Europe,Bosnia,Europe,2004,2755
+United Kingdom,Europe,Greece,Europe,2004,32829
+United Kingdom,Europe,Bulgaria,Europe,2004,49638
+United Kingdom,Europe,Romania,Europe,2004,41614
+United Kingdom,Europe,Russia,Asia,2004,72658
+United Kingdom,Europe,Ukraine,Europe,2004,10396
+United Kingdom,Europe,Finland,Europe,2004,625159
+United Kingdom,Europe,Sweden,Europe,2004,143068
+United Kingdom,Europe,Norway,Europe,2004,891592
+United Kingdom,Europe,Denmark,Europe,2004,2820551
+United Kingdom,Europe,South Africa,Africa,2004,324889
+United Kingdom,Europe,Turkey,Asia,2004,817756
+United Kingdom,Europe,Israel,Asia,2004,42147
+United Kingdom,Europe,United Arab Emirates,Asia,2004,843414
+United Kingdom,Europe,Taiwan,Asia,2004,105900
+United Kingdom,Europe,South Korea,Asia,2004,3635614
+United Kingdom,Europe,Japan,Asia,2004,1890378
+United Kingdom,Europe,India,Asia,2004,149225
+United Kingdom,Europe,Pakistan,Asia,2004,257979
+United Kingdom,Europe,Thailand,Asia,2004,38581
+United Kingdom,Europe,Malaysia,Asia,2004,136984
+United Kingdom,Europe,Singapore,Asia,2004,188621
+United Kingdom,Europe,Philippines,Asia,2004,1920
+United Kingdom,Europe,Indonesia,Asia,2004,15870
+United Kingdom,Europe,Australia,Oceania,2004,2094868
+United Kingdom,Europe,Cyprus,Europe,2004,225507
+United Kingdom,Europe,China,Asia,2004,665526
+United Kingdom,Europe,Ivory Coast,Africa,2004,0
+United Kingdom,Europe,Congo,Africa,2004,7149
+Netherlands,Europe,United States,North America,2004,41374
+Netherlands,Europe,Canada,North America,2004,0
+Netherlands,Europe,Mexico,North America,2004,0
+Netherlands,Europe,Brazil,South America,2004,0
+Netherlands,Europe,Argentina,South America,2004,0
+Netherlands,Europe,United Kingdom,Europe,2004,75625
+Netherlands,Europe,Netherlands,Europe,2004,0
+Netherlands,Europe,Belgium,Europe,2004,35286
+Netherlands,Europe,France,Europe,2004,219998
+Netherlands,Europe,Switzerland,Europe,2004,3463049
+Netherlands,Europe,Spain,Europe,2004,0
+Netherlands,Europe,Portugal,Europe,2004,0
+Netherlands,Europe,Germany,Europe,2004,31621
+Netherlands,Europe,Poland,Europe,2004,0
+Netherlands,Europe,Austria,Europe,2004,6671
+Netherlands,Europe,Hungary,Europe,2004,0
+Netherlands,Europe,Czech Republic,Europe,2004,20203
+Netherlands,Europe,Slovakia,Europe,2004,0
+Netherlands,Europe,Italy,Europe,2004,0
+Netherlands,Europe,Croatia,Europe,2004,0
+Netherlands,Europe,Serbia,Europe,2004,0
+Netherlands,Europe,Bosnia,Europe,2004,0
+Netherlands,Europe,Greece,Europe,2004,4522
+Netherlands,Europe,Bulgaria,Europe,2004,0
+Netherlands,Europe,Romania,Europe,2004,0
+Netherlands,Europe,Russia,Asia,2004,0
+Netherlands,Europe,Ukraine,Europe,2004,0
+Netherlands,Europe,Finland,Europe,2004,0
+Netherlands,Europe,Sweden,Europe,2004,9105
+Netherlands,Europe,Norway,Europe,2004,0
+Netherlands,Europe,Denmark,Europe,2004,2851
+Netherlands,Europe,South Africa,Africa,2004,0
+Netherlands,Europe,Turkey,Asia,2004,0
+Netherlands,Europe,Israel,Asia,2004,0
+Netherlands,Europe,United Arab Emirates,Asia,2004,0
+Netherlands,Europe,Taiwan,Asia,2004,0
+Netherlands,Europe,South Korea,Asia,2004,0
+Netherlands,Europe,Japan,Asia,2004,0
+Netherlands,Europe,India,Asia,2004,0
+Netherlands,Europe,Pakistan,Asia,2004,0
+Netherlands,Europe,Thailand,Asia,2004,0
+Netherlands,Europe,Malaysia,Asia,2004,2914
+Netherlands,Europe,Singapore,Asia,2004,0
+Netherlands,Europe,Philippines,Asia,2004,0
+Netherlands,Europe,Indonesia,Asia,2004,0
+Netherlands,Europe,Australia,Oceania,2004,7285
+Netherlands,Europe,Cyprus,Europe,2004,22143
+Netherlands,Europe,China,Asia,2004,0
+Netherlands,Europe,Ivory Coast,Africa,2004,0
+Netherlands,Europe,Congo,Africa,2004,0
+Belgium,Europe,United States,North America,2004,15524656
+Belgium,Europe,Canada,North America,2004,888204
+Belgium,Europe,Mexico,North America,2004,308141
+Belgium,Europe,Brazil,South America,2004,496
+Belgium,Europe,Argentina,South America,2004,1941
+Belgium,Europe,United Kingdom,Europe,2004,12969820
+Belgium,Europe,Netherlands,Europe,2004,2030877
+Belgium,Europe,Belgium,Europe,2004,0
+Belgium,Europe,France,Europe,2004,19639122
+Belgium,Europe,Switzerland,Europe,2004,106283
+Belgium,Europe,Spain,Europe,2004,4834250
+Belgium,Europe,Portugal,Europe,2004,1642359
+Belgium,Europe,Germany,Europe,2004,2007214
+Belgium,Europe,Poland,Europe,2004,673219
+Belgium,Europe,Austria,Europe,2004,1281870
+Belgium,Europe,Hungary,Europe,2004,59917
+Belgium,Europe,Czech Republic,Europe,2004,134159
+Belgium,Europe,Slovakia,Europe,2004,3312
+Belgium,Europe,Italy,Europe,2004,6482469
+Belgium,Europe,Croatia,Europe,2004,18844
+Belgium,Europe,Serbia,Europe,2004,111041
+Belgium,Europe,Bosnia,Europe,2004,539
+Belgium,Europe,Greece,Europe,2004,405085
+Belgium,Europe,Bulgaria,Europe,2004,0
+Belgium,Europe,Romania,Europe,2004,0
+Belgium,Europe,Russia,Asia,2004,1036551
+Belgium,Europe,Ukraine,Europe,2004,0
+Belgium,Europe,Finland,Europe,2004,336622
+Belgium,Europe,Sweden,Europe,2004,1357307
+Belgium,Europe,Norway,Europe,2004,727969
+Belgium,Europe,Denmark,Europe,2004,405160
+Belgium,Europe,South Africa,Africa,2004,0
+Belgium,Europe,Turkey,Asia,2004,284995
+Belgium,Europe,Israel,Asia,2004,0
+Belgium,Europe,United Arab Emirates,Asia,2004,0
+Belgium,Europe,Taiwan,Asia,2004,0
+Belgium,Europe,South Korea,Asia,2004,500741
+Belgium,Europe,Japan,Asia,2004,125054
+Belgium,Europe,India,Asia,2004,0
+Belgium,Europe,Pakistan,Asia,2004,28991
+Belgium,Europe,Thailand,Asia,2004,45528
+Belgium,Europe,Malaysia,Asia,2004,0
+Belgium,Europe,Singapore,Asia,2004,0
+Belgium,Europe,Philippines,Asia,2004,0
+Belgium,Europe,Indonesia,Asia,2004,0
+Belgium,Europe,Australia,Oceania,2004,480562
+Belgium,Europe,Cyprus,Europe,2004,122639
+Belgium,Europe,China,Asia,2004,0
+Belgium,Europe,Ivory Coast,Africa,2004,0
+Belgium,Europe,Congo,Africa,2004,0
+France,Europe,United States,North America,2004,5035880
+France,Europe,Canada,North America,2004,519608
+France,Europe,Mexico,North America,2004,0
+France,Europe,Brazil,South America,2004,9940
+France,Europe,Argentina,South America,2004,47824
+France,Europe,United Kingdom,Europe,2004,664030
+France,Europe,Netherlands,Europe,2004,102407
+France,Europe,Belgium,Europe,2004,178084
+France,Europe,France,Europe,2004,4941949
+France,Europe,Switzerland,Europe,2004,1178440
+France,Europe,Spain,Europe,2004,1172247
+France,Europe,Portugal,Europe,2004,167634
+France,Europe,Germany,Europe,2004,2690796
+France,Europe,Poland,Europe,2004,2635
+France,Europe,Austria,Europe,2004,258931
+France,Europe,Hungary,Europe,2004,0
+France,Europe,Czech Republic,Europe,2004,98558
+France,Europe,Slovakia,Europe,2004,22098
+France,Europe,Italy,Europe,2004,562143
+France,Europe,Croatia,Europe,2004,3315
+France,Europe,Serbia,Europe,2004,0
+France,Europe,Bosnia,Europe,2004,11
+France,Europe,Greece,Europe,2004,174026
+France,Europe,Bulgaria,Europe,2004,33455
+France,Europe,Romania,Europe,2004,13109
+France,Europe,Russia,Asia,2004,97171
+France,Europe,Ukraine,Europe,2004,543319
+France,Europe,Finland,Europe,2004,26872
+France,Europe,Sweden,Europe,2004,81166
+France,Europe,Norway,Europe,2004,72453
+France,Europe,Denmark,Europe,2004,31328
+France,Europe,South Africa,Africa,2004,10196
+France,Europe,Turkey,Asia,2004,234538
+France,Europe,Israel,Asia,2004,0
+France,Europe,United Arab Emirates,Asia,2004,110701
+France,Europe,Taiwan,Asia,2004,0
+France,Europe,South Korea,Asia,2004,6977
+France,Europe,Japan,Asia,2004,338458
+France,Europe,India,Asia,2004,134407
+France,Europe,Pakistan,Asia,2004,3206
+France,Europe,Thailand,Asia,2004,120413
+France,Europe,Malaysia,Asia,2004,23976
+France,Europe,Singapore,Asia,2004,0
+France,Europe,Philippines,Asia,2004,0
+France,Europe,Indonesia,Asia,2004,1006402
+France,Europe,Australia,Oceania,2004,1083275
+France,Europe,Cyprus,Europe,2004,12511
+France,Europe,China,Asia,2004,0
+France,Europe,Ivory Coast,Africa,2004,53572802
+France,Europe,Congo,Africa,2004,8738
+Switzerland,Europe,United States,North America,2004,2143018
+Switzerland,Europe,Canada,North America,2004,212917
+Switzerland,Europe,Mexico,North America,2004,9217
+Switzerland,Europe,Brazil,South America,2004,722
+Switzerland,Europe,Argentina,South America,2004,26784
+Switzerland,Europe,United Kingdom,Europe,2004,1180311
+Switzerland,Europe,Netherlands,Europe,2004,6817650
+Switzerland,Europe,Belgium,Europe,2004,330067
+Switzerland,Europe,France,Europe,2004,714073
+Switzerland,Europe,Switzerland,Europe,2004,0
+Switzerland,Europe,Spain,Europe,2004,590015
+Switzerland,Europe,Portugal,Europe,2004,125206
+Switzerland,Europe,Germany,Europe,2004,13505047
+Switzerland,Europe,Poland,Europe,2004,212963
+Switzerland,Europe,Austria,Europe,2004,7047851
+Switzerland,Europe,Hungary,Europe,2004,14968
+Switzerland,Europe,Czech Republic,Europe,2004,175150
+Switzerland,Europe,Slovakia,Europe,2004,883
+Switzerland,Europe,Italy,Europe,2004,1944558
+Switzerland,Europe,Croatia,Europe,2004,6210
+Switzerland,Europe,Serbia,Europe,2004,8315
+Switzerland,Europe,Bosnia,Europe,2004,54850
+Switzerland,Europe,Greece,Europe,2004,65754
+Switzerland,Europe,Bulgaria,Europe,2004,50623
+Switzerland,Europe,Romania,Europe,2004,142842
+Switzerland,Europe,Russia,Asia,2004,59778
+Switzerland,Europe,Ukraine,Europe,2004,3443
+Switzerland,Europe,Finland,Europe,2004,400804
+Switzerland,Europe,Sweden,Europe,2004,2098702
+Switzerland,Europe,Norway,Europe,2004,198183
+Switzerland,Europe,Denmark,Europe,2004,1746323
+Switzerland,Europe,South Africa,Africa,2004,116847
+Switzerland,Europe,Turkey,Asia,2004,113968
+Switzerland,Europe,Israel,Asia,2004,0
+Switzerland,Europe,United Arab Emirates,Asia,2004,1714593
+Switzerland,Europe,Taiwan,Asia,2004,2424
+Switzerland,Europe,South Korea,Asia,2004,42643
+Switzerland,Europe,Japan,Asia,2004,428240
+Switzerland,Europe,India,Asia,2004,15782
+Switzerland,Europe,Pakistan,Asia,2004,26775
+Switzerland,Europe,Thailand,Asia,2004,21378
+Switzerland,Europe,Malaysia,Asia,2004,1174533
+Switzerland,Europe,Singapore,Asia,2004,743816
+Switzerland,Europe,Philippines,Asia,2004,0
+Switzerland,Europe,Indonesia,Asia,2004,165838
+Switzerland,Europe,Australia,Oceania,2004,163144
+Switzerland,Europe,Cyprus,Europe,2004,0
+Switzerland,Europe,China,Asia,2004,227782
+Switzerland,Europe,Ivory Coast,Africa,2004,0
+Switzerland,Europe,Congo,Africa,2004,0
+Spain,Europe,United States,North America,2004,14233598
+Spain,Europe,Canada,North America,2004,366171
+Spain,Europe,Mexico,North America,2004,870900
+Spain,Europe,Brazil,South America,2004,34416
+Spain,Europe,Argentina,South America,2004,237681
+Spain,Europe,United Kingdom,Europe,2004,2675756
+Spain,Europe,Netherlands,Europe,2004,298513
+Spain,Europe,Belgium,Europe,2004,291371
+Spain,Europe,France,Europe,2004,4760089
+Spain,Europe,Switzerland,Europe,2004,154693
+Spain,Europe,Spain,Europe,2004,0
+Spain,Europe,Portugal,Europe,2004,4451874
+Spain,Europe,Germany,Europe,2004,485864
+Spain,Europe,Poland,Europe,2004,432163
+Spain,Europe,Austria,Europe,2004,370686
+Spain,Europe,Hungary,Europe,2004,181093
+Spain,Europe,Czech Republic,Europe,2004,30429
+Spain,Europe,Slovakia,Europe,2004,7407
+Spain,Europe,Italy,Europe,2004,2168459
+Spain,Europe,Croatia,Europe,2004,165
+Spain,Europe,Serbia,Europe,2004,22278
+Spain,Europe,Bosnia,Europe,2004,135915
+Spain,Europe,Greece,Europe,2004,1766941
+Spain,Europe,Bulgaria,Europe,2004,358537
+Spain,Europe,Romania,Europe,2004,98467
+Spain,Europe,Russia,Asia,2004,134389
+Spain,Europe,Ukraine,Europe,2004,51794
+Spain,Europe,Finland,Europe,2004,171071
+Spain,Europe,Sweden,Europe,2004,540138
+Spain,Europe,Norway,Europe,2004,929528
+Spain,Europe,Denmark,Europe,2004,1635523
+Spain,Europe,South Africa,Africa,2004,564882
+Spain,Europe,Turkey,Asia,2004,1696475
+Spain,Europe,Israel,Asia,2004,140538
+Spain,Europe,United Arab Emirates,Asia,2004,36565
+Spain,Europe,Taiwan,Asia,2004,118164
+Spain,Europe,South Korea,Asia,2004,79259
+Spain,Europe,Japan,Asia,2004,961361
+Spain,Europe,India,Asia,2004,0
+Spain,Europe,Pakistan,Asia,2004,0
+Spain,Europe,Thailand,Asia,2004,4259
+Spain,Europe,Malaysia,Asia,2004,244203
+Spain,Europe,Singapore,Asia,2004,0
+Spain,Europe,Philippines,Asia,2004,163725
+Spain,Europe,Indonesia,Asia,2004,0
+Spain,Europe,Australia,Oceania,2004,990786
+Spain,Europe,Cyprus,Europe,2004,332369
+Spain,Europe,China,Asia,2004,0
+Spain,Europe,Ivory Coast,Africa,2004,0
+Spain,Europe,Congo,Africa,2004,0
+Portugal,Europe,United States,North America,2004,2124478
+Portugal,Europe,Canada,North America,2004,103607
+Portugal,Europe,Mexico,North America,2004,0
+Portugal,Europe,Brazil,South America,2004,2953
+Portugal,Europe,Argentina,South America,2004,0
+Portugal,Europe,United Kingdom,Europe,2004,194091
+Portugal,Europe,Netherlands,Europe,2004,0
+Portugal,Europe,Belgium,Europe,2004,12834489
+Portugal,Europe,France,Europe,2004,114872
+Portugal,Europe,Switzerland,Europe,2004,2731
+Portugal,Europe,Spain,Europe,2004,706161
+Portugal,Europe,Portugal,Europe,2004,0
+Portugal,Europe,Germany,Europe,2004,651545
+Portugal,Europe,Poland,Europe,2004,72326
+Portugal,Europe,Austria,Europe,2004,18825
+Portugal,Europe,Hungary,Europe,2004,12574
+Portugal,Europe,Czech Republic,Europe,2004,37756
+Portugal,Europe,Slovakia,Europe,2004,0
+Portugal,Europe,Italy,Europe,2004,0
+Portugal,Europe,Croatia,Europe,2004,45625
+Portugal,Europe,Serbia,Europe,2004,0
+Portugal,Europe,Bosnia,Europe,2004,0
+Portugal,Europe,Greece,Europe,2004,90989
+Portugal,Europe,Bulgaria,Europe,2004,0
+Portugal,Europe,Romania,Europe,2004,0
+Portugal,Europe,Russia,Asia,2004,41541
+Portugal,Europe,Ukraine,Europe,2004,0
+Portugal,Europe,Finland,Europe,2004,14901
+Portugal,Europe,Sweden,Europe,2004,745545
+Portugal,Europe,Norway,Europe,2004,7405
+Portugal,Europe,Denmark,Europe,2004,0
+Portugal,Europe,South Africa,Africa,2004,1159
+Portugal,Europe,Turkey,Asia,2004,71346
+Portugal,Europe,Israel,Asia,2004,0
+Portugal,Europe,United Arab Emirates,Asia,2004,0
+Portugal,Europe,Taiwan,Asia,2004,0
+Portugal,Europe,South Korea,Asia,2004,0
+Portugal,Europe,Japan,Asia,2004,320412
+Portugal,Europe,India,Asia,2004,0
+Portugal,Europe,Pakistan,Asia,2004,0
+Portugal,Europe,Thailand,Asia,2004,0
+Portugal,Europe,Malaysia,Asia,2004,0
+Portugal,Europe,Singapore,Asia,2004,0
+Portugal,Europe,Philippines,Asia,2004,0
+Portugal,Europe,Indonesia,Asia,2004,0
+Portugal,Europe,Australia,Oceania,2004,60007
+Portugal,Europe,Cyprus,Europe,2004,24431
+Portugal,Europe,China,Asia,2004,0
+Portugal,Europe,Ivory Coast,Africa,2004,0
+Portugal,Europe,Congo,Africa,2004,0
+Germany,Europe,United States,North America,2004,52973141
+Germany,Europe,Canada,North America,2004,1711013
+Germany,Europe,Mexico,North America,2004,168210
+Germany,Europe,Brazil,South America,2004,134159
+Germany,Europe,Argentina,South America,2004,122150
+Germany,Europe,United Kingdom,Europe,2004,8581625
+Germany,Europe,Netherlands,Europe,2004,9711864
+Germany,Europe,Belgium,Europe,2004,5924096
+Germany,Europe,France,Europe,2004,42486490
+Germany,Europe,Switzerland,Europe,2004,15392899
+Germany,Europe,Spain,Europe,2004,12956127
+Germany,Europe,Portugal,Europe,2004,1969585
+Germany,Europe,Germany,Europe,2004,0
+Germany,Europe,Poland,Europe,2004,1462787
+Germany,Europe,Austria,Europe,2004,10097201
+Germany,Europe,Hungary,Europe,2004,952211
+Germany,Europe,Czech Republic,Europe,2004,2751226
+Germany,Europe,Slovakia,Europe,2004,928810
+Germany,Europe,Italy,Europe,2004,6441579
+Germany,Europe,Croatia,Europe,2004,324689
+Germany,Europe,Serbia,Europe,2004,133818
+Germany,Europe,Bosnia,Europe,2004,77891
+Germany,Europe,Greece,Europe,2004,2638786
+Germany,Europe,Bulgaria,Europe,2004,563360
+Germany,Europe,Romania,Europe,2004,741390
+Germany,Europe,Russia,Asia,2004,7124147
+Germany,Europe,Ukraine,Europe,2004,2803929
+Germany,Europe,Finland,Europe,2004,4002132
+Germany,Europe,Sweden,Europe,2004,3173503
+Germany,Europe,Norway,Europe,2004,4012875
+Germany,Europe,Denmark,Europe,2004,5201277
+Germany,Europe,South Africa,Africa,2004,325600
+Germany,Europe,Turkey,Asia,2004,7860873
+Germany,Europe,Israel,Asia,2004,243616
+Germany,Europe,United Arab Emirates,Asia,2004,1588190
+Germany,Europe,Taiwan,Asia,2004,8198
+Germany,Europe,South Korea,Asia,2004,357391
+Germany,Europe,Japan,Asia,2004,1360059
+Germany,Europe,India,Asia,2004,490933
+Germany,Europe,Pakistan,Asia,2004,92145
+Germany,Europe,Thailand,Asia,2004,558850
+Germany,Europe,Malaysia,Asia,2004,216676
+Germany,Europe,Singapore,Asia,2004,508763
+Germany,Europe,Philippines,Asia,2004,283973
+Germany,Europe,Indonesia,Asia,2004,118716
+Germany,Europe,Australia,Oceania,2004,1353453
+Germany,Europe,Cyprus,Europe,2004,217947
+Germany,Europe,China,Asia,2004,671114
+Germany,Europe,Ivory Coast,Africa,2004,0
+Germany,Europe,Congo,Africa,2004,0
+Poland,Europe,United States,North America,2004,338664
+Poland,Europe,Canada,North America,2004,22710
+Poland,Europe,Mexico,North America,2004,0
+Poland,Europe,Brazil,South America,2004,0
+Poland,Europe,Argentina,South America,2004,0
+Poland,Europe,United Kingdom,Europe,2004,0
+Poland,Europe,Netherlands,Europe,2004,0
+Poland,Europe,Belgium,Europe,2004,0
+Poland,Europe,France,Europe,2004,35409
+Poland,Europe,Switzerland,Europe,2004,5773
+Poland,Europe,Spain,Europe,2004,0
+Poland,Europe,Portugal,Europe,2004,0
+Poland,Europe,Germany,Europe,2004,265287
+Poland,Europe,Poland,Europe,2004,0
+Poland,Europe,Austria,Europe,2004,15490
+Poland,Europe,Hungary,Europe,2004,0
+Poland,Europe,Czech Republic,Europe,2004,144974
+Poland,Europe,Slovakia,Europe,2004,59
+Poland,Europe,Italy,Europe,2004,2376
+Poland,Europe,Croatia,Europe,2004,0
+Poland,Europe,Serbia,Europe,2004,0
+Poland,Europe,Bosnia,Europe,2004,0
+Poland,Europe,Greece,Europe,2004,0
+Poland,Europe,Bulgaria,Europe,2004,0
+Poland,Europe,Romania,Europe,2004,0
+Poland,Europe,Russia,Asia,2004,0
+Poland,Europe,Ukraine,Europe,2004,93616
+Poland,Europe,Finland,Europe,2004,45850
+Poland,Europe,Sweden,Europe,2004,0
+Poland,Europe,Norway,Europe,2004,51584
+Poland,Europe,Denmark,Europe,2004,0
+Poland,Europe,South Africa,Africa,2004,0
+Poland,Europe,Turkey,Asia,2004,0
+Poland,Europe,Israel,Asia,2004,324868
+Poland,Europe,United Arab Emirates,Asia,2004,0
+Poland,Europe,Taiwan,Asia,2004,0
+Poland,Europe,South Korea,Asia,2004,8784
+Poland,Europe,Japan,Asia,2004,0
+Poland,Europe,India,Asia,2004,7671
+Poland,Europe,Pakistan,Asia,2004,0
+Poland,Europe,Thailand,Asia,2004,0
+Poland,Europe,Malaysia,Asia,2004,0
+Poland,Europe,Singapore,Asia,2004,0
+Poland,Europe,Philippines,Asia,2004,3220
+Poland,Europe,Indonesia,Asia,2004,0
+Poland,Europe,Australia,Oceania,2004,0
+Poland,Europe,Cyprus,Europe,2004,178
+Poland,Europe,China,Asia,2004,0
+Poland,Europe,Ivory Coast,Africa,2004,0
+Poland,Europe,Congo,Africa,2004,0
+Austria,Europe,United States,North America,2004,147845744
+Austria,Europe,Canada,North America,2004,1692439
+Austria,Europe,Mexico,North America,2004,2205091
+Austria,Europe,Brazil,South America,2004,60508
+Austria,Europe,Argentina,South America,2004,278571
+Austria,Europe,United Kingdom,Europe,2004,498225
+Austria,Europe,Netherlands,Europe,2004,39914
+Austria,Europe,Belgium,Europe,2004,54327
+Austria,Europe,France,Europe,2004,516991
+Austria,Europe,Switzerland,Europe,2004,3371317
+Austria,Europe,Spain,Europe,2004,1195114
+Austria,Europe,Portugal,Europe,2004,217820
+Austria,Europe,Germany,Europe,2004,1581948
+Austria,Europe,Poland,Europe,2004,1933538
+Austria,Europe,Austria,Europe,2004,0
+Austria,Europe,Hungary,Europe,2004,216766
+Austria,Europe,Czech Republic,Europe,2004,510530
+Austria,Europe,Slovakia,Europe,2004,451416
+Austria,Europe,Italy,Europe,2004,1818103
+Austria,Europe,Croatia,Europe,2004,895907
+Austria,Europe,Serbia,Europe,2004,637668
+Austria,Europe,Bosnia,Europe,2004,433428
+Austria,Europe,Greece,Europe,2004,51859
+Austria,Europe,Bulgaria,Europe,2004,352799
+Austria,Europe,Romania,Europe,2004,742795
+Austria,Europe,Russia,Asia,2004,2689845
+Austria,Europe,Ukraine,Europe,2004,109442
+Austria,Europe,Finland,Europe,2004,389165
+Austria,Europe,Sweden,Europe,2004,47250
+Austria,Europe,Norway,Europe,2004,544032
+Austria,Europe,Denmark,Europe,2004,105237
+Austria,Europe,South Africa,Africa,2004,1259557
+Austria,Europe,Turkey,Asia,2004,44740
+Austria,Europe,Israel,Asia,2004,256500
+Austria,Europe,United Arab Emirates,Asia,2004,191800
+Austria,Europe,Taiwan,Asia,2004,13694
+Austria,Europe,South Korea,Asia,2004,1782
+Austria,Europe,Japan,Asia,2004,9325
+Austria,Europe,India,Asia,2004,814336
+Austria,Europe,Pakistan,Asia,2004,73731
+Austria,Europe,Thailand,Asia,2004,2027174
+Austria,Europe,Malaysia,Asia,2004,1495578
+Austria,Europe,Singapore,Asia,2004,13829
+Austria,Europe,Philippines,Asia,2004,416241
+Austria,Europe,Indonesia,Asia,2004,499293
+Austria,Europe,Australia,Oceania,2004,787010
+Austria,Europe,Cyprus,Europe,2004,14805
+Austria,Europe,China,Asia,2004,0
+Austria,Europe,Ivory Coast,Africa,2004,0
+Austria,Europe,Congo,Africa,2004,0
+Hungary,Europe,United States,North America,2004,1885615
+Hungary,Europe,Canada,North America,2004,47684
+Hungary,Europe,Mexico,North America,2004,0
+Hungary,Europe,Brazil,South America,2004,0
+Hungary,Europe,Argentina,South America,2004,0
+Hungary,Europe,United Kingdom,Europe,2004,21901
+Hungary,Europe,Netherlands,Europe,2004,0
+Hungary,Europe,Belgium,Europe,2004,0
+Hungary,Europe,France,Europe,2004,1457
+Hungary,Europe,Switzerland,Europe,2004,1136
+Hungary,Europe,Spain,Europe,2004,0
+Hungary,Europe,Portugal,Europe,2004,47843
+Hungary,Europe,Germany,Europe,2004,1870810
+Hungary,Europe,Poland,Europe,2004,92882
+Hungary,Europe,Austria,Europe,2004,134566
+Hungary,Europe,Hungary,Europe,2004,0
+Hungary,Europe,Czech Republic,Europe,2004,169718
+Hungary,Europe,Slovakia,Europe,2004,277880
+Hungary,Europe,Italy,Europe,2004,307464
+Hungary,Europe,Croatia,Europe,2004,0
+Hungary,Europe,Serbia,Europe,2004,40861
+Hungary,Europe,Bosnia,Europe,2004,0
+Hungary,Europe,Greece,Europe,2004,0
+Hungary,Europe,Bulgaria,Europe,2004,9721
+Hungary,Europe,Romania,Europe,2004,78471
+Hungary,Europe,Russia,Asia,2004,1171
+Hungary,Europe,Ukraine,Europe,2004,0
+Hungary,Europe,Finland,Europe,2004,262519
+Hungary,Europe,Sweden,Europe,2004,0
+Hungary,Europe,Norway,Europe,2004,0
+Hungary,Europe,Denmark,Europe,2004,0
+Hungary,Europe,South Africa,Africa,2004,0
+Hungary,Europe,Turkey,Asia,2004,0
+Hungary,Europe,Israel,Asia,2004,0
+Hungary,Europe,United Arab Emirates,Asia,2004,0
+Hungary,Europe,Taiwan,Asia,2004,0
+Hungary,Europe,South Korea,Asia,2004,0
+Hungary,Europe,Japan,Asia,2004,301006
+Hungary,Europe,India,Asia,2004,0
+Hungary,Europe,Pakistan,Asia,2004,0
+Hungary,Europe,Thailand,Asia,2004,0
+Hungary,Europe,Malaysia,Asia,2004,0
+Hungary,Europe,Singapore,Asia,2004,0
+Hungary,Europe,Philippines,Asia,2004,7061
+Hungary,Europe,Indonesia,Asia,2004,0
+Hungary,Europe,Australia,Oceania,2004,0
+Hungary,Europe,Cyprus,Europe,2004,0
+Hungary,Europe,China,Asia,2004,0
+Hungary,Europe,Ivory Coast,Africa,2004,0
+Hungary,Europe,Congo,Africa,2004,0
+Czech Republic,Europe,United States,North America,2004,17644649
+Czech Republic,Europe,Canada,North America,2004,478352
+Czech Republic,Europe,Mexico,North America,2004,599552
+Czech Republic,Europe,Brazil,South America,2004,0
+Czech Republic,Europe,Argentina,South America,2004,95035
+Czech Republic,Europe,United Kingdom,Europe,2004,1225564
+Czech Republic,Europe,Netherlands,Europe,2004,98775
+Czech Republic,Europe,Belgium,Europe,2004,599671
+Czech Republic,Europe,France,Europe,2004,2318329
+Czech Republic,Europe,Switzerland,Europe,2004,466613
+Czech Republic,Europe,Spain,Europe,2004,786338
+Czech Republic,Europe,Portugal,Europe,2004,233565
+Czech Republic,Europe,Germany,Europe,2004,8221327
+Czech Republic,Europe,Poland,Europe,2004,1892221
+Czech Republic,Europe,Austria,Europe,2004,374571
+Czech Republic,Europe,Hungary,Europe,2004,508789
+Czech Republic,Europe,Czech Republic,Europe,2004,133060
+Czech Republic,Europe,Slovakia,Europe,2004,2206474
+Czech Republic,Europe,Italy,Europe,2004,756161
+Czech Republic,Europe,Croatia,Europe,2004,184587
+Czech Republic,Europe,Serbia,Europe,2004,195273
+Czech Republic,Europe,Bosnia,Europe,2004,13077
+Czech Republic,Europe,Greece,Europe,2004,169951
+Czech Republic,Europe,Bulgaria,Europe,2004,306068
+Czech Republic,Europe,Romania,Europe,2004,474015
+Czech Republic,Europe,Russia,Asia,2004,579120
+Czech Republic,Europe,Ukraine,Europe,2004,421079
+Czech Republic,Europe,Finland,Europe,2004,1077407
+Czech Republic,Europe,Sweden,Europe,2004,415677
+Czech Republic,Europe,Norway,Europe,2004,709406
+Czech Republic,Europe,Denmark,Europe,2004,598753
+Czech Republic,Europe,South Africa,Africa,2004,98169
+Czech Republic,Europe,Turkey,Asia,2004,19143
+Czech Republic,Europe,Israel,Asia,2004,146725
+Czech Republic,Europe,United Arab Emirates,Asia,2004,74012
+Czech Republic,Europe,Taiwan,Asia,2004,1295
+Czech Republic,Europe,South Korea,Asia,2004,4341
+Czech Republic,Europe,Japan,Asia,2004,32707
+Czech Republic,Europe,India,Asia,2004,117120
+Czech Republic,Europe,Pakistan,Asia,2004,1197
+Czech Republic,Europe,Thailand,Asia,2004,2455994
+Czech Republic,Europe,Malaysia,Asia,2004,399291
+Czech Republic,Europe,Singapore,Asia,2004,0
+Czech Republic,Europe,Philippines,Asia,2004,67717
+Czech Republic,Europe,Indonesia,Asia,2004,367183
+Czech Republic,Europe,Australia,Oceania,2004,534675
+Czech Republic,Europe,Cyprus,Europe,2004,154382
+Czech Republic,Europe,China,Asia,2004,3731
+Czech Republic,Europe,Ivory Coast,Africa,2004,0
+Czech Republic,Europe,Congo,Africa,2004,5139
+Slovakia,Europe,United States,North America,2004,172628
+Slovakia,Europe,Canada,North America,2004,28542
+Slovakia,Europe,Mexico,North America,2004,0
+Slovakia,Europe,Brazil,South America,2004,0
+Slovakia,Europe,Argentina,South America,2004,0
+Slovakia,Europe,United Kingdom,Europe,2004,0
+Slovakia,Europe,Netherlands,Europe,2004,0
+Slovakia,Europe,Belgium,Europe,2004,0
+Slovakia,Europe,France,Europe,2004,56820
+Slovakia,Europe,Switzerland,Europe,2004,0
+Slovakia,Europe,Spain,Europe,2004,0
+Slovakia,Europe,Portugal,Europe,2004,50760
+Slovakia,Europe,Germany,Europe,2004,263946
+Slovakia,Europe,Poland,Europe,2004,220281
+Slovakia,Europe,Austria,Europe,2004,0
+Slovakia,Europe,Hungary,Europe,2004,141482
+Slovakia,Europe,Czech Republic,Europe,2004,51594
+Slovakia,Europe,Slovakia,Europe,2004,0
+Slovakia,Europe,Italy,Europe,2004,104065
+Slovakia,Europe,Croatia,Europe,2004,583
+Slovakia,Europe,Serbia,Europe,2004,0
+Slovakia,Europe,Bosnia,Europe,2004,0
+Slovakia,Europe,Greece,Europe,2004,0
+Slovakia,Europe,Bulgaria,Europe,2004,0
+Slovakia,Europe,Romania,Europe,2004,0
+Slovakia,Europe,Russia,Asia,2004,0
+Slovakia,Europe,Ukraine,Europe,2004,0
+Slovakia,Europe,Finland,Europe,2004,0
+Slovakia,Europe,Sweden,Europe,2004,0
+Slovakia,Europe,Norway,Europe,2004,0
+Slovakia,Europe,Denmark,Europe,2004,0
+Slovakia,Europe,South Africa,Africa,2004,0
+Slovakia,Europe,Turkey,Asia,2004,0
+Slovakia,Europe,Israel,Asia,2004,0
+Slovakia,Europe,United Arab Emirates,Asia,2004,0
+Slovakia,Europe,Taiwan,Asia,2004,0
+Slovakia,Europe,South Korea,Asia,2004,0
+Slovakia,Europe,Japan,Asia,2004,0
+Slovakia,Europe,India,Asia,2004,12046
+Slovakia,Europe,Pakistan,Asia,2004,0
+Slovakia,Europe,Thailand,Asia,2004,0
+Slovakia,Europe,Malaysia,Asia,2004,0
+Slovakia,Europe,Singapore,Asia,2004,0
+Slovakia,Europe,Philippines,Asia,2004,0
+Slovakia,Europe,Indonesia,Asia,2004,0
+Slovakia,Europe,Australia,Oceania,2004,0
+Slovakia,Europe,Cyprus,Europe,2004,0
+Slovakia,Europe,China,Asia,2004,0
+Slovakia,Europe,Ivory Coast,Africa,2004,0
+Slovakia,Europe,Congo,Africa,2004,0
+Italy,Europe,United States,North America,2004,160952923
+Italy,Europe,Canada,North America,2004,2762449
+Italy,Europe,Mexico,North America,2004,2475923
+Italy,Europe,Brazil,South America,2004,3090
+Italy,Europe,Argentina,South America,2004,966066
+Italy,Europe,United Kingdom,Europe,2004,37480880
+Italy,Europe,Netherlands,Europe,2004,1338588
+Italy,Europe,Belgium,Europe,2004,6657196
+Italy,Europe,France,Europe,2004,39186413
+Italy,Europe,Switzerland,Europe,2004,6147588
+Italy,Europe,Spain,Europe,2004,30968081
+Italy,Europe,Portugal,Europe,2004,5313559
+Italy,Europe,Germany,Europe,2004,19357376
+Italy,Europe,Poland,Europe,2004,819098
+Italy,Europe,Austria,Europe,2004,4655082
+Italy,Europe,Hungary,Europe,2004,1241052
+Italy,Europe,Czech Republic,Europe,2004,1924975
+Italy,Europe,Slovakia,Europe,2004,476724
+Italy,Europe,Italy,Europe,2004,0
+Italy,Europe,Croatia,Europe,2004,1003699
+Italy,Europe,Serbia,Europe,2004,1102528
+Italy,Europe,Bosnia,Europe,2004,180875
+Italy,Europe,Greece,Europe,2004,10727272
+Italy,Europe,Bulgaria,Europe,2004,1123033
+Italy,Europe,Romania,Europe,2004,1741633
+Italy,Europe,Russia,Asia,2004,6898217
+Italy,Europe,Ukraine,Europe,2004,2136017
+Italy,Europe,Finland,Europe,2004,4504703
+Italy,Europe,Sweden,Europe,2004,4920313
+Italy,Europe,Norway,Europe,2004,5155635
+Italy,Europe,Denmark,Europe,2004,4361410
+Italy,Europe,South Africa,Africa,2004,2225678
+Italy,Europe,Turkey,Asia,2004,9198568
+Italy,Europe,Israel,Asia,2004,12020
+Italy,Europe,United Arab Emirates,Asia,2004,427302
+Italy,Europe,Taiwan,Asia,2004,202820
+Italy,Europe,South Korea,Asia,2004,6003675
+Italy,Europe,Japan,Asia,2004,9469493
+Italy,Europe,India,Asia,2004,226509
+Italy,Europe,Pakistan,Asia,2004,23617
+Italy,Europe,Thailand,Asia,2004,1690761
+Italy,Europe,Malaysia,Asia,2004,570588
+Italy,Europe,Singapore,Asia,2004,280007
+Italy,Europe,Philippines,Asia,2004,185832
+Italy,Europe,Indonesia,Asia,2004,29872
+Italy,Europe,Australia,Oceania,2004,5585691
+Italy,Europe,Cyprus,Europe,2004,3288930
+Italy,Europe,China,Asia,2004,602845
+Italy,Europe,Ivory Coast,Africa,2004,0
+Italy,Europe,Congo,Africa,2004,632649
+Croatia,Europe,United States,North America,2004,13832853
+Croatia,Europe,Canada,North America,2004,34640
+Croatia,Europe,Mexico,North America,2004,0
+Croatia,Europe,Brazil,South America,2004,0
+Croatia,Europe,Argentina,South America,2004,0
+Croatia,Europe,United Kingdom,Europe,2004,0
+Croatia,Europe,Netherlands,Europe,2004,0
+Croatia,Europe,Belgium,Europe,2004,0
+Croatia,Europe,France,Europe,2004,0
+Croatia,Europe,Switzerland,Europe,2004,98307
+Croatia,Europe,Spain,Europe,2004,0
+Croatia,Europe,Portugal,Europe,2004,0
+Croatia,Europe,Germany,Europe,2004,83523
+Croatia,Europe,Poland,Europe,2004,0
+Croatia,Europe,Austria,Europe,2004,0
+Croatia,Europe,Hungary,Europe,2004,0
+Croatia,Europe,Czech Republic,Europe,2004,14471
+Croatia,Europe,Slovakia,Europe,2004,0
+Croatia,Europe,Italy,Europe,2004,34771
+Croatia,Europe,Croatia,Europe,2004,0
+Croatia,Europe,Serbia,Europe,2004,17938
+Croatia,Europe,Bosnia,Europe,2004,138224
+Croatia,Europe,Greece,Europe,2004,24161
+Croatia,Europe,Bulgaria,Europe,2004,0
+Croatia,Europe,Romania,Europe,2004,0
+Croatia,Europe,Russia,Asia,2004,0
+Croatia,Europe,Ukraine,Europe,2004,0
+Croatia,Europe,Finland,Europe,2004,0
+Croatia,Europe,Sweden,Europe,2004,0
+Croatia,Europe,Norway,Europe,2004,0
+Croatia,Europe,Denmark,Europe,2004,0
+Croatia,Europe,South Africa,Africa,2004,0
+Croatia,Europe,Turkey,Asia,2004,23188
+Croatia,Europe,Israel,Asia,2004,0
+Croatia,Europe,United Arab Emirates,Asia,2004,0
+Croatia,Europe,Taiwan,Asia,2004,0
+Croatia,Europe,South Korea,Asia,2004,0
+Croatia,Europe,Japan,Asia,2004,0
+Croatia,Europe,India,Asia,2004,0
+Croatia,Europe,Pakistan,Asia,2004,0
+Croatia,Europe,Thailand,Asia,2004,0
+Croatia,Europe,Malaysia,Asia,2004,0
+Croatia,Europe,Singapore,Asia,2004,0
+Croatia,Europe,Philippines,Asia,2004,213104
+Croatia,Europe,Indonesia,Asia,2004,30258
+Croatia,Europe,Australia,Oceania,2004,0
+Croatia,Europe,Cyprus,Europe,2004,0
+Croatia,Europe,China,Asia,2004,0
+Croatia,Europe,Ivory Coast,Africa,2004,0
+Croatia,Europe,Congo,Africa,2004,0
+Serbia,Europe,United States,North America,2004,4821444
+Serbia,Europe,Canada,North America,2004,43192
+Serbia,Europe,Mexico,North America,2004,0
+Serbia,Europe,Brazil,South America,2004,0
+Serbia,Europe,Argentina,South America,2004,0
+Serbia,Europe,United Kingdom,Europe,2004,543878
+Serbia,Europe,Netherlands,Europe,2004,254989
+Serbia,Europe,Belgium,Europe,2004,1215114
+Serbia,Europe,France,Europe,2004,624114
+Serbia,Europe,Switzerland,Europe,2004,90394
+Serbia,Europe,Spain,Europe,2004,10528
+Serbia,Europe,Portugal,Europe,2004,18173
+Serbia,Europe,Germany,Europe,2004,988602
+Serbia,Europe,Poland,Europe,2004,53178
+Serbia,Europe,Austria,Europe,2004,99656
+Serbia,Europe,Hungary,Europe,2004,50004
+Serbia,Europe,Czech Republic,Europe,2004,23474
+Serbia,Europe,Slovakia,Europe,2004,199267
+Serbia,Europe,Italy,Europe,2004,40044
+Serbia,Europe,Croatia,Europe,2004,130670
+Serbia,Europe,Serbia,Europe,2004,0
+Serbia,Europe,Bosnia,Europe,2004,894511
+Serbia,Europe,Greece,Europe,2004,21590
+Serbia,Europe,Bulgaria,Europe,2004,317026
+Serbia,Europe,Romania,Europe,2004,0
+Serbia,Europe,Russia,Asia,2004,1615
+Serbia,Europe,Ukraine,Europe,2004,0
+Serbia,Europe,Finland,Europe,2004,4499
+Serbia,Europe,Sweden,Europe,2004,0
+Serbia,Europe,Norway,Europe,2004,89749
+Serbia,Europe,Denmark,Europe,2004,15453
+Serbia,Europe,South Africa,Africa,2004,465088
+Serbia,Europe,Turkey,Asia,2004,0
+Serbia,Europe,Israel,Asia,2004,9662533
+Serbia,Europe,United Arab Emirates,Asia,2004,0
+Serbia,Europe,Taiwan,Asia,2004,0
+Serbia,Europe,South Korea,Asia,2004,0
+Serbia,Europe,Japan,Asia,2004,0
+Serbia,Europe,India,Asia,2004,0
+Serbia,Europe,Pakistan,Asia,2004,0
+Serbia,Europe,Thailand,Asia,2004,0
+Serbia,Europe,Malaysia,Asia,2004,0
+Serbia,Europe,Singapore,Asia,2004,0
+Serbia,Europe,Philippines,Asia,2004,0
+Serbia,Europe,Indonesia,Asia,2004,597372
+Serbia,Europe,Australia,Oceania,2004,422412
+Serbia,Europe,Cyprus,Europe,2004,0
+Serbia,Europe,China,Asia,2004,0
+Serbia,Europe,Ivory Coast,Africa,2004,681057
+Serbia,Europe,Congo,Africa,2004,0
+Bosnia,Europe,United States,North America,2004,1158845
+Bosnia,Europe,Canada,North America,2004,497776
+Bosnia,Europe,Mexico,North America,2004,0
+Bosnia,Europe,Brazil,South America,2004,0
+Bosnia,Europe,Argentina,South America,2004,0
+Bosnia,Europe,United Kingdom,Europe,2004,1226307
+Bosnia,Europe,Netherlands,Europe,2004,0
+Bosnia,Europe,Belgium,Europe,2004,0
+Bosnia,Europe,France,Europe,2004,104900
+Bosnia,Europe,Switzerland,Europe,2004,126904
+Bosnia,Europe,Spain,Europe,2004,0
+Bosnia,Europe,Portugal,Europe,2004,0
+Bosnia,Europe,Germany,Europe,2004,1653781
+Bosnia,Europe,Poland,Europe,2004,28480
+Bosnia,Europe,Austria,Europe,2004,167167
+Bosnia,Europe,Hungary,Europe,2004,294754
+Bosnia,Europe,Czech Republic,Europe,2004,19456
+Bosnia,Europe,Slovakia,Europe,2004,1379
+Bosnia,Europe,Italy,Europe,2004,48013
+Bosnia,Europe,Croatia,Europe,2004,50641
+Bosnia,Europe,Serbia,Europe,2004,93208
+Bosnia,Europe,Bosnia,Europe,2004,0
+Bosnia,Europe,Greece,Europe,2004,162376
+Bosnia,Europe,Bulgaria,Europe,2004,0
+Bosnia,Europe,Romania,Europe,2004,1595
+Bosnia,Europe,Russia,Asia,2004,707
+Bosnia,Europe,Ukraine,Europe,2004,0
+Bosnia,Europe,Finland,Europe,2004,0
+Bosnia,Europe,Sweden,Europe,2004,0
+Bosnia,Europe,Norway,Europe,2004,0
+Bosnia,Europe,Denmark,Europe,2004,0
+Bosnia,Europe,South Africa,Africa,2004,56
+Bosnia,Europe,Turkey,Asia,2004,19
+Bosnia,Europe,Israel,Asia,2004,33843
+Bosnia,Europe,United Arab Emirates,Asia,2004,0
+Bosnia,Europe,Taiwan,Asia,2004,0
+Bosnia,Europe,South Korea,Asia,2004,0
+Bosnia,Europe,Japan,Asia,2004,13253
+Bosnia,Europe,India,Asia,2004,0
+Bosnia,Europe,Pakistan,Asia,2004,0
+Bosnia,Europe,Thailand,Asia,2004,0
+Bosnia,Europe,Malaysia,Asia,2004,0
+Bosnia,Europe,Singapore,Asia,2004,0
+Bosnia,Europe,Philippines,Asia,2004,376671
+Bosnia,Europe,Indonesia,Asia,2004,2219613
+Bosnia,Europe,Australia,Oceania,2004,0
+Bosnia,Europe,Cyprus,Europe,2004,0
+Bosnia,Europe,China,Asia,2004,0
+Bosnia,Europe,Ivory Coast,Africa,2004,0
+Bosnia,Europe,Congo,Africa,2004,0
+Greece,Europe,United States,North America,2004,1663189
+Greece,Europe,Canada,North America,2004,211
+Greece,Europe,Mexico,North America,2004,638200
+Greece,Europe,Brazil,South America,2004,0
+Greece,Europe,Argentina,South America,2004,0
+Greece,Europe,United Kingdom,Europe,2004,0
+Greece,Europe,Netherlands,Europe,2004,0
+Greece,Europe,Belgium,Europe,2004,0
+Greece,Europe,France,Europe,2004,0
+Greece,Europe,Switzerland,Europe,2004,0
+Greece,Europe,Spain,Europe,2004,0
+Greece,Europe,Portugal,Europe,2004,0
+Greece,Europe,Germany,Europe,2004,8635
+Greece,Europe,Poland,Europe,2004,39126
+Greece,Europe,Austria,Europe,2004,0
+Greece,Europe,Hungary,Europe,2004,0
+Greece,Europe,Czech Republic,Europe,2004,0
+Greece,Europe,Slovakia,Europe,2004,0
+Greece,Europe,Italy,Europe,2004,3135
+Greece,Europe,Croatia,Europe,2004,15947
+Greece,Europe,Serbia,Europe,2004,83510
+Greece,Europe,Bosnia,Europe,2004,46380
+Greece,Europe,Greece,Europe,2004,0
+Greece,Europe,Bulgaria,Europe,2004,0
+Greece,Europe,Romania,Europe,2004,112010
+Greece,Europe,Russia,Asia,2004,0
+Greece,Europe,Ukraine,Europe,2004,0
+Greece,Europe,Finland,Europe,2004,0
+Greece,Europe,Sweden,Europe,2004,0
+Greece,Europe,Norway,Europe,2004,0
+Greece,Europe,Denmark,Europe,2004,0
+Greece,Europe,South Africa,Africa,2004,0
+Greece,Europe,Turkey,Asia,2004,60671
+Greece,Europe,Israel,Asia,2004,0
+Greece,Europe,United Arab Emirates,Asia,2004,0
+Greece,Europe,Taiwan,Asia,2004,0
+Greece,Europe,South Korea,Asia,2004,0
+Greece,Europe,Japan,Asia,2004,0
+Greece,Europe,India,Asia,2004,0
+Greece,Europe,Pakistan,Asia,2004,0
+Greece,Europe,Thailand,Asia,2004,0
+Greece,Europe,Malaysia,Asia,2004,0
+Greece,Europe,Singapore,Asia,2004,0
+Greece,Europe,Philippines,Asia,2004,0
+Greece,Europe,Indonesia,Asia,2004,0
+Greece,Europe,Australia,Oceania,2004,4681
+Greece,Europe,Cyprus,Europe,2004,138951
+Greece,Europe,China,Asia,2004,0
+Greece,Europe,Ivory Coast,Africa,2004,0
+Greece,Europe,Congo,Africa,2004,0
+Bulgaria,Europe,United States,North America,2004,1092780
+Bulgaria,Europe,Canada,North America,2004,0
+Bulgaria,Europe,Mexico,North America,2004,0
+Bulgaria,Europe,Brazil,South America,2004,3409
+Bulgaria,Europe,Argentina,South America,2004,1588
+Bulgaria,Europe,United Kingdom,Europe,2004,0
+Bulgaria,Europe,Netherlands,Europe,2004,0
+Bulgaria,Europe,Belgium,Europe,2004,0
+Bulgaria,Europe,France,Europe,2004,0
+Bulgaria,Europe,Switzerland,Europe,2004,1026
+Bulgaria,Europe,Spain,Europe,2004,0
+Bulgaria,Europe,Portugal,Europe,2004,0
+Bulgaria,Europe,Germany,Europe,2004,4684
+Bulgaria,Europe,Poland,Europe,2004,4427
+Bulgaria,Europe,Austria,Europe,2004,8870
+Bulgaria,Europe,Hungary,Europe,2004,0
+Bulgaria,Europe,Czech Republic,Europe,2004,39667
+Bulgaria,Europe,Slovakia,Europe,2004,14351
+Bulgaria,Europe,Italy,Europe,2004,5730
+Bulgaria,Europe,Croatia,Europe,2004,0
+Bulgaria,Europe,Serbia,Europe,2004,33085
+Bulgaria,Europe,Bosnia,Europe,2004,0
+Bulgaria,Europe,Greece,Europe,2004,873
+Bulgaria,Europe,Bulgaria,Europe,2004,0
+Bulgaria,Europe,Romania,Europe,2004,0
+Bulgaria,Europe,Russia,Asia,2004,0
+Bulgaria,Europe,Ukraine,Europe,2004,0
+Bulgaria,Europe,Finland,Europe,2004,56664
+Bulgaria,Europe,Sweden,Europe,2004,0
+Bulgaria,Europe,Norway,Europe,2004,0
+Bulgaria,Europe,Denmark,Europe,2004,0
+Bulgaria,Europe,South Africa,Africa,2004,0
+Bulgaria,Europe,Turkey,Asia,2004,0
+Bulgaria,Europe,Israel,Asia,2004,0
+Bulgaria,Europe,United Arab Emirates,Asia,2004,0
+Bulgaria,Europe,Taiwan,Asia,2004,0
+Bulgaria,Europe,South Korea,Asia,2004,0
+Bulgaria,Europe,Japan,Asia,2004,0
+Bulgaria,Europe,India,Asia,2004,0
+Bulgaria,Europe,Pakistan,Asia,2004,0
+Bulgaria,Europe,Thailand,Asia,2004,0
+Bulgaria,Europe,Malaysia,Asia,2004,0
+Bulgaria,Europe,Singapore,Asia,2004,0
+Bulgaria,Europe,Philippines,Asia,2004,0
+Bulgaria,Europe,Indonesia,Asia,2004,313
+Bulgaria,Europe,Australia,Oceania,2004,0
+Bulgaria,Europe,Cyprus,Europe,2004,0
+Bulgaria,Europe,China,Asia,2004,0
+Bulgaria,Europe,Ivory Coast,Africa,2004,0
+Bulgaria,Europe,Congo,Africa,2004,0
+Romania,Europe,United States,North America,2004,6065363
+Romania,Europe,Canada,North America,2004,131
+Romania,Europe,Mexico,North America,2004,0
+Romania,Europe,Brazil,South America,2004,0
+Romania,Europe,Argentina,South America,2004,0
+Romania,Europe,United Kingdom,Europe,2004,0
+Romania,Europe,Netherlands,Europe,2004,0
+Romania,Europe,Belgium,Europe,2004,0
+Romania,Europe,France,Europe,2004,15553
+Romania,Europe,Switzerland,Europe,2004,0
+Romania,Europe,Spain,Europe,2004,0
+Romania,Europe,Portugal,Europe,2004,0
+Romania,Europe,Germany,Europe,2004,0
+Romania,Europe,Poland,Europe,2004,0
+Romania,Europe,Austria,Europe,2004,5938
+Romania,Europe,Hungary,Europe,2004,1223
+Romania,Europe,Czech Republic,Europe,2004,23424
+Romania,Europe,Slovakia,Europe,2004,0
+Romania,Europe,Italy,Europe,2004,29224
+Romania,Europe,Croatia,Europe,2004,0
+Romania,Europe,Serbia,Europe,2004,0
+Romania,Europe,Bosnia,Europe,2004,0
+Romania,Europe,Greece,Europe,2004,0
+Romania,Europe,Bulgaria,Europe,2004,0
+Romania,Europe,Romania,Europe,2004,0
+Romania,Europe,Russia,Asia,2004,0
+Romania,Europe,Ukraine,Europe,2004,0
+Romania,Europe,Finland,Europe,2004,2609
+Romania,Europe,Sweden,Europe,2004,0
+Romania,Europe,Norway,Europe,2004,136447
+Romania,Europe,Denmark,Europe,2004,0
+Romania,Europe,South Africa,Africa,2004,0
+Romania,Europe,Turkey,Asia,2004,49932
+Romania,Europe,Israel,Asia,2004,0
+Romania,Europe,United Arab Emirates,Asia,2004,0
+Romania,Europe,Taiwan,Asia,2004,0
+Romania,Europe,South Korea,Asia,2004,0
+Romania,Europe,Japan,Asia,2004,0
+Romania,Europe,India,Asia,2004,0
+Romania,Europe,Pakistan,Asia,2004,0
+Romania,Europe,Thailand,Asia,2004,0
+Romania,Europe,Malaysia,Asia,2004,0
+Romania,Europe,Singapore,Asia,2004,0
+Romania,Europe,Philippines,Asia,2004,0
+Romania,Europe,Indonesia,Asia,2004,0
+Romania,Europe,Australia,Oceania,2004,56448
+Romania,Europe,Cyprus,Europe,2004,0
+Romania,Europe,China,Asia,2004,0
+Romania,Europe,Ivory Coast,Africa,2004,0
+Romania,Europe,Congo,Africa,2004,0
+Russia,Asia,United States,North America,2004,28397172
+Russia,Asia,Canada,North America,2004,178536
+Russia,Asia,Mexico,North America,2004,0
+Russia,Asia,Brazil,South America,2004,0
+Russia,Asia,Argentina,South America,2004,16
+Russia,Asia,United Kingdom,Europe,2004,59419
+Russia,Asia,Netherlands,Europe,2004,81616
+Russia,Asia,Belgium,Europe,2004,82269
+Russia,Asia,France,Europe,2004,17706
+Russia,Asia,Switzerland,Europe,2004,14665
+Russia,Asia,Spain,Europe,2004,19008
+Russia,Asia,Portugal,Europe,2004,8162
+Russia,Asia,Germany,Europe,2004,3715767
+Russia,Asia,Poland,Europe,2004,150743
+Russia,Asia,Austria,Europe,2004,141395
+Russia,Asia,Hungary,Europe,2004,181540
+Russia,Asia,Czech Republic,Europe,2004,226596
+Russia,Asia,Slovakia,Europe,2004,202374
+Russia,Asia,Italy,Europe,2004,929860
+Russia,Asia,Croatia,Europe,2004,6050
+Russia,Asia,Serbia,Europe,2004,41026
+Russia,Asia,Bosnia,Europe,2004,56840
+Russia,Asia,Greece,Europe,2004,123252
+Russia,Asia,Bulgaria,Europe,2004,553485
+Russia,Asia,Romania,Europe,2004,17938
+Russia,Asia,Russia,Asia,2004,0
+Russia,Asia,Ukraine,Europe,2004,1430255
+Russia,Asia,Finland,Europe,2004,1287151
+Russia,Asia,Sweden,Europe,2004,0
+Russia,Asia,Norway,Europe,2004,526097
+Russia,Asia,Denmark,Europe,2004,112260
+Russia,Asia,South Africa,Africa,2004,11243
+Russia,Asia,Turkey,Asia,2004,22117
+Russia,Asia,Israel,Asia,2004,0
+Russia,Asia,United Arab Emirates,Asia,2004,0
+Russia,Asia,Taiwan,Asia,2004,0
+Russia,Asia,South Korea,Asia,2004,234246
+Russia,Asia,Japan,Asia,2004,77535
+Russia,Asia,India,Asia,2004,0
+Russia,Asia,Pakistan,Asia,2004,0
+Russia,Asia,Thailand,Asia,2004,35469
+Russia,Asia,Malaysia,Asia,2004,0
+Russia,Asia,Singapore,Asia,2004,0
+Russia,Asia,Philippines,Asia,2004,7006
+Russia,Asia,Indonesia,Asia,2004,1984
+Russia,Asia,Australia,Oceania,2004,26097
+Russia,Asia,Cyprus,Europe,2004,3649200
+Russia,Asia,China,Asia,2004,0
+Russia,Asia,Ivory Coast,Africa,2004,0
+Russia,Asia,Congo,Africa,2004,0
+Ukraine,Europe,United States,North America,2004,1438999
+Ukraine,Europe,Canada,North America,2004,2647
+Ukraine,Europe,Mexico,North America,2004,0
+Ukraine,Europe,Brazil,South America,2004,0
+Ukraine,Europe,Argentina,South America,2004,0
+Ukraine,Europe,United Kingdom,Europe,2004,169848
+Ukraine,Europe,Netherlands,Europe,2004,0
+Ukraine,Europe,Belgium,Europe,2004,0
+Ukraine,Europe,France,Europe,2004,8449
+Ukraine,Europe,Switzerland,Europe,2004,0
+Ukraine,Europe,Spain,Europe,2004,0
+Ukraine,Europe,Portugal,Europe,2004,0
+Ukraine,Europe,Germany,Europe,2004,456998
+Ukraine,Europe,Poland,Europe,2004,0
+Ukraine,Europe,Austria,Europe,2004,0
+Ukraine,Europe,Hungary,Europe,2004,0
+Ukraine,Europe,Czech Republic,Europe,2004,73250
+Ukraine,Europe,Slovakia,Europe,2004,29758
+Ukraine,Europe,Italy,Europe,2004,0
+Ukraine,Europe,Croatia,Europe,2004,0
+Ukraine,Europe,Serbia,Europe,2004,74497
+Ukraine,Europe,Bosnia,Europe,2004,0
+Ukraine,Europe,Greece,Europe,2004,0
+Ukraine,Europe,Bulgaria,Europe,2004,0
+Ukraine,Europe,Romania,Europe,2004,0
+Ukraine,Europe,Russia,Asia,2004,0
+Ukraine,Europe,Ukraine,Europe,2004,0
+Ukraine,Europe,Finland,Europe,2004,0
+Ukraine,Europe,Sweden,Europe,2004,0
+Ukraine,Europe,Norway,Europe,2004,0
+Ukraine,Europe,Denmark,Europe,2004,0
+Ukraine,Europe,South Africa,Africa,2004,0
+Ukraine,Europe,Turkey,Asia,2004,0
+Ukraine,Europe,Israel,Asia,2004,0
+Ukraine,Europe,United Arab Emirates,Asia,2004,0
+Ukraine,Europe,Taiwan,Asia,2004,0
+Ukraine,Europe,South Korea,Asia,2004,0
+Ukraine,Europe,Japan,Asia,2004,0
+Ukraine,Europe,India,Asia,2004,0
+Ukraine,Europe,Pakistan,Asia,2004,0
+Ukraine,Europe,Thailand,Asia,2004,42124
+Ukraine,Europe,Malaysia,Asia,2004,0
+Ukraine,Europe,Singapore,Asia,2004,0
+Ukraine,Europe,Philippines,Asia,2004,0
+Ukraine,Europe,Indonesia,Asia,2004,0
+Ukraine,Europe,Australia,Oceania,2004,2194742
+Ukraine,Europe,Cyprus,Europe,2004,0
+Ukraine,Europe,China,Asia,2004,0
+Ukraine,Europe,Ivory Coast,Africa,2004,0
+Ukraine,Europe,Congo,Africa,2004,0
+Finland,Europe,United States,North America,2004,10672003
+Finland,Europe,Canada,North America,2004,1964776
+Finland,Europe,Mexico,North America,2004,0
+Finland,Europe,Brazil,South America,2004,92635
+Finland,Europe,Argentina,South America,2004,74088
+Finland,Europe,United Kingdom,Europe,2004,2605104
+Finland,Europe,Netherlands,Europe,2004,192267
+Finland,Europe,Belgium,Europe,2004,438524
+Finland,Europe,France,Europe,2004,1858689
+Finland,Europe,Switzerland,Europe,2004,2324634
+Finland,Europe,Spain,Europe,2004,541226
+Finland,Europe,Portugal,Europe,2004,104052
+Finland,Europe,Germany,Europe,2004,2143018
+Finland,Europe,Poland,Europe,2004,1141551
+Finland,Europe,Austria,Europe,2004,468701
+Finland,Europe,Hungary,Europe,2004,408856
+Finland,Europe,Czech Republic,Europe,2004,522594
+Finland,Europe,Slovakia,Europe,2004,98679
+Finland,Europe,Italy,Europe,2004,1936629
+Finland,Europe,Croatia,Europe,2004,0
+Finland,Europe,Serbia,Europe,2004,0
+Finland,Europe,Bosnia,Europe,2004,0
+Finland,Europe,Greece,Europe,2004,34431
+Finland,Europe,Bulgaria,Europe,2004,61093
+Finland,Europe,Romania,Europe,2004,63987
+Finland,Europe,Russia,Asia,2004,607444
+Finland,Europe,Ukraine,Europe,2004,90231
+Finland,Europe,Finland,Europe,2004,0
+Finland,Europe,Sweden,Europe,2004,4456538
+Finland,Europe,Norway,Europe,2004,3954621
+Finland,Europe,Denmark,Europe,2004,1092502
+Finland,Europe,South Africa,Africa,2004,195269
+Finland,Europe,Turkey,Asia,2004,279417
+Finland,Europe,Israel,Asia,2004,0
+Finland,Europe,United Arab Emirates,Asia,2004,2851701
+Finland,Europe,Taiwan,Asia,2004,4412
+Finland,Europe,South Korea,Asia,2004,148688
+Finland,Europe,Japan,Asia,2004,649171
+Finland,Europe,India,Asia,2004,10873
+Finland,Europe,Pakistan,Asia,2004,0
+Finland,Europe,Thailand,Asia,2004,0
+Finland,Europe,Malaysia,Asia,2004,23699
+Finland,Europe,Singapore,Asia,2004,86694
+Finland,Europe,Philippines,Asia,2004,0
+Finland,Europe,Indonesia,Asia,2004,0
+Finland,Europe,Australia,Oceania,2004,2043345
+Finland,Europe,Cyprus,Europe,2004,14367
+Finland,Europe,China,Asia,2004,162362
+Finland,Europe,Ivory Coast,Africa,2004,0
+Finland,Europe,Congo,Africa,2004,0
+Sweden,Europe,United States,North America,2004,3121880
+Sweden,Europe,Canada,North America,2004,75846
+Sweden,Europe,Mexico,North America,2004,0
+Sweden,Europe,Brazil,South America,2004,0
+Sweden,Europe,Argentina,South America,2004,99
+Sweden,Europe,United Kingdom,Europe,2004,515409
+Sweden,Europe,Netherlands,Europe,2004,68178
+Sweden,Europe,Belgium,Europe,2004,267763
+Sweden,Europe,France,Europe,2004,2361114
+Sweden,Europe,Switzerland,Europe,2004,1724946
+Sweden,Europe,Spain,Europe,2004,1049182
+Sweden,Europe,Portugal,Europe,2004,49177
+Sweden,Europe,Germany,Europe,2004,2871341
+Sweden,Europe,Poland,Europe,2004,340378
+Sweden,Europe,Austria,Europe,2004,238559
+Sweden,Europe,Hungary,Europe,2004,145990
+Sweden,Europe,Czech Republic,Europe,2004,343511
+Sweden,Europe,Slovakia,Europe,2004,61153
+Sweden,Europe,Italy,Europe,2004,709928
+Sweden,Europe,Croatia,Europe,2004,1530
+Sweden,Europe,Serbia,Europe,2004,0
+Sweden,Europe,Bosnia,Europe,2004,0
+Sweden,Europe,Greece,Europe,2004,0
+Sweden,Europe,Bulgaria,Europe,2004,85102
+Sweden,Europe,Romania,Europe,2004,0
+Sweden,Europe,Russia,Asia,2004,425357
+Sweden,Europe,Ukraine,Europe,2004,0
+Sweden,Europe,Finland,Europe,2004,1153571
+Sweden,Europe,Sweden,Europe,2004,0
+Sweden,Europe,Norway,Europe,2004,5984051
+Sweden,Europe,Denmark,Europe,2004,2134180
+Sweden,Europe,South Africa,Africa,2004,96280
+Sweden,Europe,Turkey,Asia,2004,160147
+Sweden,Europe,Israel,Asia,2004,0
+Sweden,Europe,United Arab Emirates,Asia,2004,0
+Sweden,Europe,Taiwan,Asia,2004,0
+Sweden,Europe,South Korea,Asia,2004,0
+Sweden,Europe,Japan,Asia,2004,1101459
+Sweden,Europe,India,Asia,2004,0
+Sweden,Europe,Pakistan,Asia,2004,0
+Sweden,Europe,Thailand,Asia,2004,0
+Sweden,Europe,Malaysia,Asia,2004,0
+Sweden,Europe,Singapore,Asia,2004,0
+Sweden,Europe,Philippines,Asia,2004,0
+Sweden,Europe,Indonesia,Asia,2004,0
+Sweden,Europe,Australia,Oceania,2004,24613
+Sweden,Europe,Cyprus,Europe,2004,0
+Sweden,Europe,China,Asia,2004,0
+Sweden,Europe,Ivory Coast,Africa,2004,0
+Sweden,Europe,Congo,Africa,2004,0
+Norway,Europe,United States,North America,2004,10155171
+Norway,Europe,Canada,North America,2004,2089
+Norway,Europe,Mexico,North America,2004,0
+Norway,Europe,Brazil,South America,2004,0
+Norway,Europe,Argentina,South America,2004,0
+Norway,Europe,United Kingdom,Europe,2004,92493
+Norway,Europe,Netherlands,Europe,2004,1044
+Norway,Europe,Belgium,Europe,2004,12993
+Norway,Europe,France,Europe,2004,687
+Norway,Europe,Switzerland,Europe,2004,246992
+Norway,Europe,Spain,Europe,2004,2632489
+Norway,Europe,Portugal,Europe,2004,0
+Norway,Europe,Germany,Europe,2004,133518
+Norway,Europe,Poland,Europe,2004,1631835
+Norway,Europe,Austria,Europe,2004,1728988
+Norway,Europe,Hungary,Europe,2004,0
+Norway,Europe,Czech Republic,Europe,2004,0
+Norway,Europe,Slovakia,Europe,2004,7848
+Norway,Europe,Italy,Europe,2004,46240
+Norway,Europe,Croatia,Europe,2004,0
+Norway,Europe,Serbia,Europe,2004,0
+Norway,Europe,Bosnia,Europe,2004,0
+Norway,Europe,Greece,Europe,2004,0
+Norway,Europe,Bulgaria,Europe,2004,0
+Norway,Europe,Romania,Europe,2004,0
+Norway,Europe,Russia,Asia,2004,0
+Norway,Europe,Ukraine,Europe,2004,0
+Norway,Europe,Finland,Europe,2004,43902
+Norway,Europe,Sweden,Europe,2004,153761
+Norway,Europe,Norway,Europe,2004,0
+Norway,Europe,Denmark,Europe,2004,723071
+Norway,Europe,South Africa,Africa,2004,0
+Norway,Europe,Turkey,Asia,2004,1740
+Norway,Europe,Israel,Asia,2004,0
+Norway,Europe,United Arab Emirates,Asia,2004,0
+Norway,Europe,Taiwan,Asia,2004,0
+Norway,Europe,South Korea,Asia,2004,0
+Norway,Europe,Japan,Asia,2004,96715
+Norway,Europe,India,Asia,2004,0
+Norway,Europe,Pakistan,Asia,2004,0
+Norway,Europe,Thailand,Asia,2004,0
+Norway,Europe,Malaysia,Asia,2004,3219
+Norway,Europe,Singapore,Asia,2004,1013546
+Norway,Europe,Philippines,Asia,2004,0
+Norway,Europe,Indonesia,Asia,2004,0
+Norway,Europe,Australia,Oceania,2004,0
+Norway,Europe,Cyprus,Europe,2004,0
+Norway,Europe,China,Asia,2004,0
+Norway,Europe,Ivory Coast,Africa,2004,0
+Norway,Europe,Congo,Africa,2004,0
+Denmark,Europe,United States,North America,2004,20143
+Denmark,Europe,Canada,North America,2004,48495
+Denmark,Europe,Mexico,North America,2004,0
+Denmark,Europe,Brazil,South America,2004,0
+Denmark,Europe,Argentina,South America,2004,0
+Denmark,Europe,United Kingdom,Europe,2004,26516
+Denmark,Europe,Netherlands,Europe,2004,0
+Denmark,Europe,Belgium,Europe,2004,1069
+Denmark,Europe,France,Europe,2004,0
+Denmark,Europe,Switzerland,Europe,2004,32416
+Denmark,Europe,Spain,Europe,2004,0
+Denmark,Europe,Portugal,Europe,2004,0
+Denmark,Europe,Germany,Europe,2004,327189
+Denmark,Europe,Poland,Europe,2004,146
+Denmark,Europe,Austria,Europe,2004,1123
+Denmark,Europe,Hungary,Europe,2004,3227
+Denmark,Europe,Czech Republic,Europe,2004,0
+Denmark,Europe,Slovakia,Europe,2004,0
+Denmark,Europe,Italy,Europe,2004,6597
+Denmark,Europe,Croatia,Europe,2004,0
+Denmark,Europe,Serbia,Europe,2004,0
+Denmark,Europe,Bosnia,Europe,2004,0
+Denmark,Europe,Greece,Europe,2004,0
+Denmark,Europe,Bulgaria,Europe,2004,0
+Denmark,Europe,Romania,Europe,2004,0
+Denmark,Europe,Russia,Asia,2004,0
+Denmark,Europe,Ukraine,Europe,2004,6767
+Denmark,Europe,Finland,Europe,2004,23308
+Denmark,Europe,Sweden,Europe,2004,2098524
+Denmark,Europe,Norway,Europe,2004,300398
+Denmark,Europe,Denmark,Europe,2004,0
+Denmark,Europe,South Africa,Africa,2004,0
+Denmark,Europe,Turkey,Asia,2004,0
+Denmark,Europe,Israel,Asia,2004,0
+Denmark,Europe,United Arab Emirates,Asia,2004,0
+Denmark,Europe,Taiwan,Asia,2004,0
+Denmark,Europe,South Korea,Asia,2004,0
+Denmark,Europe,Japan,Asia,2004,0
+Denmark,Europe,India,Asia,2004,0
+Denmark,Europe,Pakistan,Asia,2004,0
+Denmark,Europe,Thailand,Asia,2004,0
+Denmark,Europe,Malaysia,Asia,2004,0
+Denmark,Europe,Singapore,Asia,2004,0
+Denmark,Europe,Philippines,Asia,2004,0
+Denmark,Europe,Indonesia,Asia,2004,0
+Denmark,Europe,Australia,Oceania,2004,0
+Denmark,Europe,Cyprus,Europe,2004,0
+Denmark,Europe,China,Asia,2004,0
+Denmark,Europe,Ivory Coast,Africa,2004,0
+Denmark,Europe,Congo,Africa,2004,0
+South Africa,Africa,United States,North America,2004,3661910
+South Africa,Africa,Canada,North America,2004,143732
+South Africa,Africa,Mexico,North America,2004,0
+South Africa,Africa,Brazil,South America,2004,568766
+South Africa,Africa,Argentina,South America,2004,0
+South Africa,Africa,United Kingdom,Europe,2004,96791
+South Africa,Africa,Netherlands,Europe,2004,0
+South Africa,Africa,Belgium,Europe,2004,0
+South Africa,Africa,France,Europe,2004,21854
+South Africa,Africa,Switzerland,Europe,2004,0
+South Africa,Africa,Spain,Europe,2004,0
+South Africa,Africa,Portugal,Europe,2004,0
+South Africa,Africa,Germany,Europe,2004,1064650
+South Africa,Africa,Poland,Europe,2004,0
+South Africa,Africa,Austria,Europe,2004,164026
+South Africa,Africa,Hungary,Europe,2004,0
+South Africa,Africa,Czech Republic,Europe,2004,11357
+South Africa,Africa,Slovakia,Europe,2004,6098
+South Africa,Africa,Italy,Europe,2004,28319
+South Africa,Africa,Croatia,Europe,2004,0
+South Africa,Africa,Serbia,Europe,2004,0
+South Africa,Africa,Bosnia,Europe,2004,0
+South Africa,Africa,Greece,Europe,2004,0
+South Africa,Africa,Bulgaria,Europe,2004,0
+South Africa,Africa,Romania,Europe,2004,0
+South Africa,Africa,Russia,Asia,2004,1927
+South Africa,Africa,Ukraine,Europe,2004,0
+South Africa,Africa,Finland,Europe,2004,38786
+South Africa,Africa,Sweden,Europe,2004,48727
+South Africa,Africa,Norway,Europe,2004,15972
+South Africa,Africa,Denmark,Europe,2004,0
+South Africa,Africa,South Africa,Africa,2004,0
+South Africa,Africa,Turkey,Asia,2004,0
+South Africa,Africa,Israel,Asia,2004,0
+South Africa,Africa,United Arab Emirates,Asia,2004,0
+South Africa,Africa,Taiwan,Asia,2004,0
+South Africa,Africa,South Korea,Asia,2004,8787
+South Africa,Africa,Japan,Asia,2004,0
+South Africa,Africa,India,Asia,2004,0
+South Africa,Africa,Pakistan,Asia,2004,0
+South Africa,Africa,Thailand,Asia,2004,0
+South Africa,Africa,Malaysia,Asia,2004,48150
+South Africa,Africa,Singapore,Asia,2004,84124
+South Africa,Africa,Philippines,Asia,2004,0
+South Africa,Africa,Indonesia,Asia,2004,0
+South Africa,Africa,Australia,Oceania,2004,35745
+South Africa,Africa,Cyprus,Europe,2004,2710
+South Africa,Africa,China,Asia,2004,0
+South Africa,Africa,Ivory Coast,Africa,2004,0
+South Africa,Africa,Congo,Africa,2004,0
+Turkey,Asia,United States,North America,2004,13532673
+Turkey,Asia,Canada,North America,2004,159126
+Turkey,Asia,Mexico,North America,2004,52826
+Turkey,Asia,Brazil,South America,2004,0
+Turkey,Asia,Argentina,South America,2004,180034
+Turkey,Asia,United Kingdom,Europe,2004,242178
+Turkey,Asia,Netherlands,Europe,2004,0
+Turkey,Asia,Belgium,Europe,2004,29715
+Turkey,Asia,France,Europe,2004,1478774
+Turkey,Asia,Switzerland,Europe,2004,2312
+Turkey,Asia,Spain,Europe,2004,185514
+Turkey,Asia,Portugal,Europe,2004,173709
+Turkey,Asia,Germany,Europe,2004,26101042
+Turkey,Asia,Poland,Europe,2004,40997
+Turkey,Asia,Austria,Europe,2004,29762
+Turkey,Asia,Hungary,Europe,2004,6730
+Turkey,Asia,Czech Republic,Europe,2004,149969
+Turkey,Asia,Slovakia,Europe,2004,30489
+Turkey,Asia,Italy,Europe,2004,1149697
+Turkey,Asia,Croatia,Europe,2004,23374
+Turkey,Asia,Serbia,Europe,2004,983
+Turkey,Asia,Bosnia,Europe,2004,53676
+Turkey,Asia,Greece,Europe,2004,289893
+Turkey,Asia,Bulgaria,Europe,2004,136453
+Turkey,Asia,Romania,Europe,2004,23774
+Turkey,Asia,Russia,Asia,2004,21766
+Turkey,Asia,Ukraine,Europe,2004,1136
+Turkey,Asia,Finland,Europe,2004,505443
+Turkey,Asia,Sweden,Europe,2004,202197
+Turkey,Asia,Norway,Europe,2004,254299
+Turkey,Asia,Denmark,Europe,2004,174367
+Turkey,Asia,South Africa,Africa,2004,35226
+Turkey,Asia,Turkey,Asia,2004,0
+Turkey,Asia,Israel,Asia,2004,29865
+Turkey,Asia,United Arab Emirates,Asia,2004,0
+Turkey,Asia,Taiwan,Asia,2004,0
+Turkey,Asia,South Korea,Asia,2004,161143
+Turkey,Asia,Japan,Asia,2004,0
+Turkey,Asia,India,Asia,2004,184705
+Turkey,Asia,Pakistan,Asia,2004,1151
+Turkey,Asia,Thailand,Asia,2004,942
+Turkey,Asia,Malaysia,Asia,2004,11067
+Turkey,Asia,Singapore,Asia,2004,0
+Turkey,Asia,Philippines,Asia,2004,98395
+Turkey,Asia,Indonesia,Asia,2004,81165
+Turkey,Asia,Australia,Oceania,2004,13087
+Turkey,Asia,Cyprus,Europe,2004,297846
+Turkey,Asia,China,Asia,2004,0
+Turkey,Asia,Ivory Coast,Africa,2004,0
+Turkey,Asia,Congo,Africa,2004,0
+Israel,Asia,United States,North America,2004,10017551
+Israel,Asia,Canada,North America,2004,150813
+Israel,Asia,Mexico,North America,2004,765877
+Israel,Asia,Brazil,South America,2004,3665
+Israel,Asia,Argentina,South America,2004,21659
+Israel,Asia,United Kingdom,Europe,2004,0
+Israel,Asia,Netherlands,Europe,2004,0
+Israel,Asia,Belgium,Europe,2004,0
+Israel,Asia,France,Europe,2004,710987
+Israel,Asia,Switzerland,Europe,2004,73221
+Israel,Asia,Spain,Europe,2004,37463
+Israel,Asia,Portugal,Europe,2004,2477
+Israel,Asia,Germany,Europe,2004,605527
+Israel,Asia,Poland,Europe,2004,3135
+Israel,Asia,Austria,Europe,2004,7358
+Israel,Asia,Hungary,Europe,2004,0
+Israel,Asia,Czech Republic,Europe,2004,42314
+Israel,Asia,Slovakia,Europe,2004,52398
+Israel,Asia,Italy,Europe,2004,316665
+Israel,Asia,Croatia,Europe,2004,3696
+Israel,Asia,Serbia,Europe,2004,4012060
+Israel,Asia,Bosnia,Europe,2004,0
+Israel,Asia,Greece,Europe,2004,0
+Israel,Asia,Bulgaria,Europe,2004,0
+Israel,Asia,Romania,Europe,2004,0
+Israel,Asia,Russia,Asia,2004,0
+Israel,Asia,Ukraine,Europe,2004,0
+Israel,Asia,Finland,Europe,2004,24679
+Israel,Asia,Sweden,Europe,2004,0
+Israel,Asia,Norway,Europe,2004,0
+Israel,Asia,Denmark,Europe,2004,321755
+Israel,Asia,South Africa,Africa,2004,0
+Israel,Asia,Turkey,Asia,2004,4731
+Israel,Asia,Israel,Asia,2004,0
+Israel,Asia,United Arab Emirates,Asia,2004,0
+Israel,Asia,Taiwan,Asia,2004,0
+Israel,Asia,South Korea,Asia,2004,9111
+Israel,Asia,Japan,Asia,2004,0
+Israel,Asia,India,Asia,2004,0
+Israel,Asia,Pakistan,Asia,2004,0
+Israel,Asia,Thailand,Asia,2004,88234
+Israel,Asia,Malaysia,Asia,2004,0
+Israel,Asia,Singapore,Asia,2004,0
+Israel,Asia,Philippines,Asia,2004,104122
+Israel,Asia,Indonesia,Asia,2004,0
+Israel,Asia,Australia,Oceania,2004,34595
+Israel,Asia,Cyprus,Europe,2004,0
+Israel,Asia,China,Asia,2004,0
+Israel,Asia,Ivory Coast,Africa,2004,6138
+Israel,Asia,Congo,Africa,2004,0
+United Arab Emirates,Asia,United States,North America,2004,15812
+United Arab Emirates,Asia,Canada,North America,2004,0
+United Arab Emirates,Asia,Mexico,North America,2004,0
+United Arab Emirates,Asia,Brazil,South America,2004,0
+United Arab Emirates,Asia,Argentina,South America,2004,0
+United Arab Emirates,Asia,United Kingdom,Europe,2004,0
+United Arab Emirates,Asia,Netherlands,Europe,2004,0
+United Arab Emirates,Asia,Belgium,Europe,2004,0
+United Arab Emirates,Asia,France,Europe,2004,0
+United Arab Emirates,Asia,Switzerland,Europe,2004,0
+United Arab Emirates,Asia,Spain,Europe,2004,0
+United Arab Emirates,Asia,Portugal,Europe,2004,0
+United Arab Emirates,Asia,Germany,Europe,2004,12883
+United Arab Emirates,Asia,Poland,Europe,2004,0
+United Arab Emirates,Asia,Austria,Europe,2004,0
+United Arab Emirates,Asia,Hungary,Europe,2004,0
+United Arab Emirates,Asia,Czech Republic,Europe,2004,65502
+United Arab Emirates,Asia,Slovakia,Europe,2004,0
+United Arab Emirates,Asia,Italy,Europe,2004,5670
+United Arab Emirates,Asia,Croatia,Europe,2004,0
+United Arab Emirates,Asia,Serbia,Europe,2004,0
+United Arab Emirates,Asia,Bosnia,Europe,2004,0
+United Arab Emirates,Asia,Greece,Europe,2004,0
+United Arab Emirates,Asia,Bulgaria,Europe,2004,0
+United Arab Emirates,Asia,Romania,Europe,2004,0
+United Arab Emirates,Asia,Russia,Asia,2004,0
+United Arab Emirates,Asia,Ukraine,Europe,2004,0
+United Arab Emirates,Asia,Finland,Europe,2004,0
+United Arab Emirates,Asia,Sweden,Europe,2004,0
+United Arab Emirates,Asia,Norway,Europe,2004,0
+United Arab Emirates,Asia,Denmark,Europe,2004,0
+United Arab Emirates,Asia,South Africa,Africa,2004,0
+United Arab Emirates,Asia,Turkey,Asia,2004,0
+United Arab Emirates,Asia,Israel,Asia,2004,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,2004,0
+United Arab Emirates,Asia,Taiwan,Asia,2004,0
+United Arab Emirates,Asia,South Korea,Asia,2004,0
+United Arab Emirates,Asia,Japan,Asia,2004,0
+United Arab Emirates,Asia,India,Asia,2004,0
+United Arab Emirates,Asia,Pakistan,Asia,2004,5208
+United Arab Emirates,Asia,Thailand,Asia,2004,0
+United Arab Emirates,Asia,Malaysia,Asia,2004,0
+United Arab Emirates,Asia,Singapore,Asia,2004,0
+United Arab Emirates,Asia,Philippines,Asia,2004,0
+United Arab Emirates,Asia,Indonesia,Asia,2004,0
+United Arab Emirates,Asia,Australia,Oceania,2004,0
+United Arab Emirates,Asia,Cyprus,Europe,2004,0
+United Arab Emirates,Asia,China,Asia,2004,0
+United Arab Emirates,Asia,Ivory Coast,Africa,2004,0
+United Arab Emirates,Asia,Congo,Africa,2004,0
+Taiwan,Asia,United States,North America,2004,278809
+Taiwan,Asia,Canada,North America,2004,132996
+Taiwan,Asia,Mexico,North America,2004,0
+Taiwan,Asia,Brazil,South America,2004,0
+Taiwan,Asia,Argentina,South America,2004,0
+Taiwan,Asia,United Kingdom,Europe,2004,31136
+Taiwan,Asia,Netherlands,Europe,2004,0
+Taiwan,Asia,Belgium,Europe,2004,0
+Taiwan,Asia,France,Europe,2004,0
+Taiwan,Asia,Switzerland,Europe,2004,1870
+Taiwan,Asia,Spain,Europe,2004,0
+Taiwan,Asia,Portugal,Europe,2004,0
+Taiwan,Asia,Germany,Europe,2004,0
+Taiwan,Asia,Poland,Europe,2004,2367
+Taiwan,Asia,Austria,Europe,2004,532
+Taiwan,Asia,Hungary,Europe,2004,0
+Taiwan,Asia,Czech Republic,Europe,2004,0
+Taiwan,Asia,Slovakia,Europe,2004,0
+Taiwan,Asia,Italy,Europe,2004,0
+Taiwan,Asia,Croatia,Europe,2004,0
+Taiwan,Asia,Serbia,Europe,2004,0
+Taiwan,Asia,Bosnia,Europe,2004,0
+Taiwan,Asia,Greece,Europe,2004,0
+Taiwan,Asia,Bulgaria,Europe,2004,0
+Taiwan,Asia,Romania,Europe,2004,0
+Taiwan,Asia,Russia,Asia,2004,0
+Taiwan,Asia,Ukraine,Europe,2004,0
+Taiwan,Asia,Finland,Europe,2004,0
+Taiwan,Asia,Sweden,Europe,2004,12301
+Taiwan,Asia,Norway,Europe,2004,0
+Taiwan,Asia,Denmark,Europe,2004,1407
+Taiwan,Asia,South Africa,Africa,2004,0
+Taiwan,Asia,Turkey,Asia,2004,0
+Taiwan,Asia,Israel,Asia,2004,0
+Taiwan,Asia,United Arab Emirates,Asia,2004,0
+Taiwan,Asia,Taiwan,Asia,2004,0
+Taiwan,Asia,South Korea,Asia,2004,0
+Taiwan,Asia,Japan,Asia,2004,0
+Taiwan,Asia,India,Asia,2004,0
+Taiwan,Asia,Pakistan,Asia,2004,0
+Taiwan,Asia,Thailand,Asia,2004,0
+Taiwan,Asia,Malaysia,Asia,2004,0
+Taiwan,Asia,Singapore,Asia,2004,0
+Taiwan,Asia,Philippines,Asia,2004,740
+Taiwan,Asia,Indonesia,Asia,2004,25532
+Taiwan,Asia,Australia,Oceania,2004,0
+Taiwan,Asia,Cyprus,Europe,2004,5659
+Taiwan,Asia,China,Asia,2004,953
+Taiwan,Asia,Ivory Coast,Africa,2004,0
+Taiwan,Asia,Congo,Africa,2004,0
+South Korea,Asia,United States,North America,2004,8121377
+South Korea,Asia,Canada,North America,2004,46845
+South Korea,Asia,Mexico,North America,2004,0
+South Korea,Asia,Brazil,South America,2004,0
+South Korea,Asia,Argentina,South America,2004,0
+South Korea,Asia,United Kingdom,Europe,2004,5633
+South Korea,Asia,Netherlands,Europe,2004,0
+South Korea,Asia,Belgium,Europe,2004,0
+South Korea,Asia,France,Europe,2004,0
+South Korea,Asia,Switzerland,Europe,2004,0
+South Korea,Asia,Spain,Europe,2004,104417
+South Korea,Asia,Portugal,Europe,2004,0
+South Korea,Asia,Germany,Europe,2004,843
+South Korea,Asia,Poland,Europe,2004,180
+South Korea,Asia,Austria,Europe,2004,0
+South Korea,Asia,Hungary,Europe,2004,0
+South Korea,Asia,Czech Republic,Europe,2004,4966
+South Korea,Asia,Slovakia,Europe,2004,211
+South Korea,Asia,Italy,Europe,2004,0
+South Korea,Asia,Croatia,Europe,2004,9812
+South Korea,Asia,Serbia,Europe,2004,0
+South Korea,Asia,Bosnia,Europe,2004,0
+South Korea,Asia,Greece,Europe,2004,0
+South Korea,Asia,Bulgaria,Europe,2004,0
+South Korea,Asia,Romania,Europe,2004,0
+South Korea,Asia,Russia,Asia,2004,1136
+South Korea,Asia,Ukraine,Europe,2004,0
+South Korea,Asia,Finland,Europe,2004,1619
+South Korea,Asia,Sweden,Europe,2004,0
+South Korea,Asia,Norway,Europe,2004,0
+South Korea,Asia,Denmark,Europe,2004,0
+South Korea,Asia,South Africa,Africa,2004,0
+South Korea,Asia,Turkey,Asia,2004,414581
+South Korea,Asia,Israel,Asia,2004,624525
+South Korea,Asia,United Arab Emirates,Asia,2004,0
+South Korea,Asia,Taiwan,Asia,2004,6617
+South Korea,Asia,South Korea,Asia,2004,0
+South Korea,Asia,Japan,Asia,2004,0
+South Korea,Asia,India,Asia,2004,4814
+South Korea,Asia,Pakistan,Asia,2004,0
+South Korea,Asia,Thailand,Asia,2004,139
+South Korea,Asia,Malaysia,Asia,2004,1029870
+South Korea,Asia,Singapore,Asia,2004,0
+South Korea,Asia,Philippines,Asia,2004,137307
+South Korea,Asia,Indonesia,Asia,2004,2581782
+South Korea,Asia,Australia,Oceania,2004,3829241
+South Korea,Asia,Cyprus,Europe,2004,1252
+South Korea,Asia,China,Asia,2004,9395
+South Korea,Asia,Ivory Coast,Africa,2004,0
+South Korea,Asia,Congo,Africa,2004,0
+Japan,Asia,United States,North America,2004,30111475
+Japan,Asia,Canada,North America,2004,2373670
+Japan,Asia,Mexico,North America,2004,0
+Japan,Asia,Brazil,South America,2004,0
+Japan,Asia,Argentina,South America,2004,146
+Japan,Asia,United Kingdom,Europe,2004,286363
+Japan,Asia,Netherlands,Europe,2004,0
+Japan,Asia,Belgium,Europe,2004,10398287
+Japan,Asia,France,Europe,2004,624804
+Japan,Asia,Switzerland,Europe,2004,5719
+Japan,Asia,Spain,Europe,2004,365923
+Japan,Asia,Portugal,Europe,2004,152990
+Japan,Asia,Germany,Europe,2004,1090233
+Japan,Asia,Poland,Europe,2004,109612
+Japan,Asia,Austria,Europe,2004,15916
+Japan,Asia,Hungary,Europe,2004,17182
+Japan,Asia,Czech Republic,Europe,2004,76564
+Japan,Asia,Slovakia,Europe,2004,3106
+Japan,Asia,Italy,Europe,2004,26393
+Japan,Asia,Croatia,Europe,2004,9120
+Japan,Asia,Serbia,Europe,2004,0
+Japan,Asia,Bosnia,Europe,2004,0
+Japan,Asia,Greece,Europe,2004,0
+Japan,Asia,Bulgaria,Europe,2004,0
+Japan,Asia,Romania,Europe,2004,0
+Japan,Asia,Russia,Asia,2004,79112
+Japan,Asia,Ukraine,Europe,2004,5382
+Japan,Asia,Finland,Europe,2004,40514
+Japan,Asia,Sweden,Europe,2004,315047
+Japan,Asia,Norway,Europe,2004,35273
+Japan,Asia,Denmark,Europe,2004,151819
+Japan,Asia,South Africa,Africa,2004,21979
+Japan,Asia,Turkey,Asia,2004,0
+Japan,Asia,Israel,Asia,2004,0
+Japan,Asia,United Arab Emirates,Asia,2004,0
+Japan,Asia,Taiwan,Asia,2004,0
+Japan,Asia,South Korea,Asia,2004,76005
+Japan,Asia,Japan,Asia,2004,0
+Japan,Asia,India,Asia,2004,2271
+Japan,Asia,Pakistan,Asia,2004,0
+Japan,Asia,Thailand,Asia,2004,29283
+Japan,Asia,Malaysia,Asia,2004,3376
+Japan,Asia,Singapore,Asia,2004,0
+Japan,Asia,Philippines,Asia,2004,9189
+Japan,Asia,Indonesia,Asia,2004,825
+Japan,Asia,Australia,Oceania,2004,1934480
+Japan,Asia,Cyprus,Europe,2004,90756
+Japan,Asia,China,Asia,2004,0
+Japan,Asia,Ivory Coast,Africa,2004,0
+Japan,Asia,Congo,Africa,2004,0
+India,Asia,United States,North America,2004,825019
+India,Asia,Canada,North America,2004,23524
+India,Asia,Mexico,North America,2004,0
+India,Asia,Brazil,South America,2004,0
+India,Asia,Argentina,South America,2004,0
+India,Asia,United Kingdom,Europe,2004,33520
+India,Asia,Netherlands,Europe,2004,0
+India,Asia,Belgium,Europe,2004,0
+India,Asia,France,Europe,2004,0
+India,Asia,Switzerland,Europe,2004,418
+India,Asia,Spain,Europe,2004,0
+India,Asia,Portugal,Europe,2004,0
+India,Asia,Germany,Europe,2004,0
+India,Asia,Poland,Europe,2004,0
+India,Asia,Austria,Europe,2004,115923
+India,Asia,Hungary,Europe,2004,0
+India,Asia,Czech Republic,Europe,2004,0
+India,Asia,Slovakia,Europe,2004,0
+India,Asia,Italy,Europe,2004,20482
+India,Asia,Croatia,Europe,2004,0
+India,Asia,Serbia,Europe,2004,0
+India,Asia,Bosnia,Europe,2004,0
+India,Asia,Greece,Europe,2004,0
+India,Asia,Bulgaria,Europe,2004,0
+India,Asia,Romania,Europe,2004,0
+India,Asia,Russia,Asia,2004,0
+India,Asia,Ukraine,Europe,2004,0
+India,Asia,Finland,Europe,2004,0
+India,Asia,Sweden,Europe,2004,0
+India,Asia,Norway,Europe,2004,0
+India,Asia,Denmark,Europe,2004,0
+India,Asia,South Africa,Africa,2004,0
+India,Asia,Turkey,Asia,2004,0
+India,Asia,Israel,Asia,2004,0
+India,Asia,United Arab Emirates,Asia,2004,0
+India,Asia,Taiwan,Asia,2004,0
+India,Asia,South Korea,Asia,2004,0
+India,Asia,Japan,Asia,2004,0
+India,Asia,India,Asia,2004,0
+India,Asia,Pakistan,Asia,2004,0
+India,Asia,Thailand,Asia,2004,0
+India,Asia,Malaysia,Asia,2004,10987
+India,Asia,Singapore,Asia,2004,0
+India,Asia,Philippines,Asia,2004,0
+India,Asia,Indonesia,Asia,2004,0
+India,Asia,Australia,Oceania,2004,0
+India,Asia,Cyprus,Europe,2004,0
+India,Asia,China,Asia,2004,0
+India,Asia,Ivory Coast,Africa,2004,0
+India,Asia,Congo,Africa,2004,0
+Pakistan,Asia,United States,North America,2004,113933
+Pakistan,Asia,Canada,North America,2004,0
+Pakistan,Asia,Mexico,North America,2004,0
+Pakistan,Asia,Brazil,South America,2004,0
+Pakistan,Asia,Argentina,South America,2004,0
+Pakistan,Asia,United Kingdom,Europe,2004,6260
+Pakistan,Asia,Netherlands,Europe,2004,0
+Pakistan,Asia,Belgium,Europe,2004,0
+Pakistan,Asia,France,Europe,2004,1159653
+Pakistan,Asia,Switzerland,Europe,2004,0
+Pakistan,Asia,Spain,Europe,2004,0
+Pakistan,Asia,Portugal,Europe,2004,1131
+Pakistan,Asia,Germany,Europe,2004,0
+Pakistan,Asia,Poland,Europe,2004,0
+Pakistan,Asia,Austria,Europe,2004,0
+Pakistan,Asia,Hungary,Europe,2004,0
+Pakistan,Asia,Czech Republic,Europe,2004,97
+Pakistan,Asia,Slovakia,Europe,2004,0
+Pakistan,Asia,Italy,Europe,2004,2643
+Pakistan,Asia,Croatia,Europe,2004,0
+Pakistan,Asia,Serbia,Europe,2004,0
+Pakistan,Asia,Bosnia,Europe,2004,0
+Pakistan,Asia,Greece,Europe,2004,0
+Pakistan,Asia,Bulgaria,Europe,2004,0
+Pakistan,Asia,Romania,Europe,2004,0
+Pakistan,Asia,Russia,Asia,2004,0
+Pakistan,Asia,Ukraine,Europe,2004,0
+Pakistan,Asia,Finland,Europe,2004,0
+Pakistan,Asia,Sweden,Europe,2004,0
+Pakistan,Asia,Norway,Europe,2004,0
+Pakistan,Asia,Denmark,Europe,2004,0
+Pakistan,Asia,South Africa,Africa,2004,0
+Pakistan,Asia,Turkey,Asia,2004,0
+Pakistan,Asia,Israel,Asia,2004,0
+Pakistan,Asia,United Arab Emirates,Asia,2004,0
+Pakistan,Asia,Taiwan,Asia,2004,0
+Pakistan,Asia,South Korea,Asia,2004,8608
+Pakistan,Asia,Japan,Asia,2004,0
+Pakistan,Asia,India,Asia,2004,0
+Pakistan,Asia,Pakistan,Asia,2004,0
+Pakistan,Asia,Thailand,Asia,2004,0
+Pakistan,Asia,Malaysia,Asia,2004,0
+Pakistan,Asia,Singapore,Asia,2004,0
+Pakistan,Asia,Philippines,Asia,2004,1606
+Pakistan,Asia,Indonesia,Asia,2004,0
+Pakistan,Asia,Australia,Oceania,2004,0
+Pakistan,Asia,Cyprus,Europe,2004,0
+Pakistan,Asia,China,Asia,2004,0
+Pakistan,Asia,Ivory Coast,Africa,2004,0
+Pakistan,Asia,Congo,Africa,2004,0
+Thailand,Asia,United States,North America,2004,0
+Thailand,Asia,Canada,North America,2004,0
+Thailand,Asia,Mexico,North America,2004,0
+Thailand,Asia,Brazil,South America,2004,0
+Thailand,Asia,Argentina,South America,2004,0
+Thailand,Asia,United Kingdom,Europe,2004,0
+Thailand,Asia,Netherlands,Europe,2004,0
+Thailand,Asia,Belgium,Europe,2004,0
+Thailand,Asia,France,Europe,2004,0
+Thailand,Asia,Switzerland,Europe,2004,0
+Thailand,Asia,Spain,Europe,2004,0
+Thailand,Asia,Portugal,Europe,2004,0
+Thailand,Asia,Germany,Europe,2004,0
+Thailand,Asia,Poland,Europe,2004,0
+Thailand,Asia,Austria,Europe,2004,0
+Thailand,Asia,Hungary,Europe,2004,0
+Thailand,Asia,Czech Republic,Europe,2004,0
+Thailand,Asia,Slovakia,Europe,2004,0
+Thailand,Asia,Italy,Europe,2004,3876
+Thailand,Asia,Croatia,Europe,2004,0
+Thailand,Asia,Serbia,Europe,2004,0
+Thailand,Asia,Bosnia,Europe,2004,0
+Thailand,Asia,Greece,Europe,2004,0
+Thailand,Asia,Bulgaria,Europe,2004,0
+Thailand,Asia,Romania,Europe,2004,0
+Thailand,Asia,Russia,Asia,2004,0
+Thailand,Asia,Ukraine,Europe,2004,0
+Thailand,Asia,Finland,Europe,2004,0
+Thailand,Asia,Sweden,Europe,2004,0
+Thailand,Asia,Norway,Europe,2004,0
+Thailand,Asia,Denmark,Europe,2004,0
+Thailand,Asia,South Africa,Africa,2004,0
+Thailand,Asia,Turkey,Asia,2004,0
+Thailand,Asia,Israel,Asia,2004,0
+Thailand,Asia,United Arab Emirates,Asia,2004,0
+Thailand,Asia,Taiwan,Asia,2004,0
+Thailand,Asia,South Korea,Asia,2004,0
+Thailand,Asia,Japan,Asia,2004,0
+Thailand,Asia,India,Asia,2004,0
+Thailand,Asia,Pakistan,Asia,2004,0
+Thailand,Asia,Thailand,Asia,2004,0
+Thailand,Asia,Malaysia,Asia,2004,6030
+Thailand,Asia,Singapore,Asia,2004,40115384
+Thailand,Asia,Philippines,Asia,2004,0
+Thailand,Asia,Indonesia,Asia,2004,4743
+Thailand,Asia,Australia,Oceania,2004,0
+Thailand,Asia,Cyprus,Europe,2004,0
+Thailand,Asia,China,Asia,2004,0
+Thailand,Asia,Ivory Coast,Africa,2004,0
+Thailand,Asia,Congo,Africa,2004,0
+Malaysia,Asia,United States,North America,2004,5096
+Malaysia,Asia,Canada,North America,2004,0
+Malaysia,Asia,Mexico,North America,2004,0
+Malaysia,Asia,Brazil,South America,2004,0
+Malaysia,Asia,Argentina,South America,2004,0
+Malaysia,Asia,United Kingdom,Europe,2004,0
+Malaysia,Asia,Netherlands,Europe,2004,0
+Malaysia,Asia,Belgium,Europe,2004,0
+Malaysia,Asia,France,Europe,2004,0
+Malaysia,Asia,Switzerland,Europe,2004,0
+Malaysia,Asia,Spain,Europe,2004,0
+Malaysia,Asia,Portugal,Europe,2004,0
+Malaysia,Asia,Germany,Europe,2004,0
+Malaysia,Asia,Poland,Europe,2004,0
+Malaysia,Asia,Austria,Europe,2004,7406
+Malaysia,Asia,Hungary,Europe,2004,0
+Malaysia,Asia,Czech Republic,Europe,2004,0
+Malaysia,Asia,Slovakia,Europe,2004,0
+Malaysia,Asia,Italy,Europe,2004,5179
+Malaysia,Asia,Croatia,Europe,2004,0
+Malaysia,Asia,Serbia,Europe,2004,0
+Malaysia,Asia,Bosnia,Europe,2004,0
+Malaysia,Asia,Greece,Europe,2004,0
+Malaysia,Asia,Bulgaria,Europe,2004,0
+Malaysia,Asia,Romania,Europe,2004,0
+Malaysia,Asia,Russia,Asia,2004,0
+Malaysia,Asia,Ukraine,Europe,2004,0
+Malaysia,Asia,Finland,Europe,2004,0
+Malaysia,Asia,Sweden,Europe,2004,0
+Malaysia,Asia,Norway,Europe,2004,0
+Malaysia,Asia,Denmark,Europe,2004,0
+Malaysia,Asia,South Africa,Africa,2004,0
+Malaysia,Asia,Turkey,Asia,2004,0
+Malaysia,Asia,Israel,Asia,2004,0
+Malaysia,Asia,United Arab Emirates,Asia,2004,0
+Malaysia,Asia,Taiwan,Asia,2004,0
+Malaysia,Asia,South Korea,Asia,2004,0
+Malaysia,Asia,Japan,Asia,2004,0
+Malaysia,Asia,India,Asia,2004,0
+Malaysia,Asia,Pakistan,Asia,2004,0
+Malaysia,Asia,Thailand,Asia,2004,0
+Malaysia,Asia,Malaysia,Asia,2004,0
+Malaysia,Asia,Singapore,Asia,2004,78163
+Malaysia,Asia,Philippines,Asia,2004,0
+Malaysia,Asia,Indonesia,Asia,2004,2590
+Malaysia,Asia,Australia,Oceania,2004,0
+Malaysia,Asia,Cyprus,Europe,2004,0
+Malaysia,Asia,China,Asia,2004,0
+Malaysia,Asia,Ivory Coast,Africa,2004,0
+Malaysia,Asia,Congo,Africa,2004,0
+Singapore,Asia,United States,North America,2004,0
+Singapore,Asia,Canada,North America,2004,0
+Singapore,Asia,Mexico,North America,2004,0
+Singapore,Asia,Brazil,South America,2004,0
+Singapore,Asia,Argentina,South America,2004,0
+Singapore,Asia,United Kingdom,Europe,2004,0
+Singapore,Asia,Netherlands,Europe,2004,0
+Singapore,Asia,Belgium,Europe,2004,0
+Singapore,Asia,France,Europe,2004,0
+Singapore,Asia,Switzerland,Europe,2004,17705
+Singapore,Asia,Spain,Europe,2004,0
+Singapore,Asia,Portugal,Europe,2004,0
+Singapore,Asia,Germany,Europe,2004,762
+Singapore,Asia,Poland,Europe,2004,0
+Singapore,Asia,Austria,Europe,2004,23943
+Singapore,Asia,Hungary,Europe,2004,0
+Singapore,Asia,Czech Republic,Europe,2004,0
+Singapore,Asia,Slovakia,Europe,2004,0
+Singapore,Asia,Italy,Europe,2004,0
+Singapore,Asia,Croatia,Europe,2004,0
+Singapore,Asia,Serbia,Europe,2004,0
+Singapore,Asia,Bosnia,Europe,2004,0
+Singapore,Asia,Greece,Europe,2004,0
+Singapore,Asia,Bulgaria,Europe,2004,0
+Singapore,Asia,Romania,Europe,2004,0
+Singapore,Asia,Russia,Asia,2004,0
+Singapore,Asia,Ukraine,Europe,2004,0
+Singapore,Asia,Finland,Europe,2004,0
+Singapore,Asia,Sweden,Europe,2004,0
+Singapore,Asia,Norway,Europe,2004,0
+Singapore,Asia,Denmark,Europe,2004,0
+Singapore,Asia,South Africa,Africa,2004,0
+Singapore,Asia,Turkey,Asia,2004,0
+Singapore,Asia,Israel,Asia,2004,0
+Singapore,Asia,United Arab Emirates,Asia,2004,0
+Singapore,Asia,Taiwan,Asia,2004,0
+Singapore,Asia,South Korea,Asia,2004,0
+Singapore,Asia,Japan,Asia,2004,0
+Singapore,Asia,India,Asia,2004,213
+Singapore,Asia,Pakistan,Asia,2004,0
+Singapore,Asia,Thailand,Asia,2004,0
+Singapore,Asia,Malaysia,Asia,2004,100858
+Singapore,Asia,Singapore,Asia,2004,0
+Singapore,Asia,Philippines,Asia,2004,3654
+Singapore,Asia,Indonesia,Asia,2004,205429
+Singapore,Asia,Australia,Oceania,2004,51203
+Singapore,Asia,Cyprus,Europe,2004,0
+Singapore,Asia,China,Asia,2004,0
+Singapore,Asia,Ivory Coast,Africa,2004,0
+Singapore,Asia,Congo,Africa,2004,0
+Philippines,Asia,United States,North America,2004,3160196
+Philippines,Asia,Canada,North America,2004,9236
+Philippines,Asia,Mexico,North America,2004,0
+Philippines,Asia,Brazil,South America,2004,0
+Philippines,Asia,Argentina,South America,2004,0
+Philippines,Asia,United Kingdom,Europe,2004,0
+Philippines,Asia,Netherlands,Europe,2004,0
+Philippines,Asia,Belgium,Europe,2004,0
+Philippines,Asia,France,Europe,2004,307324
+Philippines,Asia,Switzerland,Europe,2004,58561
+Philippines,Asia,Spain,Europe,2004,0
+Philippines,Asia,Portugal,Europe,2004,0
+Philippines,Asia,Germany,Europe,2004,11712
+Philippines,Asia,Poland,Europe,2004,19297
+Philippines,Asia,Austria,Europe,2004,0
+Philippines,Asia,Hungary,Europe,2004,0
+Philippines,Asia,Czech Republic,Europe,2004,90699
+Philippines,Asia,Slovakia,Europe,2004,0
+Philippines,Asia,Italy,Europe,2004,7907
+Philippines,Asia,Croatia,Europe,2004,0
+Philippines,Asia,Serbia,Europe,2004,0
+Philippines,Asia,Bosnia,Europe,2004,0
+Philippines,Asia,Greece,Europe,2004,0
+Philippines,Asia,Bulgaria,Europe,2004,0
+Philippines,Asia,Romania,Europe,2004,0
+Philippines,Asia,Russia,Asia,2004,0
+Philippines,Asia,Ukraine,Europe,2004,0
+Philippines,Asia,Finland,Europe,2004,2290
+Philippines,Asia,Sweden,Europe,2004,0
+Philippines,Asia,Norway,Europe,2004,15226
+Philippines,Asia,Denmark,Europe,2004,3321
+Philippines,Asia,South Africa,Africa,2004,48629
+Philippines,Asia,Turkey,Asia,2004,0
+Philippines,Asia,Israel,Asia,2004,0
+Philippines,Asia,United Arab Emirates,Asia,2004,409
+Philippines,Asia,Taiwan,Asia,2004,0
+Philippines,Asia,South Korea,Asia,2004,0
+Philippines,Asia,Japan,Asia,2004,2684
+Philippines,Asia,India,Asia,2004,0
+Philippines,Asia,Pakistan,Asia,2004,0
+Philippines,Asia,Thailand,Asia,2004,247086
+Philippines,Asia,Malaysia,Asia,2004,0
+Philippines,Asia,Singapore,Asia,2004,0
+Philippines,Asia,Philippines,Asia,2004,0
+Philippines,Asia,Indonesia,Asia,2004,16212
+Philippines,Asia,Australia,Oceania,2004,264837
+Philippines,Asia,Cyprus,Europe,2004,0
+Philippines,Asia,China,Asia,2004,0
+Philippines,Asia,Ivory Coast,Africa,2004,0
+Philippines,Asia,Congo,Africa,2004,0
+Indonesia,Asia,United States,North America,2004,0
+Indonesia,Asia,Canada,North America,2004,0
+Indonesia,Asia,Mexico,North America,2004,0
+Indonesia,Asia,Brazil,South America,2004,0
+Indonesia,Asia,Argentina,South America,2004,0
+Indonesia,Asia,United Kingdom,Europe,2004,0
+Indonesia,Asia,Netherlands,Europe,2004,66
+Indonesia,Asia,Belgium,Europe,2004,0
+Indonesia,Asia,France,Europe,2004,175
+Indonesia,Asia,Switzerland,Europe,2004,0
+Indonesia,Asia,Spain,Europe,2004,0
+Indonesia,Asia,Portugal,Europe,2004,0
+Indonesia,Asia,Germany,Europe,2004,0
+Indonesia,Asia,Poland,Europe,2004,0
+Indonesia,Asia,Austria,Europe,2004,0
+Indonesia,Asia,Hungary,Europe,2004,0
+Indonesia,Asia,Czech Republic,Europe,2004,0
+Indonesia,Asia,Slovakia,Europe,2004,0
+Indonesia,Asia,Italy,Europe,2004,0
+Indonesia,Asia,Croatia,Europe,2004,0
+Indonesia,Asia,Serbia,Europe,2004,0
+Indonesia,Asia,Bosnia,Europe,2004,0
+Indonesia,Asia,Greece,Europe,2004,0
+Indonesia,Asia,Bulgaria,Europe,2004,0
+Indonesia,Asia,Romania,Europe,2004,0
+Indonesia,Asia,Russia,Asia,2004,0
+Indonesia,Asia,Ukraine,Europe,2004,0
+Indonesia,Asia,Finland,Europe,2004,0
+Indonesia,Asia,Sweden,Europe,2004,0
+Indonesia,Asia,Norway,Europe,2004,0
+Indonesia,Asia,Denmark,Europe,2004,0
+Indonesia,Asia,South Africa,Africa,2004,0
+Indonesia,Asia,Turkey,Asia,2004,0
+Indonesia,Asia,Israel,Asia,2004,0
+Indonesia,Asia,United Arab Emirates,Asia,2004,0
+Indonesia,Asia,Taiwan,Asia,2004,0
+Indonesia,Asia,South Korea,Asia,2004,17559
+Indonesia,Asia,Japan,Asia,2004,2717
+Indonesia,Asia,India,Asia,2004,0
+Indonesia,Asia,Pakistan,Asia,2004,0
+Indonesia,Asia,Thailand,Asia,2004,0
+Indonesia,Asia,Malaysia,Asia,2004,1259
+Indonesia,Asia,Singapore,Asia,2004,29116
+Indonesia,Asia,Philippines,Asia,2004,0
+Indonesia,Asia,Indonesia,Asia,2004,0
+Indonesia,Asia,Australia,Oceania,2004,0
+Indonesia,Asia,Cyprus,Europe,2004,0
+Indonesia,Asia,China,Asia,2004,0
+Indonesia,Asia,Ivory Coast,Africa,2004,0
+Indonesia,Asia,Congo,Africa,2004,0
+Australia,Oceania,United States,North America,2004,1667650
+Australia,Oceania,Canada,North America,2004,146313
+Australia,Oceania,Mexico,North America,2004,0
+Australia,Oceania,Brazil,South America,2004,0
+Australia,Oceania,Argentina,South America,2004,0
+Australia,Oceania,United Kingdom,Europe,2004,511624
+Australia,Oceania,Netherlands,Europe,2004,0
+Australia,Oceania,Belgium,Europe,2004,719577
+Australia,Oceania,France,Europe,2004,358407
+Australia,Oceania,Switzerland,Europe,2004,0
+Australia,Oceania,Spain,Europe,2004,57766
+Australia,Oceania,Portugal,Europe,2004,0
+Australia,Oceania,Germany,Europe,2004,87699
+Australia,Oceania,Poland,Europe,2004,1962
+Australia,Oceania,Austria,Europe,2004,15682
+Australia,Oceania,Hungary,Europe,2004,0
+Australia,Oceania,Czech Republic,Europe,2004,31082
+Australia,Oceania,Slovakia,Europe,2004,0
+Australia,Oceania,Italy,Europe,2004,26333
+Australia,Oceania,Croatia,Europe,2004,3971
+Australia,Oceania,Serbia,Europe,2004,0
+Australia,Oceania,Bosnia,Europe,2004,0
+Australia,Oceania,Greece,Europe,2004,0
+Australia,Oceania,Bulgaria,Europe,2004,0
+Australia,Oceania,Romania,Europe,2004,0
+Australia,Oceania,Russia,Asia,2004,36311
+Australia,Oceania,Ukraine,Europe,2004,0
+Australia,Oceania,Finland,Europe,2004,9374
+Australia,Oceania,Sweden,Europe,2004,11343
+Australia,Oceania,Norway,Europe,2004,14824
+Australia,Oceania,Denmark,Europe,2004,20146
+Australia,Oceania,South Africa,Africa,2004,80533
+Australia,Oceania,Turkey,Asia,2004,0
+Australia,Oceania,Israel,Asia,2004,0
+Australia,Oceania,United Arab Emirates,Asia,2004,0
+Australia,Oceania,Taiwan,Asia,2004,4935
+Australia,Oceania,South Korea,Asia,2004,156426
+Australia,Oceania,Japan,Asia,2004,2266807
+Australia,Oceania,India,Asia,2004,34022
+Australia,Oceania,Pakistan,Asia,2004,114054
+Australia,Oceania,Thailand,Asia,2004,227760
+Australia,Oceania,Malaysia,Asia,2004,11107
+Australia,Oceania,Singapore,Asia,2004,468136
+Australia,Oceania,Philippines,Asia,2004,84630
+Australia,Oceania,Indonesia,Asia,2004,2582
+Australia,Oceania,Australia,Oceania,2004,5342686
+Australia,Oceania,Cyprus,Europe,2004,2547
+Australia,Oceania,China,Asia,2004,391079
+Australia,Oceania,Ivory Coast,Africa,2004,0
+Australia,Oceania,Congo,Africa,2004,0
+Cyprus,Europe,United States,North America,2004,221630
+Cyprus,Europe,Canada,North America,2004,0
+Cyprus,Europe,Mexico,North America,2004,0
+Cyprus,Europe,Brazil,South America,2004,0
+Cyprus,Europe,Argentina,South America,2004,0
+Cyprus,Europe,United Kingdom,Europe,2004,991219
+Cyprus,Europe,Netherlands,Europe,2004,0
+Cyprus,Europe,Belgium,Europe,2004,0
+Cyprus,Europe,France,Europe,2004,190540
+Cyprus,Europe,Switzerland,Europe,2004,0
+Cyprus,Europe,Spain,Europe,2004,51677
+Cyprus,Europe,Portugal,Europe,2004,0
+Cyprus,Europe,Germany,Europe,2004,4684
+Cyprus,Europe,Poland,Europe,2004,14850
+Cyprus,Europe,Austria,Europe,2004,0
+Cyprus,Europe,Hungary,Europe,2004,0
+Cyprus,Europe,Czech Republic,Europe,2004,14379
+Cyprus,Europe,Slovakia,Europe,2004,0
+Cyprus,Europe,Italy,Europe,2004,4374
+Cyprus,Europe,Croatia,Europe,2004,106661
+Cyprus,Europe,Serbia,Europe,2004,295553
+Cyprus,Europe,Bosnia,Europe,2004,0
+Cyprus,Europe,Greece,Europe,2004,87434
+Cyprus,Europe,Bulgaria,Europe,2004,234574
+Cyprus,Europe,Romania,Europe,2004,139821
+Cyprus,Europe,Russia,Asia,2004,25400
+Cyprus,Europe,Ukraine,Europe,2004,17222
+Cyprus,Europe,Finland,Europe,2004,0
+Cyprus,Europe,Sweden,Europe,2004,0
+Cyprus,Europe,Norway,Europe,2004,2504
+Cyprus,Europe,Denmark,Europe,2004,0
+Cyprus,Europe,South Africa,Africa,2004,64170
+Cyprus,Europe,Turkey,Asia,2004,2035163
+Cyprus,Europe,Israel,Asia,2004,6357
+Cyprus,Europe,United Arab Emirates,Asia,2004,158843
+Cyprus,Europe,Taiwan,Asia,2004,0
+Cyprus,Europe,South Korea,Asia,2004,0
+Cyprus,Europe,Japan,Asia,2004,0
+Cyprus,Europe,India,Asia,2004,49869
+Cyprus,Europe,Pakistan,Asia,2004,0
+Cyprus,Europe,Thailand,Asia,2004,42931
+Cyprus,Europe,Malaysia,Asia,2004,0
+Cyprus,Europe,Singapore,Asia,2004,0
+Cyprus,Europe,Philippines,Asia,2004,0
+Cyprus,Europe,Indonesia,Asia,2004,0
+Cyprus,Europe,Australia,Oceania,2004,22233
+Cyprus,Europe,Cyprus,Europe,2004,0
+Cyprus,Europe,China,Asia,2004,0
+Cyprus,Europe,Ivory Coast,Africa,2004,0
+Cyprus,Europe,Congo,Africa,2004,0
+China,Asia,United States,North America,2004,5230418
+China,Asia,Canada,North America,2004,481451
+China,Asia,Mexico,North America,2004,0
+China,Asia,Brazil,South America,2004,21902
+China,Asia,Argentina,South America,2004,0
+China,Asia,United Kingdom,Europe,2004,124657
+China,Asia,Netherlands,Europe,2004,2860
+China,Asia,Belgium,Europe,2004,104543
+China,Asia,France,Europe,2004,405030
+China,Asia,Switzerland,Europe,2004,0
+China,Asia,Spain,Europe,2004,0
+China,Asia,Portugal,Europe,2004,0
+China,Asia,Germany,Europe,2004,319745
+China,Asia,Poland,Europe,2004,30548
+China,Asia,Austria,Europe,2004,39746
+China,Asia,Hungary,Europe,2004,0
+China,Asia,Czech Republic,Europe,2004,12841
+China,Asia,Slovakia,Europe,2004,20655
+China,Asia,Italy,Europe,2004,119292
+China,Asia,Croatia,Europe,2004,0
+China,Asia,Serbia,Europe,2004,0
+China,Asia,Bosnia,Europe,2004,0
+China,Asia,Greece,Europe,2004,0
+China,Asia,Bulgaria,Europe,2004,0
+China,Asia,Romania,Europe,2004,0
+China,Asia,Russia,Asia,2004,0
+China,Asia,Ukraine,Europe,2004,0
+China,Asia,Finland,Europe,2004,41333
+China,Asia,Sweden,Europe,2004,2396
+China,Asia,Norway,Europe,2004,12740
+China,Asia,Denmark,Europe,2004,57
+China,Asia,South Africa,Africa,2004,26674
+China,Asia,Turkey,Asia,2004,0
+China,Asia,Israel,Asia,2004,0
+China,Asia,United Arab Emirates,Asia,2004,0
+China,Asia,Taiwan,Asia,2004,0
+China,Asia,South Korea,Asia,2004,2111
+China,Asia,Japan,Asia,2004,0
+China,Asia,India,Asia,2004,1665
+China,Asia,Pakistan,Asia,2004,424419
+China,Asia,Thailand,Asia,2004,83
+China,Asia,Malaysia,Asia,2004,33930
+China,Asia,Singapore,Asia,2004,9950
+China,Asia,Philippines,Asia,2004,501253
+China,Asia,Indonesia,Asia,2004,346
+China,Asia,Australia,Oceania,2004,28694
+China,Asia,Cyprus,Europe,2004,620
+China,Asia,China,Asia,2004,0
+China,Asia,Ivory Coast,Africa,2004,0
+China,Asia,Congo,Africa,2004,0
+Ivory Coast,Africa,United States,North America,2004,0
+Ivory Coast,Africa,Canada,North America,2004,0
+Ivory Coast,Africa,Mexico,North America,2004,0
+Ivory Coast,Africa,Brazil,South America,2004,0
+Ivory Coast,Africa,Argentina,South America,2004,0
+Ivory Coast,Africa,United Kingdom,Europe,2004,0
+Ivory Coast,Africa,Netherlands,Europe,2004,0
+Ivory Coast,Africa,Belgium,Europe,2004,0
+Ivory Coast,Africa,France,Europe,2004,31907283
+Ivory Coast,Africa,Switzerland,Europe,2004,0
+Ivory Coast,Africa,Spain,Europe,2004,0
+Ivory Coast,Africa,Portugal,Europe,2004,0
+Ivory Coast,Africa,Germany,Europe,2004,0
+Ivory Coast,Africa,Poland,Europe,2004,0
+Ivory Coast,Africa,Austria,Europe,2004,0
+Ivory Coast,Africa,Hungary,Europe,2004,0
+Ivory Coast,Africa,Czech Republic,Europe,2004,0
+Ivory Coast,Africa,Slovakia,Europe,2004,0
+Ivory Coast,Africa,Italy,Europe,2004,0
+Ivory Coast,Africa,Croatia,Europe,2004,0
+Ivory Coast,Africa,Serbia,Europe,2004,0
+Ivory Coast,Africa,Bosnia,Europe,2004,0
+Ivory Coast,Africa,Greece,Europe,2004,0
+Ivory Coast,Africa,Bulgaria,Europe,2004,0
+Ivory Coast,Africa,Romania,Europe,2004,0
+Ivory Coast,Africa,Russia,Asia,2004,0
+Ivory Coast,Africa,Ukraine,Europe,2004,0
+Ivory Coast,Africa,Finland,Europe,2004,0
+Ivory Coast,Africa,Sweden,Europe,2004,0
+Ivory Coast,Africa,Norway,Europe,2004,0
+Ivory Coast,Africa,Denmark,Europe,2004,0
+Ivory Coast,Africa,South Africa,Africa,2004,0
+Ivory Coast,Africa,Turkey,Asia,2004,0
+Ivory Coast,Africa,Israel,Asia,2004,0
+Ivory Coast,Africa,United Arab Emirates,Asia,2004,0
+Ivory Coast,Africa,Taiwan,Asia,2004,0
+Ivory Coast,Africa,South Korea,Asia,2004,0
+Ivory Coast,Africa,Japan,Asia,2004,0
+Ivory Coast,Africa,India,Asia,2004,0
+Ivory Coast,Africa,Pakistan,Asia,2004,0
+Ivory Coast,Africa,Thailand,Asia,2004,0
+Ivory Coast,Africa,Malaysia,Asia,2004,0
+Ivory Coast,Africa,Singapore,Asia,2004,0
+Ivory Coast,Africa,Philippines,Asia,2004,0
+Ivory Coast,Africa,Indonesia,Asia,2004,0
+Ivory Coast,Africa,Australia,Oceania,2004,0
+Ivory Coast,Africa,Cyprus,Europe,2004,0
+Ivory Coast,Africa,China,Asia,2004,0
+Ivory Coast,Africa,Ivory Coast,Africa,2004,0
+Ivory Coast,Africa,Congo,Africa,2004,0
+Congo,Africa,United States,North America,2004,0
+Congo,Africa,Canada,North America,2004,0
+Congo,Africa,Mexico,North America,2004,0
+Congo,Africa,Brazil,South America,2004,0
+Congo,Africa,Argentina,South America,2004,0
+Congo,Africa,United Kingdom,Europe,2004,0
+Congo,Africa,Netherlands,Europe,2004,0
+Congo,Africa,Belgium,Europe,2004,0
+Congo,Africa,France,Europe,2004,0
+Congo,Africa,Switzerland,Europe,2004,0
+Congo,Africa,Spain,Europe,2004,0
+Congo,Africa,Portugal,Europe,2004,0
+Congo,Africa,Germany,Europe,2004,0
+Congo,Africa,Poland,Europe,2004,0
+Congo,Africa,Austria,Europe,2004,0
+Congo,Africa,Hungary,Europe,2004,0
+Congo,Africa,Czech Republic,Europe,2004,0
+Congo,Africa,Slovakia,Europe,2004,0
+Congo,Africa,Italy,Europe,2004,0
+Congo,Africa,Croatia,Europe,2004,0
+Congo,Africa,Serbia,Europe,2004,0
+Congo,Africa,Bosnia,Europe,2004,0
+Congo,Africa,Greece,Europe,2004,0
+Congo,Africa,Bulgaria,Europe,2004,0
+Congo,Africa,Romania,Europe,2004,0
+Congo,Africa,Russia,Asia,2004,0
+Congo,Africa,Ukraine,Europe,2004,0
+Congo,Africa,Finland,Europe,2004,0
+Congo,Africa,Sweden,Europe,2004,0
+Congo,Africa,Norway,Europe,2004,0
+Congo,Africa,Denmark,Europe,2004,0
+Congo,Africa,South Africa,Africa,2004,0
+Congo,Africa,Turkey,Asia,2004,0
+Congo,Africa,Israel,Asia,2004,0
+Congo,Africa,United Arab Emirates,Asia,2004,0
+Congo,Africa,Taiwan,Asia,2004,0
+Congo,Africa,South Korea,Asia,2004,0
+Congo,Africa,Japan,Asia,2004,0
+Congo,Africa,India,Asia,2004,0
+Congo,Africa,Pakistan,Asia,2004,0
+Congo,Africa,Thailand,Asia,2004,0
+Congo,Africa,Malaysia,Asia,2004,0
+Congo,Africa,Singapore,Asia,2004,0
+Congo,Africa,Philippines,Asia,2004,0
+Congo,Africa,Indonesia,Asia,2004,0
+Congo,Africa,Australia,Oceania,2004,0
+Congo,Africa,Cyprus,Europe,2004,0
+Congo,Africa,China,Asia,2004,0
+Congo,Africa,Ivory Coast,Africa,2004,0
+Congo,Africa,Congo,Africa,2004,0

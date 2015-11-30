@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Worldwide Arms and Ammunition Visual Analytics Tool</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./lib/jqueryUI/jquery-ui.css">
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/menuStyle.css" />
+    <link rel="stylesheet" href="css/slider.css">
+    <link rel="stylesheet" href="css/heatMapStyle.css">
+    <link rel="stylesheet" href="css/chordStyle.css">
+    <link rel="stylesheet" href="css/lineChartStyle.css">
+    <link rel="stylesheet" href="css/searchBar.css">
+    <link rel="stylesheet" href="css/iThing.css" type="text/css" />
+    <link rel="stylesheet" href="css/jquery-ui-slider-pips.css" type="text/css">
+    <link rel="stylesheet" href="css/sliderScale.css" type="text/css" />
+    <link rel="stylesheet" href="css/storyMode.css" type="text/css" />
+
+</head>
+
+
+<body class="bdy" onload="init()">
+
+    <!--libraries called here-->
+    <script src="lib/d3/d3.v3.min.js"></script>
+    <script src="lib/d3/d3.layout.cloud.js"></script>
+    <script src="lib/jquery/jquery-1.11.3.min.js"></script>
+    <!--script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script-->
+    <script src="lib/jqueryUI/jquery-ui.js"></script>
+    <script src="lib/jquery-cookie.js"></script>
+    <script src="lib/jQDateRangeSlider-min.js"></script>
+    <script src="lib/underscore.js"></script>
+
+
+    <!--Main Divllls declared here-->
+
+    <div id="infoPanel" class="clinfoPanel">
+        <div id="menuPanel" class="clMenuPanel">
+        </div>
+        <div id="vizPanel" class="clVizPanel"></div>
+    </div>
+    <div id="contentPanel" class="clContentPanel">
+        <div id="titlePanel" class="clTitlePanel">
+            <h1 class="clMainTitle" id="mainTitle">Worldwide Arms and Ammunition Trade</h1>
+        </div>
+        <div id="matrixPanel" class="clMatrixPanel">
+            <!--div id="mainSVG" class="clMainSVG"></div-->
+            <div id="hm-tooltip" class="hidden">
+                <p><span id="value"></p>
+            </div>
+            <div id="chord-tooltip" class="hidden">
+                <p><span id="value"></p>
+            </div>
+            <div id="lc-tooltip" class="hidden">
+                <p><span id="value"></p>
+            </div>
+            <!--div id="chart" style='overflow:auto; width:960px; height:960px;'></div-->
+            <div id="chart"></div>
+        </div>
+        <div id="sliderPanel" class="clSliderPanel">
+            <div id="sliderDouble" class="clSliderDouble">
+        </div>
+        </div>
+    </div>
+    
+
+    <!--script files declared here-->
+    <script src="js/uiSlider.js"></script>
+    <script src="js/contain.js"></script>
+    <script src="js/sliderScale.js"></script>
+    <!--script src="js/slider.js"></script-->
+    <script src="js/heatMap.js"></script>
+    <script src="js/chord.js"></script>
+    <script src="js/lineChart.js"></script>
+    <script src="js/mainFile.js"></script>
+    <script src="js/menu.js"></script>
+     
+</body>
+
+</html>

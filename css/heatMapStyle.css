@@ -1,0 +1,79 @@
+/* disable text selection */
+svg *::selection {
+	background: transparent;
+}
+
+svg *::-moz-selection {
+	background: transparent;
+}
+
+svg *::-webkit-selection {
+	background: transparent;
+}
+
+rect.cell-border {
+	stroke: #bfbfbf;
+	stroke-width: 0.3px;
+}
+
+rect.cell-hover {
+	stroke: #000;
+	stroke-width: 0.3px;
+}
+
+rect.cell-click {
+	fill: rgb(0, 204, 102);
+}
+
+text.mono {
+	font-size: 8pt;
+	font-family: Consolas, courier;
+	fill: #aaa;
+}
+
+text.hm-legend-text {
+	font-size: 9pt;
+	font-family: Consolas, courier;
+	fill: #aaa;
+}
+
+text.text-hover {
+	font-weight: bold;
+	font-size: 11pt;
+	fill: #000;
+}
+
+text.text-click {
+	font-size: 11pt; 
+	font-weight: bold;
+	fill: rgb(0, 204, 102);
+}
+
+#hm-tooltip {
+	color: white; 
+	opacity: .9;
+	background: #333;
+	padding: 5px;
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	position: absolute;
+	white-space: nowrap;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	pointer-events: none;
+}
+
+#hm-tooltip.hidden {
+	display: none;
+}
+
+#hm-tooltip p {
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+	text-align: center;
+}

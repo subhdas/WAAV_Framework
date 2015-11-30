@@ -1,0 +1,55 @@
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.x.axis path {
+    stroke: #000;
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+.lc-legend-text {
+    font-size: 9pt;
+    font-family: Consolas, courier;
+    fill: #000;
+}
+
+#lineSvg {
+    display: block;
+    margin: auto;
+}
+
+#lc-tooltip {
+	color: white;
+	font-family: sans-serif;
+	opacity: .9;
+	background: #333;
+	padding: 5px;
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	position: absolute;
+	z-index: 10;
+	visibility: hidden;
+	white-space: nowrap;
+	pointer-events: none;
+}
+
+.hover-line { 
+	stroke: #000;
+	fill: none;
+	stroke-width: 1px;
+	left: 10px;
+	shape-rendering: crispEdges;
+}
+
+.lc-selector {
+	pointer-events: all; 
+	fill: none;
+}

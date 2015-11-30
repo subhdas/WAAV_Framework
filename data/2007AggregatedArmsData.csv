@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,2007,0
+United States,North America,Canada,North America,2007,96659507
+United States,North America,Mexico,North America,2007,15790853
+United States,North America,Brazil,South America,2007,3670651
+United States,North America,Argentina,South America,2007,1902731
+United States,North America,United Kingdom,Europe,2007,22686179
+United States,North America,Netherlands,Europe,2007,1586033
+United States,North America,Belgium,Europe,2007,20669668
+United States,North America,France,Europe,2007,7825834
+United States,North America,Switzerland,Europe,2007,1636573
+United States,North America,Spain,Europe,2007,17121513
+United States,North America,Portugal,Europe,2007,214034
+United States,North America,Germany,Europe,2007,16378387
+United States,North America,Poland,Europe,2007,806562
+United States,North America,Austria,Europe,2007,1642084
+United States,North America,Hungary,Europe,2007,688384
+United States,North America,Czech Republic,Europe,2007,908239
+United States,North America,Slovakia,Europe,2007,114349
+United States,North America,Italy,Europe,2007,10465310
+United States,North America,Croatia,Europe,2007,220272
+United States,North America,Serbia,Europe,2007,116956
+United States,North America,Bosnia,Europe,2007,19469
+United States,North America,Greece,Europe,2007,1308984
+United States,North America,Bulgaria,Europe,2007,857623
+United States,North America,Romania,Europe,2007,95382
+United States,North America,Russia,Asia,2007,352757
+United States,North America,Ukraine,Europe,2007,1037302
+United States,North America,Finland,Europe,2007,2855927
+United States,North America,Sweden,Europe,2007,2537491
+United States,North America,Norway,Europe,2007,3268983
+United States,North America,Denmark,Europe,2007,6745531
+United States,North America,South Africa,Africa,2007,1915354
+United States,North America,Turkey,Asia,2007,2676340
+United States,North America,Israel,Asia,2007,32588162
+United States,North America,United Arab Emirates,Asia,2007,4117104
+United States,North America,Taiwan,Asia,2007,6270897
+United States,North America,South Korea,Asia,2007,4619384
+United States,North America,Japan,Asia,2007,11794914
+United States,North America,India,Asia,2007,99557
+United States,North America,Pakistan,Asia,2007,532939
+United States,North America,Thailand,Asia,2007,15672724
+United States,North America,Malaysia,Asia,2007,646842
+United States,North America,Singapore,Asia,2007,1827611
+United States,North America,Philippines,Asia,2007,2744520
+United States,North America,Indonesia,Asia,2007,408611
+United States,North America,Australia,Oceania,2007,32865146
+United States,North America,Cyprus,Europe,2007,39077
+United States,North America,China,Asia,2007,791044
+United States,North America,Ivory Coast,Africa,2007,113592
+United States,North America,Congo,Africa,2007,0
+Canada,North America,United States,North America,2007,71047903
+Canada,North America,Canada,North America,2007,221684
+Canada,North America,Mexico,North America,2007,2240
+Canada,North America,Brazil,South America,2007,41250
+Canada,North America,Argentina,South America,2007,52503
+Canada,North America,United Kingdom,Europe,2007,7571876
+Canada,North America,Netherlands,Europe,2007,2187710
+Canada,North America,Belgium,Europe,2007,818460
+Canada,North America,France,Europe,2007,1990183
+Canada,North America,Switzerland,Europe,2007,1591199
+Canada,North America,Spain,Europe,2007,265167
+Canada,North America,Portugal,Europe,2007,46077
+Canada,North America,Germany,Europe,2007,811708
+Canada,North America,Poland,Europe,2007,264014
+Canada,North America,Austria,Europe,2007,25135
+Canada,North America,Hungary,Europe,2007,21217
+Canada,North America,Czech Republic,Europe,2007,80631
+Canada,North America,Slovakia,Europe,2007,28655
+Canada,North America,Italy,Europe,2007,205950
+Canada,North America,Croatia,Europe,2007,11471
+Canada,North America,Serbia,Europe,2007,0
+Canada,North America,Bosnia,Europe,2007,0
+Canada,North America,Greece,Europe,2007,7978
+Canada,North America,Bulgaria,Europe,2007,78176
+Canada,North America,Romania,Europe,2007,17471
+Canada,North America,Russia,Asia,2007,2290
+Canada,North America,Ukraine,Europe,2007,0
+Canada,North America,Finland,Europe,2007,111570
+Canada,North America,Sweden,Europe,2007,178183
+Canada,North America,Norway,Europe,2007,1189930
+Canada,North America,Denmark,Europe,2007,5047100
+Canada,North America,South Africa,Africa,2007,0
+Canada,North America,Turkey,Asia,2007,955
+Canada,North America,Israel,Asia,2007,281685
+Canada,North America,United Arab Emirates,Asia,2007,65720
+Canada,North America,Taiwan,Asia,2007,65718
+Canada,North America,South Korea,Asia,2007,14705
+Canada,North America,Japan,Asia,2007,104420
+Canada,North America,India,Asia,2007,0
+Canada,North America,Pakistan,Asia,2007,32566
+Canada,North America,Thailand,Asia,2007,428695
+Canada,North America,Malaysia,Asia,2007,0
+Canada,North America,Singapore,Asia,2007,70846
+Canada,North America,Philippines,Asia,2007,87199
+Canada,North America,Indonesia,Asia,2007,0
+Canada,North America,Australia,Oceania,2007,417284
+Canada,North America,Cyprus,Europe,2007,0
+Canada,North America,China,Asia,2007,290013
+Canada,North America,Ivory Coast,Africa,2007,0
+Canada,North America,Congo,Africa,2007,0
+Mexico,North America,United States,North America,2007,3253478
+Mexico,North America,Canada,North America,2007,3965
+Mexico,North America,Mexico,North America,2007,0
+Mexico,North America,Brazil,South America,2007,0
+Mexico,North America,Argentina,South America,2007,0
+Mexico,North America,United Kingdom,Europe,2007,0
+Mexico,North America,Netherlands,Europe,2007,0
+Mexico,North America,Belgium,Europe,2007,0
+Mexico,North America,France,Europe,2007,214001
+Mexico,North America,Switzerland,Europe,2007,0
+Mexico,North America,Spain,Europe,2007,112127
+Mexico,North America,Portugal,Europe,2007,0
+Mexico,North America,Germany,Europe,2007,515606
+Mexico,North America,Poland,Europe,2007,0
+Mexico,North America,Austria,Europe,2007,0
+Mexico,North America,Hungary,Europe,2007,0
+Mexico,North America,Czech Republic,Europe,2007,39951
+Mexico,North America,Slovakia,Europe,2007,0
+Mexico,North America,Italy,Europe,2007,8
+Mexico,North America,Croatia,Europe,2007,0
+Mexico,North America,Serbia,Europe,2007,0
+Mexico,North America,Bosnia,Europe,2007,0
+Mexico,North America,Greece,Europe,2007,0
+Mexico,North America,Bulgaria,Europe,2007,0
+Mexico,North America,Romania,Europe,2007,0
+Mexico,North America,Russia,Asia,2007,0
+Mexico,North America,Ukraine,Europe,2007,0
+Mexico,North America,Finland,Europe,2007,0
+Mexico,North America,Sweden,Europe,2007,0
+Mexico,North America,Norway,Europe,2007,0
+Mexico,North America,Denmark,Europe,2007,0
+Mexico,North America,South Africa,Africa,2007,0
+Mexico,North America,Turkey,Asia,2007,0
+Mexico,North America,Israel,Asia,2007,0
+Mexico,North America,United Arab Emirates,Asia,2007,0
+Mexico,North America,Taiwan,Asia,2007,0
+Mexico,North America,South Korea,Asia,2007,0
+Mexico,North America,Japan,Asia,2007,0
+Mexico,North America,India,Asia,2007,0
+Mexico,North America,Pakistan,Asia,2007,0
+Mexico,North America,Thailand,Asia,2007,0
+Mexico,North America,Malaysia,Asia,2007,0
+Mexico,North America,Singapore,Asia,2007,0
+Mexico,North America,Philippines,Asia,2007,0
+Mexico,North America,Indonesia,Asia,2007,0
+Mexico,North America,Australia,Oceania,2007,41378
+Mexico,North America,Cyprus,Europe,2007,0
+Mexico,North America,China,Asia,2007,0
+Mexico,North America,Ivory Coast,Africa,2007,0
+Mexico,North America,Congo,Africa,2007,0
+Brazil,South America,United States,North America,2007,151983618
+Brazil,South America,Canada,North America,2007,1389316
+Brazil,South America,Mexico,North America,2007,564435
+Brazil,South America,Brazil,South America,2007,0
+Brazil,South America,Argentina,South America,2007,6332324
+Brazil,South America,United Kingdom,Europe,2007,13731572
+Brazil,South America,Netherlands,Europe,2007,4745930
+Brazil,South America,Belgium,Europe,2007,8859240
+Brazil,South America,France,Europe,2007,865845
+Brazil,South America,Switzerland,Europe,2007,1087053
+Brazil,South America,Spain,Europe,2007,2168776
+Brazil,South America,Portugal,Europe,2007,507603
+Brazil,South America,Germany,Europe,2007,13268369
+Brazil,South America,Poland,Europe,2007,148596
+Brazil,South America,Austria,Europe,2007,21612
+Brazil,South America,Hungary,Europe,2007,0
+Brazil,South America,Czech Republic,Europe,2007,575352
+Brazil,South America,Slovakia,Europe,2007,34226
+Brazil,South America,Italy,Europe,2007,683158
+Brazil,South America,Croatia,Europe,2007,0
+Brazil,South America,Serbia,Europe,2007,260
+Brazil,South America,Bosnia,Europe,2007,440
+Brazil,South America,Greece,Europe,2007,45739
+Brazil,South America,Bulgaria,Europe,2007,221652
+Brazil,South America,Romania,Europe,2007,5584
+Brazil,South America,Russia,Asia,2007,18441
+Brazil,South America,Ukraine,Europe,2007,0
+Brazil,South America,Finland,Europe,2007,630459
+Brazil,South America,Sweden,Europe,2007,519328
+Brazil,South America,Norway,Europe,2007,671
+Brazil,South America,Denmark,Europe,2007,189338
+Brazil,South America,South Africa,Africa,2007,107388
+Brazil,South America,Turkey,Asia,2007,373125
+Brazil,South America,Israel,Asia,2007,917491
+Brazil,South America,United Arab Emirates,Asia,2007,533119
+Brazil,South America,Taiwan,Asia,2007,480
+Brazil,South America,South Korea,Asia,2007,0
+Brazil,South America,Japan,Asia,2007,0
+Brazil,South America,India,Asia,2007,9004
+Brazil,South America,Pakistan,Asia,2007,1870345
+Brazil,South America,Thailand,Asia,2007,1020456
+Brazil,South America,Malaysia,Asia,2007,15922
+Brazil,South America,Singapore,Asia,2007,2794815
+Brazil,South America,Philippines,Asia,2007,2308743
+Brazil,South America,Indonesia,Asia,2007,2055805
+Brazil,South America,Australia,Oceania,2007,494904
+Brazil,South America,Cyprus,Europe,2007,15482
+Brazil,South America,China,Asia,2007,0
+Brazil,South America,Ivory Coast,Africa,2007,0
+Brazil,South America,Congo,Africa,2007,0
+Argentina,South America,United States,North America,2007,8367306
+Argentina,South America,Canada,North America,2007,0
+Argentina,South America,Mexico,North America,2007,0
+Argentina,South America,Brazil,South America,2007,0
+Argentina,South America,Argentina,South America,2007,0
+Argentina,South America,United Kingdom,Europe,2007,0
+Argentina,South America,Netherlands,Europe,2007,0
+Argentina,South America,Belgium,Europe,2007,0
+Argentina,South America,France,Europe,2007,0
+Argentina,South America,Switzerland,Europe,2007,0
+Argentina,South America,Spain,Europe,2007,0
+Argentina,South America,Portugal,Europe,2007,0
+Argentina,South America,Germany,Europe,2007,1387
+Argentina,South America,Poland,Europe,2007,0
+Argentina,South America,Austria,Europe,2007,0
+Argentina,South America,Hungary,Europe,2007,0
+Argentina,South America,Czech Republic,Europe,2007,0
+Argentina,South America,Slovakia,Europe,2007,0
+Argentina,South America,Italy,Europe,2007,0
+Argentina,South America,Croatia,Europe,2007,0
+Argentina,South America,Serbia,Europe,2007,0
+Argentina,South America,Bosnia,Europe,2007,0
+Argentina,South America,Greece,Europe,2007,0
+Argentina,South America,Bulgaria,Europe,2007,0
+Argentina,South America,Romania,Europe,2007,0
+Argentina,South America,Russia,Asia,2007,0
+Argentina,South America,Ukraine,Europe,2007,0
+Argentina,South America,Finland,Europe,2007,0
+Argentina,South America,Sweden,Europe,2007,0
+Argentina,South America,Norway,Europe,2007,0
+Argentina,South America,Denmark,Europe,2007,0
+Argentina,South America,South Africa,Africa,2007,0
+Argentina,South America,Turkey,Asia,2007,0
+Argentina,South America,Israel,Asia,2007,0
+Argentina,South America,United Arab Emirates,Asia,2007,0
+Argentina,South America,Taiwan,Asia,2007,0
+Argentina,South America,South Korea,Asia,2007,0
+Argentina,South America,Japan,Asia,2007,0
+Argentina,South America,India,Asia,2007,0
+Argentina,South America,Pakistan,Asia,2007,0
+Argentina,South America,Thailand,Asia,2007,0
+Argentina,South America,Malaysia,Asia,2007,0
+Argentina,South America,Singapore,Asia,2007,0
+Argentina,South America,Philippines,Asia,2007,352865
+Argentina,South America,Indonesia,Asia,2007,0
+Argentina,South America,Australia,Oceania,2007,0
+Argentina,South America,Cyprus,Europe,2007,0
+Argentina,South America,China,Asia,2007,0
+Argentina,South America,Ivory Coast,Africa,2007,0
+Argentina,South America,Congo,Africa,2007,0
+United Kingdom,Europe,United States,North America,2007,204039721
+United Kingdom,Europe,Canada,North America,2007,2497764
+United Kingdom,Europe,Mexico,North America,2007,22385
+United Kingdom,Europe,Brazil,South America,2007,338587
+United Kingdom,Europe,Argentina,South America,2007,104555
+United Kingdom,Europe,United Kingdom,Europe,2007,10465826
+United Kingdom,Europe,Netherlands,Europe,2007,2344954
+United Kingdom,Europe,Belgium,Europe,2007,1082778
+United Kingdom,Europe,France,Europe,2007,1477006
+United Kingdom,Europe,Switzerland,Europe,2007,1038060
+United Kingdom,Europe,Spain,Europe,2007,1940253
+United Kingdom,Europe,Portugal,Europe,2007,192620
+United Kingdom,Europe,Germany,Europe,2007,1970569
+United Kingdom,Europe,Poland,Europe,2007,447621
+United Kingdom,Europe,Austria,Europe,2007,33757
+United Kingdom,Europe,Hungary,Europe,2007,32851
+United Kingdom,Europe,Czech Republic,Europe,2007,325040
+United Kingdom,Europe,Slovakia,Europe,2007,131712
+United Kingdom,Europe,Italy,Europe,2007,759491
+United Kingdom,Europe,Croatia,Europe,2007,0
+United Kingdom,Europe,Serbia,Europe,2007,0
+United Kingdom,Europe,Bosnia,Europe,2007,693
+United Kingdom,Europe,Greece,Europe,2007,29484
+United Kingdom,Europe,Bulgaria,Europe,2007,94572
+United Kingdom,Europe,Romania,Europe,2007,2690
+United Kingdom,Europe,Russia,Asia,2007,114786
+United Kingdom,Europe,Ukraine,Europe,2007,165172
+United Kingdom,Europe,Finland,Europe,2007,731685
+United Kingdom,Europe,Sweden,Europe,2007,611376
+United Kingdom,Europe,Norway,Europe,2007,2224004
+United Kingdom,Europe,Denmark,Europe,2007,3995944
+United Kingdom,Europe,South Africa,Africa,2007,222941
+United Kingdom,Europe,Turkey,Asia,2007,1649527
+United Kingdom,Europe,Israel,Asia,2007,48706
+United Kingdom,Europe,United Arab Emirates,Asia,2007,1108325
+United Kingdom,Europe,Taiwan,Asia,2007,24120
+United Kingdom,Europe,South Korea,Asia,2007,1016721
+United Kingdom,Europe,Japan,Asia,2007,3482596
+United Kingdom,Europe,India,Asia,2007,53936
+United Kingdom,Europe,Pakistan,Asia,2007,1559418
+United Kingdom,Europe,Thailand,Asia,2007,404018
+United Kingdom,Europe,Malaysia,Asia,2007,85887
+United Kingdom,Europe,Singapore,Asia,2007,973646
+United Kingdom,Europe,Philippines,Asia,2007,26164
+United Kingdom,Europe,Indonesia,Asia,2007,41927
+United Kingdom,Europe,Australia,Oceania,2007,1710878
+United Kingdom,Europe,Cyprus,Europe,2007,591419
+United Kingdom,Europe,China,Asia,2007,632906
+United Kingdom,Europe,Ivory Coast,Africa,2007,0
+United Kingdom,Europe,Congo,Africa,2007,0
+Netherlands,Europe,United States,North America,2007,258146
+Netherlands,Europe,Canada,North America,2007,5979
+Netherlands,Europe,Mexico,North America,2007,0
+Netherlands,Europe,Brazil,South America,2007,9240
+Netherlands,Europe,Argentina,South America,2007,0
+Netherlands,Europe,United Kingdom,Europe,2007,128446
+Netherlands,Europe,Netherlands,Europe,2007,2634
+Netherlands,Europe,Belgium,Europe,2007,341070
+Netherlands,Europe,France,Europe,2007,52605
+Netherlands,Europe,Switzerland,Europe,2007,64798
+Netherlands,Europe,Spain,Europe,2007,66251
+Netherlands,Europe,Portugal,Europe,2007,1120
+Netherlands,Europe,Germany,Europe,2007,392462
+Netherlands,Europe,Poland,Europe,2007,7670
+Netherlands,Europe,Austria,Europe,2007,32358
+Netherlands,Europe,Hungary,Europe,2007,9762
+Netherlands,Europe,Czech Republic,Europe,2007,24641
+Netherlands,Europe,Slovakia,Europe,2007,0
+Netherlands,Europe,Italy,Europe,2007,6296
+Netherlands,Europe,Croatia,Europe,2007,0
+Netherlands,Europe,Serbia,Europe,2007,0
+Netherlands,Europe,Bosnia,Europe,2007,0
+Netherlands,Europe,Greece,Europe,2007,97992
+Netherlands,Europe,Bulgaria,Europe,2007,7310
+Netherlands,Europe,Romania,Europe,2007,14914
+Netherlands,Europe,Russia,Asia,2007,0
+Netherlands,Europe,Ukraine,Europe,2007,0
+Netherlands,Europe,Finland,Europe,2007,5411
+Netherlands,Europe,Sweden,Europe,2007,28312
+Netherlands,Europe,Norway,Europe,2007,57449
+Netherlands,Europe,Denmark,Europe,2007,26658
+Netherlands,Europe,South Africa,Africa,2007,0
+Netherlands,Europe,Turkey,Asia,2007,1472
+Netherlands,Europe,Israel,Asia,2007,0
+Netherlands,Europe,United Arab Emirates,Asia,2007,2525
+Netherlands,Europe,Taiwan,Asia,2007,0
+Netherlands,Europe,South Korea,Asia,2007,3201
+Netherlands,Europe,Japan,Asia,2007,0
+Netherlands,Europe,India,Asia,2007,0
+Netherlands,Europe,Pakistan,Asia,2007,0
+Netherlands,Europe,Thailand,Asia,2007,0
+Netherlands,Europe,Malaysia,Asia,2007,0
+Netherlands,Europe,Singapore,Asia,2007,0
+Netherlands,Europe,Philippines,Asia,2007,0
+Netherlands,Europe,Indonesia,Asia,2007,0
+Netherlands,Europe,Australia,Oceania,2007,8924
+Netherlands,Europe,Cyprus,Europe,2007,0
+Netherlands,Europe,China,Asia,2007,0
+Netherlands,Europe,Ivory Coast,Africa,2007,0
+Netherlands,Europe,Congo,Africa,2007,0
+Belgium,Europe,United States,North America,2007,38758742
+Belgium,Europe,Canada,North America,2007,1415043
+Belgium,Europe,Mexico,North America,2007,1388478
+Belgium,Europe,Brazil,South America,2007,33835
+Belgium,Europe,Argentina,South America,2007,0
+Belgium,Europe,United Kingdom,Europe,2007,9226761
+Belgium,Europe,Netherlands,Europe,2007,1628015
+Belgium,Europe,Belgium,Europe,2007,0
+Belgium,Europe,France,Europe,2007,25940990
+Belgium,Europe,Switzerland,Europe,2007,857503
+Belgium,Europe,Spain,Europe,2007,7025953
+Belgium,Europe,Portugal,Europe,2007,1111170
+Belgium,Europe,Germany,Europe,2007,3723890
+Belgium,Europe,Poland,Europe,2007,139582
+Belgium,Europe,Austria,Europe,2007,2836379
+Belgium,Europe,Hungary,Europe,2007,125073
+Belgium,Europe,Czech Republic,Europe,2007,237134
+Belgium,Europe,Slovakia,Europe,2007,0
+Belgium,Europe,Italy,Europe,2007,7305679
+Belgium,Europe,Croatia,Europe,2007,25281
+Belgium,Europe,Serbia,Europe,2007,187184
+Belgium,Europe,Bosnia,Europe,2007,0
+Belgium,Europe,Greece,Europe,2007,1217486
+Belgium,Europe,Bulgaria,Europe,2007,169612
+Belgium,Europe,Romania,Europe,2007,0
+Belgium,Europe,Russia,Asia,2007,824141
+Belgium,Europe,Ukraine,Europe,2007,8342
+Belgium,Europe,Finland,Europe,2007,446872
+Belgium,Europe,Sweden,Europe,2007,1216138
+Belgium,Europe,Norway,Europe,2007,449364
+Belgium,Europe,Denmark,Europe,2007,971508
+Belgium,Europe,South Africa,Africa,2007,0
+Belgium,Europe,Turkey,Asia,2007,271305
+Belgium,Europe,Israel,Asia,2007,0
+Belgium,Europe,United Arab Emirates,Asia,2007,135762
+Belgium,Europe,Taiwan,Asia,2007,0
+Belgium,Europe,South Korea,Asia,2007,106358
+Belgium,Europe,Japan,Asia,2007,393077
+Belgium,Europe,India,Asia,2007,0
+Belgium,Europe,Pakistan,Asia,2007,81968
+Belgium,Europe,Thailand,Asia,2007,30041
+Belgium,Europe,Malaysia,Asia,2007,0
+Belgium,Europe,Singapore,Asia,2007,0
+Belgium,Europe,Philippines,Asia,2007,1007
+Belgium,Europe,Indonesia,Asia,2007,2684437
+Belgium,Europe,Australia,Oceania,2007,2382500
+Belgium,Europe,Cyprus,Europe,2007,388308
+Belgium,Europe,China,Asia,2007,0
+Belgium,Europe,Ivory Coast,Africa,2007,0
+Belgium,Europe,Congo,Africa,2007,0
+France,Europe,United States,North America,2007,4475172
+France,Europe,Canada,North America,2007,840855
+France,Europe,Mexico,North America,2007,52715
+France,Europe,Brazil,South America,2007,5857
+France,Europe,Argentina,South America,2007,0
+France,Europe,United Kingdom,Europe,2007,2984023
+France,Europe,Netherlands,Europe,2007,767433
+France,Europe,Belgium,Europe,2007,2056086
+France,Europe,France,Europe,2007,307579
+France,Europe,Switzerland,Europe,2007,417262
+France,Europe,Spain,Europe,2007,4110431
+France,Europe,Portugal,Europe,2007,317876
+France,Europe,Germany,Europe,2007,4456505
+France,Europe,Poland,Europe,2007,319208
+France,Europe,Austria,Europe,2007,163151
+France,Europe,Hungary,Europe,2007,42465
+France,Europe,Czech Republic,Europe,2007,41272
+France,Europe,Slovakia,Europe,2007,48367
+France,Europe,Italy,Europe,2007,448943
+France,Europe,Croatia,Europe,2007,138852
+France,Europe,Serbia,Europe,2007,390
+France,Europe,Bosnia,Europe,2007,0
+France,Europe,Greece,Europe,2007,253340
+France,Europe,Bulgaria,Europe,2007,165468
+France,Europe,Romania,Europe,2007,100729
+France,Europe,Russia,Asia,2007,288968
+France,Europe,Ukraine,Europe,2007,67357
+France,Europe,Finland,Europe,2007,320890
+France,Europe,Sweden,Europe,2007,35662
+France,Europe,Norway,Europe,2007,1414896
+France,Europe,Denmark,Europe,2007,10026050
+France,Europe,South Africa,Africa,2007,8785
+France,Europe,Turkey,Asia,2007,97356
+France,Europe,Israel,Asia,2007,70287
+France,Europe,United Arab Emirates,Asia,2007,150716
+France,Europe,Taiwan,Asia,2007,0
+France,Europe,South Korea,Asia,2007,82871
+France,Europe,Japan,Asia,2007,2207762
+France,Europe,India,Asia,2007,0
+France,Europe,Pakistan,Asia,2007,0
+France,Europe,Thailand,Asia,2007,207937
+France,Europe,Malaysia,Asia,2007,0
+France,Europe,Singapore,Asia,2007,0
+France,Europe,Philippines,Asia,2007,0
+France,Europe,Indonesia,Asia,2007,177183
+France,Europe,Australia,Oceania,2007,292759
+France,Europe,Cyprus,Europe,2007,361687
+France,Europe,China,Asia,2007,3846
+France,Europe,Ivory Coast,Africa,2007,10602
+France,Europe,Congo,Africa,2007,20499
+Switzerland,Europe,United States,North America,2007,2874983
+Switzerland,Europe,Canada,North America,2007,260743
+Switzerland,Europe,Mexico,North America,2007,4393
+Switzerland,Europe,Brazil,South America,2007,2674
+Switzerland,Europe,Argentina,South America,2007,575
+Switzerland,Europe,United Kingdom,Europe,2007,395633
+Switzerland,Europe,Netherlands,Europe,2007,21338303
+Switzerland,Europe,Belgium,Europe,2007,294143
+Switzerland,Europe,France,Europe,2007,6978607
+Switzerland,Europe,Switzerland,Europe,2007,0
+Switzerland,Europe,Spain,Europe,2007,4273578
+Switzerland,Europe,Portugal,Europe,2007,48577
+Switzerland,Europe,Germany,Europe,2007,12217206
+Switzerland,Europe,Poland,Europe,2007,5193342
+Switzerland,Europe,Austria,Europe,2007,792317
+Switzerland,Europe,Hungary,Europe,2007,191939
+Switzerland,Europe,Czech Republic,Europe,2007,278431
+Switzerland,Europe,Slovakia,Europe,2007,94785
+Switzerland,Europe,Italy,Europe,2007,1367231
+Switzerland,Europe,Croatia,Europe,2007,1605
+Switzerland,Europe,Serbia,Europe,2007,247
+Switzerland,Europe,Bosnia,Europe,2007,40361
+Switzerland,Europe,Greece,Europe,2007,572335
+Switzerland,Europe,Bulgaria,Europe,2007,103478
+Switzerland,Europe,Romania,Europe,2007,535509
+Switzerland,Europe,Russia,Asia,2007,87544
+Switzerland,Europe,Ukraine,Europe,2007,86622
+Switzerland,Europe,Finland,Europe,2007,85668
+Switzerland,Europe,Sweden,Europe,2007,258995
+Switzerland,Europe,Norway,Europe,2007,351122
+Switzerland,Europe,Denmark,Europe,2007,18099168
+Switzerland,Europe,South Africa,Africa,2007,506478
+Switzerland,Europe,Turkey,Asia,2007,5071
+Switzerland,Europe,Israel,Asia,2007,6259
+Switzerland,Europe,United Arab Emirates,Asia,2007,420736
+Switzerland,Europe,Taiwan,Asia,2007,0
+Switzerland,Europe,South Korea,Asia,2007,34567
+Switzerland,Europe,Japan,Asia,2007,823978
+Switzerland,Europe,India,Asia,2007,1060489
+Switzerland,Europe,Pakistan,Asia,2007,21920524
+Switzerland,Europe,Thailand,Asia,2007,5377
+Switzerland,Europe,Malaysia,Asia,2007,1410509
+Switzerland,Europe,Singapore,Asia,2007,871498
+Switzerland,Europe,Philippines,Asia,2007,13322
+Switzerland,Europe,Indonesia,Asia,2007,23230
+Switzerland,Europe,Australia,Oceania,2007,48710
+Switzerland,Europe,Cyprus,Europe,2007,1142532
+Switzerland,Europe,China,Asia,2007,119724
+Switzerland,Europe,Ivory Coast,Africa,2007,0
+Switzerland,Europe,Congo,Africa,2007,0
+Spain,Europe,United States,North America,2007,26649320
+Spain,Europe,Canada,North America,2007,417214
+Spain,Europe,Mexico,North America,2007,854574
+Spain,Europe,Brazil,South America,2007,732
+Spain,Europe,Argentina,South America,2007,142442
+Spain,Europe,United Kingdom,Europe,2007,7082950
+Spain,Europe,Netherlands,Europe,2007,166331
+Spain,Europe,Belgium,Europe,2007,186182
+Spain,Europe,France,Europe,2007,4081937
+Spain,Europe,Switzerland,Europe,2007,239887
+Spain,Europe,Spain,Europe,2007,0
+Spain,Europe,Portugal,Europe,2007,4269231
+Spain,Europe,Germany,Europe,2007,897016
+Spain,Europe,Poland,Europe,2007,381226
+Spain,Europe,Austria,Europe,2007,1045164
+Spain,Europe,Hungary,Europe,2007,9932
+Spain,Europe,Czech Republic,Europe,2007,1048976
+Spain,Europe,Slovakia,Europe,2007,29899
+Spain,Europe,Italy,Europe,2007,495421
+Spain,Europe,Croatia,Europe,2007,213
+Spain,Europe,Serbia,Europe,2007,2100
+Spain,Europe,Bosnia,Europe,2007,84051
+Spain,Europe,Greece,Europe,2007,1477661
+Spain,Europe,Bulgaria,Europe,2007,417722
+Spain,Europe,Romania,Europe,2007,25708
+Spain,Europe,Russia,Asia,2007,542038
+Spain,Europe,Ukraine,Europe,2007,493367
+Spain,Europe,Finland,Europe,2007,871852
+Spain,Europe,Sweden,Europe,2007,755008
+Spain,Europe,Norway,Europe,2007,3285649
+Spain,Europe,Denmark,Europe,2007,786077
+Spain,Europe,South Africa,Africa,2007,419311
+Spain,Europe,Turkey,Asia,2007,2508318
+Spain,Europe,Israel,Asia,2007,247730
+Spain,Europe,United Arab Emirates,Asia,2007,48410
+Spain,Europe,Taiwan,Asia,2007,77583
+Spain,Europe,South Korea,Asia,2007,313440
+Spain,Europe,Japan,Asia,2007,917503
+Spain,Europe,India,Asia,2007,0
+Spain,Europe,Pakistan,Asia,2007,200870
+Spain,Europe,Thailand,Asia,2007,120185
+Spain,Europe,Malaysia,Asia,2007,244474
+Spain,Europe,Singapore,Asia,2007,0
+Spain,Europe,Philippines,Asia,2007,114727
+Spain,Europe,Indonesia,Asia,2007,26678
+Spain,Europe,Australia,Oceania,2007,1449096
+Spain,Europe,Cyprus,Europe,2007,402760
+Spain,Europe,China,Asia,2007,97745
+Spain,Europe,Ivory Coast,Africa,2007,0
+Spain,Europe,Congo,Africa,2007,0
+Portugal,Europe,United States,North America,2007,10656681
+Portugal,Europe,Canada,North America,2007,71620
+Portugal,Europe,Mexico,North America,2007,0
+Portugal,Europe,Brazil,South America,2007,0
+Portugal,Europe,Argentina,South America,2007,0
+Portugal,Europe,United Kingdom,Europe,2007,0
+Portugal,Europe,Netherlands,Europe,2007,0
+Portugal,Europe,Belgium,Europe,2007,13814457
+Portugal,Europe,France,Europe,2007,856835
+Portugal,Europe,Switzerland,Europe,2007,0
+Portugal,Europe,Spain,Europe,2007,1322442
+Portugal,Europe,Portugal,Europe,2007,0
+Portugal,Europe,Germany,Europe,2007,1728936
+Portugal,Europe,Poland,Europe,2007,77761
+Portugal,Europe,Austria,Europe,2007,225038
+Portugal,Europe,Hungary,Europe,2007,0
+Portugal,Europe,Czech Republic,Europe,2007,21633
+Portugal,Europe,Slovakia,Europe,2007,0
+Portugal,Europe,Italy,Europe,2007,760
+Portugal,Europe,Croatia,Europe,2007,34103
+Portugal,Europe,Serbia,Europe,2007,125488
+Portugal,Europe,Bosnia,Europe,2007,0
+Portugal,Europe,Greece,Europe,2007,271564
+Portugal,Europe,Bulgaria,Europe,2007,119617
+Portugal,Europe,Romania,Europe,2007,0
+Portugal,Europe,Russia,Asia,2007,22067
+Portugal,Europe,Ukraine,Europe,2007,114229
+Portugal,Europe,Finland,Europe,2007,151778
+Portugal,Europe,Sweden,Europe,2007,754592
+Portugal,Europe,Norway,Europe,2007,0
+Portugal,Europe,Denmark,Europe,2007,0
+Portugal,Europe,South Africa,Africa,2007,0
+Portugal,Europe,Turkey,Asia,2007,119712
+Portugal,Europe,Israel,Asia,2007,0
+Portugal,Europe,United Arab Emirates,Asia,2007,0
+Portugal,Europe,Taiwan,Asia,2007,0
+Portugal,Europe,South Korea,Asia,2007,65306
+Portugal,Europe,Japan,Asia,2007,215295
+Portugal,Europe,India,Asia,2007,0
+Portugal,Europe,Pakistan,Asia,2007,0
+Portugal,Europe,Thailand,Asia,2007,0
+Portugal,Europe,Malaysia,Asia,2007,0
+Portugal,Europe,Singapore,Asia,2007,0
+Portugal,Europe,Philippines,Asia,2007,0
+Portugal,Europe,Indonesia,Asia,2007,0
+Portugal,Europe,Australia,Oceania,2007,75545
+Portugal,Europe,Cyprus,Europe,2007,0
+Portugal,Europe,China,Asia,2007,0
+Portugal,Europe,Ivory Coast,Africa,2007,0
+Portugal,Europe,Congo,Africa,2007,0
+Germany,Europe,United States,North America,2007,64839925
+Germany,Europe,Canada,North America,2007,2274916
+Germany,Europe,Mexico,North America,2007,16699716
+Germany,Europe,Brazil,South America,2007,72564
+Germany,Europe,Argentina,South America,2007,78633
+Germany,Europe,United Kingdom,Europe,2007,13101631
+Germany,Europe,Netherlands,Europe,2007,9750314
+Germany,Europe,Belgium,Europe,2007,4098107
+Germany,Europe,France,Europe,2007,44180479
+Germany,Europe,Switzerland,Europe,2007,18576548
+Germany,Europe,Spain,Europe,2007,21378682
+Germany,Europe,Portugal,Europe,2007,1443432
+Germany,Europe,Germany,Europe,2007,0
+Germany,Europe,Poland,Europe,2007,5239225
+Germany,Europe,Austria,Europe,2007,11630009
+Germany,Europe,Hungary,Europe,2007,2319592
+Germany,Europe,Czech Republic,Europe,2007,3797474
+Germany,Europe,Slovakia,Europe,2007,1746505
+Germany,Europe,Italy,Europe,2007,9072383
+Germany,Europe,Croatia,Europe,2007,838705
+Germany,Europe,Serbia,Europe,2007,184475
+Germany,Europe,Bosnia,Europe,2007,2410169
+Germany,Europe,Greece,Europe,2007,1268990
+Germany,Europe,Bulgaria,Europe,2007,2058889
+Germany,Europe,Romania,Europe,2007,2898712
+Germany,Europe,Russia,Asia,2007,15132171
+Germany,Europe,Ukraine,Europe,2007,5476556
+Germany,Europe,Finland,Europe,2007,8467979
+Germany,Europe,Sweden,Europe,2007,6455623
+Germany,Europe,Norway,Europe,2007,8754906
+Germany,Europe,Denmark,Europe,2007,5964239
+Germany,Europe,South Africa,Africa,2007,647750
+Germany,Europe,Turkey,Asia,2007,5975918
+Germany,Europe,Israel,Asia,2007,81101
+Germany,Europe,United Arab Emirates,Asia,2007,4743020
+Germany,Europe,Taiwan,Asia,2007,53355
+Germany,Europe,South Korea,Asia,2007,748536
+Germany,Europe,Japan,Asia,2007,7501748
+Germany,Europe,India,Asia,2007,1974730
+Germany,Europe,Pakistan,Asia,2007,597803
+Germany,Europe,Thailand,Asia,2007,1121721
+Germany,Europe,Malaysia,Asia,2007,3037926
+Germany,Europe,Singapore,Asia,2007,242239
+Germany,Europe,Philippines,Asia,2007,709317
+Germany,Europe,Indonesia,Asia,2007,62607
+Germany,Europe,Australia,Oceania,2007,1900152
+Germany,Europe,Cyprus,Europe,2007,378743
+Germany,Europe,China,Asia,2007,469539
+Germany,Europe,Ivory Coast,Africa,2007,8111
+Germany,Europe,Congo,Africa,2007,119173
+Poland,Europe,United States,North America,2007,37179386
+Poland,Europe,Canada,North America,2007,251065
+Poland,Europe,Mexico,North America,2007,0
+Poland,Europe,Brazil,South America,2007,0
+Poland,Europe,Argentina,South America,2007,0
+Poland,Europe,United Kingdom,Europe,2007,0
+Poland,Europe,Netherlands,Europe,2007,0
+Poland,Europe,Belgium,Europe,2007,724
+Poland,Europe,France,Europe,2007,0
+Poland,Europe,Switzerland,Europe,2007,27075
+Poland,Europe,Spain,Europe,2007,0
+Poland,Europe,Portugal,Europe,2007,0
+Poland,Europe,Germany,Europe,2007,824484
+Poland,Europe,Poland,Europe,2007,0
+Poland,Europe,Austria,Europe,2007,142999
+Poland,Europe,Hungary,Europe,2007,2561
+Poland,Europe,Czech Republic,Europe,2007,182684
+Poland,Europe,Slovakia,Europe,2007,11130
+Poland,Europe,Italy,Europe,2007,5128
+Poland,Europe,Croatia,Europe,2007,0
+Poland,Europe,Serbia,Europe,2007,0
+Poland,Europe,Bosnia,Europe,2007,0
+Poland,Europe,Greece,Europe,2007,7170
+Poland,Europe,Bulgaria,Europe,2007,0
+Poland,Europe,Romania,Europe,2007,247
+Poland,Europe,Russia,Asia,2007,10435
+Poland,Europe,Ukraine,Europe,2007,41227
+Poland,Europe,Finland,Europe,2007,327717
+Poland,Europe,Sweden,Europe,2007,4627
+Poland,Europe,Norway,Europe,2007,1428340
+Poland,Europe,Denmark,Europe,2007,0
+Poland,Europe,South Africa,Africa,2007,0
+Poland,Europe,Turkey,Asia,2007,0
+Poland,Europe,Israel,Asia,2007,1095390
+Poland,Europe,United Arab Emirates,Asia,2007,0
+Poland,Europe,Taiwan,Asia,2007,0
+Poland,Europe,South Korea,Asia,2007,0
+Poland,Europe,Japan,Asia,2007,0
+Poland,Europe,India,Asia,2007,3167759
+Poland,Europe,Pakistan,Asia,2007,0
+Poland,Europe,Thailand,Asia,2007,0
+Poland,Europe,Malaysia,Asia,2007,802902
+Poland,Europe,Singapore,Asia,2007,0
+Poland,Europe,Philippines,Asia,2007,0
+Poland,Europe,Indonesia,Asia,2007,12472590
+Poland,Europe,Australia,Oceania,2007,0
+Poland,Europe,Cyprus,Europe,2007,0
+Poland,Europe,China,Asia,2007,0
+Poland,Europe,Ivory Coast,Africa,2007,0
+Poland,Europe,Congo,Africa,2007,0
+Austria,Europe,United States,North America,2007,96326281
+Austria,Europe,Canada,North America,2007,1656430
+Austria,Europe,Mexico,North America,2007,3678864
+Austria,Europe,Brazil,South America,2007,602791
+Austria,Europe,Argentina,South America,2007,278229
+Austria,Europe,United Kingdom,Europe,2007,647153
+Austria,Europe,Netherlands,Europe,2007,151742
+Austria,Europe,Belgium,Europe,2007,186997
+Austria,Europe,France,Europe,2007,1134942
+Austria,Europe,Switzerland,Europe,2007,5803116
+Austria,Europe,Spain,Europe,2007,2514895
+Austria,Europe,Portugal,Europe,2007,222992
+Austria,Europe,Germany,Europe,2007,2155306
+Austria,Europe,Poland,Europe,2007,5177124
+Austria,Europe,Austria,Europe,2007,0
+Austria,Europe,Hungary,Europe,2007,814179
+Austria,Europe,Czech Republic,Europe,2007,1190923
+Austria,Europe,Slovakia,Europe,2007,285110
+Austria,Europe,Italy,Europe,2007,2069473
+Austria,Europe,Croatia,Europe,2007,1035993
+Austria,Europe,Serbia,Europe,2007,345578
+Austria,Europe,Bosnia,Europe,2007,722027
+Austria,Europe,Greece,Europe,2007,48507
+Austria,Europe,Bulgaria,Europe,2007,794451
+Austria,Europe,Romania,Europe,2007,1149066
+Austria,Europe,Russia,Asia,2007,2254184
+Austria,Europe,Ukraine,Europe,2007,1065443
+Austria,Europe,Finland,Europe,2007,391027
+Austria,Europe,Sweden,Europe,2007,2827756
+Austria,Europe,Norway,Europe,2007,132275
+Austria,Europe,Denmark,Europe,2007,292839
+Austria,Europe,South Africa,Africa,2007,55390
+Austria,Europe,Turkey,Asia,2007,477142
+Austria,Europe,Israel,Asia,2007,3582
+Austria,Europe,United Arab Emirates,Asia,2007,246359
+Austria,Europe,Taiwan,Asia,2007,43934
+Austria,Europe,South Korea,Asia,2007,6779
+Austria,Europe,Japan,Asia,2007,210376
+Austria,Europe,India,Asia,2007,436807
+Austria,Europe,Pakistan,Asia,2007,37247
+Austria,Europe,Thailand,Asia,2007,7724393
+Austria,Europe,Malaysia,Asia,2007,97740
+Austria,Europe,Singapore,Asia,2007,29516
+Austria,Europe,Philippines,Asia,2007,1194324
+Austria,Europe,Indonesia,Asia,2007,333834
+Austria,Europe,Australia,Oceania,2007,726537
+Austria,Europe,Cyprus,Europe,2007,5764
+Austria,Europe,China,Asia,2007,0
+Austria,Europe,Ivory Coast,Africa,2007,0
+Austria,Europe,Congo,Africa,2007,0
+Hungary,Europe,United States,North America,2007,8896719
+Hungary,Europe,Canada,North America,2007,27499
+Hungary,Europe,Mexico,North America,2007,0
+Hungary,Europe,Brazil,South America,2007,0
+Hungary,Europe,Argentina,South America,2007,0
+Hungary,Europe,United Kingdom,Europe,2007,3992
+Hungary,Europe,Netherlands,Europe,2007,0
+Hungary,Europe,Belgium,Europe,2007,18383
+Hungary,Europe,France,Europe,2007,443795
+Hungary,Europe,Switzerland,Europe,2007,38331
+Hungary,Europe,Spain,Europe,2007,0
+Hungary,Europe,Portugal,Europe,2007,0
+Hungary,Europe,Germany,Europe,2007,747400
+Hungary,Europe,Poland,Europe,2007,7444
+Hungary,Europe,Austria,Europe,2007,26981
+Hungary,Europe,Hungary,Europe,2007,0
+Hungary,Europe,Czech Republic,Europe,2007,368346
+Hungary,Europe,Slovakia,Europe,2007,47804
+Hungary,Europe,Italy,Europe,2007,198126
+Hungary,Europe,Croatia,Europe,2007,4009
+Hungary,Europe,Serbia,Europe,2007,0
+Hungary,Europe,Bosnia,Europe,2007,0
+Hungary,Europe,Greece,Europe,2007,0
+Hungary,Europe,Bulgaria,Europe,2007,25291
+Hungary,Europe,Romania,Europe,2007,1882993
+Hungary,Europe,Russia,Asia,2007,0
+Hungary,Europe,Ukraine,Europe,2007,0
+Hungary,Europe,Finland,Europe,2007,124895
+Hungary,Europe,Sweden,Europe,2007,0
+Hungary,Europe,Norway,Europe,2007,0
+Hungary,Europe,Denmark,Europe,2007,0
+Hungary,Europe,South Africa,Africa,2007,0
+Hungary,Europe,Turkey,Asia,2007,67483
+Hungary,Europe,Israel,Asia,2007,5186
+Hungary,Europe,United Arab Emirates,Asia,2007,0
+Hungary,Europe,Taiwan,Asia,2007,0
+Hungary,Europe,South Korea,Asia,2007,0
+Hungary,Europe,Japan,Asia,2007,485504
+Hungary,Europe,India,Asia,2007,0
+Hungary,Europe,Pakistan,Asia,2007,0
+Hungary,Europe,Thailand,Asia,2007,0
+Hungary,Europe,Malaysia,Asia,2007,0
+Hungary,Europe,Singapore,Asia,2007,0
+Hungary,Europe,Philippines,Asia,2007,0
+Hungary,Europe,Indonesia,Asia,2007,0
+Hungary,Europe,Australia,Oceania,2007,12751
+Hungary,Europe,Cyprus,Europe,2007,0
+Hungary,Europe,China,Asia,2007,0
+Hungary,Europe,Ivory Coast,Africa,2007,0
+Hungary,Europe,Congo,Africa,2007,0
+Czech Republic,Europe,United States,North America,2007,25040699
+Czech Republic,Europe,Canada,North America,2007,1337919
+Czech Republic,Europe,Mexico,North America,2007,1313247
+Czech Republic,Europe,Brazil,South America,2007,50617
+Czech Republic,Europe,Argentina,South America,2007,205570
+Czech Republic,Europe,United Kingdom,Europe,2007,2142639
+Czech Republic,Europe,Netherlands,Europe,2007,226398
+Czech Republic,Europe,Belgium,Europe,2007,657534
+Czech Republic,Europe,France,Europe,2007,2911486
+Czech Republic,Europe,Switzerland,Europe,2007,706752
+Czech Republic,Europe,Spain,Europe,2007,859368
+Czech Republic,Europe,Portugal,Europe,2007,108617
+Czech Republic,Europe,Germany,Europe,2007,8339002
+Czech Republic,Europe,Poland,Europe,2007,2683641
+Czech Republic,Europe,Austria,Europe,2007,864809
+Czech Republic,Europe,Hungary,Europe,2007,1146136
+Czech Republic,Europe,Czech Republic,Europe,2007,0
+Czech Republic,Europe,Slovakia,Europe,2007,38351421
+Czech Republic,Europe,Italy,Europe,2007,1620026
+Czech Republic,Europe,Croatia,Europe,2007,302239
+Czech Republic,Europe,Serbia,Europe,2007,153792
+Czech Republic,Europe,Bosnia,Europe,2007,714324
+Czech Republic,Europe,Greece,Europe,2007,287024
+Czech Republic,Europe,Bulgaria,Europe,2007,386486
+Czech Republic,Europe,Romania,Europe,2007,579470
+Czech Republic,Europe,Russia,Asia,2007,1622614
+Czech Republic,Europe,Ukraine,Europe,2007,479353
+Czech Republic,Europe,Finland,Europe,2007,1958247
+Czech Republic,Europe,Sweden,Europe,2007,864515
+Czech Republic,Europe,Norway,Europe,2007,685983
+Czech Republic,Europe,Denmark,Europe,2007,544399
+Czech Republic,Europe,South Africa,Africa,2007,730589
+Czech Republic,Europe,Turkey,Asia,2007,2021289
+Czech Republic,Europe,Israel,Asia,2007,37519
+Czech Republic,Europe,United Arab Emirates,Asia,2007,58820
+Czech Republic,Europe,Taiwan,Asia,2007,2123
+Czech Republic,Europe,South Korea,Asia,2007,0
+Czech Republic,Europe,Japan,Asia,2007,3550
+Czech Republic,Europe,India,Asia,2007,96752
+Czech Republic,Europe,Pakistan,Asia,2007,1876
+Czech Republic,Europe,Thailand,Asia,2007,9023591
+Czech Republic,Europe,Malaysia,Asia,2007,685442
+Czech Republic,Europe,Singapore,Asia,2007,0
+Czech Republic,Europe,Philippines,Asia,2007,247922
+Czech Republic,Europe,Indonesia,Asia,2007,135015
+Czech Republic,Europe,Australia,Oceania,2007,1633735
+Czech Republic,Europe,Cyprus,Europe,2007,9848
+Czech Republic,Europe,China,Asia,2007,0
+Czech Republic,Europe,Ivory Coast,Africa,2007,0
+Czech Republic,Europe,Congo,Africa,2007,0
+Slovakia,Europe,United States,North America,2007,170070
+Slovakia,Europe,Canada,North America,2007,22491
+Slovakia,Europe,Mexico,North America,2007,0
+Slovakia,Europe,Brazil,South America,2007,0
+Slovakia,Europe,Argentina,South America,2007,0
+Slovakia,Europe,United Kingdom,Europe,2007,0
+Slovakia,Europe,Netherlands,Europe,2007,0
+Slovakia,Europe,Belgium,Europe,2007,0
+Slovakia,Europe,France,Europe,2007,150860
+Slovakia,Europe,Switzerland,Europe,2007,0
+Slovakia,Europe,Spain,Europe,2007,0
+Slovakia,Europe,Portugal,Europe,2007,0
+Slovakia,Europe,Germany,Europe,2007,1199
+Slovakia,Europe,Poland,Europe,2007,719533
+Slovakia,Europe,Austria,Europe,2007,9160
+Slovakia,Europe,Hungary,Europe,2007,598
+Slovakia,Europe,Czech Republic,Europe,2007,88382
+Slovakia,Europe,Slovakia,Europe,2007,0
+Slovakia,Europe,Italy,Europe,2007,0
+Slovakia,Europe,Croatia,Europe,2007,437
+Slovakia,Europe,Serbia,Europe,2007,0
+Slovakia,Europe,Bosnia,Europe,2007,0
+Slovakia,Europe,Greece,Europe,2007,113284
+Slovakia,Europe,Bulgaria,Europe,2007,435044
+Slovakia,Europe,Romania,Europe,2007,0
+Slovakia,Europe,Russia,Asia,2007,0
+Slovakia,Europe,Ukraine,Europe,2007,5383
+Slovakia,Europe,Finland,Europe,2007,777
+Slovakia,Europe,Sweden,Europe,2007,0
+Slovakia,Europe,Norway,Europe,2007,0
+Slovakia,Europe,Denmark,Europe,2007,0
+Slovakia,Europe,South Africa,Africa,2007,0
+Slovakia,Europe,Turkey,Asia,2007,0
+Slovakia,Europe,Israel,Asia,2007,0
+Slovakia,Europe,United Arab Emirates,Asia,2007,0
+Slovakia,Europe,Taiwan,Asia,2007,854
+Slovakia,Europe,South Korea,Asia,2007,0
+Slovakia,Europe,Japan,Asia,2007,0
+Slovakia,Europe,India,Asia,2007,0
+Slovakia,Europe,Pakistan,Asia,2007,0
+Slovakia,Europe,Thailand,Asia,2007,0
+Slovakia,Europe,Malaysia,Asia,2007,0
+Slovakia,Europe,Singapore,Asia,2007,0
+Slovakia,Europe,Philippines,Asia,2007,0
+Slovakia,Europe,Indonesia,Asia,2007,1464
+Slovakia,Europe,Australia,Oceania,2007,0
+Slovakia,Europe,Cyprus,Europe,2007,0
+Slovakia,Europe,China,Asia,2007,0
+Slovakia,Europe,Ivory Coast,Africa,2007,0
+Slovakia,Europe,Congo,Africa,2007,0
+Italy,Europe,United States,North America,2007,310180466
+Italy,Europe,Canada,North America,2007,7395221
+Italy,Europe,Mexico,North America,2007,8082762
+Italy,Europe,Brazil,South America,2007,98999
+Italy,Europe,Argentina,South America,2007,2563239
+Italy,Europe,United Kingdom,Europe,2007,52528679
+Italy,Europe,Netherlands,Europe,2007,1126080
+Italy,Europe,Belgium,Europe,2007,8643379
+Italy,Europe,France,Europe,2007,44330909
+Italy,Europe,Switzerland,Europe,2007,3588064
+Italy,Europe,Spain,Europe,2007,43200292
+Italy,Europe,Portugal,Europe,2007,1792536
+Italy,Europe,Germany,Europe,2007,21997940
+Italy,Europe,Poland,Europe,2007,14711178
+Italy,Europe,Austria,Europe,2007,3630539
+Italy,Europe,Hungary,Europe,2007,849725
+Italy,Europe,Czech Republic,Europe,2007,2424330
+Italy,Europe,Slovakia,Europe,2007,989692
+Italy,Europe,Italy,Europe,2007,0
+Italy,Europe,Croatia,Europe,2007,1897666
+Italy,Europe,Serbia,Europe,2007,1680934
+Italy,Europe,Bosnia,Europe,2007,774816
+Italy,Europe,Greece,Europe,2007,14249615
+Italy,Europe,Bulgaria,Europe,2007,2148754
+Italy,Europe,Romania,Europe,2007,1013409
+Italy,Europe,Russia,Asia,2007,18130645
+Italy,Europe,Ukraine,Europe,2007,4983079
+Italy,Europe,Finland,Europe,2007,5461646
+Italy,Europe,Sweden,Europe,2007,3494200
+Italy,Europe,Norway,Europe,2007,9200344
+Italy,Europe,Denmark,Europe,2007,3948679
+Italy,Europe,South Africa,Africa,2007,4723234
+Italy,Europe,Turkey,Asia,2007,15117888
+Italy,Europe,Israel,Asia,2007,11836
+Italy,Europe,United Arab Emirates,Asia,2007,958514
+Italy,Europe,Taiwan,Asia,2007,142279
+Italy,Europe,South Korea,Asia,2007,2216467
+Italy,Europe,Japan,Asia,2007,7665169
+Italy,Europe,India,Asia,2007,270157
+Italy,Europe,Pakistan,Asia,2007,2461920
+Italy,Europe,Thailand,Asia,2007,5428030
+Italy,Europe,Malaysia,Asia,2007,532419
+Italy,Europe,Singapore,Asia,2007,246934
+Italy,Europe,Philippines,Asia,2007,209863
+Italy,Europe,Indonesia,Asia,2007,9017
+Italy,Europe,Australia,Oceania,2007,5439148
+Italy,Europe,Cyprus,Europe,2007,2949740
+Italy,Europe,China,Asia,2007,837606
+Italy,Europe,Ivory Coast,Africa,2007,0
+Italy,Europe,Congo,Africa,2007,0
+Croatia,Europe,United States,North America,2007,132329999
+Croatia,Europe,Canada,North America,2007,257776
+Croatia,Europe,Mexico,North America,2007,0
+Croatia,Europe,Brazil,South America,2007,0
+Croatia,Europe,Argentina,South America,2007,0
+Croatia,Europe,United Kingdom,Europe,2007,0
+Croatia,Europe,Netherlands,Europe,2007,0
+Croatia,Europe,Belgium,Europe,2007,0
+Croatia,Europe,France,Europe,2007,0
+Croatia,Europe,Switzerland,Europe,2007,5522
+Croatia,Europe,Spain,Europe,2007,0
+Croatia,Europe,Portugal,Europe,2007,1216
+Croatia,Europe,Germany,Europe,2007,4268
+Croatia,Europe,Poland,Europe,2007,0
+Croatia,Europe,Austria,Europe,2007,221004
+Croatia,Europe,Hungary,Europe,2007,1067
+Croatia,Europe,Czech Republic,Europe,2007,0
+Croatia,Europe,Slovakia,Europe,2007,0
+Croatia,Europe,Italy,Europe,2007,0
+Croatia,Europe,Croatia,Europe,2007,0
+Croatia,Europe,Serbia,Europe,2007,47654
+Croatia,Europe,Bosnia,Europe,2007,224611
+Croatia,Europe,Greece,Europe,2007,19261
+Croatia,Europe,Bulgaria,Europe,2007,0
+Croatia,Europe,Romania,Europe,2007,0
+Croatia,Europe,Russia,Asia,2007,0
+Croatia,Europe,Ukraine,Europe,2007,0
+Croatia,Europe,Finland,Europe,2007,121653
+Croatia,Europe,Sweden,Europe,2007,0
+Croatia,Europe,Norway,Europe,2007,0
+Croatia,Europe,Denmark,Europe,2007,0
+Croatia,Europe,South Africa,Africa,2007,0
+Croatia,Europe,Turkey,Asia,2007,60826
+Croatia,Europe,Israel,Asia,2007,0
+Croatia,Europe,United Arab Emirates,Asia,2007,7534
+Croatia,Europe,Taiwan,Asia,2007,0
+Croatia,Europe,South Korea,Asia,2007,0
+Croatia,Europe,Japan,Asia,2007,0
+Croatia,Europe,India,Asia,2007,0
+Croatia,Europe,Pakistan,Asia,2007,799
+Croatia,Europe,Thailand,Asia,2007,0
+Croatia,Europe,Malaysia,Asia,2007,0
+Croatia,Europe,Singapore,Asia,2007,0
+Croatia,Europe,Philippines,Asia,2007,36196
+Croatia,Europe,Indonesia,Asia,2007,0
+Croatia,Europe,Australia,Oceania,2007,33118
+Croatia,Europe,Cyprus,Europe,2007,0
+Croatia,Europe,China,Asia,2007,0
+Croatia,Europe,Ivory Coast,Africa,2007,0
+Croatia,Europe,Congo,Africa,2007,0
+Serbia,Europe,United States,North America,2007,10396060
+Serbia,Europe,Canada,North America,2007,342955
+Serbia,Europe,Mexico,North America,2007,0
+Serbia,Europe,Brazil,South America,2007,0
+Serbia,Europe,Argentina,South America,2007,0
+Serbia,Europe,United Kingdom,Europe,2007,501784
+Serbia,Europe,Netherlands,Europe,2007,1040682
+Serbia,Europe,Belgium,Europe,2007,178579
+Serbia,Europe,France,Europe,2007,516503
+Serbia,Europe,Switzerland,Europe,2007,0
+Serbia,Europe,Spain,Europe,2007,119810
+Serbia,Europe,Portugal,Europe,2007,23812
+Serbia,Europe,Germany,Europe,2007,1783944
+Serbia,Europe,Poland,Europe,2007,0
+Serbia,Europe,Austria,Europe,2007,2944
+Serbia,Europe,Hungary,Europe,2007,0
+Serbia,Europe,Czech Republic,Europe,2007,60883
+Serbia,Europe,Slovakia,Europe,2007,568604
+Serbia,Europe,Italy,Europe,2007,367772
+Serbia,Europe,Croatia,Europe,2007,329425
+Serbia,Europe,Serbia,Europe,2007,0
+Serbia,Europe,Bosnia,Europe,2007,1272410
+Serbia,Europe,Greece,Europe,2007,0
+Serbia,Europe,Bulgaria,Europe,2007,260076
+Serbia,Europe,Romania,Europe,2007,5772
+Serbia,Europe,Russia,Asia,2007,37586
+Serbia,Europe,Ukraine,Europe,2007,0
+Serbia,Europe,Finland,Europe,2007,68563
+Serbia,Europe,Sweden,Europe,2007,415549
+Serbia,Europe,Norway,Europe,2007,285848
+Serbia,Europe,Denmark,Europe,2007,0
+Serbia,Europe,South Africa,Africa,2007,455368
+Serbia,Europe,Turkey,Asia,2007,0
+Serbia,Europe,Israel,Asia,2007,219251
+Serbia,Europe,United Arab Emirates,Asia,2007,0
+Serbia,Europe,Taiwan,Asia,2007,0
+Serbia,Europe,South Korea,Asia,2007,0
+Serbia,Europe,Japan,Asia,2007,22452
+Serbia,Europe,India,Asia,2007,0
+Serbia,Europe,Pakistan,Asia,2007,224346
+Serbia,Europe,Thailand,Asia,2007,0
+Serbia,Europe,Malaysia,Asia,2007,0
+Serbia,Europe,Singapore,Asia,2007,0
+Serbia,Europe,Philippines,Asia,2007,18568
+Serbia,Europe,Indonesia,Asia,2007,2652
+Serbia,Europe,Australia,Oceania,2007,966701
+Serbia,Europe,Cyprus,Europe,2007,0
+Serbia,Europe,China,Asia,2007,0
+Serbia,Europe,Ivory Coast,Africa,2007,0
+Serbia,Europe,Congo,Africa,2007,1109824
+Bosnia,Europe,United States,North America,2007,3614740
+Bosnia,Europe,Canada,North America,2007,2639
+Bosnia,Europe,Mexico,North America,2007,0
+Bosnia,Europe,Brazil,South America,2007,16173
+Bosnia,Europe,Argentina,South America,2007,0
+Bosnia,Europe,United Kingdom,Europe,2007,2270824
+Bosnia,Europe,Netherlands,Europe,2007,0
+Bosnia,Europe,Belgium,Europe,2007,0
+Bosnia,Europe,France,Europe,2007,123032
+Bosnia,Europe,Switzerland,Europe,2007,1315434
+Bosnia,Europe,Spain,Europe,2007,102144
+Bosnia,Europe,Portugal,Europe,2007,0
+Bosnia,Europe,Germany,Europe,2007,1758904
+Bosnia,Europe,Poland,Europe,2007,62958
+Bosnia,Europe,Austria,Europe,2007,122425
+Bosnia,Europe,Hungary,Europe,2007,1015420
+Bosnia,Europe,Czech Republic,Europe,2007,20263
+Bosnia,Europe,Slovakia,Europe,2007,54943
+Bosnia,Europe,Italy,Europe,2007,0
+Bosnia,Europe,Croatia,Europe,2007,145838
+Bosnia,Europe,Serbia,Europe,2007,96070
+Bosnia,Europe,Bosnia,Europe,2007,0
+Bosnia,Europe,Greece,Europe,2007,316615
+Bosnia,Europe,Bulgaria,Europe,2007,1011953
+Bosnia,Europe,Romania,Europe,2007,71366
+Bosnia,Europe,Russia,Asia,2007,0
+Bosnia,Europe,Ukraine,Europe,2007,0
+Bosnia,Europe,Finland,Europe,2007,5436
+Bosnia,Europe,Sweden,Europe,2007,0
+Bosnia,Europe,Norway,Europe,2007,2141
+Bosnia,Europe,Denmark,Europe,2007,0
+Bosnia,Europe,South Africa,Africa,2007,0
+Bosnia,Europe,Turkey,Asia,2007,815242
+Bosnia,Europe,Israel,Asia,2007,1580708
+Bosnia,Europe,United Arab Emirates,Asia,2007,0
+Bosnia,Europe,Taiwan,Asia,2007,0
+Bosnia,Europe,South Korea,Asia,2007,0
+Bosnia,Europe,Japan,Asia,2007,0
+Bosnia,Europe,India,Asia,2007,0
+Bosnia,Europe,Pakistan,Asia,2007,0
+Bosnia,Europe,Thailand,Asia,2007,0
+Bosnia,Europe,Malaysia,Asia,2007,7795908
+Bosnia,Europe,Singapore,Asia,2007,0
+Bosnia,Europe,Philippines,Asia,2007,0
+Bosnia,Europe,Indonesia,Asia,2007,0
+Bosnia,Europe,Australia,Oceania,2007,0
+Bosnia,Europe,Cyprus,Europe,2007,0
+Bosnia,Europe,China,Asia,2007,0
+Bosnia,Europe,Ivory Coast,Africa,2007,0
+Bosnia,Europe,Congo,Africa,2007,0
+Greece,Europe,United States,North America,2007,141874997
+Greece,Europe,Canada,North America,2007,0
+Greece,Europe,Mexico,North America,2007,0
+Greece,Europe,Brazil,South America,2007,321742
+Greece,Europe,Argentina,South America,2007,0
+Greece,Europe,United Kingdom,Europe,2007,0
+Greece,Europe,Netherlands,Europe,2007,0
+Greece,Europe,Belgium,Europe,2007,35439
+Greece,Europe,France,Europe,2007,0
+Greece,Europe,Switzerland,Europe,2007,0
+Greece,Europe,Spain,Europe,2007,115374
+Greece,Europe,Portugal,Europe,2007,0
+Greece,Europe,Germany,Europe,2007,475944
+Greece,Europe,Poland,Europe,2007,6930
+Greece,Europe,Austria,Europe,2007,0
+Greece,Europe,Hungary,Europe,2007,0
+Greece,Europe,Czech Republic,Europe,2007,0
+Greece,Europe,Slovakia,Europe,2007,0
+Greece,Europe,Italy,Europe,2007,73603
+Greece,Europe,Croatia,Europe,2007,2256
+Greece,Europe,Serbia,Europe,2007,95348
+Greece,Europe,Bosnia,Europe,2007,188918
+Greece,Europe,Greece,Europe,2007,0
+Greece,Europe,Bulgaria,Europe,2007,26096
+Greece,Europe,Romania,Europe,2007,31478
+Greece,Europe,Russia,Asia,2007,0
+Greece,Europe,Ukraine,Europe,2007,0
+Greece,Europe,Finland,Europe,2007,0
+Greece,Europe,Sweden,Europe,2007,0
+Greece,Europe,Norway,Europe,2007,0
+Greece,Europe,Denmark,Europe,2007,0
+Greece,Europe,South Africa,Africa,2007,0
+Greece,Europe,Turkey,Asia,2007,55552
+Greece,Europe,Israel,Asia,2007,0
+Greece,Europe,United Arab Emirates,Asia,2007,0
+Greece,Europe,Taiwan,Asia,2007,0
+Greece,Europe,South Korea,Asia,2007,0
+Greece,Europe,Japan,Asia,2007,0
+Greece,Europe,India,Asia,2007,0
+Greece,Europe,Pakistan,Asia,2007,0
+Greece,Europe,Thailand,Asia,2007,0
+Greece,Europe,Malaysia,Asia,2007,0
+Greece,Europe,Singapore,Asia,2007,0
+Greece,Europe,Philippines,Asia,2007,0
+Greece,Europe,Indonesia,Asia,2007,0
+Greece,Europe,Australia,Oceania,2007,106
+Greece,Europe,Cyprus,Europe,2007,697743
+Greece,Europe,China,Asia,2007,0
+Greece,Europe,Ivory Coast,Africa,2007,0
+Greece,Europe,Congo,Africa,2007,0
+Bulgaria,Europe,United States,North America,2007,5342108
+Bulgaria,Europe,Canada,North America,2007,8315
+Bulgaria,Europe,Mexico,North America,2007,0
+Bulgaria,Europe,Brazil,South America,2007,0
+Bulgaria,Europe,Argentina,South America,2007,0
+Bulgaria,Europe,United Kingdom,Europe,2007,10083
+Bulgaria,Europe,Netherlands,Europe,2007,89880
+Bulgaria,Europe,Belgium,Europe,2007,0
+Bulgaria,Europe,France,Europe,2007,1465
+Bulgaria,Europe,Switzerland,Europe,2007,71328
+Bulgaria,Europe,Spain,Europe,2007,0
+Bulgaria,Europe,Portugal,Europe,2007,0
+Bulgaria,Europe,Germany,Europe,2007,910815
+Bulgaria,Europe,Poland,Europe,2007,93308
+Bulgaria,Europe,Austria,Europe,2007,0
+Bulgaria,Europe,Hungary,Europe,2007,0
+Bulgaria,Europe,Czech Republic,Europe,2007,107631
+Bulgaria,Europe,Slovakia,Europe,2007,0
+Bulgaria,Europe,Italy,Europe,2007,0
+Bulgaria,Europe,Croatia,Europe,2007,0
+Bulgaria,Europe,Serbia,Europe,2007,244
+Bulgaria,Europe,Bosnia,Europe,2007,0
+Bulgaria,Europe,Greece,Europe,2007,0
+Bulgaria,Europe,Bulgaria,Europe,2007,0
+Bulgaria,Europe,Romania,Europe,2007,0
+Bulgaria,Europe,Russia,Asia,2007,0
+Bulgaria,Europe,Ukraine,Europe,2007,0
+Bulgaria,Europe,Finland,Europe,2007,34613
+Bulgaria,Europe,Sweden,Europe,2007,155683
+Bulgaria,Europe,Norway,Europe,2007,7604
+Bulgaria,Europe,Denmark,Europe,2007,0
+Bulgaria,Europe,South Africa,Africa,2007,360
+Bulgaria,Europe,Turkey,Asia,2007,0
+Bulgaria,Europe,Israel,Asia,2007,226070
+Bulgaria,Europe,United Arab Emirates,Asia,2007,1040
+Bulgaria,Europe,Taiwan,Asia,2007,0
+Bulgaria,Europe,South Korea,Asia,2007,0
+Bulgaria,Europe,Japan,Asia,2007,253811
+Bulgaria,Europe,India,Asia,2007,25241
+Bulgaria,Europe,Pakistan,Asia,2007,0
+Bulgaria,Europe,Thailand,Asia,2007,0
+Bulgaria,Europe,Malaysia,Asia,2007,0
+Bulgaria,Europe,Singapore,Asia,2007,0
+Bulgaria,Europe,Philippines,Asia,2007,0
+Bulgaria,Europe,Indonesia,Asia,2007,0
+Bulgaria,Europe,Australia,Oceania,2007,0
+Bulgaria,Europe,Cyprus,Europe,2007,0
+Bulgaria,Europe,China,Asia,2007,0
+Bulgaria,Europe,Ivory Coast,Africa,2007,0
+Bulgaria,Europe,Congo,Africa,2007,0
+Romania,Europe,United States,North America,2007,6622846
+Romania,Europe,Canada,North America,2007,2017
+Romania,Europe,Mexico,North America,2007,0
+Romania,Europe,Brazil,South America,2007,0
+Romania,Europe,Argentina,South America,2007,0
+Romania,Europe,United Kingdom,Europe,2007,2938
+Romania,Europe,Netherlands,Europe,2007,0
+Romania,Europe,Belgium,Europe,2007,185906
+Romania,Europe,France,Europe,2007,32286
+Romania,Europe,Switzerland,Europe,2007,7476
+Romania,Europe,Spain,Europe,2007,0
+Romania,Europe,Portugal,Europe,2007,0
+Romania,Europe,Germany,Europe,2007,66149
+Romania,Europe,Poland,Europe,2007,0
+Romania,Europe,Austria,Europe,2007,10456
+Romania,Europe,Hungary,Europe,2007,0
+Romania,Europe,Czech Republic,Europe,2007,0
+Romania,Europe,Slovakia,Europe,2007,0
+Romania,Europe,Italy,Europe,2007,12099
+Romania,Europe,Croatia,Europe,2007,239907
+Romania,Europe,Serbia,Europe,2007,0
+Romania,Europe,Bosnia,Europe,2007,0
+Romania,Europe,Greece,Europe,2007,0
+Romania,Europe,Bulgaria,Europe,2007,0
+Romania,Europe,Romania,Europe,2007,0
+Romania,Europe,Russia,Asia,2007,0
+Romania,Europe,Ukraine,Europe,2007,0
+Romania,Europe,Finland,Europe,2007,0
+Romania,Europe,Sweden,Europe,2007,0
+Romania,Europe,Norway,Europe,2007,105478
+Romania,Europe,Denmark,Europe,2007,0
+Romania,Europe,South Africa,Africa,2007,0
+Romania,Europe,Turkey,Asia,2007,0
+Romania,Europe,Israel,Asia,2007,0
+Romania,Europe,United Arab Emirates,Asia,2007,0
+Romania,Europe,Taiwan,Asia,2007,0
+Romania,Europe,South Korea,Asia,2007,0
+Romania,Europe,Japan,Asia,2007,193261
+Romania,Europe,India,Asia,2007,0
+Romania,Europe,Pakistan,Asia,2007,61
+Romania,Europe,Thailand,Asia,2007,0
+Romania,Europe,Malaysia,Asia,2007,0
+Romania,Europe,Singapore,Asia,2007,0
+Romania,Europe,Philippines,Asia,2007,0
+Romania,Europe,Indonesia,Asia,2007,0
+Romania,Europe,Australia,Oceania,2007,7095
+Romania,Europe,Cyprus,Europe,2007,0
+Romania,Europe,China,Asia,2007,0
+Romania,Europe,Ivory Coast,Africa,2007,0
+Romania,Europe,Congo,Africa,2007,0
+Russia,Asia,United States,North America,2007,57164460
+Russia,Asia,Canada,North America,2007,494361
+Russia,Asia,Mexico,North America,2007,111120
+Russia,Asia,Brazil,South America,2007,0
+Russia,Asia,Argentina,South America,2007,40659
+Russia,Asia,United Kingdom,Europe,2007,16734
+Russia,Asia,Netherlands,Europe,2007,310510
+Russia,Asia,Belgium,Europe,2007,0
+Russia,Asia,France,Europe,2007,134801
+Russia,Asia,Switzerland,Europe,2007,500
+Russia,Asia,Spain,Europe,2007,97600
+Russia,Asia,Portugal,Europe,2007,1191
+Russia,Asia,Germany,Europe,2007,9184169
+Russia,Asia,Poland,Europe,2007,552132
+Russia,Asia,Austria,Europe,2007,373395
+Russia,Asia,Hungary,Europe,2007,26957
+Russia,Asia,Czech Republic,Europe,2007,185167
+Russia,Asia,Slovakia,Europe,2007,57464
+Russia,Asia,Italy,Europe,2007,1400560
+Russia,Asia,Croatia,Europe,2007,5567
+Russia,Asia,Serbia,Europe,2007,645274
+Russia,Asia,Bosnia,Europe,2007,351303
+Russia,Asia,Greece,Europe,2007,257553
+Russia,Asia,Bulgaria,Europe,2007,465162
+Russia,Asia,Romania,Europe,2007,10999
+Russia,Asia,Russia,Asia,2007,0
+Russia,Asia,Ukraine,Europe,2007,3908238
+Russia,Asia,Finland,Europe,2007,867209
+Russia,Asia,Sweden,Europe,2007,20451
+Russia,Asia,Norway,Europe,2007,545017
+Russia,Asia,Denmark,Europe,2007,168437
+Russia,Asia,South Africa,Africa,2007,0
+Russia,Asia,Turkey,Asia,2007,900717
+Russia,Asia,Israel,Asia,2007,0
+Russia,Asia,United Arab Emirates,Asia,2007,0
+Russia,Asia,Taiwan,Asia,2007,0
+Russia,Asia,South Korea,Asia,2007,0
+Russia,Asia,Japan,Asia,2007,3695
+Russia,Asia,India,Asia,2007,0
+Russia,Asia,Pakistan,Asia,2007,29390
+Russia,Asia,Thailand,Asia,2007,274200
+Russia,Asia,Malaysia,Asia,2007,0
+Russia,Asia,Singapore,Asia,2007,0
+Russia,Asia,Philippines,Asia,2007,0
+Russia,Asia,Indonesia,Asia,2007,162694
+Russia,Asia,Australia,Oceania,2007,330865
+Russia,Asia,Cyprus,Europe,2007,4840085
+Russia,Asia,China,Asia,2007,0
+Russia,Asia,Ivory Coast,Africa,2007,0
+Russia,Asia,Congo,Africa,2007,0
+Ukraine,Europe,United States,North America,2007,4310599
+Ukraine,Europe,Canada,North America,2007,0
+Ukraine,Europe,Mexico,North America,2007,0
+Ukraine,Europe,Brazil,South America,2007,0
+Ukraine,Europe,Argentina,South America,2007,0
+Ukraine,Europe,United Kingdom,Europe,2007,6200918
+Ukraine,Europe,Netherlands,Europe,2007,0
+Ukraine,Europe,Belgium,Europe,2007,0
+Ukraine,Europe,France,Europe,2007,399034
+Ukraine,Europe,Switzerland,Europe,2007,0
+Ukraine,Europe,Spain,Europe,2007,0
+Ukraine,Europe,Portugal,Europe,2007,0
+Ukraine,Europe,Germany,Europe,2007,2175856
+Ukraine,Europe,Poland,Europe,2007,0
+Ukraine,Europe,Austria,Europe,2007,291384
+Ukraine,Europe,Hungary,Europe,2007,0
+Ukraine,Europe,Czech Republic,Europe,2007,303463
+Ukraine,Europe,Slovakia,Europe,2007,0
+Ukraine,Europe,Italy,Europe,2007,0
+Ukraine,Europe,Croatia,Europe,2007,0
+Ukraine,Europe,Serbia,Europe,2007,0
+Ukraine,Europe,Bosnia,Europe,2007,0
+Ukraine,Europe,Greece,Europe,2007,0
+Ukraine,Europe,Bulgaria,Europe,2007,0
+Ukraine,Europe,Romania,Europe,2007,0
+Ukraine,Europe,Russia,Asia,2007,0
+Ukraine,Europe,Ukraine,Europe,2007,0
+Ukraine,Europe,Finland,Europe,2007,0
+Ukraine,Europe,Sweden,Europe,2007,0
+Ukraine,Europe,Norway,Europe,2007,184564
+Ukraine,Europe,Denmark,Europe,2007,0
+Ukraine,Europe,South Africa,Africa,2007,0
+Ukraine,Europe,Turkey,Asia,2007,0
+Ukraine,Europe,Israel,Asia,2007,0
+Ukraine,Europe,United Arab Emirates,Asia,2007,0
+Ukraine,Europe,Taiwan,Asia,2007,0
+Ukraine,Europe,South Korea,Asia,2007,0
+Ukraine,Europe,Japan,Asia,2007,0
+Ukraine,Europe,India,Asia,2007,0
+Ukraine,Europe,Pakistan,Asia,2007,0
+Ukraine,Europe,Thailand,Asia,2007,13852
+Ukraine,Europe,Malaysia,Asia,2007,0
+Ukraine,Europe,Singapore,Asia,2007,0
+Ukraine,Europe,Philippines,Asia,2007,0
+Ukraine,Europe,Indonesia,Asia,2007,0
+Ukraine,Europe,Australia,Oceania,2007,0
+Ukraine,Europe,Cyprus,Europe,2007,0
+Ukraine,Europe,China,Asia,2007,0
+Ukraine,Europe,Ivory Coast,Africa,2007,0
+Ukraine,Europe,Congo,Africa,2007,0
+Finland,Europe,United States,North America,2007,10428521
+Finland,Europe,Canada,North America,2007,3154561
+Finland,Europe,Mexico,North America,2007,60844
+Finland,Europe,Brazil,South America,2007,108679
+Finland,Europe,Argentina,South America,2007,75528
+Finland,Europe,United Kingdom,Europe,2007,4088747
+Finland,Europe,Netherlands,Europe,2007,40128
+Finland,Europe,Belgium,Europe,2007,423347
+Finland,Europe,France,Europe,2007,1038544
+Finland,Europe,Switzerland,Europe,2007,146110
+Finland,Europe,Spain,Europe,2007,771989
+Finland,Europe,Portugal,Europe,2007,8336
+Finland,Europe,Germany,Europe,2007,3446371
+Finland,Europe,Poland,Europe,2007,1406058
+Finland,Europe,Austria,Europe,2007,515533
+Finland,Europe,Hungary,Europe,2007,369928
+Finland,Europe,Czech Republic,Europe,2007,755245
+Finland,Europe,Slovakia,Europe,2007,448443
+Finland,Europe,Italy,Europe,2007,1811998
+Finland,Europe,Croatia,Europe,2007,24787
+Finland,Europe,Serbia,Europe,2007,16158
+Finland,Europe,Bosnia,Europe,2007,0
+Finland,Europe,Greece,Europe,2007,11816
+Finland,Europe,Bulgaria,Europe,2007,104674
+Finland,Europe,Romania,Europe,2007,78605
+Finland,Europe,Russia,Asia,2007,1385845
+Finland,Europe,Ukraine,Europe,2007,18108
+Finland,Europe,Finland,Europe,2007,0
+Finland,Europe,Sweden,Europe,2007,7005909
+Finland,Europe,Norway,Europe,2007,4294773
+Finland,Europe,Denmark,Europe,2007,2413102
+Finland,Europe,South Africa,Africa,2007,177546
+Finland,Europe,Turkey,Asia,2007,1561280
+Finland,Europe,Israel,Asia,2007,0
+Finland,Europe,United Arab Emirates,Asia,2007,1209043
+Finland,Europe,Taiwan,Asia,2007,0
+Finland,Europe,South Korea,Asia,2007,260590
+Finland,Europe,Japan,Asia,2007,552054
+Finland,Europe,India,Asia,2007,98923
+Finland,Europe,Pakistan,Asia,2007,0
+Finland,Europe,Thailand,Asia,2007,6088
+Finland,Europe,Malaysia,Asia,2007,20553
+Finland,Europe,Singapore,Asia,2007,939010
+Finland,Europe,Philippines,Asia,2007,0
+Finland,Europe,Indonesia,Asia,2007,0
+Finland,Europe,Australia,Oceania,2007,2856537
+Finland,Europe,Cyprus,Europe,2007,0
+Finland,Europe,China,Asia,2007,167475
+Finland,Europe,Ivory Coast,Africa,2007,0
+Finland,Europe,Congo,Africa,2007,0
+Sweden,Europe,United States,North America,2007,4979522
+Sweden,Europe,Canada,North America,2007,549122
+Sweden,Europe,Mexico,North America,2007,264099
+Sweden,Europe,Brazil,South America,2007,31180
+Sweden,Europe,Argentina,South America,2007,0
+Sweden,Europe,United Kingdom,Europe,2007,416646
+Sweden,Europe,Netherlands,Europe,2007,286960
+Sweden,Europe,Belgium,Europe,2007,266542
+Sweden,Europe,France,Europe,2007,2345908
+Sweden,Europe,Switzerland,Europe,2007,303981
+Sweden,Europe,Spain,Europe,2007,1561586
+Sweden,Europe,Portugal,Europe,2007,249132
+Sweden,Europe,Germany,Europe,2007,3482079
+Sweden,Europe,Poland,Europe,2007,406470
+Sweden,Europe,Austria,Europe,2007,459167
+Sweden,Europe,Hungary,Europe,2007,225231
+Sweden,Europe,Czech Republic,Europe,2007,263099
+Sweden,Europe,Slovakia,Europe,2007,51282
+Sweden,Europe,Italy,Europe,2007,1097308
+Sweden,Europe,Croatia,Europe,2007,44951
+Sweden,Europe,Serbia,Europe,2007,0
+Sweden,Europe,Bosnia,Europe,2007,0
+Sweden,Europe,Greece,Europe,2007,0
+Sweden,Europe,Bulgaria,Europe,2007,145019
+Sweden,Europe,Romania,Europe,2007,38144
+Sweden,Europe,Russia,Asia,2007,1148634
+Sweden,Europe,Ukraine,Europe,2007,76606
+Sweden,Europe,Finland,Europe,2007,1966430
+Sweden,Europe,Sweden,Europe,2007,0
+Sweden,Europe,Norway,Europe,2007,5742858
+Sweden,Europe,Denmark,Europe,2007,2912843
+Sweden,Europe,South Africa,Africa,2007,33713
+Sweden,Europe,Turkey,Asia,2007,31655
+Sweden,Europe,Israel,Asia,2007,0
+Sweden,Europe,United Arab Emirates,Asia,2007,1452
+Sweden,Europe,Taiwan,Asia,2007,0
+Sweden,Europe,South Korea,Asia,2007,38930
+Sweden,Europe,Japan,Asia,2007,1673580
+Sweden,Europe,India,Asia,2007,318732
+Sweden,Europe,Pakistan,Asia,2007,0
+Sweden,Europe,Thailand,Asia,2007,0
+Sweden,Europe,Malaysia,Asia,2007,0
+Sweden,Europe,Singapore,Asia,2007,0
+Sweden,Europe,Philippines,Asia,2007,0
+Sweden,Europe,Indonesia,Asia,2007,0
+Sweden,Europe,Australia,Oceania,2007,446197
+Sweden,Europe,Cyprus,Europe,2007,33656
+Sweden,Europe,China,Asia,2007,3956
+Sweden,Europe,Ivory Coast,Africa,2007,0
+Sweden,Europe,Congo,Africa,2007,0
+Norway,Europe,United States,North America,2007,2148299
+Norway,Europe,Canada,North America,2007,10999
+Norway,Europe,Mexico,North America,2007,0
+Norway,Europe,Brazil,South America,2007,0
+Norway,Europe,Argentina,South America,2007,0
+Norway,Europe,United Kingdom,Europe,2007,35010
+Norway,Europe,Netherlands,Europe,2007,1062
+Norway,Europe,Belgium,Europe,2007,635813
+Norway,Europe,France,Europe,2007,2929
+Norway,Europe,Switzerland,Europe,2007,98180
+Norway,Europe,Spain,Europe,2007,1962438
+Norway,Europe,Portugal,Europe,2007,0
+Norway,Europe,Germany,Europe,2007,238428
+Norway,Europe,Poland,Europe,2007,10630248
+Norway,Europe,Austria,Europe,2007,2762922
+Norway,Europe,Hungary,Europe,2007,0
+Norway,Europe,Czech Republic,Europe,2007,3899318
+Norway,Europe,Slovakia,Europe,2007,201967
+Norway,Europe,Italy,Europe,2007,54524
+Norway,Europe,Croatia,Europe,2007,0
+Norway,Europe,Serbia,Europe,2007,0
+Norway,Europe,Bosnia,Europe,2007,0
+Norway,Europe,Greece,Europe,2007,0
+Norway,Europe,Bulgaria,Europe,2007,0
+Norway,Europe,Romania,Europe,2007,0
+Norway,Europe,Russia,Asia,2007,0
+Norway,Europe,Ukraine,Europe,2007,0
+Norway,Europe,Finland,Europe,2007,121144
+Norway,Europe,Sweden,Europe,2007,279620
+Norway,Europe,Norway,Europe,2007,0
+Norway,Europe,Denmark,Europe,2007,1697405
+Norway,Europe,South Africa,Africa,2007,0
+Norway,Europe,Turkey,Asia,2007,0
+Norway,Europe,Israel,Asia,2007,0
+Norway,Europe,United Arab Emirates,Asia,2007,0
+Norway,Europe,Taiwan,Asia,2007,0
+Norway,Europe,South Korea,Asia,2007,6547
+Norway,Europe,Japan,Asia,2007,4115
+Norway,Europe,India,Asia,2007,3043
+Norway,Europe,Pakistan,Asia,2007,0
+Norway,Europe,Thailand,Asia,2007,2144628
+Norway,Europe,Malaysia,Asia,2007,0
+Norway,Europe,Singapore,Asia,2007,1929615
+Norway,Europe,Philippines,Asia,2007,0
+Norway,Europe,Indonesia,Asia,2007,0
+Norway,Europe,Australia,Oceania,2007,2555576
+Norway,Europe,Cyprus,Europe,2007,0
+Norway,Europe,China,Asia,2007,0
+Norway,Europe,Ivory Coast,Africa,2007,0
+Norway,Europe,Congo,Africa,2007,0
+Denmark,Europe,United States,North America,2007,113732
+Denmark,Europe,Canada,North America,2007,144546
+Denmark,Europe,Mexico,North America,2007,0
+Denmark,Europe,Brazil,South America,2007,0
+Denmark,Europe,Argentina,South America,2007,0
+Denmark,Europe,United Kingdom,Europe,2007,548341
+Denmark,Europe,Netherlands,Europe,2007,0
+Denmark,Europe,Belgium,Europe,2007,1381
+Denmark,Europe,France,Europe,2007,354531
+Denmark,Europe,Switzerland,Europe,2007,5259
+Denmark,Europe,Spain,Europe,2007,405598
+Denmark,Europe,Portugal,Europe,2007,28
+Denmark,Europe,Germany,Europe,2007,510091
+Denmark,Europe,Poland,Europe,2007,143714
+Denmark,Europe,Austria,Europe,2007,15999
+Denmark,Europe,Hungary,Europe,2007,14939
+Denmark,Europe,Czech Republic,Europe,2007,2342
+Denmark,Europe,Slovakia,Europe,2007,36218
+Denmark,Europe,Italy,Europe,2007,459624
+Denmark,Europe,Croatia,Europe,2007,0
+Denmark,Europe,Serbia,Europe,2007,0
+Denmark,Europe,Bosnia,Europe,2007,0
+Denmark,Europe,Greece,Europe,2007,0
+Denmark,Europe,Bulgaria,Europe,2007,0
+Denmark,Europe,Romania,Europe,2007,0
+Denmark,Europe,Russia,Asia,2007,28039
+Denmark,Europe,Ukraine,Europe,2007,0
+Denmark,Europe,Finland,Europe,2007,14404
+Denmark,Europe,Sweden,Europe,2007,2536695
+Denmark,Europe,Norway,Europe,2007,350481
+Denmark,Europe,Denmark,Europe,2007,0
+Denmark,Europe,South Africa,Africa,2007,19753
+Denmark,Europe,Turkey,Asia,2007,0
+Denmark,Europe,Israel,Asia,2007,30625
+Denmark,Europe,United Arab Emirates,Asia,2007,2971
+Denmark,Europe,Taiwan,Asia,2007,0
+Denmark,Europe,South Korea,Asia,2007,0
+Denmark,Europe,Japan,Asia,2007,12927
+Denmark,Europe,India,Asia,2007,52469
+Denmark,Europe,Pakistan,Asia,2007,0
+Denmark,Europe,Thailand,Asia,2007,0
+Denmark,Europe,Malaysia,Asia,2007,0
+Denmark,Europe,Singapore,Asia,2007,0
+Denmark,Europe,Philippines,Asia,2007,0
+Denmark,Europe,Indonesia,Asia,2007,0
+Denmark,Europe,Australia,Oceania,2007,20969
+Denmark,Europe,Cyprus,Europe,2007,42576
+Denmark,Europe,China,Asia,2007,0
+Denmark,Europe,Ivory Coast,Africa,2007,0
+Denmark,Europe,Congo,Africa,2007,0
+South Africa,Africa,United States,North America,2007,1132799
+South Africa,Africa,Canada,North America,2007,308773
+South Africa,Africa,Mexico,North America,2007,0
+South Africa,Africa,Brazil,South America,2007,0
+South Africa,Africa,Argentina,South America,2007,0
+South Africa,Africa,United Kingdom,Europe,2007,0
+South Africa,Africa,Netherlands,Europe,2007,64445
+South Africa,Africa,Belgium,Europe,2007,0
+South Africa,Africa,France,Europe,2007,64445
+South Africa,Africa,Switzerland,Europe,2007,332130
+South Africa,Africa,Spain,Europe,2007,0
+South Africa,Africa,Portugal,Europe,2007,2982
+South Africa,Africa,Germany,Europe,2007,3201
+South Africa,Africa,Poland,Europe,2007,9958
+South Africa,Africa,Austria,Europe,2007,12838
+South Africa,Africa,Hungary,Europe,2007,0
+South Africa,Africa,Czech Republic,Europe,2007,41179
+South Africa,Africa,Slovakia,Europe,2007,0
+South Africa,Africa,Italy,Europe,2007,180160
+South Africa,Africa,Croatia,Europe,2007,0
+South Africa,Africa,Serbia,Europe,2007,0
+South Africa,Africa,Bosnia,Europe,2007,0
+South Africa,Africa,Greece,Europe,2007,0
+South Africa,Africa,Bulgaria,Europe,2007,0
+South Africa,Africa,Romania,Europe,2007,0
+South Africa,Africa,Russia,Asia,2007,0
+South Africa,Africa,Ukraine,Europe,2007,0
+South Africa,Africa,Finland,Europe,2007,0
+South Africa,Africa,Sweden,Europe,2007,38955
+South Africa,Africa,Norway,Europe,2007,5226
+South Africa,Africa,Denmark,Europe,2007,0
+South Africa,Africa,South Africa,Africa,2007,0
+South Africa,Africa,Turkey,Asia,2007,0
+South Africa,Africa,Israel,Asia,2007,0
+South Africa,Africa,United Arab Emirates,Asia,2007,0
+South Africa,Africa,Taiwan,Asia,2007,0
+South Africa,Africa,South Korea,Asia,2007,0
+South Africa,Africa,Japan,Asia,2007,2078
+South Africa,Africa,India,Asia,2007,0
+South Africa,Africa,Pakistan,Asia,2007,10615
+South Africa,Africa,Thailand,Asia,2007,146731
+South Africa,Africa,Malaysia,Asia,2007,482335
+South Africa,Africa,Singapore,Asia,2007,2075773
+South Africa,Africa,Philippines,Asia,2007,0
+South Africa,Africa,Indonesia,Asia,2007,304917
+South Africa,Africa,Australia,Oceania,2007,44430
+South Africa,Africa,Cyprus,Europe,2007,13716
+South Africa,Africa,China,Asia,2007,0
+South Africa,Africa,Ivory Coast,Africa,2007,0
+South Africa,Africa,Congo,Africa,2007,0
+Turkey,Asia,United States,North America,2007,44303017
+Turkey,Asia,Canada,North America,2007,775321
+Turkey,Asia,Mexico,North America,2007,520226
+Turkey,Asia,Brazil,South America,2007,0
+Turkey,Asia,Argentina,South America,2007,690031
+Turkey,Asia,United Kingdom,Europe,2007,1516546
+Turkey,Asia,Netherlands,Europe,2007,1634
+Turkey,Asia,Belgium,Europe,2007,20717
+Turkey,Asia,France,Europe,2007,2877527
+Turkey,Asia,Switzerland,Europe,2007,0
+Turkey,Asia,Spain,Europe,2007,557695
+Turkey,Asia,Portugal,Europe,2007,40878
+Turkey,Asia,Germany,Europe,2007,2637784
+Turkey,Asia,Poland,Europe,2007,171467
+Turkey,Asia,Austria,Europe,2007,35736
+Turkey,Asia,Hungary,Europe,2007,61599
+Turkey,Asia,Czech Republic,Europe,2007,48250
+Turkey,Asia,Slovakia,Europe,2007,14658
+Turkey,Asia,Italy,Europe,2007,8315999
+Turkey,Asia,Croatia,Europe,2007,20148
+Turkey,Asia,Serbia,Europe,2007,58009
+Turkey,Asia,Bosnia,Europe,2007,839637
+Turkey,Asia,Greece,Europe,2007,353134
+Turkey,Asia,Bulgaria,Europe,2007,441122
+Turkey,Asia,Romania,Europe,2007,15880
+Turkey,Asia,Russia,Asia,2007,1664984
+Turkey,Asia,Ukraine,Europe,2007,327288
+Turkey,Asia,Finland,Europe,2007,99757
+Turkey,Asia,Sweden,Europe,2007,266039
+Turkey,Asia,Norway,Europe,2007,285732
+Turkey,Asia,Denmark,Europe,2007,292882
+Turkey,Asia,South Africa,Africa,2007,64553
+Turkey,Asia,Turkey,Asia,2007,0
+Turkey,Asia,Israel,Asia,2007,784159
+Turkey,Asia,United Arab Emirates,Asia,2007,10281886
+Turkey,Asia,Taiwan,Asia,2007,0
+Turkey,Asia,South Korea,Asia,2007,47692
+Turkey,Asia,Japan,Asia,2007,8053
+Turkey,Asia,India,Asia,2007,0
+Turkey,Asia,Pakistan,Asia,2007,1103131
+Turkey,Asia,Thailand,Asia,2007,1270225
+Turkey,Asia,Malaysia,Asia,2007,796217
+Turkey,Asia,Singapore,Asia,2007,0
+Turkey,Asia,Philippines,Asia,2007,254162
+Turkey,Asia,Indonesia,Asia,2007,1323
+Turkey,Asia,Australia,Oceania,2007,80301
+Turkey,Asia,Cyprus,Europe,2007,379619
+Turkey,Asia,China,Asia,2007,0
+Turkey,Asia,Ivory Coast,Africa,2007,0
+Turkey,Asia,Congo,Africa,2007,0
+Israel,Asia,United States,North America,2007,24361579
+Israel,Asia,Canada,North America,2007,6542
+Israel,Asia,Mexico,North America,2007,0
+Israel,Asia,Brazil,South America,2007,4279
+Israel,Asia,Argentina,South America,2007,0
+Israel,Asia,United Kingdom,Europe,2007,1151889
+Israel,Asia,Netherlands,Europe,2007,0
+Israel,Asia,Belgium,Europe,2007,0
+Israel,Asia,France,Europe,2007,0
+Israel,Asia,Switzerland,Europe,2007,64495
+Israel,Asia,Spain,Europe,2007,14208
+Israel,Asia,Portugal,Europe,2007,7616
+Israel,Asia,Germany,Europe,2007,181413
+Israel,Asia,Poland,Europe,2007,26666
+Israel,Asia,Austria,Europe,2007,0
+Israel,Asia,Hungary,Europe,2007,0
+Israel,Asia,Czech Republic,Europe,2007,14390
+Israel,Asia,Slovakia,Europe,2007,3232
+Israel,Asia,Italy,Europe,2007,78315
+Israel,Asia,Croatia,Europe,2007,0
+Israel,Asia,Serbia,Europe,2007,0
+Israel,Asia,Bosnia,Europe,2007,153675
+Israel,Asia,Greece,Europe,2007,0
+Israel,Asia,Bulgaria,Europe,2007,0
+Israel,Asia,Romania,Europe,2007,79526
+Israel,Asia,Russia,Asia,2007,0
+Israel,Asia,Ukraine,Europe,2007,0
+Israel,Asia,Finland,Europe,2007,10579
+Israel,Asia,Sweden,Europe,2007,0
+Israel,Asia,Norway,Europe,2007,0
+Israel,Asia,Denmark,Europe,2007,0
+Israel,Asia,South Africa,Africa,2007,0
+Israel,Asia,Turkey,Asia,2007,94588
+Israel,Asia,Israel,Asia,2007,0
+Israel,Asia,United Arab Emirates,Asia,2007,0
+Israel,Asia,Taiwan,Asia,2007,0
+Israel,Asia,South Korea,Asia,2007,0
+Israel,Asia,Japan,Asia,2007,0
+Israel,Asia,India,Asia,2007,6286
+Israel,Asia,Pakistan,Asia,2007,0
+Israel,Asia,Thailand,Asia,2007,86745
+Israel,Asia,Malaysia,Asia,2007,0
+Israel,Asia,Singapore,Asia,2007,0
+Israel,Asia,Philippines,Asia,2007,111856
+Israel,Asia,Indonesia,Asia,2007,0
+Israel,Asia,Australia,Oceania,2007,0
+Israel,Asia,Cyprus,Europe,2007,0
+Israel,Asia,China,Asia,2007,0
+Israel,Asia,Ivory Coast,Africa,2007,0
+Israel,Asia,Congo,Africa,2007,0
+United Arab Emirates,Asia,United States,North America,2007,44717
+United Arab Emirates,Asia,Canada,North America,2007,0
+United Arab Emirates,Asia,Mexico,North America,2007,0
+United Arab Emirates,Asia,Brazil,South America,2007,0
+United Arab Emirates,Asia,Argentina,South America,2007,0
+United Arab Emirates,Asia,United Kingdom,Europe,2007,78329
+United Arab Emirates,Asia,Netherlands,Europe,2007,0
+United Arab Emirates,Asia,Belgium,Europe,2007,0
+United Arab Emirates,Asia,France,Europe,2007,5637307
+United Arab Emirates,Asia,Switzerland,Europe,2007,486004
+United Arab Emirates,Asia,Spain,Europe,2007,0
+United Arab Emirates,Asia,Portugal,Europe,2007,0
+United Arab Emirates,Asia,Germany,Europe,2007,41616
+United Arab Emirates,Asia,Poland,Europe,2007,0
+United Arab Emirates,Asia,Austria,Europe,2007,0
+United Arab Emirates,Asia,Hungary,Europe,2007,0
+United Arab Emirates,Asia,Czech Republic,Europe,2007,0
+United Arab Emirates,Asia,Slovakia,Europe,2007,0
+United Arab Emirates,Asia,Italy,Europe,2007,50451
+United Arab Emirates,Asia,Croatia,Europe,2007,0
+United Arab Emirates,Asia,Serbia,Europe,2007,0
+United Arab Emirates,Asia,Bosnia,Europe,2007,0
+United Arab Emirates,Asia,Greece,Europe,2007,0
+United Arab Emirates,Asia,Bulgaria,Europe,2007,0
+United Arab Emirates,Asia,Romania,Europe,2007,0
+United Arab Emirates,Asia,Russia,Asia,2007,0
+United Arab Emirates,Asia,Ukraine,Europe,2007,0
+United Arab Emirates,Asia,Finland,Europe,2007,4209
+United Arab Emirates,Asia,Sweden,Europe,2007,0
+United Arab Emirates,Asia,Norway,Europe,2007,0
+United Arab Emirates,Asia,Denmark,Europe,2007,0
+United Arab Emirates,Asia,South Africa,Africa,2007,0
+United Arab Emirates,Asia,Turkey,Asia,2007,0
+United Arab Emirates,Asia,Israel,Asia,2007,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,2007,0
+United Arab Emirates,Asia,Taiwan,Asia,2007,0
+United Arab Emirates,Asia,South Korea,Asia,2007,0
+United Arab Emirates,Asia,Japan,Asia,2007,0
+United Arab Emirates,Asia,India,Asia,2007,0
+United Arab Emirates,Asia,Pakistan,Asia,2007,1
+United Arab Emirates,Asia,Thailand,Asia,2007,0
+United Arab Emirates,Asia,Malaysia,Asia,2007,0
+United Arab Emirates,Asia,Singapore,Asia,2007,0
+United Arab Emirates,Asia,Philippines,Asia,2007,0
+United Arab Emirates,Asia,Indonesia,Asia,2007,0
+United Arab Emirates,Asia,Australia,Oceania,2007,3394741
+United Arab Emirates,Asia,Cyprus,Europe,2007,4142
+United Arab Emirates,Asia,China,Asia,2007,0
+United Arab Emirates,Asia,Ivory Coast,Africa,2007,0
+United Arab Emirates,Asia,Congo,Africa,2007,0
+Taiwan,Asia,United States,North America,2007,36507746
+Taiwan,Asia,Canada,North America,2007,23621
+Taiwan,Asia,Mexico,North America,2007,5288
+Taiwan,Asia,Brazil,South America,2007,72472
+Taiwan,Asia,Argentina,South America,2007,0
+Taiwan,Asia,United Kingdom,Europe,2007,0
+Taiwan,Asia,Netherlands,Europe,2007,0
+Taiwan,Asia,Belgium,Europe,2007,0
+Taiwan,Asia,France,Europe,2007,0
+Taiwan,Asia,Switzerland,Europe,2007,3260
+Taiwan,Asia,Spain,Europe,2007,0
+Taiwan,Asia,Portugal,Europe,2007,0
+Taiwan,Asia,Germany,Europe,2007,0
+Taiwan,Asia,Poland,Europe,2007,0
+Taiwan,Asia,Austria,Europe,2007,0
+Taiwan,Asia,Hungary,Europe,2007,0
+Taiwan,Asia,Czech Republic,Europe,2007,25848
+Taiwan,Asia,Slovakia,Europe,2007,269
+Taiwan,Asia,Italy,Europe,2007,0
+Taiwan,Asia,Croatia,Europe,2007,0
+Taiwan,Asia,Serbia,Europe,2007,0
+Taiwan,Asia,Bosnia,Europe,2007,0
+Taiwan,Asia,Greece,Europe,2007,0
+Taiwan,Asia,Bulgaria,Europe,2007,0
+Taiwan,Asia,Romania,Europe,2007,0
+Taiwan,Asia,Russia,Asia,2007,0
+Taiwan,Asia,Ukraine,Europe,2007,0
+Taiwan,Asia,Finland,Europe,2007,0
+Taiwan,Asia,Sweden,Europe,2007,0
+Taiwan,Asia,Norway,Europe,2007,0
+Taiwan,Asia,Denmark,Europe,2007,0
+Taiwan,Asia,South Africa,Africa,2007,0
+Taiwan,Asia,Turkey,Asia,2007,0
+Taiwan,Asia,Israel,Asia,2007,0
+Taiwan,Asia,United Arab Emirates,Asia,2007,18160
+Taiwan,Asia,Taiwan,Asia,2007,0
+Taiwan,Asia,South Korea,Asia,2007,0
+Taiwan,Asia,Japan,Asia,2007,0
+Taiwan,Asia,India,Asia,2007,0
+Taiwan,Asia,Pakistan,Asia,2007,0
+Taiwan,Asia,Thailand,Asia,2007,0
+Taiwan,Asia,Malaysia,Asia,2007,0
+Taiwan,Asia,Singapore,Asia,2007,0
+Taiwan,Asia,Philippines,Asia,2007,0
+Taiwan,Asia,Indonesia,Asia,2007,0
+Taiwan,Asia,Australia,Oceania,2007,17419
+Taiwan,Asia,Cyprus,Europe,2007,63841
+Taiwan,Asia,China,Asia,2007,0
+Taiwan,Asia,Ivory Coast,Africa,2007,0
+Taiwan,Asia,Congo,Africa,2007,0
+South Korea,Asia,United States,North America,2007,6770794
+South Korea,Asia,Canada,North America,2007,77325
+South Korea,Asia,Mexico,North America,2007,0
+South Korea,Asia,Brazil,South America,2007,0
+South Korea,Asia,Argentina,South America,2007,0
+South Korea,Asia,United Kingdom,Europe,2007,76336
+South Korea,Asia,Netherlands,Europe,2007,3
+South Korea,Asia,Belgium,Europe,2007,0
+South Korea,Asia,France,Europe,2007,0
+South Korea,Asia,Switzerland,Europe,2007,4254
+South Korea,Asia,Spain,Europe,2007,170137
+South Korea,Asia,Portugal,Europe,2007,0
+South Korea,Asia,Germany,Europe,2007,0
+South Korea,Asia,Poland,Europe,2007,0
+South Korea,Asia,Austria,Europe,2007,0
+South Korea,Asia,Hungary,Europe,2007,0
+South Korea,Asia,Czech Republic,Europe,2007,2744
+South Korea,Asia,Slovakia,Europe,2007,0
+South Korea,Asia,Italy,Europe,2007,8763
+South Korea,Asia,Croatia,Europe,2007,0
+South Korea,Asia,Serbia,Europe,2007,0
+South Korea,Asia,Bosnia,Europe,2007,0
+South Korea,Asia,Greece,Europe,2007,0
+South Korea,Asia,Bulgaria,Europe,2007,4
+South Korea,Asia,Romania,Europe,2007,0
+South Korea,Asia,Russia,Asia,2007,0
+South Korea,Asia,Ukraine,Europe,2007,0
+South Korea,Asia,Finland,Europe,2007,3239
+South Korea,Asia,Sweden,Europe,2007,744
+South Korea,Asia,Norway,Europe,2007,0
+South Korea,Asia,Denmark,Europe,2007,0
+South Korea,Asia,South Africa,Africa,2007,2553
+South Korea,Asia,Turkey,Asia,2007,0
+South Korea,Asia,Israel,Asia,2007,20275
+South Korea,Asia,United Arab Emirates,Asia,2007,542
+South Korea,Asia,Taiwan,Asia,2007,1588
+South Korea,Asia,South Korea,Asia,2007,0
+South Korea,Asia,Japan,Asia,2007,122597
+South Korea,Asia,India,Asia,2007,0
+South Korea,Asia,Pakistan,Asia,2007,28198
+South Korea,Asia,Thailand,Asia,2007,983974
+South Korea,Asia,Malaysia,Asia,2007,48234
+South Korea,Asia,Singapore,Asia,2007,0
+South Korea,Asia,Philippines,Asia,2007,9229106
+South Korea,Asia,Indonesia,Asia,2007,6171301
+South Korea,Asia,Australia,Oceania,2007,19413
+South Korea,Asia,Cyprus,Europe,2007,0
+South Korea,Asia,China,Asia,2007,0
+South Korea,Asia,Ivory Coast,Africa,2007,0
+South Korea,Asia,Congo,Africa,2007,0
+Japan,Asia,United States,North America,2007,24434010
+Japan,Asia,Canada,North America,2007,3356840
+Japan,Asia,Mexico,North America,2007,1180290
+Japan,Asia,Brazil,South America,2007,0
+Japan,Asia,Argentina,South America,2007,0
+Japan,Asia,United Kingdom,Europe,2007,6579
+Japan,Asia,Netherlands,Europe,2007,0
+Japan,Asia,Belgium,Europe,2007,8777123
+Japan,Asia,France,Europe,2007,876512
+Japan,Asia,Switzerland,Europe,2007,1163
+Japan,Asia,Spain,Europe,2007,628144
+Japan,Asia,Portugal,Europe,2007,23904
+Japan,Asia,Germany,Europe,2007,569498
+Japan,Asia,Poland,Europe,2007,385059
+Japan,Asia,Austria,Europe,2007,103477
+Japan,Asia,Hungary,Europe,2007,13105
+Japan,Asia,Czech Republic,Europe,2007,159334
+Japan,Asia,Slovakia,Europe,2007,0
+Japan,Asia,Italy,Europe,2007,113299
+Japan,Asia,Croatia,Europe,2007,34095
+Japan,Asia,Serbia,Europe,2007,47274
+Japan,Asia,Bosnia,Europe,2007,0
+Japan,Asia,Greece,Europe,2007,145625
+Japan,Asia,Bulgaria,Europe,2007,0
+Japan,Asia,Romania,Europe,2007,0
+Japan,Asia,Russia,Asia,2007,93394
+Japan,Asia,Ukraine,Europe,2007,140591
+Japan,Asia,Finland,Europe,2007,204502
+Japan,Asia,Sweden,Europe,2007,97725
+Japan,Asia,Norway,Europe,2007,258188
+Japan,Asia,Denmark,Europe,2007,642380
+Japan,Asia,South Africa,Africa,2007,0
+Japan,Asia,Turkey,Asia,2007,107470
+Japan,Asia,Israel,Asia,2007,0
+Japan,Asia,United Arab Emirates,Asia,2007,1098
+Japan,Asia,Taiwan,Asia,2007,2289
+Japan,Asia,South Korea,Asia,2007,77617
+Japan,Asia,Japan,Asia,2007,0
+Japan,Asia,India,Asia,2007,675
+Japan,Asia,Pakistan,Asia,2007,0
+Japan,Asia,Thailand,Asia,2007,173523
+Japan,Asia,Malaysia,Asia,2007,162842
+Japan,Asia,Singapore,Asia,2007,32
+Japan,Asia,Philippines,Asia,2007,0
+Japan,Asia,Indonesia,Asia,2007,0
+Japan,Asia,Australia,Oceania,2007,1074487
+Japan,Asia,Cyprus,Europe,2007,222888
+Japan,Asia,China,Asia,2007,0
+Japan,Asia,Ivory Coast,Africa,2007,0
+Japan,Asia,Congo,Africa,2007,0
+India,Asia,United States,North America,2007,387282
+India,Asia,Canada,North America,2007,9417
+India,Asia,Mexico,North America,2007,0
+India,Asia,Brazil,South America,2007,0
+India,Asia,Argentina,South America,2007,0
+India,Asia,United Kingdom,Europe,2007,41297
+India,Asia,Netherlands,Europe,2007,0
+India,Asia,Belgium,Europe,2007,48653
+India,Asia,France,Europe,2007,0
+India,Asia,Switzerland,Europe,2007,0
+India,Asia,Spain,Europe,2007,0
+India,Asia,Portugal,Europe,2007,0
+India,Asia,Germany,Europe,2007,136664
+India,Asia,Poland,Europe,2007,0
+India,Asia,Austria,Europe,2007,0
+India,Asia,Hungary,Europe,2007,0
+India,Asia,Czech Republic,Europe,2007,0
+India,Asia,Slovakia,Europe,2007,0
+India,Asia,Italy,Europe,2007,57858
+India,Asia,Croatia,Europe,2007,0
+India,Asia,Serbia,Europe,2007,0
+India,Asia,Bosnia,Europe,2007,0
+India,Asia,Greece,Europe,2007,0
+India,Asia,Bulgaria,Europe,2007,0
+India,Asia,Romania,Europe,2007,0
+India,Asia,Russia,Asia,2007,0
+India,Asia,Ukraine,Europe,2007,0
+India,Asia,Finland,Europe,2007,10316
+India,Asia,Sweden,Europe,2007,0
+India,Asia,Norway,Europe,2007,0
+India,Asia,Denmark,Europe,2007,0
+India,Asia,South Africa,Africa,2007,0
+India,Asia,Turkey,Asia,2007,618
+India,Asia,Israel,Asia,2007,36229
+India,Asia,United Arab Emirates,Asia,2007,7360
+India,Asia,Taiwan,Asia,2007,0
+India,Asia,South Korea,Asia,2007,0
+India,Asia,Japan,Asia,2007,0
+India,Asia,India,Asia,2007,0
+India,Asia,Pakistan,Asia,2007,0
+India,Asia,Thailand,Asia,2007,0
+India,Asia,Malaysia,Asia,2007,3666
+India,Asia,Singapore,Asia,2007,0
+India,Asia,Philippines,Asia,2007,0
+India,Asia,Indonesia,Asia,2007,22
+India,Asia,Australia,Oceania,2007,386656
+India,Asia,Cyprus,Europe,2007,0
+India,Asia,China,Asia,2007,0
+India,Asia,Ivory Coast,Africa,2007,0
+India,Asia,Congo,Africa,2007,0
+Pakistan,Asia,United States,North America,2007,200989
+Pakistan,Asia,Canada,North America,2007,846
+Pakistan,Asia,Mexico,North America,2007,0
+Pakistan,Asia,Brazil,South America,2007,0
+Pakistan,Asia,Argentina,South America,2007,0
+Pakistan,Asia,United Kingdom,Europe,2007,0
+Pakistan,Asia,Netherlands,Europe,2007,0
+Pakistan,Asia,Belgium,Europe,2007,87226
+Pakistan,Asia,France,Europe,2007,98423
+Pakistan,Asia,Switzerland,Europe,2007,0
+Pakistan,Asia,Spain,Europe,2007,0
+Pakistan,Asia,Portugal,Europe,2007,0
+Pakistan,Asia,Germany,Europe,2007,3991
+Pakistan,Asia,Poland,Europe,2007,0
+Pakistan,Asia,Austria,Europe,2007,0
+Pakistan,Asia,Hungary,Europe,2007,0
+Pakistan,Asia,Czech Republic,Europe,2007,0
+Pakistan,Asia,Slovakia,Europe,2007,0
+Pakistan,Asia,Italy,Europe,2007,0
+Pakistan,Asia,Croatia,Europe,2007,0
+Pakistan,Asia,Serbia,Europe,2007,0
+Pakistan,Asia,Bosnia,Europe,2007,0
+Pakistan,Asia,Greece,Europe,2007,0
+Pakistan,Asia,Bulgaria,Europe,2007,0
+Pakistan,Asia,Romania,Europe,2007,0
+Pakistan,Asia,Russia,Asia,2007,0
+Pakistan,Asia,Ukraine,Europe,2007,0
+Pakistan,Asia,Finland,Europe,2007,6894
+Pakistan,Asia,Sweden,Europe,2007,0
+Pakistan,Asia,Norway,Europe,2007,0
+Pakistan,Asia,Denmark,Europe,2007,0
+Pakistan,Asia,South Africa,Africa,2007,0
+Pakistan,Asia,Turkey,Asia,2007,0
+Pakistan,Asia,Israel,Asia,2007,0
+Pakistan,Asia,United Arab Emirates,Asia,2007,78725
+Pakistan,Asia,Taiwan,Asia,2007,0
+Pakistan,Asia,South Korea,Asia,2007,9050
+Pakistan,Asia,Japan,Asia,2007,0
+Pakistan,Asia,India,Asia,2007,0
+Pakistan,Asia,Pakistan,Asia,2007,0
+Pakistan,Asia,Thailand,Asia,2007,0
+Pakistan,Asia,Malaysia,Asia,2007,0
+Pakistan,Asia,Singapore,Asia,2007,0
+Pakistan,Asia,Philippines,Asia,2007,0
+Pakistan,Asia,Indonesia,Asia,2007,0
+Pakistan,Asia,Australia,Oceania,2007,4445
+Pakistan,Asia,Cyprus,Europe,2007,0
+Pakistan,Asia,China,Asia,2007,0
+Pakistan,Asia,Ivory Coast,Africa,2007,0
+Pakistan,Asia,Congo,Africa,2007,0
+Thailand,Asia,United States,North America,2007,228033
+Thailand,Asia,Canada,North America,2007,7
+Thailand,Asia,Mexico,North America,2007,0
+Thailand,Asia,Brazil,South America,2007,0
+Thailand,Asia,Argentina,South America,2007,0
+Thailand,Asia,United Kingdom,Europe,2007,0
+Thailand,Asia,Netherlands,Europe,2007,0
+Thailand,Asia,Belgium,Europe,2007,0
+Thailand,Asia,France,Europe,2007,0
+Thailand,Asia,Switzerland,Europe,2007,0
+Thailand,Asia,Spain,Europe,2007,0
+Thailand,Asia,Portugal,Europe,2007,0
+Thailand,Asia,Germany,Europe,2007,0
+Thailand,Asia,Poland,Europe,2007,0
+Thailand,Asia,Austria,Europe,2007,0
+Thailand,Asia,Hungary,Europe,2007,0
+Thailand,Asia,Czech Republic,Europe,2007,0
+Thailand,Asia,Slovakia,Europe,2007,0
+Thailand,Asia,Italy,Europe,2007,0
+Thailand,Asia,Croatia,Europe,2007,0
+Thailand,Asia,Serbia,Europe,2007,0
+Thailand,Asia,Bosnia,Europe,2007,0
+Thailand,Asia,Greece,Europe,2007,0
+Thailand,Asia,Bulgaria,Europe,2007,0
+Thailand,Asia,Romania,Europe,2007,0
+Thailand,Asia,Russia,Asia,2007,0
+Thailand,Asia,Ukraine,Europe,2007,0
+Thailand,Asia,Finland,Europe,2007,0
+Thailand,Asia,Sweden,Europe,2007,0
+Thailand,Asia,Norway,Europe,2007,0
+Thailand,Asia,Denmark,Europe,2007,0
+Thailand,Asia,South Africa,Africa,2007,0
+Thailand,Asia,Turkey,Asia,2007,0
+Thailand,Asia,Israel,Asia,2007,87634
+Thailand,Asia,United Arab Emirates,Asia,2007,0
+Thailand,Asia,Taiwan,Asia,2007,0
+Thailand,Asia,South Korea,Asia,2007,0
+Thailand,Asia,Japan,Asia,2007,0
+Thailand,Asia,India,Asia,2007,0
+Thailand,Asia,Pakistan,Asia,2007,654
+Thailand,Asia,Thailand,Asia,2007,15398
+Thailand,Asia,Malaysia,Asia,2007,65258
+Thailand,Asia,Singapore,Asia,2007,42671
+Thailand,Asia,Philippines,Asia,2007,15463
+Thailand,Asia,Indonesia,Asia,2007,0
+Thailand,Asia,Australia,Oceania,2007,0
+Thailand,Asia,Cyprus,Europe,2007,0
+Thailand,Asia,China,Asia,2007,9700
+Thailand,Asia,Ivory Coast,Africa,2007,0
+Thailand,Asia,Congo,Africa,2007,0
+Malaysia,Asia,United States,North America,2007,644334
+Malaysia,Asia,Canada,North America,2007,482
+Malaysia,Asia,Mexico,North America,2007,0
+Malaysia,Asia,Brazil,South America,2007,0
+Malaysia,Asia,Argentina,South America,2007,0
+Malaysia,Asia,United Kingdom,Europe,2007,0
+Malaysia,Asia,Netherlands,Europe,2007,0
+Malaysia,Asia,Belgium,Europe,2007,0
+Malaysia,Asia,France,Europe,2007,0
+Malaysia,Asia,Switzerland,Europe,2007,8138
+Malaysia,Asia,Spain,Europe,2007,0
+Malaysia,Asia,Portugal,Europe,2007,0
+Malaysia,Asia,Germany,Europe,2007,0
+Malaysia,Asia,Poland,Europe,2007,0
+Malaysia,Asia,Austria,Europe,2007,0
+Malaysia,Asia,Hungary,Europe,2007,0
+Malaysia,Asia,Czech Republic,Europe,2007,42605
+Malaysia,Asia,Slovakia,Europe,2007,0
+Malaysia,Asia,Italy,Europe,2007,0
+Malaysia,Asia,Croatia,Europe,2007,0
+Malaysia,Asia,Serbia,Europe,2007,0
+Malaysia,Asia,Bosnia,Europe,2007,0
+Malaysia,Asia,Greece,Europe,2007,0
+Malaysia,Asia,Bulgaria,Europe,2007,0
+Malaysia,Asia,Romania,Europe,2007,0
+Malaysia,Asia,Russia,Asia,2007,0
+Malaysia,Asia,Ukraine,Europe,2007,0
+Malaysia,Asia,Finland,Europe,2007,0
+Malaysia,Asia,Sweden,Europe,2007,0
+Malaysia,Asia,Norway,Europe,2007,0
+Malaysia,Asia,Denmark,Europe,2007,0
+Malaysia,Asia,South Africa,Africa,2007,0
+Malaysia,Asia,Turkey,Asia,2007,0
+Malaysia,Asia,Israel,Asia,2007,0
+Malaysia,Asia,United Arab Emirates,Asia,2007,0
+Malaysia,Asia,Taiwan,Asia,2007,9177
+Malaysia,Asia,South Korea,Asia,2007,0
+Malaysia,Asia,Japan,Asia,2007,0
+Malaysia,Asia,India,Asia,2007,0
+Malaysia,Asia,Pakistan,Asia,2007,0
+Malaysia,Asia,Thailand,Asia,2007,370122
+Malaysia,Asia,Malaysia,Asia,2007,0
+Malaysia,Asia,Singapore,Asia,2007,89028
+Malaysia,Asia,Philippines,Asia,2007,0
+Malaysia,Asia,Indonesia,Asia,2007,5027
+Malaysia,Asia,Australia,Oceania,2007,0
+Malaysia,Asia,Cyprus,Europe,2007,0
+Malaysia,Asia,China,Asia,2007,0
+Malaysia,Asia,Ivory Coast,Africa,2007,0
+Malaysia,Asia,Congo,Africa,2007,0
+Singapore,Asia,United States,North America,2007,19695
+Singapore,Asia,Canada,North America,2007,0
+Singapore,Asia,Mexico,North America,2007,0
+Singapore,Asia,Brazil,South America,2007,0
+Singapore,Asia,Argentina,South America,2007,0
+Singapore,Asia,United Kingdom,Europe,2007,0
+Singapore,Asia,Netherlands,Europe,2007,27455
+Singapore,Asia,Belgium,Europe,2007,1569
+Singapore,Asia,France,Europe,2007,0
+Singapore,Asia,Switzerland,Europe,2007,14685
+Singapore,Asia,Spain,Europe,2007,0
+Singapore,Asia,Portugal,Europe,2007,0
+Singapore,Asia,Germany,Europe,2007,0
+Singapore,Asia,Poland,Europe,2007,0
+Singapore,Asia,Austria,Europe,2007,0
+Singapore,Asia,Hungary,Europe,2007,0
+Singapore,Asia,Czech Republic,Europe,2007,0
+Singapore,Asia,Slovakia,Europe,2007,0
+Singapore,Asia,Italy,Europe,2007,0
+Singapore,Asia,Croatia,Europe,2007,0
+Singapore,Asia,Serbia,Europe,2007,0
+Singapore,Asia,Bosnia,Europe,2007,0
+Singapore,Asia,Greece,Europe,2007,0
+Singapore,Asia,Bulgaria,Europe,2007,0
+Singapore,Asia,Romania,Europe,2007,0
+Singapore,Asia,Russia,Asia,2007,0
+Singapore,Asia,Ukraine,Europe,2007,0
+Singapore,Asia,Finland,Europe,2007,2599511
+Singapore,Asia,Sweden,Europe,2007,0
+Singapore,Asia,Norway,Europe,2007,0
+Singapore,Asia,Denmark,Europe,2007,0
+Singapore,Asia,South Africa,Africa,2007,42980
+Singapore,Asia,Turkey,Asia,2007,0
+Singapore,Asia,Israel,Asia,2007,0
+Singapore,Asia,United Arab Emirates,Asia,2007,1825
+Singapore,Asia,Taiwan,Asia,2007,15015
+Singapore,Asia,South Korea,Asia,2007,0
+Singapore,Asia,Japan,Asia,2007,4113
+Singapore,Asia,India,Asia,2007,14738
+Singapore,Asia,Pakistan,Asia,2007,36711
+Singapore,Asia,Thailand,Asia,2007,7193
+Singapore,Asia,Malaysia,Asia,2007,125435
+Singapore,Asia,Singapore,Asia,2007,0
+Singapore,Asia,Philippines,Asia,2007,3343
+Singapore,Asia,Indonesia,Asia,2007,22648
+Singapore,Asia,Australia,Oceania,2007,17965
+Singapore,Asia,Cyprus,Europe,2007,0
+Singapore,Asia,China,Asia,2007,0
+Singapore,Asia,Ivory Coast,Africa,2007,0
+Singapore,Asia,Congo,Africa,2007,0
+Philippines,Asia,United States,North America,2007,5066072
+Philippines,Asia,Canada,North America,2007,0
+Philippines,Asia,Mexico,North America,2007,0
+Philippines,Asia,Brazil,South America,2007,0
+Philippines,Asia,Argentina,South America,2007,0
+Philippines,Asia,United Kingdom,Europe,2007,0
+Philippines,Asia,Netherlands,Europe,2007,0
+Philippines,Asia,Belgium,Europe,2007,0
+Philippines,Asia,France,Europe,2007,0
+Philippines,Asia,Switzerland,Europe,2007,0
+Philippines,Asia,Spain,Europe,2007,11456
+Philippines,Asia,Portugal,Europe,2007,0
+Philippines,Asia,Germany,Europe,2007,34148
+Philippines,Asia,Poland,Europe,2007,105
+Philippines,Asia,Austria,Europe,2007,0
+Philippines,Asia,Hungary,Europe,2007,0
+Philippines,Asia,Czech Republic,Europe,2007,0
+Philippines,Asia,Slovakia,Europe,2007,0
+Philippines,Asia,Italy,Europe,2007,35261
+Philippines,Asia,Croatia,Europe,2007,0
+Philippines,Asia,Serbia,Europe,2007,0
+Philippines,Asia,Bosnia,Europe,2007,0
+Philippines,Asia,Greece,Europe,2007,0
+Philippines,Asia,Bulgaria,Europe,2007,0
+Philippines,Asia,Romania,Europe,2007,0
+Philippines,Asia,Russia,Asia,2007,0
+Philippines,Asia,Ukraine,Europe,2007,0
+Philippines,Asia,Finland,Europe,2007,0
+Philippines,Asia,Sweden,Europe,2007,0
+Philippines,Asia,Norway,Europe,2007,0
+Philippines,Asia,Denmark,Europe,2007,0
+Philippines,Asia,South Africa,Africa,2007,0
+Philippines,Asia,Turkey,Asia,2007,0
+Philippines,Asia,Israel,Asia,2007,0
+Philippines,Asia,United Arab Emirates,Asia,2007,0
+Philippines,Asia,Taiwan,Asia,2007,1067
+Philippines,Asia,South Korea,Asia,2007,0
+Philippines,Asia,Japan,Asia,2007,1291
+Philippines,Asia,India,Asia,2007,0
+Philippines,Asia,Pakistan,Asia,2007,15430
+Philippines,Asia,Thailand,Asia,2007,416616
+Philippines,Asia,Malaysia,Asia,2007,0
+Philippines,Asia,Singapore,Asia,2007,0
+Philippines,Asia,Philippines,Asia,2007,0
+Philippines,Asia,Indonesia,Asia,2007,6520
+Philippines,Asia,Australia,Oceania,2007,66887
+Philippines,Asia,Cyprus,Europe,2007,0
+Philippines,Asia,China,Asia,2007,0
+Philippines,Asia,Ivory Coast,Africa,2007,0
+Philippines,Asia,Congo,Africa,2007,0
+Indonesia,Asia,United States,North America,2007,1612
+Indonesia,Asia,Canada,North America,2007,11441
+Indonesia,Asia,Mexico,North America,2007,0
+Indonesia,Asia,Brazil,South America,2007,0
+Indonesia,Asia,Argentina,South America,2007,0
+Indonesia,Asia,United Kingdom,Europe,2007,0
+Indonesia,Asia,Netherlands,Europe,2007,0
+Indonesia,Asia,Belgium,Europe,2007,0
+Indonesia,Asia,France,Europe,2007,0
+Indonesia,Asia,Switzerland,Europe,2007,0
+Indonesia,Asia,Spain,Europe,2007,0
+Indonesia,Asia,Portugal,Europe,2007,0
+Indonesia,Asia,Germany,Europe,2007,0
+Indonesia,Asia,Poland,Europe,2007,0
+Indonesia,Asia,Austria,Europe,2007,0
+Indonesia,Asia,Hungary,Europe,2007,0
+Indonesia,Asia,Czech Republic,Europe,2007,0
+Indonesia,Asia,Slovakia,Europe,2007,0
+Indonesia,Asia,Italy,Europe,2007,0
+Indonesia,Asia,Croatia,Europe,2007,0
+Indonesia,Asia,Serbia,Europe,2007,0
+Indonesia,Asia,Bosnia,Europe,2007,0
+Indonesia,Asia,Greece,Europe,2007,0
+Indonesia,Asia,Bulgaria,Europe,2007,0
+Indonesia,Asia,Romania,Europe,2007,0
+Indonesia,Asia,Russia,Asia,2007,0
+Indonesia,Asia,Ukraine,Europe,2007,0
+Indonesia,Asia,Finland,Europe,2007,0
+Indonesia,Asia,Sweden,Europe,2007,0
+Indonesia,Asia,Norway,Europe,2007,0
+Indonesia,Asia,Denmark,Europe,2007,0
+Indonesia,Asia,South Africa,Africa,2007,0
+Indonesia,Asia,Turkey,Asia,2007,0
+Indonesia,Asia,Israel,Asia,2007,0
+Indonesia,Asia,United Arab Emirates,Asia,2007,0
+Indonesia,Asia,Taiwan,Asia,2007,0
+Indonesia,Asia,South Korea,Asia,2007,0
+Indonesia,Asia,Japan,Asia,2007,108847
+Indonesia,Asia,India,Asia,2007,0
+Indonesia,Asia,Pakistan,Asia,2007,0
+Indonesia,Asia,Thailand,Asia,2007,274217
+Indonesia,Asia,Malaysia,Asia,2007,46
+Indonesia,Asia,Singapore,Asia,2007,315773
+Indonesia,Asia,Philippines,Asia,2007,0
+Indonesia,Asia,Indonesia,Asia,2007,0
+Indonesia,Asia,Australia,Oceania,2007,0
+Indonesia,Asia,Cyprus,Europe,2007,0
+Indonesia,Asia,China,Asia,2007,0
+Indonesia,Asia,Ivory Coast,Africa,2007,0
+Indonesia,Asia,Congo,Africa,2007,0
+Australia,Oceania,United States,North America,2007,1552123
+Australia,Oceania,Canada,North America,2007,33724
+Australia,Oceania,Mexico,North America,2007,0
+Australia,Oceania,Brazil,South America,2007,0
+Australia,Oceania,Argentina,South America,2007,6790
+Australia,Oceania,United Kingdom,Europe,2007,194365
+Australia,Oceania,Netherlands,Europe,2007,0
+Australia,Oceania,Belgium,Europe,2007,526412
+Australia,Oceania,France,Europe,2007,354479
+Australia,Oceania,Switzerland,Europe,2007,23191
+Australia,Oceania,Spain,Europe,2007,88845
+Australia,Oceania,Portugal,Europe,2007,0
+Australia,Oceania,Germany,Europe,2007,134339
+Australia,Oceania,Poland,Europe,2007,0
+Australia,Oceania,Austria,Europe,2007,15053
+Australia,Oceania,Hungary,Europe,2007,0
+Australia,Oceania,Czech Republic,Europe,2007,0
+Australia,Oceania,Slovakia,Europe,2007,0
+Australia,Oceania,Italy,Europe,2007,44574
+Australia,Oceania,Croatia,Europe,2007,15831
+Australia,Oceania,Serbia,Europe,2007,0
+Australia,Oceania,Bosnia,Europe,2007,0
+Australia,Oceania,Greece,Europe,2007,9065
+Australia,Oceania,Bulgaria,Europe,2007,0
+Australia,Oceania,Romania,Europe,2007,0
+Australia,Oceania,Russia,Asia,2007,8844
+Australia,Oceania,Ukraine,Europe,2007,0
+Australia,Oceania,Finland,Europe,2007,17092
+Australia,Oceania,Sweden,Europe,2007,3167
+Australia,Oceania,Norway,Europe,2007,919551
+Australia,Oceania,Denmark,Europe,2007,153731
+Australia,Oceania,South Africa,Africa,2007,402376
+Australia,Oceania,Turkey,Asia,2007,0
+Australia,Oceania,Israel,Asia,2007,7959
+Australia,Oceania,United Arab Emirates,Asia,2007,82377
+Australia,Oceania,Taiwan,Asia,2007,8190
+Australia,Oceania,South Korea,Asia,2007,233226
+Australia,Oceania,Japan,Asia,2007,1413472
+Australia,Oceania,India,Asia,2007,6101
+Australia,Oceania,Pakistan,Asia,2007,44531
+Australia,Oceania,Thailand,Asia,2007,643922
+Australia,Oceania,Malaysia,Asia,2007,23242
+Australia,Oceania,Singapore,Asia,2007,109050
+Australia,Oceania,Philippines,Asia,2007,22193
+Australia,Oceania,Indonesia,Asia,2007,71054
+Australia,Oceania,Australia,Oceania,2007,5564640
+Australia,Oceania,Cyprus,Europe,2007,157816
+Australia,Oceania,China,Asia,2007,706184
+Australia,Oceania,Ivory Coast,Africa,2007,0
+Australia,Oceania,Congo,Africa,2007,0
+Cyprus,Europe,United States,North America,2007,2591
+Cyprus,Europe,Canada,North America,2007,0
+Cyprus,Europe,Mexico,North America,2007,0
+Cyprus,Europe,Brazil,South America,2007,0
+Cyprus,Europe,Argentina,South America,2007,0
+Cyprus,Europe,United Kingdom,Europe,2007,1268330
+Cyprus,Europe,Netherlands,Europe,2007,0
+Cyprus,Europe,Belgium,Europe,2007,0
+Cyprus,Europe,France,Europe,2007,511854
+Cyprus,Europe,Switzerland,Europe,2007,0
+Cyprus,Europe,Spain,Europe,2007,0
+Cyprus,Europe,Portugal,Europe,2007,0
+Cyprus,Europe,Germany,Europe,2007,44956
+Cyprus,Europe,Poland,Europe,2007,0
+Cyprus,Europe,Austria,Europe,2007,0
+Cyprus,Europe,Hungary,Europe,2007,6595
+Cyprus,Europe,Czech Republic,Europe,2007,172810
+Cyprus,Europe,Slovakia,Europe,2007,0
+Cyprus,Europe,Italy,Europe,2007,0
+Cyprus,Europe,Croatia,Europe,2007,32222
+Cyprus,Europe,Serbia,Europe,2007,380575
+Cyprus,Europe,Bosnia,Europe,2007,1469599
+Cyprus,Europe,Greece,Europe,2007,56937
+Cyprus,Europe,Bulgaria,Europe,2007,0
+Cyprus,Europe,Romania,Europe,2007,218704
+Cyprus,Europe,Russia,Asia,2007,0
+Cyprus,Europe,Ukraine,Europe,2007,25085
+Cyprus,Europe,Finland,Europe,2007,83648
+Cyprus,Europe,Sweden,Europe,2007,0
+Cyprus,Europe,Norway,Europe,2007,35352
+Cyprus,Europe,Denmark,Europe,2007,83729
+Cyprus,Europe,South Africa,Africa,2007,2503
+Cyprus,Europe,Turkey,Asia,2007,1460798
+Cyprus,Europe,Israel,Asia,2007,7985
+Cyprus,Europe,United Arab Emirates,Asia,2007,117207
+Cyprus,Europe,Taiwan,Asia,2007,0
+Cyprus,Europe,South Korea,Asia,2007,0
+Cyprus,Europe,Japan,Asia,2007,0
+Cyprus,Europe,India,Asia,2007,103153
+Cyprus,Europe,Pakistan,Asia,2007,0
+Cyprus,Europe,Thailand,Asia,2007,324423
+Cyprus,Europe,Malaysia,Asia,2007,0
+Cyprus,Europe,Singapore,Asia,2007,0
+Cyprus,Europe,Philippines,Asia,2007,0
+Cyprus,Europe,Indonesia,Asia,2007,0
+Cyprus,Europe,Australia,Oceania,2007,14043
+Cyprus,Europe,Cyprus,Europe,2007,0
+Cyprus,Europe,China,Asia,2007,0
+Cyprus,Europe,Ivory Coast,Africa,2007,0
+Cyprus,Europe,Congo,Africa,2007,0
+China,Asia,United States,North America,2007,5365325
+China,Asia,Canada,North America,2007,512418
+China,Asia,Mexico,North America,2007,0
+China,Asia,Brazil,South America,2007,467968
+China,Asia,Argentina,South America,2007,52938
+China,Asia,United Kingdom,Europe,2007,1021006
+China,Asia,Netherlands,Europe,2007,0
+China,Asia,Belgium,Europe,2007,67949
+China,Asia,France,Europe,2007,225560
+China,Asia,Switzerland,Europe,2007,2392
+China,Asia,Spain,Europe,2007,0
+China,Asia,Portugal,Europe,2007,1650
+China,Asia,Germany,Europe,2007,505822
+China,Asia,Poland,Europe,2007,120071
+China,Asia,Austria,Europe,2007,69681
+China,Asia,Hungary,Europe,2007,0
+China,Asia,Czech Republic,Europe,2007,9622
+China,Asia,Slovakia,Europe,2007,9059
+China,Asia,Italy,Europe,2007,74606
+China,Asia,Croatia,Europe,2007,0
+China,Asia,Serbia,Europe,2007,0
+China,Asia,Bosnia,Europe,2007,0
+China,Asia,Greece,Europe,2007,81246
+China,Asia,Bulgaria,Europe,2007,0
+China,Asia,Romania,Europe,2007,0
+China,Asia,Russia,Asia,2007,0
+China,Asia,Ukraine,Europe,2007,0
+China,Asia,Finland,Europe,2007,1844
+China,Asia,Sweden,Europe,2007,7759
+China,Asia,Norway,Europe,2007,77182
+China,Asia,Denmark,Europe,2007,0
+China,Asia,South Africa,Africa,2007,0
+China,Asia,Turkey,Asia,2007,0
+China,Asia,Israel,Asia,2007,0
+China,Asia,United Arab Emirates,Asia,2007,24874
+China,Asia,Taiwan,Asia,2007,0
+China,Asia,South Korea,Asia,2007,401641
+China,Asia,Japan,Asia,2007,15600
+China,Asia,India,Asia,2007,0
+China,Asia,Pakistan,Asia,2007,1928758
+China,Asia,Thailand,Asia,2007,61601
+China,Asia,Malaysia,Asia,2007,29374
+China,Asia,Singapore,Asia,2007,6472411
+China,Asia,Philippines,Asia,2007,450099
+China,Asia,Indonesia,Asia,2007,0
+China,Asia,Australia,Oceania,2007,113349
+China,Asia,Cyprus,Europe,2007,0
+China,Asia,China,Asia,2007,0
+China,Asia,Ivory Coast,Africa,2007,0
+China,Asia,Congo,Africa,2007,0
+Ivory Coast,Africa,United States,North America,2007,0
+Ivory Coast,Africa,Canada,North America,2007,0
+Ivory Coast,Africa,Mexico,North America,2007,0
+Ivory Coast,Africa,Brazil,South America,2007,0
+Ivory Coast,Africa,Argentina,South America,2007,0
+Ivory Coast,Africa,United Kingdom,Europe,2007,0
+Ivory Coast,Africa,Netherlands,Europe,2007,0
+Ivory Coast,Africa,Belgium,Europe,2007,0
+Ivory Coast,Africa,France,Europe,2007,47372
+Ivory Coast,Africa,Switzerland,Europe,2007,0
+Ivory Coast,Africa,Spain,Europe,2007,0
+Ivory Coast,Africa,Portugal,Europe,2007,0
+Ivory Coast,Africa,Germany,Europe,2007,0
+Ivory Coast,Africa,Poland,Europe,2007,0
+Ivory Coast,Africa,Austria,Europe,2007,0
+Ivory Coast,Africa,Hungary,Europe,2007,0
+Ivory Coast,Africa,Czech Republic,Europe,2007,0
+Ivory Coast,Africa,Slovakia,Europe,2007,0
+Ivory Coast,Africa,Italy,Europe,2007,0
+Ivory Coast,Africa,Croatia,Europe,2007,0
+Ivory Coast,Africa,Serbia,Europe,2007,0
+Ivory Coast,Africa,Bosnia,Europe,2007,0
+Ivory Coast,Africa,Greece,Europe,2007,0
+Ivory Coast,Africa,Bulgaria,Europe,2007,0
+Ivory Coast,Africa,Romania,Europe,2007,0
+Ivory Coast,Africa,Russia,Asia,2007,0
+Ivory Coast,Africa,Ukraine,Europe,2007,0
+Ivory Coast,Africa,Finland,Europe,2007,0
+Ivory Coast,Africa,Sweden,Europe,2007,0
+Ivory Coast,Africa,Norway,Europe,2007,0
+Ivory Coast,Africa,Denmark,Europe,2007,0
+Ivory Coast,Africa,South Africa,Africa,2007,0
+Ivory Coast,Africa,Turkey,Asia,2007,0
+Ivory Coast,Africa,Israel,Asia,2007,0
+Ivory Coast,Africa,United Arab Emirates,Asia,2007,0
+Ivory Coast,Africa,Taiwan,Asia,2007,0
+Ivory Coast,Africa,South Korea,Asia,2007,0
+Ivory Coast,Africa,Japan,Asia,2007,0
+Ivory Coast,Africa,India,Asia,2007,0
+Ivory Coast,Africa,Pakistan,Asia,2007,0
+Ivory Coast,Africa,Thailand,Asia,2007,0
+Ivory Coast,Africa,Malaysia,Asia,2007,0
+Ivory Coast,Africa,Singapore,Asia,2007,0
+Ivory Coast,Africa,Philippines,Asia,2007,0
+Ivory Coast,Africa,Indonesia,Asia,2007,0
+Ivory Coast,Africa,Australia,Oceania,2007,0
+Ivory Coast,Africa,Cyprus,Europe,2007,0
+Ivory Coast,Africa,China,Asia,2007,0
+Ivory Coast,Africa,Ivory Coast,Africa,2007,0
+Ivory Coast,Africa,Congo,Africa,2007,0
+Congo,Africa,United States,North America,2007,0
+Congo,Africa,Canada,North America,2007,0
+Congo,Africa,Mexico,North America,2007,0
+Congo,Africa,Brazil,South America,2007,0
+Congo,Africa,Argentina,South America,2007,0
+Congo,Africa,United Kingdom,Europe,2007,0
+Congo,Africa,Netherlands,Europe,2007,0
+Congo,Africa,Belgium,Europe,2007,0
+Congo,Africa,France,Europe,2007,0
+Congo,Africa,Switzerland,Europe,2007,0
+Congo,Africa,Spain,Europe,2007,0
+Congo,Africa,Portugal,Europe,2007,0
+Congo,Africa,Germany,Europe,2007,0
+Congo,Africa,Poland,Europe,2007,0
+Congo,Africa,Austria,Europe,2007,0
+Congo,Africa,Hungary,Europe,2007,0
+Congo,Africa,Czech Republic,Europe,2007,0
+Congo,Africa,Slovakia,Europe,2007,0
+Congo,Africa,Italy,Europe,2007,0
+Congo,Africa,Croatia,Europe,2007,0
+Congo,Africa,Serbia,Europe,2007,0
+Congo,Africa,Bosnia,Europe,2007,0
+Congo,Africa,Greece,Europe,2007,0
+Congo,Africa,Bulgaria,Europe,2007,0
+Congo,Africa,Romania,Europe,2007,0
+Congo,Africa,Russia,Asia,2007,0
+Congo,Africa,Ukraine,Europe,2007,0
+Congo,Africa,Finland,Europe,2007,0
+Congo,Africa,Sweden,Europe,2007,0
+Congo,Africa,Norway,Europe,2007,0
+Congo,Africa,Denmark,Europe,2007,0
+Congo,Africa,South Africa,Africa,2007,0
+Congo,Africa,Turkey,Asia,2007,0
+Congo,Africa,Israel,Asia,2007,0
+Congo,Africa,United Arab Emirates,Asia,2007,0
+Congo,Africa,Taiwan,Asia,2007,0
+Congo,Africa,South Korea,Asia,2007,0
+Congo,Africa,Japan,Asia,2007,0
+Congo,Africa,India,Asia,2007,0
+Congo,Africa,Pakistan,Asia,2007,0
+Congo,Africa,Thailand,Asia,2007,0
+Congo,Africa,Malaysia,Asia,2007,0
+Congo,Africa,Singapore,Asia,2007,0
+Congo,Africa,Philippines,Asia,2007,0
+Congo,Africa,Indonesia,Asia,2007,0
+Congo,Africa,Australia,Oceania,2007,0
+Congo,Africa,Cyprus,Europe,2007,0
+Congo,Africa,China,Asia,2007,0
+Congo,Africa,Ivory Coast,Africa,2007,0
+Congo,Africa,Congo,Africa,2007,0

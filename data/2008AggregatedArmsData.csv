@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,2008,0
+United States,North America,Canada,North America,2008,116921387
+United States,North America,Mexico,North America,2008,9698939
+United States,North America,Brazil,South America,2008,4248208
+United States,North America,Argentina,South America,2008,2050121
+United States,North America,United Kingdom,Europe,2008,30819652
+United States,North America,Netherlands,Europe,2008,2490290
+United States,North America,Belgium,Europe,2008,21193266
+United States,North America,France,Europe,2008,6736965
+United States,North America,Switzerland,Europe,2008,3315154
+United States,North America,Spain,Europe,2008,17394412
+United States,North America,Portugal,Europe,2008,2105023
+United States,North America,Germany,Europe,2008,18610173
+United States,North America,Poland,Europe,2008,2088756
+United States,North America,Austria,Europe,2008,1557515
+United States,North America,Hungary,Europe,2008,420624
+United States,North America,Czech Republic,Europe,2008,1431746
+United States,North America,Slovakia,Europe,2008,173256
+United States,North America,Italy,Europe,2008,12478937
+United States,North America,Croatia,Europe,2008,319394
+United States,North America,Serbia,Europe,2008,109489
+United States,North America,Bosnia,Europe,2008,0
+United States,North America,Greece,Europe,2008,849843
+United States,North America,Bulgaria,Europe,2008,1375319
+United States,North America,Romania,Europe,2008,522656
+United States,North America,Russia,Asia,2008,1064941
+United States,North America,Ukraine,Europe,2008,1516026
+United States,North America,Finland,Europe,2008,3647782
+United States,North America,Sweden,Europe,2008,3479426
+United States,North America,Norway,Europe,2008,5340164
+United States,North America,Denmark,Europe,2008,8302702
+United States,North America,South Africa,Africa,2008,2595571
+United States,North America,Turkey,Asia,2008,3374398
+United States,North America,Israel,Asia,2008,28894394
+United States,North America,United Arab Emirates,Asia,2008,9551172
+United States,North America,Taiwan,Asia,2008,6434130
+United States,North America,South Korea,Asia,2008,18018920
+United States,North America,Japan,Asia,2008,16506839
+United States,North America,India,Asia,2008,1753745
+United States,North America,Pakistan,Asia,2008,908039
+United States,North America,Thailand,Asia,2008,27408106
+United States,North America,Malaysia,Asia,2008,19064474
+United States,North America,Singapore,Asia,2008,2080265
+United States,North America,Philippines,Asia,2008,6356420
+United States,North America,Indonesia,Asia,2008,802348
+United States,North America,Australia,Oceania,2008,44948388
+United States,North America,Cyprus,Europe,2008,65075
+United States,North America,China,Asia,2008,238549
+United States,North America,Ivory Coast,Africa,2008,22
+United States,North America,Congo,Africa,2008,0
+Canada,North America,United States,North America,2008,55109041
+Canada,North America,Canada,North America,2008,97439
+Canada,North America,Mexico,North America,2008,859
+Canada,North America,Brazil,South America,2008,71927
+Canada,North America,Argentina,South America,2008,78132
+Canada,North America,United Kingdom,Europe,2008,11580875
+Canada,North America,Netherlands,Europe,2008,290438
+Canada,North America,Belgium,Europe,2008,205909
+Canada,North America,France,Europe,2008,462267
+Canada,North America,Switzerland,Europe,2008,181283
+Canada,North America,Spain,Europe,2008,275053
+Canada,North America,Portugal,Europe,2008,469479
+Canada,North America,Germany,Europe,2008,951076
+Canada,North America,Poland,Europe,2008,185861
+Canada,North America,Austria,Europe,2008,37043
+Canada,North America,Hungary,Europe,2008,32870
+Canada,North America,Czech Republic,Europe,2008,423447
+Canada,North America,Slovakia,Europe,2008,135901
+Canada,North America,Italy,Europe,2008,307741
+Canada,North America,Croatia,Europe,2008,975
+Canada,North America,Serbia,Europe,2008,0
+Canada,North America,Bosnia,Europe,2008,0
+Canada,North America,Greece,Europe,2008,99344
+Canada,North America,Bulgaria,Europe,2008,0
+Canada,North America,Romania,Europe,2008,45813
+Canada,North America,Russia,Asia,2008,78341
+Canada,North America,Ukraine,Europe,2008,1348
+Canada,North America,Finland,Europe,2008,65785
+Canada,North America,Sweden,Europe,2008,417008
+Canada,North America,Norway,Europe,2008,3731531
+Canada,North America,Denmark,Europe,2008,4214565
+Canada,North America,South Africa,Africa,2008,2712
+Canada,North America,Turkey,Asia,2008,8296
+Canada,North America,Israel,Asia,2008,235091
+Canada,North America,United Arab Emirates,Asia,2008,328684
+Canada,North America,Taiwan,Asia,2008,97042
+Canada,North America,South Korea,Asia,2008,3489
+Canada,North America,Japan,Asia,2008,232034
+Canada,North America,India,Asia,2008,63330
+Canada,North America,Pakistan,Asia,2008,0
+Canada,North America,Thailand,Asia,2008,54448
+Canada,North America,Malaysia,Asia,2008,34025
+Canada,North America,Singapore,Asia,2008,657908
+Canada,North America,Philippines,Asia,2008,71664
+Canada,North America,Indonesia,Asia,2008,0
+Canada,North America,Australia,Oceania,2008,960940
+Canada,North America,Cyprus,Europe,2008,695
+Canada,North America,China,Asia,2008,280480
+Canada,North America,Ivory Coast,Africa,2008,0
+Canada,North America,Congo,Africa,2008,0
+Mexico,North America,United States,North America,2008,4246291
+Mexico,North America,Canada,North America,2008,22925
+Mexico,North America,Mexico,North America,2008,0
+Mexico,North America,Brazil,South America,2008,0
+Mexico,North America,Argentina,South America,2008,13467
+Mexico,North America,United Kingdom,Europe,2008,0
+Mexico,North America,Netherlands,Europe,2008,0
+Mexico,North America,Belgium,Europe,2008,0
+Mexico,North America,France,Europe,2008,323419
+Mexico,North America,Switzerland,Europe,2008,0
+Mexico,North America,Spain,Europe,2008,0
+Mexico,North America,Portugal,Europe,2008,0
+Mexico,North America,Germany,Europe,2008,1277600
+Mexico,North America,Poland,Europe,2008,0
+Mexico,North America,Austria,Europe,2008,0
+Mexico,North America,Hungary,Europe,2008,0
+Mexico,North America,Czech Republic,Europe,2008,0
+Mexico,North America,Slovakia,Europe,2008,0
+Mexico,North America,Italy,Europe,2008,77955
+Mexico,North America,Croatia,Europe,2008,0
+Mexico,North America,Serbia,Europe,2008,0
+Mexico,North America,Bosnia,Europe,2008,0
+Mexico,North America,Greece,Europe,2008,0
+Mexico,North America,Bulgaria,Europe,2008,0
+Mexico,North America,Romania,Europe,2008,0
+Mexico,North America,Russia,Asia,2008,0
+Mexico,North America,Ukraine,Europe,2008,0
+Mexico,North America,Finland,Europe,2008,0
+Mexico,North America,Sweden,Europe,2008,0
+Mexico,North America,Norway,Europe,2008,0
+Mexico,North America,Denmark,Europe,2008,0
+Mexico,North America,South Africa,Africa,2008,0
+Mexico,North America,Turkey,Asia,2008,0
+Mexico,North America,Israel,Asia,2008,0
+Mexico,North America,United Arab Emirates,Asia,2008,0
+Mexico,North America,Taiwan,Asia,2008,0
+Mexico,North America,South Korea,Asia,2008,0
+Mexico,North America,Japan,Asia,2008,0
+Mexico,North America,India,Asia,2008,0
+Mexico,North America,Pakistan,Asia,2008,0
+Mexico,North America,Thailand,Asia,2008,0
+Mexico,North America,Malaysia,Asia,2008,0
+Mexico,North America,Singapore,Asia,2008,0
+Mexico,North America,Philippines,Asia,2008,0
+Mexico,North America,Indonesia,Asia,2008,0
+Mexico,North America,Australia,Oceania,2008,29967
+Mexico,North America,Cyprus,Europe,2008,0
+Mexico,North America,China,Asia,2008,313
+Mexico,North America,Ivory Coast,Africa,2008,0
+Mexico,North America,Congo,Africa,2008,0
+Brazil,South America,United States,North America,2008,153483852
+Brazil,South America,Canada,North America,2008,1157250
+Brazil,South America,Mexico,North America,2008,569842
+Brazil,South America,Brazil,South America,2008,0
+Brazil,South America,Argentina,South America,2008,8416865
+Brazil,South America,United Kingdom,Europe,2008,20804398
+Brazil,South America,Netherlands,Europe,2008,4436893
+Brazil,South America,Belgium,Europe,2008,7790713
+Brazil,South America,France,Europe,2008,275764
+Brazil,South America,Switzerland,Europe,2008,919350
+Brazil,South America,Spain,Europe,2008,1808530
+Brazil,South America,Portugal,Europe,2008,501783
+Brazil,South America,Germany,Europe,2008,14301524
+Brazil,South America,Poland,Europe,2008,318458
+Brazil,South America,Austria,Europe,2008,13792
+Brazil,South America,Hungary,Europe,2008,0
+Brazil,South America,Czech Republic,Europe,2008,715095
+Brazil,South America,Slovakia,Europe,2008,31250
+Brazil,South America,Italy,Europe,2008,865178
+Brazil,South America,Croatia,Europe,2008,12524
+Brazil,South America,Serbia,Europe,2008,4
+Brazil,South America,Bosnia,Europe,2008,0
+Brazil,South America,Greece,Europe,2008,7225
+Brazil,South America,Bulgaria,Europe,2008,0
+Brazil,South America,Romania,Europe,2008,3332
+Brazil,South America,Russia,Asia,2008,16031
+Brazil,South America,Ukraine,Europe,2008,0
+Brazil,South America,Finland,Europe,2008,1238035
+Brazil,South America,Sweden,Europe,2008,1017718
+Brazil,South America,Norway,Europe,2008,1770
+Brazil,South America,Denmark,Europe,2008,154248
+Brazil,South America,South Africa,Africa,2008,231424
+Brazil,South America,Turkey,Asia,2008,1396863
+Brazil,South America,Israel,Asia,2008,1108144
+Brazil,South America,United Arab Emirates,Asia,2008,0
+Brazil,South America,Taiwan,Asia,2008,0
+Brazil,South America,South Korea,Asia,2008,730
+Brazil,South America,Japan,Asia,2008,0
+Brazil,South America,India,Asia,2008,159014
+Brazil,South America,Pakistan,Asia,2008,4605080
+Brazil,South America,Thailand,Asia,2008,450883
+Brazil,South America,Malaysia,Asia,2008,17528381
+Brazil,South America,Singapore,Asia,2008,8077250
+Brazil,South America,Philippines,Asia,2008,4439812
+Brazil,South America,Indonesia,Asia,2008,0
+Brazil,South America,Australia,Oceania,2008,1127081
+Brazil,South America,Cyprus,Europe,2008,21187
+Brazil,South America,China,Asia,2008,0
+Brazil,South America,Ivory Coast,Africa,2008,0
+Brazil,South America,Congo,Africa,2008,0
+Argentina,South America,United States,North America,2008,8731062
+Argentina,South America,Canada,North America,2008,0
+Argentina,South America,Mexico,North America,2008,0
+Argentina,South America,Brazil,South America,2008,0
+Argentina,South America,Argentina,South America,2008,0
+Argentina,South America,United Kingdom,Europe,2008,0
+Argentina,South America,Netherlands,Europe,2008,0
+Argentina,South America,Belgium,Europe,2008,17330
+Argentina,South America,France,Europe,2008,0
+Argentina,South America,Switzerland,Europe,2008,0
+Argentina,South America,Spain,Europe,2008,2569
+Argentina,South America,Portugal,Europe,2008,0
+Argentina,South America,Germany,Europe,2008,0
+Argentina,South America,Poland,Europe,2008,0
+Argentina,South America,Austria,Europe,2008,0
+Argentina,South America,Hungary,Europe,2008,0
+Argentina,South America,Czech Republic,Europe,2008,0
+Argentina,South America,Slovakia,Europe,2008,0
+Argentina,South America,Italy,Europe,2008,525
+Argentina,South America,Croatia,Europe,2008,0
+Argentina,South America,Serbia,Europe,2008,0
+Argentina,South America,Bosnia,Europe,2008,0
+Argentina,South America,Greece,Europe,2008,0
+Argentina,South America,Bulgaria,Europe,2008,0
+Argentina,South America,Romania,Europe,2008,0
+Argentina,South America,Russia,Asia,2008,0
+Argentina,South America,Ukraine,Europe,2008,0
+Argentina,South America,Finland,Europe,2008,0
+Argentina,South America,Sweden,Europe,2008,0
+Argentina,South America,Norway,Europe,2008,0
+Argentina,South America,Denmark,Europe,2008,0
+Argentina,South America,South Africa,Africa,2008,0
+Argentina,South America,Turkey,Asia,2008,0
+Argentina,South America,Israel,Asia,2008,0
+Argentina,South America,United Arab Emirates,Asia,2008,867
+Argentina,South America,Taiwan,Asia,2008,0
+Argentina,South America,South Korea,Asia,2008,0
+Argentina,South America,Japan,Asia,2008,0
+Argentina,South America,India,Asia,2008,0
+Argentina,South America,Pakistan,Asia,2008,0
+Argentina,South America,Thailand,Asia,2008,0
+Argentina,South America,Malaysia,Asia,2008,0
+Argentina,South America,Singapore,Asia,2008,0
+Argentina,South America,Philippines,Asia,2008,340444
+Argentina,South America,Indonesia,Asia,2008,0
+Argentina,South America,Australia,Oceania,2008,0
+Argentina,South America,Cyprus,Europe,2008,0
+Argentina,South America,China,Asia,2008,0
+Argentina,South America,Ivory Coast,Africa,2008,0
+Argentina,South America,Congo,Africa,2008,0
+United Kingdom,Europe,United States,North America,2008,257911699
+United Kingdom,Europe,Canada,North America,2008,4539259
+United Kingdom,Europe,Mexico,North America,2008,49429
+United Kingdom,Europe,Brazil,South America,2008,94383
+United Kingdom,Europe,Argentina,South America,2008,147649
+United Kingdom,Europe,United Kingdom,Europe,2008,4415926
+United Kingdom,Europe,Netherlands,Europe,2008,5618349
+United Kingdom,Europe,Belgium,Europe,2008,1617550
+United Kingdom,Europe,France,Europe,2008,776055
+United Kingdom,Europe,Switzerland,Europe,2008,1957363
+United Kingdom,Europe,Spain,Europe,2008,1614338
+United Kingdom,Europe,Portugal,Europe,2008,139009
+United Kingdom,Europe,Germany,Europe,2008,3028224
+United Kingdom,Europe,Poland,Europe,2008,3762027
+United Kingdom,Europe,Austria,Europe,2008,540315
+United Kingdom,Europe,Hungary,Europe,2008,0
+United Kingdom,Europe,Czech Republic,Europe,2008,604157
+United Kingdom,Europe,Slovakia,Europe,2008,358980
+United Kingdom,Europe,Italy,Europe,2008,1190600
+United Kingdom,Europe,Croatia,Europe,2008,0
+United Kingdom,Europe,Serbia,Europe,2008,36547
+United Kingdom,Europe,Bosnia,Europe,2008,0
+United Kingdom,Europe,Greece,Europe,2008,31235
+United Kingdom,Europe,Bulgaria,Europe,2008,25507
+United Kingdom,Europe,Romania,Europe,2008,0
+United Kingdom,Europe,Russia,Asia,2008,126908
+United Kingdom,Europe,Ukraine,Europe,2008,445334
+United Kingdom,Europe,Finland,Europe,2008,489017
+United Kingdom,Europe,Sweden,Europe,2008,523377
+United Kingdom,Europe,Norway,Europe,2008,1308276
+United Kingdom,Europe,Denmark,Europe,2008,4308812
+United Kingdom,Europe,South Africa,Africa,2008,856285
+United Kingdom,Europe,Turkey,Asia,2008,37457
+United Kingdom,Europe,Israel,Asia,2008,88876
+United Kingdom,Europe,United Arab Emirates,Asia,2008,170762
+United Kingdom,Europe,Taiwan,Asia,2008,11917
+United Kingdom,Europe,South Korea,Asia,2008,768280
+United Kingdom,Europe,Japan,Asia,2008,1518842
+United Kingdom,Europe,India,Asia,2008,308668
+United Kingdom,Europe,Pakistan,Asia,2008,480211
+United Kingdom,Europe,Thailand,Asia,2008,94567
+United Kingdom,Europe,Malaysia,Asia,2008,121289
+United Kingdom,Europe,Singapore,Asia,2008,306347
+United Kingdom,Europe,Philippines,Asia,2008,1646
+United Kingdom,Europe,Indonesia,Asia,2008,77439
+United Kingdom,Europe,Australia,Oceania,2008,2716565
+United Kingdom,Europe,Cyprus,Europe,2008,430018
+United Kingdom,Europe,China,Asia,2008,183436
+United Kingdom,Europe,Ivory Coast,Africa,2008,0
+United Kingdom,Europe,Congo,Africa,2008,0
+Netherlands,Europe,United States,North America,2008,24361
+Netherlands,Europe,Canada,North America,2008,6665
+Netherlands,Europe,Mexico,North America,2008,0
+Netherlands,Europe,Brazil,South America,2008,0
+Netherlands,Europe,Argentina,South America,2008,0
+Netherlands,Europe,United Kingdom,Europe,2008,112799
+Netherlands,Europe,Netherlands,Europe,2008,8829
+Netherlands,Europe,Belgium,Europe,2008,391556
+Netherlands,Europe,France,Europe,2008,66146
+Netherlands,Europe,Switzerland,Europe,2008,144152
+Netherlands,Europe,Spain,Europe,2008,32307
+Netherlands,Europe,Portugal,Europe,2008,4175
+Netherlands,Europe,Germany,Europe,2008,784389
+Netherlands,Europe,Poland,Europe,2008,7498
+Netherlands,Europe,Austria,Europe,2008,16405
+Netherlands,Europe,Hungary,Europe,2008,9567
+Netherlands,Europe,Czech Republic,Europe,2008,8036
+Netherlands,Europe,Slovakia,Europe,2008,3582
+Netherlands,Europe,Italy,Europe,2008,20987
+Netherlands,Europe,Croatia,Europe,2008,0
+Netherlands,Europe,Serbia,Europe,2008,0
+Netherlands,Europe,Bosnia,Europe,2008,0
+Netherlands,Europe,Greece,Europe,2008,105324
+Netherlands,Europe,Bulgaria,Europe,2008,12366
+Netherlands,Europe,Romania,Europe,2008,365
+Netherlands,Europe,Russia,Asia,2008,23076
+Netherlands,Europe,Ukraine,Europe,2008,0
+Netherlands,Europe,Finland,Europe,2008,18181
+Netherlands,Europe,Sweden,Europe,2008,1108431
+Netherlands,Europe,Norway,Europe,2008,54903
+Netherlands,Europe,Denmark,Europe,2008,4861045
+Netherlands,Europe,South Africa,Africa,2008,0
+Netherlands,Europe,Turkey,Asia,2008,3361
+Netherlands,Europe,Israel,Asia,2008,0
+Netherlands,Europe,United Arab Emirates,Asia,2008,0
+Netherlands,Europe,Taiwan,Asia,2008,0
+Netherlands,Europe,South Korea,Asia,2008,0
+Netherlands,Europe,Japan,Asia,2008,164167
+Netherlands,Europe,India,Asia,2008,0
+Netherlands,Europe,Pakistan,Asia,2008,0
+Netherlands,Europe,Thailand,Asia,2008,0
+Netherlands,Europe,Malaysia,Asia,2008,119057
+Netherlands,Europe,Singapore,Asia,2008,0
+Netherlands,Europe,Philippines,Asia,2008,0
+Netherlands,Europe,Indonesia,Asia,2008,0
+Netherlands,Europe,Australia,Oceania,2008,2190
+Netherlands,Europe,Cyprus,Europe,2008,0
+Netherlands,Europe,China,Asia,2008,0
+Netherlands,Europe,Ivory Coast,Africa,2008,0
+Netherlands,Europe,Congo,Africa,2008,0
+Belgium,Europe,United States,North America,2008,27223180
+Belgium,Europe,Canada,North America,2008,1406284
+Belgium,Europe,Mexico,North America,2008,1915107
+Belgium,Europe,Brazil,South America,2008,2012101
+Belgium,Europe,Argentina,South America,2008,0
+Belgium,Europe,United Kingdom,Europe,2008,7197341
+Belgium,Europe,Netherlands,Europe,2008,1459218
+Belgium,Europe,Belgium,Europe,2008,0
+Belgium,Europe,France,Europe,2008,28302155
+Belgium,Europe,Switzerland,Europe,2008,5052640
+Belgium,Europe,Spain,Europe,2008,3423743
+Belgium,Europe,Portugal,Europe,2008,602163
+Belgium,Europe,Germany,Europe,2008,5688393
+Belgium,Europe,Poland,Europe,2008,521040
+Belgium,Europe,Austria,Europe,2008,3019940
+Belgium,Europe,Hungary,Europe,2008,187342
+Belgium,Europe,Czech Republic,Europe,2008,372570
+Belgium,Europe,Slovakia,Europe,2008,0
+Belgium,Europe,Italy,Europe,2008,8355250
+Belgium,Europe,Croatia,Europe,2008,179359
+Belgium,Europe,Serbia,Europe,2008,214810
+Belgium,Europe,Bosnia,Europe,2008,0
+Belgium,Europe,Greece,Europe,2008,1505640
+Belgium,Europe,Bulgaria,Europe,2008,374785
+Belgium,Europe,Romania,Europe,2008,0
+Belgium,Europe,Russia,Asia,2008,1235106
+Belgium,Europe,Ukraine,Europe,2008,94743
+Belgium,Europe,Finland,Europe,2008,2358726
+Belgium,Europe,Sweden,Europe,2008,2480280
+Belgium,Europe,Norway,Europe,2008,682369
+Belgium,Europe,Denmark,Europe,2008,1139488
+Belgium,Europe,South Africa,Africa,2008,0
+Belgium,Europe,Turkey,Asia,2008,1406
+Belgium,Europe,Israel,Asia,2008,0
+Belgium,Europe,United Arab Emirates,Asia,2008,49177
+Belgium,Europe,Taiwan,Asia,2008,0
+Belgium,Europe,South Korea,Asia,2008,72728
+Belgium,Europe,Japan,Asia,2008,146350
+Belgium,Europe,India,Asia,2008,0
+Belgium,Europe,Pakistan,Asia,2008,7892
+Belgium,Europe,Thailand,Asia,2008,149254
+Belgium,Europe,Malaysia,Asia,2008,27787
+Belgium,Europe,Singapore,Asia,2008,0
+Belgium,Europe,Philippines,Asia,2008,77823
+Belgium,Europe,Indonesia,Asia,2008,194478
+Belgium,Europe,Australia,Oceania,2008,153498
+Belgium,Europe,Cyprus,Europe,2008,247751
+Belgium,Europe,China,Asia,2008,0
+Belgium,Europe,Ivory Coast,Africa,2008,0
+Belgium,Europe,Congo,Africa,2008,0
+France,Europe,United States,North America,2008,4129172
+France,Europe,Canada,North America,2008,153003
+France,Europe,Mexico,North America,2008,2182
+France,Europe,Brazil,South America,2008,380
+France,Europe,Argentina,South America,2008,214
+France,Europe,United Kingdom,Europe,2008,2251551
+France,Europe,Netherlands,Europe,2008,1115558
+France,Europe,Belgium,Europe,2008,1888687
+France,Europe,France,Europe,2008,215362
+France,Europe,Switzerland,Europe,2008,485007
+France,Europe,Spain,Europe,2008,3764243
+France,Europe,Portugal,Europe,2008,330505
+France,Europe,Germany,Europe,2008,4022500
+France,Europe,Poland,Europe,2008,524303
+France,Europe,Austria,Europe,2008,445111
+France,Europe,Hungary,Europe,2008,62858
+France,Europe,Czech Republic,Europe,2008,63474
+France,Europe,Slovakia,Europe,2008,21558
+France,Europe,Italy,Europe,2008,494985
+France,Europe,Croatia,Europe,2008,20522
+France,Europe,Serbia,Europe,2008,0
+France,Europe,Bosnia,Europe,2008,0
+France,Europe,Greece,Europe,2008,326417
+France,Europe,Bulgaria,Europe,2008,98560
+France,Europe,Romania,Europe,2008,77000
+France,Europe,Russia,Asia,2008,525694
+France,Europe,Ukraine,Europe,2008,277202
+France,Europe,Finland,Europe,2008,1101688
+France,Europe,Sweden,Europe,2008,66801
+France,Europe,Norway,Europe,2008,1396394
+France,Europe,Denmark,Europe,2008,12848434
+France,Europe,South Africa,Africa,2008,0
+France,Europe,Turkey,Asia,2008,58711
+France,Europe,Israel,Asia,2008,7700
+France,Europe,United Arab Emirates,Asia,2008,401940
+France,Europe,Taiwan,Asia,2008,0
+France,Europe,South Korea,Asia,2008,1455
+France,Europe,Japan,Asia,2008,1871482
+France,Europe,India,Asia,2008,0
+France,Europe,Pakistan,Asia,2008,0
+France,Europe,Thailand,Asia,2008,61636
+France,Europe,Malaysia,Asia,2008,0
+France,Europe,Singapore,Asia,2008,0
+France,Europe,Philippines,Asia,2008,0
+France,Europe,Indonesia,Asia,2008,269440
+France,Europe,Australia,Oceania,2008,174346
+France,Europe,Cyprus,Europe,2008,254100
+France,Europe,China,Asia,2008,1539
+France,Europe,Ivory Coast,Africa,2008,10452
+France,Europe,Congo,Africa,2008,58519
+Switzerland,Europe,United States,North America,2008,1154709
+Switzerland,Europe,Canada,North America,2008,1097374
+Switzerland,Europe,Mexico,North America,2008,7181
+Switzerland,Europe,Brazil,South America,2008,0
+Switzerland,Europe,Argentina,South America,2008,0
+Switzerland,Europe,United Kingdom,Europe,2008,434753
+Switzerland,Europe,Netherlands,Europe,2008,23520443
+Switzerland,Europe,Belgium,Europe,2008,705147
+Switzerland,Europe,France,Europe,2008,8318045
+Switzerland,Europe,Switzerland,Europe,2008,0
+Switzerland,Europe,Spain,Europe,2008,10132571
+Switzerland,Europe,Portugal,Europe,2008,308946
+Switzerland,Europe,Germany,Europe,2008,13937070
+Switzerland,Europe,Poland,Europe,2008,4161660
+Switzerland,Europe,Austria,Europe,2008,1504725
+Switzerland,Europe,Hungary,Europe,2008,2132
+Switzerland,Europe,Czech Republic,Europe,2008,288524
+Switzerland,Europe,Slovakia,Europe,2008,19708
+Switzerland,Europe,Italy,Europe,2008,946932
+Switzerland,Europe,Croatia,Europe,2008,73244
+Switzerland,Europe,Serbia,Europe,2008,10218
+Switzerland,Europe,Bosnia,Europe,2008,195055
+Switzerland,Europe,Greece,Europe,2008,50466
+Switzerland,Europe,Bulgaria,Europe,2008,276568
+Switzerland,Europe,Romania,Europe,2008,544260
+Switzerland,Europe,Russia,Asia,2008,404605
+Switzerland,Europe,Ukraine,Europe,2008,357067
+Switzerland,Europe,Finland,Europe,2008,5999508
+Switzerland,Europe,Sweden,Europe,2008,595008
+Switzerland,Europe,Norway,Europe,2008,235796
+Switzerland,Europe,Denmark,Europe,2008,13824784
+Switzerland,Europe,South Africa,Africa,2008,90553
+Switzerland,Europe,Turkey,Asia,2008,3999059
+Switzerland,Europe,Israel,Asia,2008,31430
+Switzerland,Europe,United Arab Emirates,Asia,2008,882882
+Switzerland,Europe,Taiwan,Asia,2008,5963
+Switzerland,Europe,South Korea,Asia,2008,52831
+Switzerland,Europe,Japan,Asia,2008,587016
+Switzerland,Europe,India,Asia,2008,1165912
+Switzerland,Europe,Pakistan,Asia,2008,71351310
+Switzerland,Europe,Thailand,Asia,2008,18293
+Switzerland,Europe,Malaysia,Asia,2008,76397
+Switzerland,Europe,Singapore,Asia,2008,316988
+Switzerland,Europe,Philippines,Asia,2008,121845
+Switzerland,Europe,Indonesia,Asia,2008,0
+Switzerland,Europe,Australia,Oceania,2008,102079
+Switzerland,Europe,Cyprus,Europe,2008,54291
+Switzerland,Europe,China,Asia,2008,158285
+Switzerland,Europe,Ivory Coast,Africa,2008,0
+Switzerland,Europe,Congo,Africa,2008,0
+Spain,Europe,United States,North America,2008,33064402
+Spain,Europe,Canada,North America,2008,362754
+Spain,Europe,Mexico,North America,2008,1375880
+Spain,Europe,Brazil,South America,2008,3967
+Spain,Europe,Argentina,South America,2008,447540
+Spain,Europe,United Kingdom,Europe,2008,4282882
+Spain,Europe,Netherlands,Europe,2008,300620
+Spain,Europe,Belgium,Europe,2008,218098
+Spain,Europe,France,Europe,2008,4613503
+Spain,Europe,Switzerland,Europe,2008,791859
+Spain,Europe,Spain,Europe,2008,0
+Spain,Europe,Portugal,Europe,2008,8214164
+Spain,Europe,Germany,Europe,2008,858324
+Spain,Europe,Poland,Europe,2008,715276
+Spain,Europe,Austria,Europe,2008,692982
+Spain,Europe,Hungary,Europe,2008,35803
+Spain,Europe,Czech Republic,Europe,2008,785975
+Spain,Europe,Slovakia,Europe,2008,16608
+Spain,Europe,Italy,Europe,2008,1809161
+Spain,Europe,Croatia,Europe,2008,6744
+Spain,Europe,Serbia,Europe,2008,121330
+Spain,Europe,Bosnia,Europe,2008,0
+Spain,Europe,Greece,Europe,2008,1675802
+Spain,Europe,Bulgaria,Europe,2008,1541836
+Spain,Europe,Romania,Europe,2008,21130
+Spain,Europe,Russia,Asia,2008,1385536
+Spain,Europe,Ukraine,Europe,2008,1555765
+Spain,Europe,Finland,Europe,2008,1094167
+Spain,Europe,Sweden,Europe,2008,1060497
+Spain,Europe,Norway,Europe,2008,3513975
+Spain,Europe,Denmark,Europe,2008,1016720
+Spain,Europe,South Africa,Africa,2008,4346164
+Spain,Europe,Turkey,Asia,2008,2714390
+Spain,Europe,Israel,Asia,2008,384117
+Spain,Europe,United Arab Emirates,Asia,2008,0
+Spain,Europe,Taiwan,Asia,2008,191991
+Spain,Europe,South Korea,Asia,2008,197750
+Spain,Europe,Japan,Asia,2008,2202896
+Spain,Europe,India,Asia,2008,0
+Spain,Europe,Pakistan,Asia,2008,28361
+Spain,Europe,Thailand,Asia,2008,307298
+Spain,Europe,Malaysia,Asia,2008,914355
+Spain,Europe,Singapore,Asia,2008,26399
+Spain,Europe,Philippines,Asia,2008,469021
+Spain,Europe,Indonesia,Asia,2008,58630
+Spain,Europe,Australia,Oceania,2008,1792944
+Spain,Europe,Cyprus,Europe,2008,332022
+Spain,Europe,China,Asia,2008,0
+Spain,Europe,Ivory Coast,Africa,2008,0
+Spain,Europe,Congo,Africa,2008,0
+Portugal,Europe,United States,North America,2008,9693175
+Portugal,Europe,Canada,North America,2008,514257
+Portugal,Europe,Mexico,North America,2008,195372
+Portugal,Europe,Brazil,South America,2008,0
+Portugal,Europe,Argentina,South America,2008,0
+Portugal,Europe,United Kingdom,Europe,2008,9635
+Portugal,Europe,Netherlands,Europe,2008,0
+Portugal,Europe,Belgium,Europe,2008,15150574
+Portugal,Europe,France,Europe,2008,743237
+Portugal,Europe,Switzerland,Europe,2008,0
+Portugal,Europe,Spain,Europe,2008,2457428
+Portugal,Europe,Portugal,Europe,2008,0
+Portugal,Europe,Germany,Europe,2008,2229236
+Portugal,Europe,Poland,Europe,2008,75637
+Portugal,Europe,Austria,Europe,2008,1070613
+Portugal,Europe,Hungary,Europe,2008,45057
+Portugal,Europe,Czech Republic,Europe,2008,69494
+Portugal,Europe,Slovakia,Europe,2008,0
+Portugal,Europe,Italy,Europe,2008,101784
+Portugal,Europe,Croatia,Europe,2008,8524
+Portugal,Europe,Serbia,Europe,2008,194413
+Portugal,Europe,Bosnia,Europe,2008,0
+Portugal,Europe,Greece,Europe,2008,428359
+Portugal,Europe,Bulgaria,Europe,2008,327501
+Portugal,Europe,Romania,Europe,2008,0
+Portugal,Europe,Russia,Asia,2008,137319
+Portugal,Europe,Ukraine,Europe,2008,0
+Portugal,Europe,Finland,Europe,2008,200672
+Portugal,Europe,Sweden,Europe,2008,1018895
+Portugal,Europe,Norway,Europe,2008,149732
+Portugal,Europe,Denmark,Europe,2008,0
+Portugal,Europe,South Africa,Africa,2008,0
+Portugal,Europe,Turkey,Asia,2008,289215
+Portugal,Europe,Israel,Asia,2008,0
+Portugal,Europe,United Arab Emirates,Asia,2008,0
+Portugal,Europe,Taiwan,Asia,2008,0
+Portugal,Europe,South Korea,Asia,2008,46709
+Portugal,Europe,Japan,Asia,2008,161497
+Portugal,Europe,India,Asia,2008,0
+Portugal,Europe,Pakistan,Asia,2008,0
+Portugal,Europe,Thailand,Asia,2008,0
+Portugal,Europe,Malaysia,Asia,2008,0
+Portugal,Europe,Singapore,Asia,2008,0
+Portugal,Europe,Philippines,Asia,2008,0
+Portugal,Europe,Indonesia,Asia,2008,0
+Portugal,Europe,Australia,Oceania,2008,0
+Portugal,Europe,Cyprus,Europe,2008,248423
+Portugal,Europe,China,Asia,2008,558
+Portugal,Europe,Ivory Coast,Africa,2008,0
+Portugal,Europe,Congo,Africa,2008,0
+Germany,Europe,United States,North America,2008,81831877
+Germany,Europe,Canada,North America,2008,2687553
+Germany,Europe,Mexico,North America,2008,5237677
+Germany,Europe,Brazil,South America,2008,904560
+Germany,Europe,Argentina,South America,2008,135431
+Germany,Europe,United Kingdom,Europe,2008,14567195
+Germany,Europe,Netherlands,Europe,2008,12072494
+Germany,Europe,Belgium,Europe,2008,5912943
+Germany,Europe,France,Europe,2008,30371969
+Germany,Europe,Switzerland,Europe,2008,20780109
+Germany,Europe,Spain,Europe,2008,20932874
+Germany,Europe,Portugal,Europe,2008,1272254
+Germany,Europe,Germany,Europe,2008,0
+Germany,Europe,Poland,Europe,2008,8186594
+Germany,Europe,Austria,Europe,2008,17059619
+Germany,Europe,Hungary,Europe,2008,3224477
+Germany,Europe,Czech Republic,Europe,2008,4840065
+Germany,Europe,Slovakia,Europe,2008,3193575
+Germany,Europe,Italy,Europe,2008,11379204
+Germany,Europe,Croatia,Europe,2008,768871
+Germany,Europe,Serbia,Europe,2008,289900
+Germany,Europe,Bosnia,Europe,2008,2087
+Germany,Europe,Greece,Europe,2008,1146303
+Germany,Europe,Bulgaria,Europe,2008,2313238
+Germany,Europe,Romania,Europe,2008,1174224
+Germany,Europe,Russia,Asia,2008,15927409
+Germany,Europe,Ukraine,Europe,2008,6376715
+Germany,Europe,Finland,Europe,2008,7957989
+Germany,Europe,Sweden,Europe,2008,8269679
+Germany,Europe,Norway,Europe,2008,42179343
+Germany,Europe,Denmark,Europe,2008,12345377
+Germany,Europe,South Africa,Africa,2008,1116984
+Germany,Europe,Turkey,Asia,2008,2261472
+Germany,Europe,Israel,Asia,2008,216104
+Germany,Europe,United Arab Emirates,Asia,2008,2015473
+Germany,Europe,Taiwan,Asia,2008,25054
+Germany,Europe,South Korea,Asia,2008,521724
+Germany,Europe,Japan,Asia,2008,2230454
+Germany,Europe,India,Asia,2008,587766
+Germany,Europe,Pakistan,Asia,2008,1321694
+Germany,Europe,Thailand,Asia,2008,776101
+Germany,Europe,Malaysia,Asia,2008,9930403
+Germany,Europe,Singapore,Asia,2008,2330502
+Germany,Europe,Philippines,Asia,2008,145260
+Germany,Europe,Indonesia,Asia,2008,347605
+Germany,Europe,Australia,Oceania,2008,2845782
+Germany,Europe,Cyprus,Europe,2008,785082
+Germany,Europe,China,Asia,2008,649362
+Germany,Europe,Ivory Coast,Africa,2008,2087
+Germany,Europe,Congo,Africa,2008,56373
+Poland,Europe,United States,North America,2008,854006
+Poland,Europe,Canada,North America,2008,9803
+Poland,Europe,Mexico,North America,2008,0
+Poland,Europe,Brazil,South America,2008,0
+Poland,Europe,Argentina,South America,2008,0
+Poland,Europe,United Kingdom,Europe,2008,1228
+Poland,Europe,Netherlands,Europe,2008,0
+Poland,Europe,Belgium,Europe,2008,0
+Poland,Europe,France,Europe,2008,4614
+Poland,Europe,Switzerland,Europe,2008,62501
+Poland,Europe,Spain,Europe,2008,0
+Poland,Europe,Portugal,Europe,2008,0
+Poland,Europe,Germany,Europe,2008,57905
+Poland,Europe,Poland,Europe,2008,0
+Poland,Europe,Austria,Europe,2008,75897
+Poland,Europe,Hungary,Europe,2008,303
+Poland,Europe,Czech Republic,Europe,2008,17809
+Poland,Europe,Slovakia,Europe,2008,56215
+Poland,Europe,Italy,Europe,2008,2552
+Poland,Europe,Croatia,Europe,2008,0
+Poland,Europe,Serbia,Europe,2008,0
+Poland,Europe,Bosnia,Europe,2008,0
+Poland,Europe,Greece,Europe,2008,9843
+Poland,Europe,Bulgaria,Europe,2008,1992
+Poland,Europe,Romania,Europe,2008,2295
+Poland,Europe,Russia,Asia,2008,0
+Poland,Europe,Ukraine,Europe,2008,120687
+Poland,Europe,Finland,Europe,2008,0
+Poland,Europe,Sweden,Europe,2008,1446
+Poland,Europe,Norway,Europe,2008,456305
+Poland,Europe,Denmark,Europe,2008,0
+Poland,Europe,South Africa,Africa,2008,0
+Poland,Europe,Turkey,Asia,2008,5
+Poland,Europe,Israel,Asia,2008,763549
+Poland,Europe,United Arab Emirates,Asia,2008,0
+Poland,Europe,Taiwan,Asia,2008,0
+Poland,Europe,South Korea,Asia,2008,0
+Poland,Europe,Japan,Asia,2008,0
+Poland,Europe,India,Asia,2008,3310506
+Poland,Europe,Pakistan,Asia,2008,0
+Poland,Europe,Thailand,Asia,2008,0
+Poland,Europe,Malaysia,Asia,2008,1105073
+Poland,Europe,Singapore,Asia,2008,0
+Poland,Europe,Philippines,Asia,2008,0
+Poland,Europe,Indonesia,Asia,2008,0
+Poland,Europe,Australia,Oceania,2008,0
+Poland,Europe,Cyprus,Europe,2008,0
+Poland,Europe,China,Asia,2008,0
+Poland,Europe,Ivory Coast,Africa,2008,0
+Poland,Europe,Congo,Africa,2008,0
+Austria,Europe,United States,North America,2008,102609693
+Austria,Europe,Canada,North America,2008,1953488
+Austria,Europe,Mexico,North America,2008,3466199
+Austria,Europe,Brazil,South America,2008,3932562
+Austria,Europe,Argentina,South America,2008,444962
+Austria,Europe,United Kingdom,Europe,2008,1416854
+Austria,Europe,Netherlands,Europe,2008,173174
+Austria,Europe,Belgium,Europe,2008,238381
+Austria,Europe,France,Europe,2008,930063
+Austria,Europe,Switzerland,Europe,2008,2180250
+Austria,Europe,Spain,Europe,2008,2566404
+Austria,Europe,Portugal,Europe,2008,3666520
+Austria,Europe,Germany,Europe,2008,5037614
+Austria,Europe,Poland,Europe,2008,3325066
+Austria,Europe,Austria,Europe,2008,0
+Austria,Europe,Hungary,Europe,2008,1173598
+Austria,Europe,Czech Republic,Europe,2008,1446250
+Austria,Europe,Slovakia,Europe,2008,698079
+Austria,Europe,Italy,Europe,2008,2864077
+Austria,Europe,Croatia,Europe,2008,1232691
+Austria,Europe,Serbia,Europe,2008,159478
+Austria,Europe,Bosnia,Europe,2008,126439
+Austria,Europe,Greece,Europe,2008,23810
+Austria,Europe,Bulgaria,Europe,2008,610623
+Austria,Europe,Romania,Europe,2008,299769
+Austria,Europe,Russia,Asia,2008,3934380
+Austria,Europe,Ukraine,Europe,2008,2015846
+Austria,Europe,Finland,Europe,2008,383148
+Austria,Europe,Sweden,Europe,2008,276812
+Austria,Europe,Norway,Europe,2008,1602181
+Austria,Europe,Denmark,Europe,2008,381815
+Austria,Europe,South Africa,Africa,2008,160231
+Austria,Europe,Turkey,Asia,2008,1790811
+Austria,Europe,Israel,Asia,2008,723
+Austria,Europe,United Arab Emirates,Asia,2008,1406691
+Austria,Europe,Taiwan,Asia,2008,0
+Austria,Europe,South Korea,Asia,2008,23816
+Austria,Europe,Japan,Asia,2008,19552
+Austria,Europe,India,Asia,2008,597576
+Austria,Europe,Pakistan,Asia,2008,935285
+Austria,Europe,Thailand,Asia,2008,3073775
+Austria,Europe,Malaysia,Asia,2008,3095400
+Austria,Europe,Singapore,Asia,2008,18599
+Austria,Europe,Philippines,Asia,2008,829272
+Austria,Europe,Indonesia,Asia,2008,404246
+Austria,Europe,Australia,Oceania,2008,943701
+Austria,Europe,Cyprus,Europe,2008,10375
+Austria,Europe,China,Asia,2008,0
+Austria,Europe,Ivory Coast,Africa,2008,0
+Austria,Europe,Congo,Africa,2008,0
+Hungary,Europe,United States,North America,2008,4577187
+Hungary,Europe,Canada,North America,2008,21135
+Hungary,Europe,Mexico,North America,2008,0
+Hungary,Europe,Brazil,South America,2008,0
+Hungary,Europe,Argentina,South America,2008,0
+Hungary,Europe,United Kingdom,Europe,2008,0
+Hungary,Europe,Netherlands,Europe,2008,0
+Hungary,Europe,Belgium,Europe,2008,67662
+Hungary,Europe,France,Europe,2008,572252
+Hungary,Europe,Switzerland,Europe,2008,267883
+Hungary,Europe,Spain,Europe,2008,0
+Hungary,Europe,Portugal,Europe,2008,0
+Hungary,Europe,Germany,Europe,2008,1621323
+Hungary,Europe,Poland,Europe,2008,102757
+Hungary,Europe,Austria,Europe,2008,5057
+Hungary,Europe,Hungary,Europe,2008,0
+Hungary,Europe,Czech Republic,Europe,2008,150585
+Hungary,Europe,Slovakia,Europe,2008,60393
+Hungary,Europe,Italy,Europe,2008,259411
+Hungary,Europe,Croatia,Europe,2008,437
+Hungary,Europe,Serbia,Europe,2008,0
+Hungary,Europe,Bosnia,Europe,2008,0
+Hungary,Europe,Greece,Europe,2008,0
+Hungary,Europe,Bulgaria,Europe,2008,0
+Hungary,Europe,Romania,Europe,2008,260999
+Hungary,Europe,Russia,Asia,2008,0
+Hungary,Europe,Ukraine,Europe,2008,0
+Hungary,Europe,Finland,Europe,2008,171104
+Hungary,Europe,Sweden,Europe,2008,0
+Hungary,Europe,Norway,Europe,2008,0
+Hungary,Europe,Denmark,Europe,2008,0
+Hungary,Europe,South Africa,Africa,2008,0
+Hungary,Europe,Turkey,Asia,2008,0
+Hungary,Europe,Israel,Asia,2008,0
+Hungary,Europe,United Arab Emirates,Asia,2008,0
+Hungary,Europe,Taiwan,Asia,2008,0
+Hungary,Europe,South Korea,Asia,2008,0
+Hungary,Europe,Japan,Asia,2008,304015
+Hungary,Europe,India,Asia,2008,0
+Hungary,Europe,Pakistan,Asia,2008,0
+Hungary,Europe,Thailand,Asia,2008,0
+Hungary,Europe,Malaysia,Asia,2008,0
+Hungary,Europe,Singapore,Asia,2008,0
+Hungary,Europe,Philippines,Asia,2008,0
+Hungary,Europe,Indonesia,Asia,2008,0
+Hungary,Europe,Australia,Oceania,2008,36892
+Hungary,Europe,Cyprus,Europe,2008,0
+Hungary,Europe,China,Asia,2008,0
+Hungary,Europe,Ivory Coast,Africa,2008,0
+Hungary,Europe,Congo,Africa,2008,0
+Czech Republic,Europe,United States,North America,2008,25854928
+Czech Republic,Europe,Canada,North America,2008,2713315
+Czech Republic,Europe,Mexico,North America,2008,3966917
+Czech Republic,Europe,Brazil,South America,2008,209916
+Czech Republic,Europe,Argentina,South America,2008,537695
+Czech Republic,Europe,United Kingdom,Europe,2008,2622652
+Czech Republic,Europe,Netherlands,Europe,2008,301142
+Czech Republic,Europe,Belgium,Europe,2008,836693
+Czech Republic,Europe,France,Europe,2008,3621588
+Czech Republic,Europe,Switzerland,Europe,2008,802381
+Czech Republic,Europe,Spain,Europe,2008,1076837
+Czech Republic,Europe,Portugal,Europe,2008,289596
+Czech Republic,Europe,Germany,Europe,2008,10004340
+Czech Republic,Europe,Poland,Europe,2008,3169623
+Czech Republic,Europe,Austria,Europe,2008,719984
+Czech Republic,Europe,Hungary,Europe,2008,1144604
+Czech Republic,Europe,Czech Republic,Europe,2008,0
+Czech Republic,Europe,Slovakia,Europe,2008,2557154
+Czech Republic,Europe,Italy,Europe,2008,2130438
+Czech Republic,Europe,Croatia,Europe,2008,637475
+Czech Republic,Europe,Serbia,Europe,2008,281015
+Czech Republic,Europe,Bosnia,Europe,2008,274926
+Czech Republic,Europe,Greece,Europe,2008,190328
+Czech Republic,Europe,Bulgaria,Europe,2008,533757
+Czech Republic,Europe,Romania,Europe,2008,824061
+Czech Republic,Europe,Russia,Asia,2008,2816622
+Czech Republic,Europe,Ukraine,Europe,2008,1189281
+Czech Republic,Europe,Finland,Europe,2008,2062141
+Czech Republic,Europe,Sweden,Europe,2008,1357200
+Czech Republic,Europe,Norway,Europe,2008,1087446
+Czech Republic,Europe,Denmark,Europe,2008,1291202
+Czech Republic,Europe,South Africa,Africa,2008,904712
+Czech Republic,Europe,Turkey,Asia,2008,644050
+Czech Republic,Europe,Israel,Asia,2008,321108
+Czech Republic,Europe,United Arab Emirates,Asia,2008,69320
+Czech Republic,Europe,Taiwan,Asia,2008,0
+Czech Republic,Europe,South Korea,Asia,2008,1628
+Czech Republic,Europe,Japan,Asia,2008,24742
+Czech Republic,Europe,India,Asia,2008,172888
+Czech Republic,Europe,Pakistan,Asia,2008,0
+Czech Republic,Europe,Thailand,Asia,2008,7014688
+Czech Republic,Europe,Malaysia,Asia,2008,1106867
+Czech Republic,Europe,Singapore,Asia,2008,0
+Czech Republic,Europe,Philippines,Asia,2008,858163
+Czech Republic,Europe,Indonesia,Asia,2008,0
+Czech Republic,Europe,Australia,Oceania,2008,1608060
+Czech Republic,Europe,Cyprus,Europe,2008,72347
+Czech Republic,Europe,China,Asia,2008,734
+Czech Republic,Europe,Ivory Coast,Africa,2008,0
+Czech Republic,Europe,Congo,Africa,2008,0
+Slovakia,Europe,United States,North America,2008,431766
+Slovakia,Europe,Canada,North America,2008,577578
+Slovakia,Europe,Mexico,North America,2008,0
+Slovakia,Europe,Brazil,South America,2008,0
+Slovakia,Europe,Argentina,South America,2008,0
+Slovakia,Europe,United Kingdom,Europe,2008,0
+Slovakia,Europe,Netherlands,Europe,2008,0
+Slovakia,Europe,Belgium,Europe,2008,1653
+Slovakia,Europe,France,Europe,2008,1182499
+Slovakia,Europe,Switzerland,Europe,2008,4175
+Slovakia,Europe,Spain,Europe,2008,3758
+Slovakia,Europe,Portugal,Europe,2008,0
+Slovakia,Europe,Germany,Europe,2008,4510
+Slovakia,Europe,Poland,Europe,2008,89359
+Slovakia,Europe,Austria,Europe,2008,0
+Slovakia,Europe,Hungary,Europe,2008,0
+Slovakia,Europe,Czech Republic,Europe,2008,86330
+Slovakia,Europe,Slovakia,Europe,2008,0
+Slovakia,Europe,Italy,Europe,2008,7516
+Slovakia,Europe,Croatia,Europe,2008,0
+Slovakia,Europe,Serbia,Europe,2008,0
+Slovakia,Europe,Bosnia,Europe,2008,0
+Slovakia,Europe,Greece,Europe,2008,0
+Slovakia,Europe,Bulgaria,Europe,2008,934077
+Slovakia,Europe,Romania,Europe,2008,0
+Slovakia,Europe,Russia,Asia,2008,210469
+Slovakia,Europe,Ukraine,Europe,2008,41184
+Slovakia,Europe,Finland,Europe,2008,5863
+Slovakia,Europe,Sweden,Europe,2008,0
+Slovakia,Europe,Norway,Europe,2008,0
+Slovakia,Europe,Denmark,Europe,2008,0
+Slovakia,Europe,South Africa,Africa,2008,0
+Slovakia,Europe,Turkey,Asia,2008,0
+Slovakia,Europe,Israel,Asia,2008,0
+Slovakia,Europe,United Arab Emirates,Asia,2008,0
+Slovakia,Europe,Taiwan,Asia,2008,0
+Slovakia,Europe,South Korea,Asia,2008,0
+Slovakia,Europe,Japan,Asia,2008,0
+Slovakia,Europe,India,Asia,2008,0
+Slovakia,Europe,Pakistan,Asia,2008,0
+Slovakia,Europe,Thailand,Asia,2008,3209
+Slovakia,Europe,Malaysia,Asia,2008,6765
+Slovakia,Europe,Singapore,Asia,2008,0
+Slovakia,Europe,Philippines,Asia,2008,0
+Slovakia,Europe,Indonesia,Asia,2008,7732
+Slovakia,Europe,Australia,Oceania,2008,0
+Slovakia,Europe,Cyprus,Europe,2008,0
+Slovakia,Europe,China,Asia,2008,1946
+Slovakia,Europe,Ivory Coast,Africa,2008,0
+Slovakia,Europe,Congo,Africa,2008,0
+Italy,Europe,United States,North America,2008,266498492
+Italy,Europe,Canada,North America,2008,8991149
+Italy,Europe,Mexico,North America,2008,8579097
+Italy,Europe,Brazil,South America,2008,191577
+Italy,Europe,Argentina,South America,2008,1197778
+Italy,Europe,United Kingdom,Europe,2008,50285934
+Italy,Europe,Netherlands,Europe,2008,1145894
+Italy,Europe,Belgium,Europe,2008,12052261
+Italy,Europe,France,Europe,2008,42440562
+Italy,Europe,Switzerland,Europe,2008,4870469
+Italy,Europe,Spain,Europe,2008,32264105
+Italy,Europe,Portugal,Europe,2008,2497061
+Italy,Europe,Germany,Europe,2008,23036212
+Italy,Europe,Poland,Europe,2008,19284642
+Italy,Europe,Austria,Europe,2008,4866775
+Italy,Europe,Hungary,Europe,2008,902697
+Italy,Europe,Czech Republic,Europe,2008,2994493
+Italy,Europe,Slovakia,Europe,2008,1089054
+Italy,Europe,Italy,Europe,2008,0
+Italy,Europe,Croatia,Europe,2008,2052536
+Italy,Europe,Serbia,Europe,2008,1942291
+Italy,Europe,Bosnia,Europe,2008,116902
+Italy,Europe,Greece,Europe,2008,14531661
+Italy,Europe,Bulgaria,Europe,2008,2539507
+Italy,Europe,Romania,Europe,2008,1997595
+Italy,Europe,Russia,Asia,2008,30558127
+Italy,Europe,Ukraine,Europe,2008,9976462
+Italy,Europe,Finland,Europe,2008,6208823
+Italy,Europe,Sweden,Europe,2008,3511231
+Italy,Europe,Norway,Europe,2008,7112097
+Italy,Europe,Denmark,Europe,2008,3767271
+Italy,Europe,South Africa,Africa,2008,4838904
+Italy,Europe,Turkey,Asia,2008,48861549
+Italy,Europe,Israel,Asia,2008,10999
+Italy,Europe,United Arab Emirates,Asia,2008,1303010
+Italy,Europe,Taiwan,Asia,2008,23813
+Italy,Europe,South Korea,Asia,2008,2847133
+Italy,Europe,Japan,Asia,2008,8005830
+Italy,Europe,India,Asia,2008,1902713
+Italy,Europe,Pakistan,Asia,2008,93998
+Italy,Europe,Thailand,Asia,2008,3517428
+Italy,Europe,Malaysia,Asia,2008,1243442
+Italy,Europe,Singapore,Asia,2008,480709
+Italy,Europe,Philippines,Asia,2008,2800281
+Italy,Europe,Indonesia,Asia,2008,30070
+Italy,Europe,Australia,Oceania,2008,3651950
+Italy,Europe,Cyprus,Europe,2008,3526176
+Italy,Europe,China,Asia,2008,1324107
+Italy,Europe,Ivory Coast,Africa,2008,0
+Italy,Europe,Congo,Africa,2008,0
+Croatia,Europe,United States,North America,2008,39501490
+Croatia,Europe,Canada,North America,2008,77029
+Croatia,Europe,Mexico,North America,2008,0
+Croatia,Europe,Brazil,South America,2008,0
+Croatia,Europe,Argentina,South America,2008,0
+Croatia,Europe,United Kingdom,Europe,2008,0
+Croatia,Europe,Netherlands,Europe,2008,0
+Croatia,Europe,Belgium,Europe,2008,1882
+Croatia,Europe,France,Europe,2008,0
+Croatia,Europe,Switzerland,Europe,2008,3460
+Croatia,Europe,Spain,Europe,2008,0
+Croatia,Europe,Portugal,Europe,2008,0
+Croatia,Europe,Germany,Europe,2008,1043
+Croatia,Europe,Poland,Europe,2008,0
+Croatia,Europe,Austria,Europe,2008,58540
+Croatia,Europe,Hungary,Europe,2008,0
+Croatia,Europe,Czech Republic,Europe,2008,6901
+Croatia,Europe,Slovakia,Europe,2008,0
+Croatia,Europe,Italy,Europe,2008,1868
+Croatia,Europe,Croatia,Europe,2008,0
+Croatia,Europe,Serbia,Europe,2008,188960
+Croatia,Europe,Bosnia,Europe,2008,506849
+Croatia,Europe,Greece,Europe,2008,0
+Croatia,Europe,Bulgaria,Europe,2008,0
+Croatia,Europe,Romania,Europe,2008,0
+Croatia,Europe,Russia,Asia,2008,0
+Croatia,Europe,Ukraine,Europe,2008,0
+Croatia,Europe,Finland,Europe,2008,0
+Croatia,Europe,Sweden,Europe,2008,1120
+Croatia,Europe,Norway,Europe,2008,0
+Croatia,Europe,Denmark,Europe,2008,0
+Croatia,Europe,South Africa,Africa,2008,0
+Croatia,Europe,Turkey,Asia,2008,0
+Croatia,Europe,Israel,Asia,2008,0
+Croatia,Europe,United Arab Emirates,Asia,2008,0
+Croatia,Europe,Taiwan,Asia,2008,0
+Croatia,Europe,South Korea,Asia,2008,0
+Croatia,Europe,Japan,Asia,2008,0
+Croatia,Europe,India,Asia,2008,0
+Croatia,Europe,Pakistan,Asia,2008,0
+Croatia,Europe,Thailand,Asia,2008,0
+Croatia,Europe,Malaysia,Asia,2008,0
+Croatia,Europe,Singapore,Asia,2008,0
+Croatia,Europe,Philippines,Asia,2008,336951
+Croatia,Europe,Indonesia,Asia,2008,0
+Croatia,Europe,Australia,Oceania,2008,0
+Croatia,Europe,Cyprus,Europe,2008,0
+Croatia,Europe,China,Asia,2008,0
+Croatia,Europe,Ivory Coast,Africa,2008,0
+Croatia,Europe,Congo,Africa,2008,0
+Serbia,Europe,United States,North America,2008,9248187
+Serbia,Europe,Canada,North America,2008,498790
+Serbia,Europe,Mexico,North America,2008,0
+Serbia,Europe,Brazil,South America,2008,0
+Serbia,Europe,Argentina,South America,2008,7490
+Serbia,Europe,United Kingdom,Europe,2008,366428
+Serbia,Europe,Netherlands,Europe,2008,244591
+Serbia,Europe,Belgium,Europe,2008,0
+Serbia,Europe,France,Europe,2008,902019
+Serbia,Europe,Switzerland,Europe,2008,271812
+Serbia,Europe,Spain,Europe,2008,138156
+Serbia,Europe,Portugal,Europe,2008,5734
+Serbia,Europe,Germany,Europe,2008,2199615
+Serbia,Europe,Poland,Europe,2008,0
+Serbia,Europe,Austria,Europe,2008,19692
+Serbia,Europe,Hungary,Europe,2008,2087
+Serbia,Europe,Czech Republic,Europe,2008,71908
+Serbia,Europe,Slovakia,Europe,2008,489454
+Serbia,Europe,Italy,Europe,2008,449848
+Serbia,Europe,Croatia,Europe,2008,120233
+Serbia,Europe,Serbia,Europe,2008,0
+Serbia,Europe,Bosnia,Europe,2008,1479922
+Serbia,Europe,Greece,Europe,2008,22691
+Serbia,Europe,Bulgaria,Europe,2008,653518
+Serbia,Europe,Romania,Europe,2008,3339
+Serbia,Europe,Russia,Asia,2008,10639
+Serbia,Europe,Ukraine,Europe,2008,82655
+Serbia,Europe,Finland,Europe,2008,115348
+Serbia,Europe,Sweden,Europe,2008,0
+Serbia,Europe,Norway,Europe,2008,287695
+Serbia,Europe,Denmark,Europe,2008,0
+Serbia,Europe,South Africa,Africa,2008,0
+Serbia,Europe,Turkey,Asia,2008,7370
+Serbia,Europe,Israel,Asia,2008,861005
+Serbia,Europe,United Arab Emirates,Asia,2008,0
+Serbia,Europe,Taiwan,Asia,2008,0
+Serbia,Europe,South Korea,Asia,2008,0
+Serbia,Europe,Japan,Asia,2008,0
+Serbia,Europe,India,Asia,2008,0
+Serbia,Europe,Pakistan,Asia,2008,389114
+Serbia,Europe,Thailand,Asia,2008,0
+Serbia,Europe,Malaysia,Asia,2008,0
+Serbia,Europe,Singapore,Asia,2008,0
+Serbia,Europe,Philippines,Asia,2008,357684
+Serbia,Europe,Indonesia,Asia,2008,0
+Serbia,Europe,Australia,Oceania,2008,1804565
+Serbia,Europe,Cyprus,Europe,2008,0
+Serbia,Europe,China,Asia,2008,0
+Serbia,Europe,Ivory Coast,Africa,2008,0
+Serbia,Europe,Congo,Africa,2008,0
+Bosnia,Europe,United States,North America,2008,468299
+Bosnia,Europe,Canada,North America,2008,685
+Bosnia,Europe,Mexico,North America,2008,0
+Bosnia,Europe,Brazil,South America,2008,0
+Bosnia,Europe,Argentina,South America,2008,0
+Bosnia,Europe,United Kingdom,Europe,2008,0
+Bosnia,Europe,Netherlands,Europe,2008,0
+Bosnia,Europe,Belgium,Europe,2008,0
+Bosnia,Europe,France,Europe,2008,183059
+Bosnia,Europe,Switzerland,Europe,2008,5804720
+Bosnia,Europe,Spain,Europe,2008,0
+Bosnia,Europe,Portugal,Europe,2008,0
+Bosnia,Europe,Germany,Europe,2008,2986868
+Bosnia,Europe,Poland,Europe,2008,131072
+Bosnia,Europe,Austria,Europe,2008,0
+Bosnia,Europe,Hungary,Europe,2008,0
+Bosnia,Europe,Czech Republic,Europe,2008,44282
+Bosnia,Europe,Slovakia,Europe,2008,87374
+Bosnia,Europe,Italy,Europe,2008,116015
+Bosnia,Europe,Croatia,Europe,2008,82193
+Bosnia,Europe,Serbia,Europe,2008,474981
+Bosnia,Europe,Bosnia,Europe,2008,0
+Bosnia,Europe,Greece,Europe,2008,0
+Bosnia,Europe,Bulgaria,Europe,2008,0
+Bosnia,Europe,Romania,Europe,2008,0
+Bosnia,Europe,Russia,Asia,2008,0
+Bosnia,Europe,Ukraine,Europe,2008,0
+Bosnia,Europe,Finland,Europe,2008,0
+Bosnia,Europe,Sweden,Europe,2008,0
+Bosnia,Europe,Norway,Europe,2008,1306
+Bosnia,Europe,Denmark,Europe,2008,0
+Bosnia,Europe,South Africa,Africa,2008,0
+Bosnia,Europe,Turkey,Asia,2008,1598
+Bosnia,Europe,Israel,Asia,2008,0
+Bosnia,Europe,United Arab Emirates,Asia,2008,0
+Bosnia,Europe,Taiwan,Asia,2008,0
+Bosnia,Europe,South Korea,Asia,2008,0
+Bosnia,Europe,Japan,Asia,2008,0
+Bosnia,Europe,India,Asia,2008,0
+Bosnia,Europe,Pakistan,Asia,2008,0
+Bosnia,Europe,Thailand,Asia,2008,0
+Bosnia,Europe,Malaysia,Asia,2008,0
+Bosnia,Europe,Singapore,Asia,2008,0
+Bosnia,Europe,Philippines,Asia,2008,0
+Bosnia,Europe,Indonesia,Asia,2008,0
+Bosnia,Europe,Australia,Oceania,2008,0
+Bosnia,Europe,Cyprus,Europe,2008,0
+Bosnia,Europe,China,Asia,2008,0
+Bosnia,Europe,Ivory Coast,Africa,2008,0
+Bosnia,Europe,Congo,Africa,2008,0
+Greece,Europe,United States,North America,2008,129423
+Greece,Europe,Canada,North America,2008,0
+Greece,Europe,Mexico,North America,2008,0
+Greece,Europe,Brazil,South America,2008,0
+Greece,Europe,Argentina,South America,2008,0
+Greece,Europe,United Kingdom,Europe,2008,0
+Greece,Europe,Netherlands,Europe,2008,0
+Greece,Europe,Belgium,Europe,2008,7898
+Greece,Europe,France,Europe,2008,0
+Greece,Europe,Switzerland,Europe,2008,0
+Greece,Europe,Spain,Europe,2008,0
+Greece,Europe,Portugal,Europe,2008,0
+Greece,Europe,Germany,Europe,2008,334078
+Greece,Europe,Poland,Europe,2008,8504
+Greece,Europe,Austria,Europe,2008,0
+Greece,Europe,Hungary,Europe,2008,0
+Greece,Europe,Czech Republic,Europe,2008,0
+Greece,Europe,Slovakia,Europe,2008,0
+Greece,Europe,Italy,Europe,2008,3198
+Greece,Europe,Croatia,Europe,2008,20190
+Greece,Europe,Serbia,Europe,2008,54123
+Greece,Europe,Bosnia,Europe,2008,26617
+Greece,Europe,Greece,Europe,2008,0
+Greece,Europe,Bulgaria,Europe,2008,35100
+Greece,Europe,Romania,Europe,2008,34308
+Greece,Europe,Russia,Asia,2008,64330
+Greece,Europe,Ukraine,Europe,2008,0
+Greece,Europe,Finland,Europe,2008,0
+Greece,Europe,Sweden,Europe,2008,0
+Greece,Europe,Norway,Europe,2008,0
+Greece,Europe,Denmark,Europe,2008,86918
+Greece,Europe,South Africa,Africa,2008,0
+Greece,Europe,Turkey,Asia,2008,4582
+Greece,Europe,Israel,Asia,2008,0
+Greece,Europe,United Arab Emirates,Asia,2008,0
+Greece,Europe,Taiwan,Asia,2008,0
+Greece,Europe,South Korea,Asia,2008,0
+Greece,Europe,Japan,Asia,2008,0
+Greece,Europe,India,Asia,2008,0
+Greece,Europe,Pakistan,Asia,2008,0
+Greece,Europe,Thailand,Asia,2008,0
+Greece,Europe,Malaysia,Asia,2008,0
+Greece,Europe,Singapore,Asia,2008,0
+Greece,Europe,Philippines,Asia,2008,0
+Greece,Europe,Indonesia,Asia,2008,0
+Greece,Europe,Australia,Oceania,2008,0
+Greece,Europe,Cyprus,Europe,2008,756214
+Greece,Europe,China,Asia,2008,0
+Greece,Europe,Ivory Coast,Africa,2008,0
+Greece,Europe,Congo,Africa,2008,0
+Bulgaria,Europe,United States,North America,2008,6047475
+Bulgaria,Europe,Canada,North America,2008,0
+Bulgaria,Europe,Mexico,North America,2008,0
+Bulgaria,Europe,Brazil,South America,2008,0
+Bulgaria,Europe,Argentina,South America,2008,0
+Bulgaria,Europe,United Kingdom,Europe,2008,542
+Bulgaria,Europe,Netherlands,Europe,2008,240313
+Bulgaria,Europe,Belgium,Europe,2008,0
+Bulgaria,Europe,France,Europe,2008,37021
+Bulgaria,Europe,Switzerland,Europe,2008,44904
+Bulgaria,Europe,Spain,Europe,2008,0
+Bulgaria,Europe,Portugal,Europe,2008,0
+Bulgaria,Europe,Germany,Europe,2008,65458
+Bulgaria,Europe,Poland,Europe,2008,730303
+Bulgaria,Europe,Austria,Europe,2008,0
+Bulgaria,Europe,Hungary,Europe,2008,0
+Bulgaria,Europe,Czech Republic,Europe,2008,24415
+Bulgaria,Europe,Slovakia,Europe,2008,0
+Bulgaria,Europe,Italy,Europe,2008,0
+Bulgaria,Europe,Croatia,Europe,2008,0
+Bulgaria,Europe,Serbia,Europe,2008,15
+Bulgaria,Europe,Bosnia,Europe,2008,0
+Bulgaria,Europe,Greece,Europe,2008,86376
+Bulgaria,Europe,Bulgaria,Europe,2008,0
+Bulgaria,Europe,Romania,Europe,2008,0
+Bulgaria,Europe,Russia,Asia,2008,0
+Bulgaria,Europe,Ukraine,Europe,2008,0
+Bulgaria,Europe,Finland,Europe,2008,113310
+Bulgaria,Europe,Sweden,Europe,2008,73445
+Bulgaria,Europe,Norway,Europe,2008,0
+Bulgaria,Europe,Denmark,Europe,2008,0
+Bulgaria,Europe,South Africa,Africa,2008,315217
+Bulgaria,Europe,Turkey,Asia,2008,262303
+Bulgaria,Europe,Israel,Asia,2008,777516
+Bulgaria,Europe,United Arab Emirates,Asia,2008,516562
+Bulgaria,Europe,Taiwan,Asia,2008,0
+Bulgaria,Europe,South Korea,Asia,2008,52199
+Bulgaria,Europe,Japan,Asia,2008,0
+Bulgaria,Europe,India,Asia,2008,2269871
+Bulgaria,Europe,Pakistan,Asia,2008,16508
+Bulgaria,Europe,Thailand,Asia,2008,0
+Bulgaria,Europe,Malaysia,Asia,2008,0
+Bulgaria,Europe,Singapore,Asia,2008,0
+Bulgaria,Europe,Philippines,Asia,2008,0
+Bulgaria,Europe,Indonesia,Asia,2008,82676
+Bulgaria,Europe,Australia,Oceania,2008,47479
+Bulgaria,Europe,Cyprus,Europe,2008,0
+Bulgaria,Europe,China,Asia,2008,0
+Bulgaria,Europe,Ivory Coast,Africa,2008,0
+Bulgaria,Europe,Congo,Africa,2008,0
+Romania,Europe,United States,North America,2008,30593050
+Romania,Europe,Canada,North America,2008,4428
+Romania,Europe,Mexico,North America,2008,0
+Romania,Europe,Brazil,South America,2008,0
+Romania,Europe,Argentina,South America,2008,0
+Romania,Europe,United Kingdom,Europe,2008,150943
+Romania,Europe,Netherlands,Europe,2008,0
+Romania,Europe,Belgium,Europe,2008,108856
+Romania,Europe,France,Europe,2008,50291
+Romania,Europe,Switzerland,Europe,2008,0
+Romania,Europe,Spain,Europe,2008,0
+Romania,Europe,Portugal,Europe,2008,0
+Romania,Europe,Germany,Europe,2008,1348
+Romania,Europe,Poland,Europe,2008,44910
+Romania,Europe,Austria,Europe,2008,1128371
+Romania,Europe,Hungary,Europe,2008,0
+Romania,Europe,Czech Republic,Europe,2008,0
+Romania,Europe,Slovakia,Europe,2008,2927
+Romania,Europe,Italy,Europe,2008,26422
+Romania,Europe,Croatia,Europe,2008,0
+Romania,Europe,Serbia,Europe,2008,0
+Romania,Europe,Bosnia,Europe,2008,0
+Romania,Europe,Greece,Europe,2008,0
+Romania,Europe,Bulgaria,Europe,2008,0
+Romania,Europe,Romania,Europe,2008,0
+Romania,Europe,Russia,Asia,2008,0
+Romania,Europe,Ukraine,Europe,2008,0
+Romania,Europe,Finland,Europe,2008,19460
+Romania,Europe,Sweden,Europe,2008,1496
+Romania,Europe,Norway,Europe,2008,42278
+Romania,Europe,Denmark,Europe,2008,4361
+Romania,Europe,South Africa,Africa,2008,0
+Romania,Europe,Turkey,Asia,2008,346655
+Romania,Europe,Israel,Asia,2008,0
+Romania,Europe,United Arab Emirates,Asia,2008,0
+Romania,Europe,Taiwan,Asia,2008,0
+Romania,Europe,South Korea,Asia,2008,543920
+Romania,Europe,Japan,Asia,2008,5374
+Romania,Europe,India,Asia,2008,0
+Romania,Europe,Pakistan,Asia,2008,0
+Romania,Europe,Thailand,Asia,2008,0
+Romania,Europe,Malaysia,Asia,2008,0
+Romania,Europe,Singapore,Asia,2008,0
+Romania,Europe,Philippines,Asia,2008,0
+Romania,Europe,Indonesia,Asia,2008,0
+Romania,Europe,Australia,Oceania,2008,9622
+Romania,Europe,Cyprus,Europe,2008,0
+Romania,Europe,China,Asia,2008,0
+Romania,Europe,Ivory Coast,Africa,2008,0
+Romania,Europe,Congo,Africa,2008,0
+Russia,Asia,United States,North America,2008,79929331
+Russia,Asia,Canada,North America,2008,673806
+Russia,Asia,Mexico,North America,2008,96893
+Russia,Asia,Brazil,South America,2008,0
+Russia,Asia,Argentina,South America,2008,5991
+Russia,Asia,United Kingdom,Europe,2008,48216
+Russia,Asia,Netherlands,Europe,2008,0
+Russia,Asia,Belgium,Europe,2008,0
+Russia,Asia,France,Europe,2008,5273343
+Russia,Asia,Switzerland,Europe,2008,9391
+Russia,Asia,Spain,Europe,2008,99236
+Russia,Asia,Portugal,Europe,2008,52716
+Russia,Asia,Germany,Europe,2008,10578867
+Russia,Asia,Poland,Europe,2008,458788
+Russia,Asia,Austria,Europe,2008,544218
+Russia,Asia,Hungary,Europe,2008,14046
+Russia,Asia,Czech Republic,Europe,2008,756728
+Russia,Asia,Slovakia,Europe,2008,838706
+Russia,Asia,Italy,Europe,2008,817966
+Russia,Asia,Croatia,Europe,2008,75413
+Russia,Asia,Serbia,Europe,2008,1112935
+Russia,Asia,Bosnia,Europe,2008,0
+Russia,Asia,Greece,Europe,2008,265961
+Russia,Asia,Bulgaria,Europe,2008,1111744
+Russia,Asia,Romania,Europe,2008,0
+Russia,Asia,Russia,Asia,2008,0
+Russia,Asia,Ukraine,Europe,2008,3638224
+Russia,Asia,Finland,Europe,2008,260633
+Russia,Asia,Sweden,Europe,2008,0
+Russia,Asia,Norway,Europe,2008,606193
+Russia,Asia,Denmark,Europe,2008,33866
+Russia,Asia,South Africa,Africa,2008,0
+Russia,Asia,Turkey,Asia,2008,242913
+Russia,Asia,Israel,Asia,2008,0
+Russia,Asia,United Arab Emirates,Asia,2008,0
+Russia,Asia,Taiwan,Asia,2008,0
+Russia,Asia,South Korea,Asia,2008,42288
+Russia,Asia,Japan,Asia,2008,0
+Russia,Asia,India,Asia,2008,0
+Russia,Asia,Pakistan,Asia,2008,55554
+Russia,Asia,Thailand,Asia,2008,268283
+Russia,Asia,Malaysia,Asia,2008,0
+Russia,Asia,Singapore,Asia,2008,0
+Russia,Asia,Philippines,Asia,2008,0
+Russia,Asia,Indonesia,Asia,2008,0
+Russia,Asia,Australia,Oceania,2008,53434
+Russia,Asia,Cyprus,Europe,2008,6675049
+Russia,Asia,China,Asia,2008,0
+Russia,Asia,Ivory Coast,Africa,2008,0
+Russia,Asia,Congo,Africa,2008,0
+Ukraine,Europe,United States,North America,2008,1700139
+Ukraine,Europe,Canada,North America,2008,461671
+Ukraine,Europe,Mexico,North America,2008,0
+Ukraine,Europe,Brazil,South America,2008,0
+Ukraine,Europe,Argentina,South America,2008,0
+Ukraine,Europe,United Kingdom,Europe,2008,1994975
+Ukraine,Europe,Netherlands,Europe,2008,0
+Ukraine,Europe,Belgium,Europe,2008,0
+Ukraine,Europe,France,Europe,2008,90997
+Ukraine,Europe,Switzerland,Europe,2008,0
+Ukraine,Europe,Spain,Europe,2008,0
+Ukraine,Europe,Portugal,Europe,2008,0
+Ukraine,Europe,Germany,Europe,2008,1985092
+Ukraine,Europe,Poland,Europe,2008,0
+Ukraine,Europe,Austria,Europe,2008,363856
+Ukraine,Europe,Hungary,Europe,2008,0
+Ukraine,Europe,Czech Republic,Europe,2008,458042
+Ukraine,Europe,Slovakia,Europe,2008,0
+Ukraine,Europe,Italy,Europe,2008,0
+Ukraine,Europe,Croatia,Europe,2008,0
+Ukraine,Europe,Serbia,Europe,2008,0
+Ukraine,Europe,Bosnia,Europe,2008,0
+Ukraine,Europe,Greece,Europe,2008,0
+Ukraine,Europe,Bulgaria,Europe,2008,0
+Ukraine,Europe,Romania,Europe,2008,0
+Ukraine,Europe,Russia,Asia,2008,0
+Ukraine,Europe,Ukraine,Europe,2008,0
+Ukraine,Europe,Finland,Europe,2008,0
+Ukraine,Europe,Sweden,Europe,2008,0
+Ukraine,Europe,Norway,Europe,2008,0
+Ukraine,Europe,Denmark,Europe,2008,0
+Ukraine,Europe,South Africa,Africa,2008,0
+Ukraine,Europe,Turkey,Asia,2008,0
+Ukraine,Europe,Israel,Asia,2008,0
+Ukraine,Europe,United Arab Emirates,Asia,2008,0
+Ukraine,Europe,Taiwan,Asia,2008,0
+Ukraine,Europe,South Korea,Asia,2008,0
+Ukraine,Europe,Japan,Asia,2008,0
+Ukraine,Europe,India,Asia,2008,0
+Ukraine,Europe,Pakistan,Asia,2008,0
+Ukraine,Europe,Thailand,Asia,2008,1877
+Ukraine,Europe,Malaysia,Asia,2008,0
+Ukraine,Europe,Singapore,Asia,2008,0
+Ukraine,Europe,Philippines,Asia,2008,0
+Ukraine,Europe,Indonesia,Asia,2008,0
+Ukraine,Europe,Australia,Oceania,2008,0
+Ukraine,Europe,Cyprus,Europe,2008,0
+Ukraine,Europe,China,Asia,2008,0
+Ukraine,Europe,Ivory Coast,Africa,2008,0
+Ukraine,Europe,Congo,Africa,2008,0
+Finland,Europe,United States,North America,2008,16643192
+Finland,Europe,Canada,North America,2008,5827363
+Finland,Europe,Mexico,North America,2008,0
+Finland,Europe,Brazil,South America,2008,317963
+Finland,Europe,Argentina,South America,2008,106818
+Finland,Europe,United Kingdom,Europe,2008,2594483
+Finland,Europe,Netherlands,Europe,2008,175138
+Finland,Europe,Belgium,Europe,2008,380346
+Finland,Europe,France,Europe,2008,1105906
+Finland,Europe,Switzerland,Europe,2008,425808
+Finland,Europe,Spain,Europe,2008,896593
+Finland,Europe,Portugal,Europe,2008,85562
+Finland,Europe,Germany,Europe,2008,4333064
+Finland,Europe,Poland,Europe,2008,1265568
+Finland,Europe,Austria,Europe,2008,142786
+Finland,Europe,Hungary,Europe,2008,412218
+Finland,Europe,Czech Republic,Europe,2008,1176413
+Finland,Europe,Slovakia,Europe,2008,581349
+Finland,Europe,Italy,Europe,2008,1839132
+Finland,Europe,Croatia,Europe,2008,31387
+Finland,Europe,Serbia,Europe,2008,3902
+Finland,Europe,Bosnia,Europe,2008,0
+Finland,Europe,Greece,Europe,2008,15149
+Finland,Europe,Bulgaria,Europe,2008,9762
+Finland,Europe,Romania,Europe,2008,133982
+Finland,Europe,Russia,Asia,2008,810274
+Finland,Europe,Ukraine,Europe,2008,158315
+Finland,Europe,Finland,Europe,2008,0
+Finland,Europe,Sweden,Europe,2008,12330428
+Finland,Europe,Norway,Europe,2008,4745501
+Finland,Europe,Denmark,Europe,2008,1986147
+Finland,Europe,South Africa,Africa,2008,316303
+Finland,Europe,Turkey,Asia,2008,278901
+Finland,Europe,Israel,Asia,2008,0
+Finland,Europe,United Arab Emirates,Asia,2008,830247
+Finland,Europe,Taiwan,Asia,2008,0
+Finland,Europe,South Korea,Asia,2008,62637
+Finland,Europe,Japan,Asia,2008,615372
+Finland,Europe,India,Asia,2008,79400
+Finland,Europe,Pakistan,Asia,2008,3072
+Finland,Europe,Thailand,Asia,2008,339670
+Finland,Europe,Malaysia,Asia,2008,297409
+Finland,Europe,Singapore,Asia,2008,1437308
+Finland,Europe,Philippines,Asia,2008,0
+Finland,Europe,Indonesia,Asia,2008,3239
+Finland,Europe,Australia,Oceania,2008,3973497
+Finland,Europe,Cyprus,Europe,2008,5906
+Finland,Europe,China,Asia,2008,45342
+Finland,Europe,Ivory Coast,Africa,2008,0
+Finland,Europe,Congo,Africa,2008,0
+Sweden,Europe,United States,North America,2008,5643972
+Sweden,Europe,Canada,North America,2008,295984
+Sweden,Europe,Mexico,North America,2008,0
+Sweden,Europe,Brazil,South America,2008,0
+Sweden,Europe,Argentina,South America,2008,7917
+Sweden,Europe,United Kingdom,Europe,2008,505798
+Sweden,Europe,Netherlands,Europe,2008,536426
+Sweden,Europe,Belgium,Europe,2008,483277
+Sweden,Europe,France,Europe,2008,2423167
+Sweden,Europe,Switzerland,Europe,2008,177148
+Sweden,Europe,Spain,Europe,2008,1371852
+Sweden,Europe,Portugal,Europe,2008,151622
+Sweden,Europe,Germany,Europe,2008,3873056
+Sweden,Europe,Poland,Europe,2008,345040
+Sweden,Europe,Austria,Europe,2008,389983
+Sweden,Europe,Hungary,Europe,2008,331468
+Sweden,Europe,Czech Republic,Europe,2008,137359
+Sweden,Europe,Slovakia,Europe,2008,139049
+Sweden,Europe,Italy,Europe,2008,1186730
+Sweden,Europe,Croatia,Europe,2008,93198
+Sweden,Europe,Serbia,Europe,2008,0
+Sweden,Europe,Bosnia,Europe,2008,0
+Sweden,Europe,Greece,Europe,2008,0
+Sweden,Europe,Bulgaria,Europe,2008,55298
+Sweden,Europe,Romania,Europe,2008,51762
+Sweden,Europe,Russia,Asia,2008,2058101
+Sweden,Europe,Ukraine,Europe,2008,98701
+Sweden,Europe,Finland,Europe,2008,5152182
+Sweden,Europe,Sweden,Europe,2008,0
+Sweden,Europe,Norway,Europe,2008,5075292
+Sweden,Europe,Denmark,Europe,2008,19206483
+Sweden,Europe,South Africa,Africa,2008,42438
+Sweden,Europe,Turkey,Asia,2008,157054
+Sweden,Europe,Israel,Asia,2008,0
+Sweden,Europe,United Arab Emirates,Asia,2008,12216
+Sweden,Europe,Taiwan,Asia,2008,0
+Sweden,Europe,South Korea,Asia,2008,0
+Sweden,Europe,Japan,Asia,2008,665421
+Sweden,Europe,India,Asia,2008,37978
+Sweden,Europe,Pakistan,Asia,2008,0
+Sweden,Europe,Thailand,Asia,2008,897241
+Sweden,Europe,Malaysia,Asia,2008,1768
+Sweden,Europe,Singapore,Asia,2008,0
+Sweden,Europe,Philippines,Asia,2008,0
+Sweden,Europe,Indonesia,Asia,2008,0
+Sweden,Europe,Australia,Oceania,2008,124545
+Sweden,Europe,Cyprus,Europe,2008,5547
+Sweden,Europe,China,Asia,2008,0
+Sweden,Europe,Ivory Coast,Africa,2008,0
+Sweden,Europe,Congo,Africa,2008,0
+Norway,Europe,United States,North America,2008,9790603
+Norway,Europe,Canada,North America,2008,8119
+Norway,Europe,Mexico,North America,2008,0
+Norway,Europe,Brazil,South America,2008,0
+Norway,Europe,Argentina,South America,2008,0
+Norway,Europe,United Kingdom,Europe,2008,793435
+Norway,Europe,Netherlands,Europe,2008,0
+Norway,Europe,Belgium,Europe,2008,0
+Norway,Europe,France,Europe,2008,272641
+Norway,Europe,Switzerland,Europe,2008,21354
+Norway,Europe,Spain,Europe,2008,46348
+Norway,Europe,Portugal,Europe,2008,0
+Norway,Europe,Germany,Europe,2008,131412
+Norway,Europe,Poland,Europe,2008,168584
+Norway,Europe,Austria,Europe,2008,11720
+Norway,Europe,Hungary,Europe,2008,58030
+Norway,Europe,Czech Republic,Europe,2008,0
+Norway,Europe,Slovakia,Europe,2008,394149
+Norway,Europe,Italy,Europe,2008,1686303
+Norway,Europe,Croatia,Europe,2008,0
+Norway,Europe,Serbia,Europe,2008,0
+Norway,Europe,Bosnia,Europe,2008,0
+Norway,Europe,Greece,Europe,2008,0
+Norway,Europe,Bulgaria,Europe,2008,0
+Norway,Europe,Romania,Europe,2008,0
+Norway,Europe,Russia,Asia,2008,0
+Norway,Europe,Ukraine,Europe,2008,0
+Norway,Europe,Finland,Europe,2008,5063439
+Norway,Europe,Sweden,Europe,2008,495620
+Norway,Europe,Norway,Europe,2008,0
+Norway,Europe,Denmark,Europe,2008,2771710
+Norway,Europe,South Africa,Africa,2008,0
+Norway,Europe,Turkey,Asia,2008,0
+Norway,Europe,Israel,Asia,2008,0
+Norway,Europe,United Arab Emirates,Asia,2008,0
+Norway,Europe,Taiwan,Asia,2008,0
+Norway,Europe,South Korea,Asia,2008,0
+Norway,Europe,Japan,Asia,2008,0
+Norway,Europe,India,Asia,2008,0
+Norway,Europe,Pakistan,Asia,2008,0
+Norway,Europe,Thailand,Asia,2008,11
+Norway,Europe,Malaysia,Asia,2008,0
+Norway,Europe,Singapore,Asia,2008,1118051
+Norway,Europe,Philippines,Asia,2008,0
+Norway,Europe,Indonesia,Asia,2008,0
+Norway,Europe,Australia,Oceania,2008,11657285
+Norway,Europe,Cyprus,Europe,2008,0
+Norway,Europe,China,Asia,2008,0
+Norway,Europe,Ivory Coast,Africa,2008,0
+Norway,Europe,Congo,Africa,2008,0
+Denmark,Europe,United States,North America,2008,90051
+Denmark,Europe,Canada,North America,2008,92106
+Denmark,Europe,Mexico,North America,2008,0
+Denmark,Europe,Brazil,South America,2008,0
+Denmark,Europe,Argentina,South America,2008,0
+Denmark,Europe,United Kingdom,Europe,2008,16583
+Denmark,Europe,Netherlands,Europe,2008,0
+Denmark,Europe,Belgium,Europe,2008,576
+Denmark,Europe,France,Europe,2008,428355
+Denmark,Europe,Switzerland,Europe,2008,163025
+Denmark,Europe,Spain,Europe,2008,431246
+Denmark,Europe,Portugal,Europe,2008,16868
+Denmark,Europe,Germany,Europe,2008,548096
+Denmark,Europe,Poland,Europe,2008,127896
+Denmark,Europe,Austria,Europe,2008,34494
+Denmark,Europe,Hungary,Europe,2008,0
+Denmark,Europe,Czech Republic,Europe,2008,7857
+Denmark,Europe,Slovakia,Europe,2008,0
+Denmark,Europe,Italy,Europe,2008,314837
+Denmark,Europe,Croatia,Europe,2008,0
+Denmark,Europe,Serbia,Europe,2008,0
+Denmark,Europe,Bosnia,Europe,2008,0
+Denmark,Europe,Greece,Europe,2008,21038
+Denmark,Europe,Bulgaria,Europe,2008,0
+Denmark,Europe,Romania,Europe,2008,0
+Denmark,Europe,Russia,Asia,2008,29166
+Denmark,Europe,Ukraine,Europe,2008,0
+Denmark,Europe,Finland,Europe,2008,18052
+Denmark,Europe,Sweden,Europe,2008,3126187
+Denmark,Europe,Norway,Europe,2008,465517
+Denmark,Europe,Denmark,Europe,2008,0
+Denmark,Europe,South Africa,Africa,2008,0
+Denmark,Europe,Turkey,Asia,2008,4232
+Denmark,Europe,Israel,Asia,2008,0
+Denmark,Europe,United Arab Emirates,Asia,2008,1489
+Denmark,Europe,Taiwan,Asia,2008,0
+Denmark,Europe,South Korea,Asia,2008,0
+Denmark,Europe,Japan,Asia,2008,0
+Denmark,Europe,India,Asia,2008,208
+Denmark,Europe,Pakistan,Asia,2008,0
+Denmark,Europe,Thailand,Asia,2008,5180
+Denmark,Europe,Malaysia,Asia,2008,0
+Denmark,Europe,Singapore,Asia,2008,0
+Denmark,Europe,Philippines,Asia,2008,0
+Denmark,Europe,Indonesia,Asia,2008,0
+Denmark,Europe,Australia,Oceania,2008,3584
+Denmark,Europe,Cyprus,Europe,2008,16889
+Denmark,Europe,China,Asia,2008,0
+Denmark,Europe,Ivory Coast,Africa,2008,0
+Denmark,Europe,Congo,Africa,2008,0
+South Africa,Africa,United States,North America,2008,2142581
+South Africa,Africa,Canada,North America,2008,76354
+South Africa,Africa,Mexico,North America,2008,0
+South Africa,Africa,Brazil,South America,2008,0
+South Africa,Africa,Argentina,South America,2008,0
+South Africa,Africa,United Kingdom,Europe,2008,70063
+South Africa,Africa,Netherlands,Europe,2008,0
+South Africa,Africa,Belgium,Europe,2008,0
+South Africa,Africa,France,Europe,2008,4614
+South Africa,Africa,Switzerland,Europe,2008,371040
+South Africa,Africa,Spain,Europe,2008,0
+South Africa,Africa,Portugal,Europe,2008,0
+South Africa,Africa,Germany,Europe,2008,22967
+South Africa,Africa,Poland,Europe,2008,0
+South Africa,Africa,Austria,Europe,2008,0
+South Africa,Africa,Hungary,Europe,2008,0
+South Africa,Africa,Czech Republic,Europe,2008,8924
+South Africa,Africa,Slovakia,Europe,2008,0
+South Africa,Africa,Italy,Europe,2008,334005
+South Africa,Africa,Croatia,Europe,2008,123
+South Africa,Africa,Serbia,Europe,2008,0
+South Africa,Africa,Bosnia,Europe,2008,0
+South Africa,Africa,Greece,Europe,2008,0
+South Africa,Africa,Bulgaria,Europe,2008,0
+South Africa,Africa,Romania,Europe,2008,0
+South Africa,Africa,Russia,Asia,2008,0
+South Africa,Africa,Ukraine,Europe,2008,0
+South Africa,Africa,Finland,Europe,2008,0
+South Africa,Africa,Sweden,Europe,2008,40501
+South Africa,Africa,Norway,Europe,2008,91084
+South Africa,Africa,Denmark,Europe,2008,0
+South Africa,Africa,South Africa,Africa,2008,0
+South Africa,Africa,Turkey,Asia,2008,0
+South Africa,Africa,Israel,Asia,2008,0
+South Africa,Africa,United Arab Emirates,Asia,2008,906290
+South Africa,Africa,Taiwan,Asia,2008,0
+South Africa,Africa,South Korea,Asia,2008,0
+South Africa,Africa,Japan,Asia,2008,5848
+South Africa,Africa,India,Asia,2008,0
+South Africa,Africa,Pakistan,Asia,2008,0
+South Africa,Africa,Thailand,Asia,2008,1185453
+South Africa,Africa,Malaysia,Asia,2008,5526
+South Africa,Africa,Singapore,Asia,2008,1331971
+South Africa,Africa,Philippines,Asia,2008,0
+South Africa,Africa,Indonesia,Asia,2008,0
+South Africa,Africa,Australia,Oceania,2008,8267
+South Africa,Africa,Cyprus,Europe,2008,42799
+South Africa,Africa,China,Asia,2008,0
+South Africa,Africa,Ivory Coast,Africa,2008,0
+South Africa,Africa,Congo,Africa,2008,0
+Turkey,Asia,United States,North America,2008,21214240
+Turkey,Asia,Canada,North America,2008,656511
+Turkey,Asia,Mexico,North America,2008,264142
+Turkey,Asia,Brazil,South America,2008,39407
+Turkey,Asia,Argentina,South America,2008,622708
+Turkey,Asia,United Kingdom,Europe,2008,1616409
+Turkey,Asia,Netherlands,Europe,2008,0
+Turkey,Asia,Belgium,Europe,2008,75935
+Turkey,Asia,France,Europe,2008,2341397
+Turkey,Asia,Switzerland,Europe,2008,580
+Turkey,Asia,Spain,Europe,2008,544502
+Turkey,Asia,Portugal,Europe,2008,25647
+Turkey,Asia,Germany,Europe,2008,2003184
+Turkey,Asia,Poland,Europe,2008,142748
+Turkey,Asia,Austria,Europe,2008,56742
+Turkey,Asia,Hungary,Europe,2008,19388
+Turkey,Asia,Czech Republic,Europe,2008,529815
+Turkey,Asia,Slovakia,Europe,2008,8268
+Turkey,Asia,Italy,Europe,2008,2383682
+Turkey,Asia,Croatia,Europe,2008,30059
+Turkey,Asia,Serbia,Europe,2008,18301
+Turkey,Asia,Bosnia,Europe,2008,0
+Turkey,Asia,Greece,Europe,2008,540356
+Turkey,Asia,Bulgaria,Europe,2008,1234461
+Turkey,Asia,Romania,Europe,2008,64251
+Turkey,Asia,Russia,Asia,2008,3186905
+Turkey,Asia,Ukraine,Europe,2008,915904
+Turkey,Asia,Finland,Europe,2008,210079
+Turkey,Asia,Sweden,Europe,2008,284811
+Turkey,Asia,Norway,Europe,2008,158656
+Turkey,Asia,Denmark,Europe,2008,204246
+Turkey,Asia,South Africa,Africa,2008,17642
+Turkey,Asia,Turkey,Asia,2008,0
+Turkey,Asia,Israel,Asia,2008,559114
+Turkey,Asia,United Arab Emirates,Asia,2008,4814022
+Turkey,Asia,Taiwan,Asia,2008,0
+Turkey,Asia,South Korea,Asia,2008,99196
+Turkey,Asia,Japan,Asia,2008,0
+Turkey,Asia,India,Asia,2008,4696
+Turkey,Asia,Pakistan,Asia,2008,3119810
+Turkey,Asia,Thailand,Asia,2008,934485
+Turkey,Asia,Malaysia,Asia,2008,61830
+Turkey,Asia,Singapore,Asia,2008,0
+Turkey,Asia,Philippines,Asia,2008,1022677
+Turkey,Asia,Indonesia,Asia,2008,0
+Turkey,Asia,Australia,Oceania,2008,516568
+Turkey,Asia,Cyprus,Europe,2008,295994
+Turkey,Asia,China,Asia,2008,3653
+Turkey,Asia,Ivory Coast,Africa,2008,0
+Turkey,Asia,Congo,Africa,2008,0
+Israel,Asia,United States,North America,2008,41219866
+Israel,Asia,Canada,North America,2008,213562
+Israel,Asia,Mexico,North America,2008,298442
+Israel,Asia,Brazil,South America,2008,16061
+Israel,Asia,Argentina,South America,2008,0
+Israel,Asia,United Kingdom,Europe,2008,2257525
+Israel,Asia,Netherlands,Europe,2008,0
+Israel,Asia,Belgium,Europe,2008,63683
+Israel,Asia,France,Europe,2008,4614
+Israel,Asia,Switzerland,Europe,2008,44290
+Israel,Asia,Spain,Europe,2008,3024
+Israel,Asia,Portugal,Europe,2008,0
+Israel,Asia,Germany,Europe,2008,725575
+Israel,Asia,Poland,Europe,2008,329799
+Israel,Asia,Austria,Europe,2008,0
+Israel,Asia,Hungary,Europe,2008,0
+Israel,Asia,Czech Republic,Europe,2008,76897
+Israel,Asia,Slovakia,Europe,2008,0
+Israel,Asia,Italy,Europe,2008,132009
+Israel,Asia,Croatia,Europe,2008,0
+Israel,Asia,Serbia,Europe,2008,0
+Israel,Asia,Bosnia,Europe,2008,0
+Israel,Asia,Greece,Europe,2008,53243
+Israel,Asia,Bulgaria,Europe,2008,0
+Israel,Asia,Romania,Europe,2008,18791
+Israel,Asia,Russia,Asia,2008,0
+Israel,Asia,Ukraine,Europe,2008,17747
+Israel,Asia,Finland,Europe,2008,10123
+Israel,Asia,Sweden,Europe,2008,1446
+Israel,Asia,Norway,Europe,2008,0
+Israel,Asia,Denmark,Europe,2008,1718
+Israel,Asia,South Africa,Africa,2008,0
+Israel,Asia,Turkey,Asia,2008,263045
+Israel,Asia,Israel,Asia,2008,0
+Israel,Asia,United Arab Emirates,Asia,2008,0
+Israel,Asia,Taiwan,Asia,2008,0
+Israel,Asia,South Korea,Asia,2008,7524
+Israel,Asia,Japan,Asia,2008,0
+Israel,Asia,India,Asia,2008,807006
+Israel,Asia,Pakistan,Asia,2008,0
+Israel,Asia,Thailand,Asia,2008,337509
+Israel,Asia,Malaysia,Asia,2008,0
+Israel,Asia,Singapore,Asia,2008,0
+Israel,Asia,Philippines,Asia,2008,464238
+Israel,Asia,Indonesia,Asia,2008,0
+Israel,Asia,Australia,Oceania,2008,41043
+Israel,Asia,Cyprus,Europe,2008,0
+Israel,Asia,China,Asia,2008,0
+Israel,Asia,Ivory Coast,Africa,2008,0
+Israel,Asia,Congo,Africa,2008,0
+United Arab Emirates,Asia,United States,North America,2008,814078
+United Arab Emirates,Asia,Canada,North America,2008,665
+United Arab Emirates,Asia,Mexico,North America,2008,0
+United Arab Emirates,Asia,Brazil,South America,2008,0
+United Arab Emirates,Asia,Argentina,South America,2008,0
+United Arab Emirates,Asia,United Kingdom,Europe,2008,1125
+United Arab Emirates,Asia,Netherlands,Europe,2008,0
+United Arab Emirates,Asia,Belgium,Europe,2008,0
+United Arab Emirates,Asia,France,Europe,2008,4569950
+United Arab Emirates,Asia,Switzerland,Europe,2008,17284
+United Arab Emirates,Asia,Spain,Europe,2008,0
+United Arab Emirates,Asia,Portugal,Europe,2008,0
+United Arab Emirates,Asia,Germany,Europe,2008,76208
+United Arab Emirates,Asia,Poland,Europe,2008,0
+United Arab Emirates,Asia,Austria,Europe,2008,0
+United Arab Emirates,Asia,Hungary,Europe,2008,0
+United Arab Emirates,Asia,Czech Republic,Europe,2008,0
+United Arab Emirates,Asia,Slovakia,Europe,2008,0
+United Arab Emirates,Asia,Italy,Europe,2008,300010
+United Arab Emirates,Asia,Croatia,Europe,2008,0
+United Arab Emirates,Asia,Serbia,Europe,2008,0
+United Arab Emirates,Asia,Bosnia,Europe,2008,0
+United Arab Emirates,Asia,Greece,Europe,2008,0
+United Arab Emirates,Asia,Bulgaria,Europe,2008,0
+United Arab Emirates,Asia,Romania,Europe,2008,0
+United Arab Emirates,Asia,Russia,Asia,2008,0
+United Arab Emirates,Asia,Ukraine,Europe,2008,18537
+United Arab Emirates,Asia,Finland,Europe,2008,0
+United Arab Emirates,Asia,Sweden,Europe,2008,0
+United Arab Emirates,Asia,Norway,Europe,2008,0
+United Arab Emirates,Asia,Denmark,Europe,2008,0
+United Arab Emirates,Asia,South Africa,Africa,2008,0
+United Arab Emirates,Asia,Turkey,Asia,2008,0
+United Arab Emirates,Asia,Israel,Asia,2008,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,2008,0
+United Arab Emirates,Asia,Taiwan,Asia,2008,0
+United Arab Emirates,Asia,South Korea,Asia,2008,0
+United Arab Emirates,Asia,Japan,Asia,2008,0
+United Arab Emirates,Asia,India,Asia,2008,1296
+United Arab Emirates,Asia,Pakistan,Asia,2008,0
+United Arab Emirates,Asia,Thailand,Asia,2008,0
+United Arab Emirates,Asia,Malaysia,Asia,2008,0
+United Arab Emirates,Asia,Singapore,Asia,2008,0
+United Arab Emirates,Asia,Philippines,Asia,2008,0
+United Arab Emirates,Asia,Indonesia,Asia,2008,0
+United Arab Emirates,Asia,Australia,Oceania,2008,0
+United Arab Emirates,Asia,Cyprus,Europe,2008,0
+United Arab Emirates,Asia,China,Asia,2008,0
+United Arab Emirates,Asia,Ivory Coast,Africa,2008,0
+United Arab Emirates,Asia,Congo,Africa,2008,0
+Taiwan,Asia,United States,North America,2008,26894351
+Taiwan,Asia,Canada,North America,2008,14371
+Taiwan,Asia,Mexico,North America,2008,5
+Taiwan,Asia,Brazil,South America,2008,0
+Taiwan,Asia,Argentina,South America,2008,0
+Taiwan,Asia,United Kingdom,Europe,2008,0
+Taiwan,Asia,Netherlands,Europe,2008,0
+Taiwan,Asia,Belgium,Europe,2008,1595
+Taiwan,Asia,France,Europe,2008,0
+Taiwan,Asia,Switzerland,Europe,2008,0
+Taiwan,Asia,Spain,Europe,2008,0
+Taiwan,Asia,Portugal,Europe,2008,0
+Taiwan,Asia,Germany,Europe,2008,84562
+Taiwan,Asia,Poland,Europe,2008,21137
+Taiwan,Asia,Austria,Europe,2008,0
+Taiwan,Asia,Hungary,Europe,2008,0
+Taiwan,Asia,Czech Republic,Europe,2008,119179
+Taiwan,Asia,Slovakia,Europe,2008,49847
+Taiwan,Asia,Italy,Europe,2008,0
+Taiwan,Asia,Croatia,Europe,2008,0
+Taiwan,Asia,Serbia,Europe,2008,0
+Taiwan,Asia,Bosnia,Europe,2008,0
+Taiwan,Asia,Greece,Europe,2008,0
+Taiwan,Asia,Bulgaria,Europe,2008,0
+Taiwan,Asia,Romania,Europe,2008,0
+Taiwan,Asia,Russia,Asia,2008,0
+Taiwan,Asia,Ukraine,Europe,2008,0
+Taiwan,Asia,Finland,Europe,2008,0
+Taiwan,Asia,Sweden,Europe,2008,0
+Taiwan,Asia,Norway,Europe,2008,62543
+Taiwan,Asia,Denmark,Europe,2008,0
+Taiwan,Asia,South Africa,Africa,2008,0
+Taiwan,Asia,Turkey,Asia,2008,0
+Taiwan,Asia,Israel,Asia,2008,0
+Taiwan,Asia,United Arab Emirates,Asia,2008,0
+Taiwan,Asia,Taiwan,Asia,2008,0
+Taiwan,Asia,South Korea,Asia,2008,0
+Taiwan,Asia,Japan,Asia,2008,0
+Taiwan,Asia,India,Asia,2008,0
+Taiwan,Asia,Pakistan,Asia,2008,12432
+Taiwan,Asia,Thailand,Asia,2008,0
+Taiwan,Asia,Malaysia,Asia,2008,0
+Taiwan,Asia,Singapore,Asia,2008,0
+Taiwan,Asia,Philippines,Asia,2008,8905
+Taiwan,Asia,Indonesia,Asia,2008,0
+Taiwan,Asia,Australia,Oceania,2008,8911
+Taiwan,Asia,Cyprus,Europe,2008,68110
+Taiwan,Asia,China,Asia,2008,0
+Taiwan,Asia,Ivory Coast,Africa,2008,0
+Taiwan,Asia,Congo,Africa,2008,0
+South Korea,Asia,United States,North America,2008,26455025
+South Korea,Asia,Canada,North America,2008,868016
+South Korea,Asia,Mexico,North America,2008,0
+South Korea,Asia,Brazil,South America,2008,0
+South Korea,Asia,Argentina,South America,2008,0
+South Korea,Asia,United Kingdom,Europe,2008,29922
+South Korea,Asia,Netherlands,Europe,2008,30132
+South Korea,Asia,Belgium,Europe,2008,2932
+South Korea,Asia,France,Europe,2008,0
+South Korea,Asia,Switzerland,Europe,2008,7
+South Korea,Asia,Spain,Europe,2008,17459
+South Korea,Asia,Portugal,Europe,2008,0
+South Korea,Asia,Germany,Europe,2008,137
+South Korea,Asia,Poland,Europe,2008,0
+South Korea,Asia,Austria,Europe,2008,0
+South Korea,Asia,Hungary,Europe,2008,0
+South Korea,Asia,Czech Republic,Europe,2008,0
+South Korea,Asia,Slovakia,Europe,2008,0
+South Korea,Asia,Italy,Europe,2008,0
+South Korea,Asia,Croatia,Europe,2008,0
+South Korea,Asia,Serbia,Europe,2008,0
+South Korea,Asia,Bosnia,Europe,2008,0
+South Korea,Asia,Greece,Europe,2008,0
+South Korea,Asia,Bulgaria,Europe,2008,39382
+South Korea,Asia,Romania,Europe,2008,0
+South Korea,Asia,Russia,Asia,2008,0
+South Korea,Asia,Ukraine,Europe,2008,0
+South Korea,Asia,Finland,Europe,2008,16270
+South Korea,Asia,Sweden,Europe,2008,10607
+South Korea,Asia,Norway,Europe,2008,0
+South Korea,Asia,Denmark,Europe,2008,0
+South Korea,Asia,South Africa,Africa,2008,0
+South Korea,Asia,Turkey,Asia,2008,17328782
+South Korea,Asia,Israel,Asia,2008,1209064
+South Korea,Asia,United Arab Emirates,Asia,2008,776
+South Korea,Asia,Taiwan,Asia,2008,124496
+South Korea,Asia,South Korea,Asia,2008,0
+South Korea,Asia,Japan,Asia,2008,168936
+South Korea,Asia,India,Asia,2008,0
+South Korea,Asia,Pakistan,Asia,2008,52286614
+South Korea,Asia,Thailand,Asia,2008,1860802
+South Korea,Asia,Malaysia,Asia,2008,2473011
+South Korea,Asia,Singapore,Asia,2008,597884
+South Korea,Asia,Philippines,Asia,2008,18885481
+South Korea,Asia,Indonesia,Asia,2008,6150412
+South Korea,Asia,Australia,Oceania,2008,770597
+South Korea,Asia,Cyprus,Europe,2008,3196
+South Korea,Asia,China,Asia,2008,1668
+South Korea,Asia,Ivory Coast,Africa,2008,0
+South Korea,Asia,Congo,Africa,2008,0
+Japan,Asia,United States,North America,2008,33197443
+Japan,Asia,Canada,North America,2008,6125030
+Japan,Asia,Mexico,North America,2008,0
+Japan,Asia,Brazil,South America,2008,0
+Japan,Asia,Argentina,South America,2008,0
+Japan,Asia,United Kingdom,Europe,2008,64059
+Japan,Asia,Netherlands,Europe,2008,0
+Japan,Asia,Belgium,Europe,2008,11416675
+Japan,Asia,France,Europe,2008,882189
+Japan,Asia,Switzerland,Europe,2008,1474
+Japan,Asia,Spain,Europe,2008,432828
+Japan,Asia,Portugal,Europe,2008,0
+Japan,Asia,Germany,Europe,2008,1059710
+Japan,Asia,Poland,Europe,2008,356323
+Japan,Asia,Austria,Europe,2008,118016
+Japan,Asia,Hungary,Europe,2008,35514
+Japan,Asia,Czech Republic,Europe,2008,149299
+Japan,Asia,Slovakia,Europe,2008,0
+Japan,Asia,Italy,Europe,2008,136808
+Japan,Asia,Croatia,Europe,2008,62713
+Japan,Asia,Serbia,Europe,2008,10184
+Japan,Asia,Bosnia,Europe,2008,0
+Japan,Asia,Greece,Europe,2008,165709
+Japan,Asia,Bulgaria,Europe,2008,17782
+Japan,Asia,Romania,Europe,2008,0
+Japan,Asia,Russia,Asia,2008,154337
+Japan,Asia,Ukraine,Europe,2008,114950
+Japan,Asia,Finland,Europe,2008,492020
+Japan,Asia,Sweden,Europe,2008,214071
+Japan,Asia,Norway,Europe,2008,52853
+Japan,Asia,Denmark,Europe,2008,252022
+Japan,Asia,South Africa,Africa,2008,0
+Japan,Asia,Turkey,Asia,2008,0
+Japan,Asia,Israel,Asia,2008,0
+Japan,Asia,United Arab Emirates,Asia,2008,15217
+Japan,Asia,Taiwan,Asia,2008,0
+Japan,Asia,South Korea,Asia,2008,20481
+Japan,Asia,Japan,Asia,2008,0
+Japan,Asia,India,Asia,2008,3668
+Japan,Asia,Pakistan,Asia,2008,0
+Japan,Asia,Thailand,Asia,2008,14728
+Japan,Asia,Malaysia,Asia,2008,10521
+Japan,Asia,Singapore,Asia,2008,19
+Japan,Asia,Philippines,Asia,2008,0
+Japan,Asia,Indonesia,Asia,2008,28528
+Japan,Asia,Australia,Oceania,2008,993749
+Japan,Asia,Cyprus,Europe,2008,388601
+Japan,Asia,China,Asia,2008,0
+Japan,Asia,Ivory Coast,Africa,2008,0
+Japan,Asia,Congo,Africa,2008,0
+India,Asia,United States,North America,2008,52771
+India,Asia,Canada,North America,2008,5889
+India,Asia,Mexico,North America,2008,0
+India,Asia,Brazil,South America,2008,0
+India,Asia,Argentina,South America,2008,0
+India,Asia,United Kingdom,Europe,2008,48946
+India,Asia,Netherlands,Europe,2008,0
+India,Asia,Belgium,Europe,2008,490464
+India,Asia,France,Europe,2008,0
+India,Asia,Switzerland,Europe,2008,0
+India,Asia,Spain,Europe,2008,0
+India,Asia,Portugal,Europe,2008,0
+India,Asia,Germany,Europe,2008,433048
+India,Asia,Poland,Europe,2008,0
+India,Asia,Austria,Europe,2008,0
+India,Asia,Hungary,Europe,2008,0
+India,Asia,Czech Republic,Europe,2008,0
+India,Asia,Slovakia,Europe,2008,0
+India,Asia,Italy,Europe,2008,310
+India,Asia,Croatia,Europe,2008,0
+India,Asia,Serbia,Europe,2008,0
+India,Asia,Bosnia,Europe,2008,0
+India,Asia,Greece,Europe,2008,0
+India,Asia,Bulgaria,Europe,2008,0
+India,Asia,Romania,Europe,2008,0
+India,Asia,Russia,Asia,2008,0
+India,Asia,Ukraine,Europe,2008,0
+India,Asia,Finland,Europe,2008,0
+India,Asia,Sweden,Europe,2008,0
+India,Asia,Norway,Europe,2008,0
+India,Asia,Denmark,Europe,2008,0
+India,Asia,South Africa,Africa,2008,869
+India,Asia,Turkey,Asia,2008,0
+India,Asia,Israel,Asia,2008,0
+India,Asia,United Arab Emirates,Asia,2008,12722
+India,Asia,Taiwan,Asia,2008,2389
+India,Asia,South Korea,Asia,2008,0
+India,Asia,Japan,Asia,2008,0
+India,Asia,India,Asia,2008,0
+India,Asia,Pakistan,Asia,2008,671
+India,Asia,Thailand,Asia,2008,876812
+India,Asia,Malaysia,Asia,2008,12731
+India,Asia,Singapore,Asia,2008,112532
+India,Asia,Philippines,Asia,2008,65690
+India,Asia,Indonesia,Asia,2008,0
+India,Asia,Australia,Oceania,2008,212498
+India,Asia,Cyprus,Europe,2008,0
+India,Asia,China,Asia,2008,14666
+India,Asia,Ivory Coast,Africa,2008,0
+India,Asia,Congo,Africa,2008,0
+Pakistan,Asia,United States,North America,2008,410906
+Pakistan,Asia,Canada,North America,2008,10708
+Pakistan,Asia,Mexico,North America,2008,0
+Pakistan,Asia,Brazil,South America,2008,0
+Pakistan,Asia,Argentina,South America,2008,0
+Pakistan,Asia,United Kingdom,Europe,2008,2182
+Pakistan,Asia,Netherlands,Europe,2008,0
+Pakistan,Asia,Belgium,Europe,2008,0
+Pakistan,Asia,France,Europe,2008,0
+Pakistan,Asia,Switzerland,Europe,2008,0
+Pakistan,Asia,Spain,Europe,2008,0
+Pakistan,Asia,Portugal,Europe,2008,0
+Pakistan,Asia,Germany,Europe,2008,0
+Pakistan,Asia,Poland,Europe,2008,0
+Pakistan,Asia,Austria,Europe,2008,0
+Pakistan,Asia,Hungary,Europe,2008,0
+Pakistan,Asia,Czech Republic,Europe,2008,0
+Pakistan,Asia,Slovakia,Europe,2008,0
+Pakistan,Asia,Italy,Europe,2008,0
+Pakistan,Asia,Croatia,Europe,2008,0
+Pakistan,Asia,Serbia,Europe,2008,0
+Pakistan,Asia,Bosnia,Europe,2008,0
+Pakistan,Asia,Greece,Europe,2008,0
+Pakistan,Asia,Bulgaria,Europe,2008,0
+Pakistan,Asia,Romania,Europe,2008,0
+Pakistan,Asia,Russia,Asia,2008,0
+Pakistan,Asia,Ukraine,Europe,2008,0
+Pakistan,Asia,Finland,Europe,2008,5763
+Pakistan,Asia,Sweden,Europe,2008,0
+Pakistan,Asia,Norway,Europe,2008,0
+Pakistan,Asia,Denmark,Europe,2008,2131
+Pakistan,Asia,South Africa,Africa,2008,0
+Pakistan,Asia,Turkey,Asia,2008,0
+Pakistan,Asia,Israel,Asia,2008,0
+Pakistan,Asia,United Arab Emirates,Asia,2008,529
+Pakistan,Asia,Taiwan,Asia,2008,0
+Pakistan,Asia,South Korea,Asia,2008,87
+Pakistan,Asia,Japan,Asia,2008,0
+Pakistan,Asia,India,Asia,2008,0
+Pakistan,Asia,Pakistan,Asia,2008,0
+Pakistan,Asia,Thailand,Asia,2008,0
+Pakistan,Asia,Malaysia,Asia,2008,0
+Pakistan,Asia,Singapore,Asia,2008,0
+Pakistan,Asia,Philippines,Asia,2008,11085
+Pakistan,Asia,Indonesia,Asia,2008,0
+Pakistan,Asia,Australia,Oceania,2008,0
+Pakistan,Asia,Cyprus,Europe,2008,0
+Pakistan,Asia,China,Asia,2008,0
+Pakistan,Asia,Ivory Coast,Africa,2008,0
+Pakistan,Asia,Congo,Africa,2008,0
+Thailand,Asia,United States,North America,2008,11835
+Thailand,Asia,Canada,North America,2008,0
+Thailand,Asia,Mexico,North America,2008,0
+Thailand,Asia,Brazil,South America,2008,0
+Thailand,Asia,Argentina,South America,2008,0
+Thailand,Asia,United Kingdom,Europe,2008,0
+Thailand,Asia,Netherlands,Europe,2008,0
+Thailand,Asia,Belgium,Europe,2008,0
+Thailand,Asia,France,Europe,2008,0
+Thailand,Asia,Switzerland,Europe,2008,197
+Thailand,Asia,Spain,Europe,2008,0
+Thailand,Asia,Portugal,Europe,2008,0
+Thailand,Asia,Germany,Europe,2008,18802
+Thailand,Asia,Poland,Europe,2008,7803
+Thailand,Asia,Austria,Europe,2008,0
+Thailand,Asia,Hungary,Europe,2008,0
+Thailand,Asia,Czech Republic,Europe,2008,0
+Thailand,Asia,Slovakia,Europe,2008,0
+Thailand,Asia,Italy,Europe,2008,0
+Thailand,Asia,Croatia,Europe,2008,0
+Thailand,Asia,Serbia,Europe,2008,0
+Thailand,Asia,Bosnia,Europe,2008,0
+Thailand,Asia,Greece,Europe,2008,0
+Thailand,Asia,Bulgaria,Europe,2008,0
+Thailand,Asia,Romania,Europe,2008,0
+Thailand,Asia,Russia,Asia,2008,0
+Thailand,Asia,Ukraine,Europe,2008,0
+Thailand,Asia,Finland,Europe,2008,0
+Thailand,Asia,Sweden,Europe,2008,0
+Thailand,Asia,Norway,Europe,2008,0
+Thailand,Asia,Denmark,Europe,2008,0
+Thailand,Asia,South Africa,Africa,2008,0
+Thailand,Asia,Turkey,Asia,2008,0
+Thailand,Asia,Israel,Asia,2008,0
+Thailand,Asia,United Arab Emirates,Asia,2008,0
+Thailand,Asia,Taiwan,Asia,2008,1
+Thailand,Asia,South Korea,Asia,2008,96920
+Thailand,Asia,Japan,Asia,2008,0
+Thailand,Asia,India,Asia,2008,0
+Thailand,Asia,Pakistan,Asia,2008,0
+Thailand,Asia,Thailand,Asia,2008,0
+Thailand,Asia,Malaysia,Asia,2008,37440
+Thailand,Asia,Singapore,Asia,2008,0
+Thailand,Asia,Philippines,Asia,2008,25350
+Thailand,Asia,Indonesia,Asia,2008,0
+Thailand,Asia,Australia,Oceania,2008,11339
+Thailand,Asia,Cyprus,Europe,2008,0
+Thailand,Asia,China,Asia,2008,106
+Thailand,Asia,Ivory Coast,Africa,2008,0
+Thailand,Asia,Congo,Africa,2008,0
+Malaysia,Asia,United States,North America,2008,0
+Malaysia,Asia,Canada,North America,2008,0
+Malaysia,Asia,Mexico,North America,2008,0
+Malaysia,Asia,Brazil,South America,2008,0
+Malaysia,Asia,Argentina,South America,2008,0
+Malaysia,Asia,United Kingdom,Europe,2008,0
+Malaysia,Asia,Netherlands,Europe,2008,0
+Malaysia,Asia,Belgium,Europe,2008,0
+Malaysia,Asia,France,Europe,2008,0
+Malaysia,Asia,Switzerland,Europe,2008,0
+Malaysia,Asia,Spain,Europe,2008,0
+Malaysia,Asia,Portugal,Europe,2008,0
+Malaysia,Asia,Germany,Europe,2008,0
+Malaysia,Asia,Poland,Europe,2008,0
+Malaysia,Asia,Austria,Europe,2008,0
+Malaysia,Asia,Hungary,Europe,2008,0
+Malaysia,Asia,Czech Republic,Europe,2008,0
+Malaysia,Asia,Slovakia,Europe,2008,0
+Malaysia,Asia,Italy,Europe,2008,0
+Malaysia,Asia,Croatia,Europe,2008,0
+Malaysia,Asia,Serbia,Europe,2008,0
+Malaysia,Asia,Bosnia,Europe,2008,0
+Malaysia,Asia,Greece,Europe,2008,0
+Malaysia,Asia,Bulgaria,Europe,2008,0
+Malaysia,Asia,Romania,Europe,2008,0
+Malaysia,Asia,Russia,Asia,2008,0
+Malaysia,Asia,Ukraine,Europe,2008,0
+Malaysia,Asia,Finland,Europe,2008,0
+Malaysia,Asia,Sweden,Europe,2008,0
+Malaysia,Asia,Norway,Europe,2008,0
+Malaysia,Asia,Denmark,Europe,2008,0
+Malaysia,Asia,South Africa,Africa,2008,0
+Malaysia,Asia,Turkey,Asia,2008,0
+Malaysia,Asia,Israel,Asia,2008,0
+Malaysia,Asia,United Arab Emirates,Asia,2008,0
+Malaysia,Asia,Taiwan,Asia,2008,0
+Malaysia,Asia,South Korea,Asia,2008,0
+Malaysia,Asia,Japan,Asia,2008,0
+Malaysia,Asia,India,Asia,2008,17422
+Malaysia,Asia,Pakistan,Asia,2008,0
+Malaysia,Asia,Thailand,Asia,2008,274381
+Malaysia,Asia,Malaysia,Asia,2008,0
+Malaysia,Asia,Singapore,Asia,2008,48697
+Malaysia,Asia,Philippines,Asia,2008,0
+Malaysia,Asia,Indonesia,Asia,2008,0
+Malaysia,Asia,Australia,Oceania,2008,106568
+Malaysia,Asia,Cyprus,Europe,2008,0
+Malaysia,Asia,China,Asia,2008,1854
+Malaysia,Asia,Ivory Coast,Africa,2008,0
+Malaysia,Asia,Congo,Africa,2008,0
+Singapore,Asia,United States,North America,2008,23169
+Singapore,Asia,Canada,North America,2008,0
+Singapore,Asia,Mexico,North America,2008,0
+Singapore,Asia,Brazil,South America,2008,0
+Singapore,Asia,Argentina,South America,2008,0
+Singapore,Asia,United Kingdom,Europe,2008,607
+Singapore,Asia,Netherlands,Europe,2008,0
+Singapore,Asia,Belgium,Europe,2008,370
+Singapore,Asia,France,Europe,2008,851
+Singapore,Asia,Switzerland,Europe,2008,0
+Singapore,Asia,Spain,Europe,2008,841466
+Singapore,Asia,Portugal,Europe,2008,0
+Singapore,Asia,Germany,Europe,2008,0
+Singapore,Asia,Poland,Europe,2008,165882
+Singapore,Asia,Austria,Europe,2008,0
+Singapore,Asia,Hungary,Europe,2008,0
+Singapore,Asia,Czech Republic,Europe,2008,0
+Singapore,Asia,Slovakia,Europe,2008,0
+Singapore,Asia,Italy,Europe,2008,0
+Singapore,Asia,Croatia,Europe,2008,0
+Singapore,Asia,Serbia,Europe,2008,0
+Singapore,Asia,Bosnia,Europe,2008,0
+Singapore,Asia,Greece,Europe,2008,0
+Singapore,Asia,Bulgaria,Europe,2008,0
+Singapore,Asia,Romania,Europe,2008,0
+Singapore,Asia,Russia,Asia,2008,0
+Singapore,Asia,Ukraine,Europe,2008,0
+Singapore,Asia,Finland,Europe,2008,0
+Singapore,Asia,Sweden,Europe,2008,0
+Singapore,Asia,Norway,Europe,2008,0
+Singapore,Asia,Denmark,Europe,2008,0
+Singapore,Asia,South Africa,Africa,2008,0
+Singapore,Asia,Turkey,Asia,2008,0
+Singapore,Asia,Israel,Asia,2008,0
+Singapore,Asia,United Arab Emirates,Asia,2008,787346
+Singapore,Asia,Taiwan,Asia,2008,21765
+Singapore,Asia,South Korea,Asia,2008,0
+Singapore,Asia,Japan,Asia,2008,117239
+Singapore,Asia,India,Asia,2008,3169
+Singapore,Asia,Pakistan,Asia,2008,0
+Singapore,Asia,Thailand,Asia,2008,42663
+Singapore,Asia,Malaysia,Asia,2008,263053
+Singapore,Asia,Singapore,Asia,2008,0
+Singapore,Asia,Philippines,Asia,2008,209979
+Singapore,Asia,Indonesia,Asia,2008,96848
+Singapore,Asia,Australia,Oceania,2008,15379
+Singapore,Asia,Cyprus,Europe,2008,0
+Singapore,Asia,China,Asia,2008,0
+Singapore,Asia,Ivory Coast,Africa,2008,0
+Singapore,Asia,Congo,Africa,2008,0
+Philippines,Asia,United States,North America,2008,60772142
+Philippines,Asia,Canada,North America,2008,157
+Philippines,Asia,Mexico,North America,2008,0
+Philippines,Asia,Brazil,South America,2008,0
+Philippines,Asia,Argentina,South America,2008,0
+Philippines,Asia,United Kingdom,Europe,2008,0
+Philippines,Asia,Netherlands,Europe,2008,0
+Philippines,Asia,Belgium,Europe,2008,0
+Philippines,Asia,France,Europe,2008,0
+Philippines,Asia,Switzerland,Europe,2008,0
+Philippines,Asia,Spain,Europe,2008,138042
+Philippines,Asia,Portugal,Europe,2008,0
+Philippines,Asia,Germany,Europe,2008,106849
+Philippines,Asia,Poland,Europe,2008,0
+Philippines,Asia,Austria,Europe,2008,0
+Philippines,Asia,Hungary,Europe,2008,0
+Philippines,Asia,Czech Republic,Europe,2008,0
+Philippines,Asia,Slovakia,Europe,2008,0
+Philippines,Asia,Italy,Europe,2008,93372
+Philippines,Asia,Croatia,Europe,2008,0
+Philippines,Asia,Serbia,Europe,2008,0
+Philippines,Asia,Bosnia,Europe,2008,0
+Philippines,Asia,Greece,Europe,2008,0
+Philippines,Asia,Bulgaria,Europe,2008,0
+Philippines,Asia,Romania,Europe,2008,0
+Philippines,Asia,Russia,Asia,2008,0
+Philippines,Asia,Ukraine,Europe,2008,0
+Philippines,Asia,Finland,Europe,2008,0
+Philippines,Asia,Sweden,Europe,2008,0
+Philippines,Asia,Norway,Europe,2008,0
+Philippines,Asia,Denmark,Europe,2008,0
+Philippines,Asia,South Africa,Africa,2008,0
+Philippines,Asia,Turkey,Asia,2008,0
+Philippines,Asia,Israel,Asia,2008,0
+Philippines,Asia,United Arab Emirates,Asia,2008,0
+Philippines,Asia,Taiwan,Asia,2008,0
+Philippines,Asia,South Korea,Asia,2008,0
+Philippines,Asia,Japan,Asia,2008,0
+Philippines,Asia,India,Asia,2008,0
+Philippines,Asia,Pakistan,Asia,2008,543247
+Philippines,Asia,Thailand,Asia,2008,13092856
+Philippines,Asia,Malaysia,Asia,2008,17693
+Philippines,Asia,Singapore,Asia,2008,0
+Philippines,Asia,Philippines,Asia,2008,0
+Philippines,Asia,Indonesia,Asia,2008,0
+Philippines,Asia,Australia,Oceania,2008,4053299
+Philippines,Asia,Cyprus,Europe,2008,0
+Philippines,Asia,China,Asia,2008,0
+Philippines,Asia,Ivory Coast,Africa,2008,0
+Philippines,Asia,Congo,Africa,2008,0
+Indonesia,Asia,United States,North America,2008,0
+Indonesia,Asia,Canada,North America,2008,0
+Indonesia,Asia,Mexico,North America,2008,0
+Indonesia,Asia,Brazil,South America,2008,0
+Indonesia,Asia,Argentina,South America,2008,0
+Indonesia,Asia,United Kingdom,Europe,2008,0
+Indonesia,Asia,Netherlands,Europe,2008,0
+Indonesia,Asia,Belgium,Europe,2008,0
+Indonesia,Asia,France,Europe,2008,0
+Indonesia,Asia,Switzerland,Europe,2008,0
+Indonesia,Asia,Spain,Europe,2008,0
+Indonesia,Asia,Portugal,Europe,2008,0
+Indonesia,Asia,Germany,Europe,2008,0
+Indonesia,Asia,Poland,Europe,2008,0
+Indonesia,Asia,Austria,Europe,2008,0
+Indonesia,Asia,Hungary,Europe,2008,0
+Indonesia,Asia,Czech Republic,Europe,2008,0
+Indonesia,Asia,Slovakia,Europe,2008,0
+Indonesia,Asia,Italy,Europe,2008,0
+Indonesia,Asia,Croatia,Europe,2008,0
+Indonesia,Asia,Serbia,Europe,2008,0
+Indonesia,Asia,Bosnia,Europe,2008,0
+Indonesia,Asia,Greece,Europe,2008,0
+Indonesia,Asia,Bulgaria,Europe,2008,0
+Indonesia,Asia,Romania,Europe,2008,0
+Indonesia,Asia,Russia,Asia,2008,0
+Indonesia,Asia,Ukraine,Europe,2008,0
+Indonesia,Asia,Finland,Europe,2008,0
+Indonesia,Asia,Sweden,Europe,2008,0
+Indonesia,Asia,Norway,Europe,2008,0
+Indonesia,Asia,Denmark,Europe,2008,0
+Indonesia,Asia,South Africa,Africa,2008,3580
+Indonesia,Asia,Turkey,Asia,2008,0
+Indonesia,Asia,Israel,Asia,2008,0
+Indonesia,Asia,United Arab Emirates,Asia,2008,0
+Indonesia,Asia,Taiwan,Asia,2008,0
+Indonesia,Asia,South Korea,Asia,2008,0
+Indonesia,Asia,Japan,Asia,2008,0
+Indonesia,Asia,India,Asia,2008,0
+Indonesia,Asia,Pakistan,Asia,2008,0
+Indonesia,Asia,Thailand,Asia,2008,3999722
+Indonesia,Asia,Malaysia,Asia,2008,37521
+Indonesia,Asia,Singapore,Asia,2008,1961
+Indonesia,Asia,Philippines,Asia,2008,0
+Indonesia,Asia,Indonesia,Asia,2008,0
+Indonesia,Asia,Australia,Oceania,2008,0
+Indonesia,Asia,Cyprus,Europe,2008,0
+Indonesia,Asia,China,Asia,2008,0
+Indonesia,Asia,Ivory Coast,Africa,2008,0
+Indonesia,Asia,Congo,Africa,2008,0
+Australia,Oceania,United States,North America,2008,1390603
+Australia,Oceania,Canada,North America,2008,24389
+Australia,Oceania,Mexico,North America,2008,875180
+Australia,Oceania,Brazil,South America,2008,0
+Australia,Oceania,Argentina,South America,2008,186
+Australia,Oceania,United Kingdom,Europe,2008,128208
+Australia,Oceania,Netherlands,Europe,2008,0
+Australia,Oceania,Belgium,Europe,2008,1360487
+Australia,Oceania,France,Europe,2008,249206
+Australia,Oceania,Switzerland,Europe,2008,131090
+Australia,Oceania,Spain,Europe,2008,74710
+Australia,Oceania,Portugal,Europe,2008,0
+Australia,Oceania,Germany,Europe,2008,107309
+Australia,Oceania,Poland,Europe,2008,955
+Australia,Oceania,Austria,Europe,2008,108369
+Australia,Oceania,Hungary,Europe,2008,0
+Australia,Oceania,Czech Republic,Europe,2008,0
+Australia,Oceania,Slovakia,Europe,2008,0
+Australia,Oceania,Italy,Europe,2008,55549
+Australia,Oceania,Croatia,Europe,2008,6651
+Australia,Oceania,Serbia,Europe,2008,4393
+Australia,Oceania,Bosnia,Europe,2008,0
+Australia,Oceania,Greece,Europe,2008,0
+Australia,Oceania,Bulgaria,Europe,2008,0
+Australia,Oceania,Romania,Europe,2008,0
+Australia,Oceania,Russia,Asia,2008,19953
+Australia,Oceania,Ukraine,Europe,2008,0
+Australia,Oceania,Finland,Europe,2008,26244
+Australia,Oceania,Sweden,Europe,2008,106558
+Australia,Oceania,Norway,Europe,2008,240916
+Australia,Oceania,Denmark,Europe,2008,75978
+Australia,Oceania,South Africa,Africa,2008,39994
+Australia,Oceania,Turkey,Asia,2008,0
+Australia,Oceania,Israel,Asia,2008,6328
+Australia,Oceania,United Arab Emirates,Asia,2008,0
+Australia,Oceania,Taiwan,Asia,2008,0
+Australia,Oceania,South Korea,Asia,2008,241862
+Australia,Oceania,Japan,Asia,2008,1170486
+Australia,Oceania,India,Asia,2008,29111
+Australia,Oceania,Pakistan,Asia,2008,6121
+Australia,Oceania,Thailand,Asia,2008,469827
+Australia,Oceania,Malaysia,Asia,2008,159630
+Australia,Oceania,Singapore,Asia,2008,75728
+Australia,Oceania,Philippines,Asia,2008,85144
+Australia,Oceania,Indonesia,Asia,2008,221080
+Australia,Oceania,Australia,Oceania,2008,3746749
+Australia,Oceania,Cyprus,Europe,2008,257152
+Australia,Oceania,China,Asia,2008,15758
+Australia,Oceania,Ivory Coast,Africa,2008,0
+Australia,Oceania,Congo,Africa,2008,0
+Cyprus,Europe,United States,North America,2008,116002
+Cyprus,Europe,Canada,North America,2008,0
+Cyprus,Europe,Mexico,North America,2008,0
+Cyprus,Europe,Brazil,South America,2008,0
+Cyprus,Europe,Argentina,South America,2008,0
+Cyprus,Europe,United Kingdom,Europe,2008,913850
+Cyprus,Europe,Netherlands,Europe,2008,0
+Cyprus,Europe,Belgium,Europe,2008,0
+Cyprus,Europe,France,Europe,2008,136910
+Cyprus,Europe,Switzerland,Europe,2008,0
+Cyprus,Europe,Spain,Europe,2008,1552
+Cyprus,Europe,Portugal,Europe,2008,84031
+Cyprus,Europe,Germany,Europe,2008,160802
+Cyprus,Europe,Poland,Europe,2008,0
+Cyprus,Europe,Austria,Europe,2008,0
+Cyprus,Europe,Hungary,Europe,2008,0
+Cyprus,Europe,Czech Republic,Europe,2008,160786
+Cyprus,Europe,Slovakia,Europe,2008,0
+Cyprus,Europe,Italy,Europe,2008,2397
+Cyprus,Europe,Croatia,Europe,2008,81624
+Cyprus,Europe,Serbia,Europe,2008,177218
+Cyprus,Europe,Bosnia,Europe,2008,100704
+Cyprus,Europe,Greece,Europe,2008,85519
+Cyprus,Europe,Bulgaria,Europe,2008,0
+Cyprus,Europe,Romania,Europe,2008,432352
+Cyprus,Europe,Russia,Asia,2008,27081
+Cyprus,Europe,Ukraine,Europe,2008,45122
+Cyprus,Europe,Finland,Europe,2008,604767
+Cyprus,Europe,Sweden,Europe,2008,0
+Cyprus,Europe,Norway,Europe,2008,26990
+Cyprus,Europe,Denmark,Europe,2008,0
+Cyprus,Europe,South Africa,Africa,2008,0
+Cyprus,Europe,Turkey,Asia,2008,1049482
+Cyprus,Europe,Israel,Asia,2008,10386
+Cyprus,Europe,United Arab Emirates,Asia,2008,238727
+Cyprus,Europe,Taiwan,Asia,2008,0
+Cyprus,Europe,South Korea,Asia,2008,0
+Cyprus,Europe,Japan,Asia,2008,0
+Cyprus,Europe,India,Asia,2008,384102
+Cyprus,Europe,Pakistan,Asia,2008,31017
+Cyprus,Europe,Thailand,Asia,2008,4636
+Cyprus,Europe,Malaysia,Asia,2008,0
+Cyprus,Europe,Singapore,Asia,2008,0
+Cyprus,Europe,Philippines,Asia,2008,0
+Cyprus,Europe,Indonesia,Asia,2008,0
+Cyprus,Europe,Australia,Oceania,2008,86473
+Cyprus,Europe,Cyprus,Europe,2008,0
+Cyprus,Europe,China,Asia,2008,30
+Cyprus,Europe,Ivory Coast,Africa,2008,0
+Cyprus,Europe,Congo,Africa,2008,0
+China,Asia,United States,North America,2008,4112344
+China,Asia,Canada,North America,2008,1022899
+China,Asia,Mexico,North America,2008,114032
+China,Asia,Brazil,South America,2008,476080
+China,Asia,Argentina,South America,2008,248791
+China,Asia,United Kingdom,Europe,2008,1519813
+China,Asia,Netherlands,Europe,2008,0
+China,Asia,Belgium,Europe,2008,51942
+China,Asia,France,Europe,2008,398423
+China,Asia,Switzerland,Europe,2008,19926
+China,Asia,Spain,Europe,2008,1546
+China,Asia,Portugal,Europe,2008,0
+China,Asia,Germany,Europe,2008,543918
+China,Asia,Poland,Europe,2008,39463
+China,Asia,Austria,Europe,2008,162705
+China,Asia,Hungary,Europe,2008,0
+China,Asia,Czech Republic,Europe,2008,21043
+China,Asia,Slovakia,Europe,2008,56856
+China,Asia,Italy,Europe,2008,80416
+China,Asia,Croatia,Europe,2008,8021
+China,Asia,Serbia,Europe,2008,0
+China,Asia,Bosnia,Europe,2008,0
+China,Asia,Greece,Europe,2008,23970
+China,Asia,Bulgaria,Europe,2008,0
+China,Asia,Romania,Europe,2008,0
+China,Asia,Russia,Asia,2008,0
+China,Asia,Ukraine,Europe,2008,0
+China,Asia,Finland,Europe,2008,43753
+China,Asia,Sweden,Europe,2008,0
+China,Asia,Norway,Europe,2008,39021
+China,Asia,Denmark,Europe,2008,48
+China,Asia,South Africa,Africa,2008,0
+China,Asia,Turkey,Asia,2008,954
+China,Asia,Israel,Asia,2008,0
+China,Asia,United Arab Emirates,Asia,2008,7820
+China,Asia,Taiwan,Asia,2008,0
+China,Asia,South Korea,Asia,2008,270550
+China,Asia,Japan,Asia,2008,70337
+China,Asia,India,Asia,2008,11201
+China,Asia,Pakistan,Asia,2008,953197
+China,Asia,Thailand,Asia,2008,584997
+China,Asia,Malaysia,Asia,2008,10672
+China,Asia,Singapore,Asia,2008,1820558
+China,Asia,Philippines,Asia,2008,1475539
+China,Asia,Indonesia,Asia,2008,50
+China,Asia,Australia,Oceania,2008,185144
+China,Asia,Cyprus,Europe,2008,31240
+China,Asia,China,Asia,2008,0
+China,Asia,Ivory Coast,Africa,2008,0
+China,Asia,Congo,Africa,2008,0
+Ivory Coast,Africa,United States,North America,2008,0
+Ivory Coast,Africa,Canada,North America,2008,0
+Ivory Coast,Africa,Mexico,North America,2008,0
+Ivory Coast,Africa,Brazil,South America,2008,0
+Ivory Coast,Africa,Argentina,South America,2008,0
+Ivory Coast,Africa,United Kingdom,Europe,2008,0
+Ivory Coast,Africa,Netherlands,Europe,2008,0
+Ivory Coast,Africa,Belgium,Europe,2008,0
+Ivory Coast,Africa,France,Europe,2008,0
+Ivory Coast,Africa,Switzerland,Europe,2008,0
+Ivory Coast,Africa,Spain,Europe,2008,0
+Ivory Coast,Africa,Portugal,Europe,2008,0
+Ivory Coast,Africa,Germany,Europe,2008,0
+Ivory Coast,Africa,Poland,Europe,2008,0
+Ivory Coast,Africa,Austria,Europe,2008,0
+Ivory Coast,Africa,Hungary,Europe,2008,0
+Ivory Coast,Africa,Czech Republic,Europe,2008,0
+Ivory Coast,Africa,Slovakia,Europe,2008,0
+Ivory Coast,Africa,Italy,Europe,2008,0
+Ivory Coast,Africa,Croatia,Europe,2008,0
+Ivory Coast,Africa,Serbia,Europe,2008,0
+Ivory Coast,Africa,Bosnia,Europe,2008,0
+Ivory Coast,Africa,Greece,Europe,2008,0
+Ivory Coast,Africa,Bulgaria,Europe,2008,0
+Ivory Coast,Africa,Romania,Europe,2008,0
+Ivory Coast,Africa,Russia,Asia,2008,0
+Ivory Coast,Africa,Ukraine,Europe,2008,0
+Ivory Coast,Africa,Finland,Europe,2008,0
+Ivory Coast,Africa,Sweden,Europe,2008,0
+Ivory Coast,Africa,Norway,Europe,2008,0
+Ivory Coast,Africa,Denmark,Europe,2008,0
+Ivory Coast,Africa,South Africa,Africa,2008,0
+Ivory Coast,Africa,Turkey,Asia,2008,0
+Ivory Coast,Africa,Israel,Asia,2008,0
+Ivory Coast,Africa,United Arab Emirates,Asia,2008,0
+Ivory Coast,Africa,Taiwan,Asia,2008,0
+Ivory Coast,Africa,South Korea,Asia,2008,0
+Ivory Coast,Africa,Japan,Asia,2008,0
+Ivory Coast,Africa,India,Asia,2008,0
+Ivory Coast,Africa,Pakistan,Asia,2008,0
+Ivory Coast,Africa,Thailand,Asia,2008,0
+Ivory Coast,Africa,Malaysia,Asia,2008,0
+Ivory Coast,Africa,Singapore,Asia,2008,0
+Ivory Coast,Africa,Philippines,Asia,2008,0
+Ivory Coast,Africa,Indonesia,Asia,2008,0
+Ivory Coast,Africa,Australia,Oceania,2008,0
+Ivory Coast,Africa,Cyprus,Europe,2008,0
+Ivory Coast,Africa,China,Asia,2008,0
+Ivory Coast,Africa,Ivory Coast,Africa,2008,0
+Ivory Coast,Africa,Congo,Africa,2008,0
+Congo,Africa,United States,North America,2008,0
+Congo,Africa,Canada,North America,2008,0
+Congo,Africa,Mexico,North America,2008,0
+Congo,Africa,Brazil,South America,2008,0
+Congo,Africa,Argentina,South America,2008,0
+Congo,Africa,United Kingdom,Europe,2008,0
+Congo,Africa,Netherlands,Europe,2008,0
+Congo,Africa,Belgium,Europe,2008,0
+Congo,Africa,France,Europe,2008,0
+Congo,Africa,Switzerland,Europe,2008,0
+Congo,Africa,Spain,Europe,2008,0
+Congo,Africa,Portugal,Europe,2008,0
+Congo,Africa,Germany,Europe,2008,0
+Congo,Africa,Poland,Europe,2008,0
+Congo,Africa,Austria,Europe,2008,0
+Congo,Africa,Hungary,Europe,2008,0
+Congo,Africa,Czech Republic,Europe,2008,0
+Congo,Africa,Slovakia,Europe,2008,0
+Congo,Africa,Italy,Europe,2008,0
+Congo,Africa,Croatia,Europe,2008,0
+Congo,Africa,Serbia,Europe,2008,0
+Congo,Africa,Bosnia,Europe,2008,0
+Congo,Africa,Greece,Europe,2008,0
+Congo,Africa,Bulgaria,Europe,2008,0
+Congo,Africa,Romania,Europe,2008,0
+Congo,Africa,Russia,Asia,2008,0
+Congo,Africa,Ukraine,Europe,2008,0
+Congo,Africa,Finland,Europe,2008,0
+Congo,Africa,Sweden,Europe,2008,0
+Congo,Africa,Norway,Europe,2008,0
+Congo,Africa,Denmark,Europe,2008,0
+Congo,Africa,South Africa,Africa,2008,0
+Congo,Africa,Turkey,Asia,2008,0
+Congo,Africa,Israel,Asia,2008,0
+Congo,Africa,United Arab Emirates,Asia,2008,0
+Congo,Africa,Taiwan,Asia,2008,0
+Congo,Africa,South Korea,Asia,2008,0
+Congo,Africa,Japan,Asia,2008,0
+Congo,Africa,India,Asia,2008,0
+Congo,Africa,Pakistan,Asia,2008,0
+Congo,Africa,Thailand,Asia,2008,0
+Congo,Africa,Malaysia,Asia,2008,0
+Congo,Africa,Singapore,Asia,2008,0
+Congo,Africa,Philippines,Asia,2008,0
+Congo,Africa,Indonesia,Asia,2008,0
+Congo,Africa,Australia,Oceania,2008,0
+Congo,Africa,Cyprus,Europe,2008,0
+Congo,Africa,China,Asia,2008,0
+Congo,Africa,Ivory Coast,Africa,2008,0
+Congo,Africa,Congo,Africa,2008,0

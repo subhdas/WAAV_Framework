@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,2003,0
+United States,North America,Canada,North America,2003,37452442
+United States,North America,Mexico,North America,2003,3397104
+United States,North America,Brazil,South America,2003,1742902
+United States,North America,Argentina,South America,2003,1211061
+United States,North America,United Kingdom,Europe,2003,12494604
+United States,North America,Netherlands,Europe,2003,12204032
+United States,North America,Belgium,Europe,2003,7943493
+United States,North America,France,Europe,2003,4555693
+United States,North America,Switzerland,Europe,2003,1262583
+United States,North America,Spain,Europe,2003,3504922
+United States,North America,Portugal,Europe,2003,5221921
+United States,North America,Germany,Europe,2003,11861748
+United States,North America,Poland,Europe,2003,158682
+United States,North America,Austria,Europe,2003,529157
+United States,North America,Hungary,Europe,2003,237048
+United States,North America,Czech Republic,Europe,2003,1129627
+United States,North America,Slovakia,Europe,2003,113369
+United States,North America,Italy,Europe,2003,10482584
+United States,North America,Croatia,Europe,2003,47916
+United States,North America,Serbia,Europe,2003,6755
+United States,North America,Bosnia,Europe,2003,86465
+United States,North America,Greece,Europe,2003,794576
+United States,North America,Bulgaria,Europe,2003,416264
+United States,North America,Romania,Europe,2003,0
+United States,North America,Russia,Asia,2003,175878
+United States,North America,Ukraine,Europe,2003,63693
+United States,North America,Finland,Europe,2003,1238388
+United States,North America,Sweden,Europe,2003,1676421
+United States,North America,Norway,Europe,2003,4899096
+United States,North America,Denmark,Europe,2003,1922379
+United States,North America,South Africa,Africa,2003,1338989
+United States,North America,Turkey,Asia,2003,801247
+United States,North America,Israel,Asia,2003,15544611
+United States,North America,United Arab Emirates,Asia,2003,44263421
+United States,North America,Taiwan,Asia,2003,1360257
+United States,North America,South Korea,Asia,2003,2012162
+United States,North America,Japan,Asia,2003,8674727
+United States,North America,India,Asia,2003,4291
+United States,North America,Pakistan,Asia,2003,54894
+United States,North America,Thailand,Asia,2003,4449005
+United States,North America,Malaysia,Asia,2003,1171626
+United States,North America,Singapore,Asia,2003,1238098
+United States,North America,Philippines,Asia,2003,1966336
+United States,North America,Indonesia,Asia,2003,70350
+United States,North America,Australia,Oceania,2003,29399478
+United States,North America,Cyprus,Europe,2003,48424
+United States,North America,China,Asia,2003,162739
+United States,North America,Ivory Coast,Africa,2003,0
+United States,North America,Congo,Africa,2003,0
+Canada,North America,United States,North America,2003,44295104
+Canada,North America,Canada,North America,2003,207714
+Canada,North America,Mexico,North America,2003,172260
+Canada,North America,Brazil,South America,2003,411166
+Canada,North America,Argentina,South America,2003,1410
+Canada,North America,United Kingdom,Europe,2003,311950
+Canada,North America,Netherlands,Europe,2003,854976
+Canada,North America,Belgium,Europe,2003,3490975
+Canada,North America,France,Europe,2003,1080887
+Canada,North America,Switzerland,Europe,2003,97052
+Canada,North America,Spain,Europe,2003,56699
+Canada,North America,Portugal,Europe,2003,175163
+Canada,North America,Germany,Europe,2003,392646
+Canada,North America,Poland,Europe,2003,42393
+Canada,North America,Austria,Europe,2003,7299
+Canada,North America,Hungary,Europe,2003,6267
+Canada,North America,Czech Republic,Europe,2003,58437
+Canada,North America,Slovakia,Europe,2003,1435
+Canada,North America,Italy,Europe,2003,376379
+Canada,North America,Croatia,Europe,2003,0
+Canada,North America,Serbia,Europe,2003,0
+Canada,North America,Bosnia,Europe,2003,0
+Canada,North America,Greece,Europe,2003,32840
+Canada,North America,Bulgaria,Europe,2003,0
+Canada,North America,Romania,Europe,2003,20693
+Canada,North America,Russia,Asia,2003,164
+Canada,North America,Ukraine,Europe,2003,0
+Canada,North America,Finland,Europe,2003,14274
+Canada,North America,Sweden,Europe,2003,112056
+Canada,North America,Norway,Europe,2003,919872
+Canada,North America,Denmark,Europe,2003,1241167
+Canada,North America,South Africa,Africa,2003,0
+Canada,North America,Turkey,Asia,2003,60610
+Canada,North America,Israel,Asia,2003,101044
+Canada,North America,United Arab Emirates,Asia,2003,25840
+Canada,North America,Taiwan,Asia,2003,0
+Canada,North America,South Korea,Asia,2003,47073
+Canada,North America,Japan,Asia,2003,40197
+Canada,North America,India,Asia,2003,5604
+Canada,North America,Pakistan,Asia,2003,0
+Canada,North America,Thailand,Asia,2003,15176
+Canada,North America,Malaysia,Asia,2003,0
+Canada,North America,Singapore,Asia,2003,181287
+Canada,North America,Philippines,Asia,2003,81124
+Canada,North America,Indonesia,Asia,2003,0
+Canada,North America,Australia,Oceania,2003,220748
+Canada,North America,Cyprus,Europe,2003,0
+Canada,North America,China,Asia,2003,1637
+Canada,North America,Ivory Coast,Africa,2003,0
+Canada,North America,Congo,Africa,2003,0
+Mexico,North America,United States,North America,2003,2166682
+Mexico,North America,Canada,North America,2003,23713
+Mexico,North America,Mexico,North America,2003,0
+Mexico,North America,Brazil,South America,2003,0
+Mexico,North America,Argentina,South America,2003,0
+Mexico,North America,United Kingdom,Europe,2003,0
+Mexico,North America,Netherlands,Europe,2003,0
+Mexico,North America,Belgium,Europe,2003,0
+Mexico,North America,France,Europe,2003,0
+Mexico,North America,Switzerland,Europe,2003,0
+Mexico,North America,Spain,Europe,2003,1091
+Mexico,North America,Portugal,Europe,2003,0
+Mexico,North America,Germany,Europe,2003,143525
+Mexico,North America,Poland,Europe,2003,0
+Mexico,North America,Austria,Europe,2003,0
+Mexico,North America,Hungary,Europe,2003,0
+Mexico,North America,Czech Republic,Europe,2003,8539
+Mexico,North America,Slovakia,Europe,2003,5700
+Mexico,North America,Italy,Europe,2003,0
+Mexico,North America,Croatia,Europe,2003,0
+Mexico,North America,Serbia,Europe,2003,0
+Mexico,North America,Bosnia,Europe,2003,0
+Mexico,North America,Greece,Europe,2003,0
+Mexico,North America,Bulgaria,Europe,2003,0
+Mexico,North America,Romania,Europe,2003,0
+Mexico,North America,Russia,Asia,2003,0
+Mexico,North America,Ukraine,Europe,2003,0
+Mexico,North America,Finland,Europe,2003,1837
+Mexico,North America,Sweden,Europe,2003,0
+Mexico,North America,Norway,Europe,2003,0
+Mexico,North America,Denmark,Europe,2003,0
+Mexico,North America,South Africa,Africa,2003,0
+Mexico,North America,Turkey,Asia,2003,0
+Mexico,North America,Israel,Asia,2003,0
+Mexico,North America,United Arab Emirates,Asia,2003,0
+Mexico,North America,Taiwan,Asia,2003,0
+Mexico,North America,South Korea,Asia,2003,0
+Mexico,North America,Japan,Asia,2003,0
+Mexico,North America,India,Asia,2003,0
+Mexico,North America,Pakistan,Asia,2003,0
+Mexico,North America,Thailand,Asia,2003,0
+Mexico,North America,Malaysia,Asia,2003,0
+Mexico,North America,Singapore,Asia,2003,0
+Mexico,North America,Philippines,Asia,2003,0
+Mexico,North America,Indonesia,Asia,2003,0
+Mexico,North America,Australia,Oceania,2003,0
+Mexico,North America,Cyprus,Europe,2003,0
+Mexico,North America,China,Asia,2003,0
+Mexico,North America,Ivory Coast,Africa,2003,0
+Mexico,North America,Congo,Africa,2003,0
+Brazil,South America,United States,North America,2003,56133263
+Brazil,South America,Canada,North America,2003,339633
+Brazil,South America,Mexico,North America,2003,267551
+Brazil,South America,Brazil,South America,2003,0
+Brazil,South America,Argentina,South America,2003,3763917
+Brazil,South America,United Kingdom,Europe,2003,1321045
+Brazil,South America,Netherlands,Europe,2003,364033
+Brazil,South America,Belgium,Europe,2003,1164557
+Brazil,South America,France,Europe,2003,380317
+Brazil,South America,Switzerland,Europe,2003,550035
+Brazil,South America,Spain,Europe,2003,974803
+Brazil,South America,Portugal,Europe,2003,265155
+Brazil,South America,Germany,Europe,2003,4405676
+Brazil,South America,Poland,Europe,2003,0
+Brazil,South America,Austria,Europe,2003,11890
+Brazil,South America,Hungary,Europe,2003,0
+Brazil,South America,Czech Republic,Europe,2003,47756
+Brazil,South America,Slovakia,Europe,2003,28763
+Brazil,South America,Italy,Europe,2003,184751
+Brazil,South America,Croatia,Europe,2003,0
+Brazil,South America,Serbia,Europe,2003,0
+Brazil,South America,Bosnia,Europe,2003,0
+Brazil,South America,Greece,Europe,2003,27808
+Brazil,South America,Bulgaria,Europe,2003,0
+Brazil,South America,Romania,Europe,2003,0
+Brazil,South America,Russia,Asia,2003,7102
+Brazil,South America,Ukraine,Europe,2003,0
+Brazil,South America,Finland,Europe,2003,218055
+Brazil,South America,Sweden,Europe,2003,3710
+Brazil,South America,Norway,Europe,2003,553377
+Brazil,South America,Denmark,Europe,2003,0
+Brazil,South America,South Africa,Africa,2003,407800
+Brazil,South America,Turkey,Asia,2003,1989
+Brazil,South America,Israel,Asia,2003,86521
+Brazil,South America,United Arab Emirates,Asia,2003,1367204
+Brazil,South America,Taiwan,Asia,2003,0
+Brazil,South America,South Korea,Asia,2003,0
+Brazil,South America,Japan,Asia,2003,0
+Brazil,South America,India,Asia,2003,10805
+Brazil,South America,Pakistan,Asia,2003,10374
+Brazil,South America,Thailand,Asia,2003,440910
+Brazil,South America,Malaysia,Asia,2003,366474
+Brazil,South America,Singapore,Asia,2003,2363193
+Brazil,South America,Philippines,Asia,2003,723574
+Brazil,South America,Indonesia,Asia,2003,1525617
+Brazil,South America,Australia,Oceania,2003,398618
+Brazil,South America,Cyprus,Europe,2003,807
+Brazil,South America,China,Asia,2003,0
+Brazil,South America,Ivory Coast,Africa,2003,0
+Brazil,South America,Congo,Africa,2003,0
+Argentina,South America,United States,North America,2003,5858890
+Argentina,South America,Canada,North America,2003,14621
+Argentina,South America,Mexico,North America,2003,0
+Argentina,South America,Brazil,South America,2003,0
+Argentina,South America,Argentina,South America,2003,0
+Argentina,South America,United Kingdom,Europe,2003,0
+Argentina,South America,Netherlands,Europe,2003,0
+Argentina,South America,Belgium,Europe,2003,0
+Argentina,South America,France,Europe,2003,0
+Argentina,South America,Switzerland,Europe,2003,3829
+Argentina,South America,Spain,Europe,2003,68348
+Argentina,South America,Portugal,Europe,2003,0
+Argentina,South America,Germany,Europe,2003,0
+Argentina,South America,Poland,Europe,2003,0
+Argentina,South America,Austria,Europe,2003,0
+Argentina,South America,Hungary,Europe,2003,0
+Argentina,South America,Czech Republic,Europe,2003,6665
+Argentina,South America,Slovakia,Europe,2003,0
+Argentina,South America,Italy,Europe,2003,0
+Argentina,South America,Croatia,Europe,2003,0
+Argentina,South America,Serbia,Europe,2003,0
+Argentina,South America,Bosnia,Europe,2003,0
+Argentina,South America,Greece,Europe,2003,0
+Argentina,South America,Bulgaria,Europe,2003,0
+Argentina,South America,Romania,Europe,2003,0
+Argentina,South America,Russia,Asia,2003,0
+Argentina,South America,Ukraine,Europe,2003,0
+Argentina,South America,Finland,Europe,2003,0
+Argentina,South America,Sweden,Europe,2003,0
+Argentina,South America,Norway,Europe,2003,0
+Argentina,South America,Denmark,Europe,2003,0
+Argentina,South America,South Africa,Africa,2003,0
+Argentina,South America,Turkey,Asia,2003,0
+Argentina,South America,Israel,Asia,2003,0
+Argentina,South America,United Arab Emirates,Asia,2003,0
+Argentina,South America,Taiwan,Asia,2003,0
+Argentina,South America,South Korea,Asia,2003,0
+Argentina,South America,Japan,Asia,2003,0
+Argentina,South America,India,Asia,2003,0
+Argentina,South America,Pakistan,Asia,2003,0
+Argentina,South America,Thailand,Asia,2003,0
+Argentina,South America,Malaysia,Asia,2003,0
+Argentina,South America,Singapore,Asia,2003,0
+Argentina,South America,Philippines,Asia,2003,110017
+Argentina,South America,Indonesia,Asia,2003,0
+Argentina,South America,Australia,Oceania,2003,0
+Argentina,South America,Cyprus,Europe,2003,0
+Argentina,South America,China,Asia,2003,0
+Argentina,South America,Ivory Coast,Africa,2003,0
+Argentina,South America,Congo,Africa,2003,0
+United Kingdom,Europe,United States,North America,2003,10896612
+United Kingdom,Europe,Canada,North America,2003,1148048
+United Kingdom,Europe,Mexico,North America,2003,5243
+United Kingdom,Europe,Brazil,South America,2003,168819
+United Kingdom,Europe,Argentina,South America,2003,18881
+United Kingdom,Europe,United Kingdom,Europe,2003,7870746
+United Kingdom,Europe,Netherlands,Europe,2003,970720
+United Kingdom,Europe,Belgium,Europe,2003,995756
+United Kingdom,Europe,France,Europe,2003,1127949
+United Kingdom,Europe,Switzerland,Europe,2003,1444097
+United Kingdom,Europe,Spain,Europe,2003,382551
+United Kingdom,Europe,Portugal,Europe,2003,8525
+United Kingdom,Europe,Germany,Europe,2003,2398081
+United Kingdom,Europe,Poland,Europe,2003,158481
+United Kingdom,Europe,Austria,Europe,2003,40627
+United Kingdom,Europe,Hungary,Europe,2003,0
+United Kingdom,Europe,Czech Republic,Europe,2003,116896
+United Kingdom,Europe,Slovakia,Europe,2003,29887
+United Kingdom,Europe,Italy,Europe,2003,196794
+United Kingdom,Europe,Croatia,Europe,2003,3412
+United Kingdom,Europe,Serbia,Europe,2003,54507
+United Kingdom,Europe,Bosnia,Europe,2003,0
+United Kingdom,Europe,Greece,Europe,2003,34411
+United Kingdom,Europe,Bulgaria,Europe,2003,22919
+United Kingdom,Europe,Romania,Europe,2003,13461
+United Kingdom,Europe,Russia,Asia,2003,35039
+United Kingdom,Europe,Ukraine,Europe,2003,106177
+United Kingdom,Europe,Finland,Europe,2003,431036
+United Kingdom,Europe,Sweden,Europe,2003,201131
+United Kingdom,Europe,Norway,Europe,2003,1166679
+United Kingdom,Europe,Denmark,Europe,2003,2501174
+United Kingdom,Europe,South Africa,Africa,2003,78974
+United Kingdom,Europe,Turkey,Asia,2003,132061
+United Kingdom,Europe,Israel,Asia,2003,0
+United Kingdom,Europe,United Arab Emirates,Asia,2003,1609517
+United Kingdom,Europe,Taiwan,Asia,2003,72929
+United Kingdom,Europe,South Korea,Asia,2003,460456
+United Kingdom,Europe,Japan,Asia,2003,3430752
+United Kingdom,Europe,India,Asia,2003,151708
+United Kingdom,Europe,Pakistan,Asia,2003,121545
+United Kingdom,Europe,Thailand,Asia,2003,200386
+United Kingdom,Europe,Malaysia,Asia,2003,262703
+United Kingdom,Europe,Singapore,Asia,2003,194900
+United Kingdom,Europe,Philippines,Asia,2003,111862
+United Kingdom,Europe,Indonesia,Asia,2003,244
+United Kingdom,Europe,Australia,Oceania,2003,733552
+United Kingdom,Europe,Cyprus,Europe,2003,146889
+United Kingdom,Europe,China,Asia,2003,516072
+United Kingdom,Europe,Ivory Coast,Africa,2003,0
+United Kingdom,Europe,Congo,Africa,2003,0
+Netherlands,Europe,United States,North America,2003,65586
+Netherlands,Europe,Canada,North America,2003,5468
+Netherlands,Europe,Mexico,North America,2003,0
+Netherlands,Europe,Brazil,South America,2003,0
+Netherlands,Europe,Argentina,South America,2003,0
+Netherlands,Europe,United Kingdom,Europe,2003,118494
+Netherlands,Europe,Netherlands,Europe,2003,0
+Netherlands,Europe,Belgium,Europe,2003,100988
+Netherlands,Europe,France,Europe,2003,14980
+Netherlands,Europe,Switzerland,Europe,2003,1226611
+Netherlands,Europe,Spain,Europe,2003,13619
+Netherlands,Europe,Portugal,Europe,2003,58565
+Netherlands,Europe,Germany,Europe,2003,19323
+Netherlands,Europe,Poland,Europe,2003,0
+Netherlands,Europe,Austria,Europe,2003,13619
+Netherlands,Europe,Hungary,Europe,2003,0
+Netherlands,Europe,Czech Republic,Europe,2003,54634
+Netherlands,Europe,Slovakia,Europe,2003,4684
+Netherlands,Europe,Italy,Europe,2003,12746
+Netherlands,Europe,Croatia,Europe,2003,0
+Netherlands,Europe,Serbia,Europe,2003,0
+Netherlands,Europe,Bosnia,Europe,2003,0
+Netherlands,Europe,Greece,Europe,2003,0
+Netherlands,Europe,Bulgaria,Europe,2003,0
+Netherlands,Europe,Romania,Europe,2003,0
+Netherlands,Europe,Russia,Asia,2003,0
+Netherlands,Europe,Ukraine,Europe,2003,0
+Netherlands,Europe,Finland,Europe,2003,1236
+Netherlands,Europe,Sweden,Europe,2003,0
+Netherlands,Europe,Norway,Europe,2003,0
+Netherlands,Europe,Denmark,Europe,2003,0
+Netherlands,Europe,South Africa,Africa,2003,1361
+Netherlands,Europe,Turkey,Asia,2003,0
+Netherlands,Europe,Israel,Asia,2003,0
+Netherlands,Europe,United Arab Emirates,Asia,2003,0
+Netherlands,Europe,Taiwan,Asia,2003,0
+Netherlands,Europe,South Korea,Asia,2003,0
+Netherlands,Europe,Japan,Asia,2003,0
+Netherlands,Europe,India,Asia,2003,5145
+Netherlands,Europe,Pakistan,Asia,2003,0
+Netherlands,Europe,Thailand,Asia,2003,0
+Netherlands,Europe,Malaysia,Asia,2003,972950
+Netherlands,Europe,Singapore,Asia,2003,0
+Netherlands,Europe,Philippines,Asia,2003,0
+Netherlands,Europe,Indonesia,Asia,2003,0
+Netherlands,Europe,Australia,Oceania,2003,0
+Netherlands,Europe,Cyprus,Europe,2003,0
+Netherlands,Europe,China,Asia,2003,0
+Netherlands,Europe,Ivory Coast,Africa,2003,0
+Netherlands,Europe,Congo,Africa,2003,0
+Belgium,Europe,United States,North America,2003,12153314
+Belgium,Europe,Canada,North America,2003,710090
+Belgium,Europe,Mexico,North America,2003,562174
+Belgium,Europe,Brazil,South America,2003,0
+Belgium,Europe,Argentina,South America,2003,335
+Belgium,Europe,United Kingdom,Europe,2003,6600224
+Belgium,Europe,Netherlands,Europe,2003,1989958
+Belgium,Europe,Belgium,Europe,2003,0
+Belgium,Europe,France,Europe,2003,13467137
+Belgium,Europe,Switzerland,Europe,2003,1375788
+Belgium,Europe,Spain,Europe,2003,2162010
+Belgium,Europe,Portugal,Europe,2003,1346627
+Belgium,Europe,Germany,Europe,2003,1556453
+Belgium,Europe,Poland,Europe,2003,188303
+Belgium,Europe,Austria,Europe,2003,1680568
+Belgium,Europe,Hungary,Europe,2003,76736
+Belgium,Europe,Czech Republic,Europe,2003,135114
+Belgium,Europe,Slovakia,Europe,2003,12713
+Belgium,Europe,Italy,Europe,2003,5244219
+Belgium,Europe,Croatia,Europe,2003,7183
+Belgium,Europe,Serbia,Europe,2003,0
+Belgium,Europe,Bosnia,Europe,2003,0
+Belgium,Europe,Greece,Europe,2003,286049
+Belgium,Europe,Bulgaria,Europe,2003,0
+Belgium,Europe,Romania,Europe,2003,0
+Belgium,Europe,Russia,Asia,2003,946140
+Belgium,Europe,Ukraine,Europe,2003,0
+Belgium,Europe,Finland,Europe,2003,197463
+Belgium,Europe,Sweden,Europe,2003,666915
+Belgium,Europe,Norway,Europe,2003,1139183
+Belgium,Europe,Denmark,Europe,2003,265072
+Belgium,Europe,South Africa,Africa,2003,1243
+Belgium,Europe,Turkey,Asia,2003,80981
+Belgium,Europe,Israel,Asia,2003,0
+Belgium,Europe,United Arab Emirates,Asia,2003,0
+Belgium,Europe,Taiwan,Asia,2003,0
+Belgium,Europe,South Korea,Asia,2003,71746
+Belgium,Europe,Japan,Asia,2003,414584
+Belgium,Europe,India,Asia,2003,0
+Belgium,Europe,Pakistan,Asia,2003,0
+Belgium,Europe,Thailand,Asia,2003,0
+Belgium,Europe,Malaysia,Asia,2003,0
+Belgium,Europe,Singapore,Asia,2003,0
+Belgium,Europe,Philippines,Asia,2003,0
+Belgium,Europe,Indonesia,Asia,2003,0
+Belgium,Europe,Australia,Oceania,2003,442575
+Belgium,Europe,Cyprus,Europe,2003,19140
+Belgium,Europe,China,Asia,2003,0
+Belgium,Europe,Ivory Coast,Africa,2003,0
+Belgium,Europe,Congo,Africa,2003,0
+France,Europe,United States,North America,2003,5042029
+France,Europe,Canada,North America,2003,1006659
+France,Europe,Mexico,North America,2003,2361
+France,Europe,Brazil,South America,2003,508407
+France,Europe,Argentina,South America,2003,62416
+France,Europe,United Kingdom,Europe,2003,718449
+France,Europe,Netherlands,Europe,2003,12099
+France,Europe,Belgium,Europe,2003,630547
+France,Europe,France,Europe,2003,2154580
+France,Europe,Switzerland,Europe,2003,802364
+France,Europe,Spain,Europe,2003,1007158
+France,Europe,Portugal,Europe,2003,112813
+France,Europe,Germany,Europe,2003,2849802
+France,Europe,Poland,Europe,2003,0
+France,Europe,Austria,Europe,2003,49914
+France,Europe,Hungary,Europe,2003,0
+France,Europe,Czech Republic,Europe,2003,44919
+France,Europe,Slovakia,Europe,2003,0
+France,Europe,Italy,Europe,2003,853625
+France,Europe,Croatia,Europe,2003,182643
+France,Europe,Serbia,Europe,2003,0
+France,Europe,Bosnia,Europe,2003,0
+France,Europe,Greece,Europe,2003,86551
+France,Europe,Bulgaria,Europe,2003,14519
+France,Europe,Romania,Europe,2003,0
+France,Europe,Russia,Asia,2003,142306
+France,Europe,Ukraine,Europe,2003,346203
+France,Europe,Finland,Europe,2003,105180
+France,Europe,Sweden,Europe,2003,43191
+France,Europe,Norway,Europe,2003,385749
+France,Europe,Denmark,Europe,2003,125273
+France,Europe,South Africa,Africa,2003,0
+France,Europe,Turkey,Asia,2003,12480869
+France,Europe,Israel,Asia,2003,0
+France,Europe,United Arab Emirates,Asia,2003,426312
+France,Europe,Taiwan,Asia,2003,0
+France,Europe,South Korea,Asia,2003,66165
+France,Europe,Japan,Asia,2003,286596
+France,Europe,India,Asia,2003,148288
+France,Europe,Pakistan,Asia,2003,73324
+France,Europe,Thailand,Asia,2003,267589
+France,Europe,Malaysia,Asia,2003,64238
+France,Europe,Singapore,Asia,2003,0
+France,Europe,Philippines,Asia,2003,0
+France,Europe,Indonesia,Asia,2003,0
+France,Europe,Australia,Oceania,2003,479604
+France,Europe,Cyprus,Europe,2003,383004
+France,Europe,China,Asia,2003,0
+France,Europe,Ivory Coast,Africa,2003,12874699
+France,Europe,Congo,Africa,2003,0
+Switzerland,Europe,United States,North America,2003,4178029
+Switzerland,Europe,Canada,North America,2003,731502
+Switzerland,Europe,Mexico,North America,2003,0
+Switzerland,Europe,Brazil,South America,2003,3753
+Switzerland,Europe,Argentina,South America,2003,0
+Switzerland,Europe,United Kingdom,Europe,2003,644657
+Switzerland,Europe,Netherlands,Europe,2003,1642006
+Switzerland,Europe,Belgium,Europe,2003,392233
+Switzerland,Europe,France,Europe,2003,704150
+Switzerland,Europe,Switzerland,Europe,2003,0
+Switzerland,Europe,Spain,Europe,2003,291048
+Switzerland,Europe,Portugal,Europe,2003,28739
+Switzerland,Europe,Germany,Europe,2003,16796794
+Switzerland,Europe,Poland,Europe,2003,1060500
+Switzerland,Europe,Austria,Europe,2003,4442734
+Switzerland,Europe,Hungary,Europe,2003,102120
+Switzerland,Europe,Czech Republic,Europe,2003,382351
+Switzerland,Europe,Slovakia,Europe,2003,52533
+Switzerland,Europe,Italy,Europe,2003,2923406
+Switzerland,Europe,Croatia,Europe,2003,22161
+Switzerland,Europe,Serbia,Europe,2003,0
+Switzerland,Europe,Bosnia,Europe,2003,94221
+Switzerland,Europe,Greece,Europe,2003,46143
+Switzerland,Europe,Bulgaria,Europe,2003,3492
+Switzerland,Europe,Romania,Europe,2003,2319088
+Switzerland,Europe,Russia,Asia,2003,47544
+Switzerland,Europe,Ukraine,Europe,2003,40297
+Switzerland,Europe,Finland,Europe,2003,4016271
+Switzerland,Europe,Sweden,Europe,2003,263908
+Switzerland,Europe,Norway,Europe,2003,259717
+Switzerland,Europe,Denmark,Europe,2003,1181079
+Switzerland,Europe,South Africa,Africa,2003,115776
+Switzerland,Europe,Turkey,Asia,2003,48805
+Switzerland,Europe,Israel,Asia,2003,0
+Switzerland,Europe,United Arab Emirates,Asia,2003,3911193
+Switzerland,Europe,Taiwan,Asia,2003,2919
+Switzerland,Europe,South Korea,Asia,2003,94090
+Switzerland,Europe,Japan,Asia,2003,81450
+Switzerland,Europe,India,Asia,2003,103605
+Switzerland,Europe,Pakistan,Asia,2003,0
+Switzerland,Europe,Thailand,Asia,2003,94270
+Switzerland,Europe,Malaysia,Asia,2003,1634444
+Switzerland,Europe,Singapore,Asia,2003,108471
+Switzerland,Europe,Philippines,Asia,2003,298686
+Switzerland,Europe,Indonesia,Asia,2003,50179
+Switzerland,Europe,Australia,Oceania,2003,144839
+Switzerland,Europe,Cyprus,Europe,2003,1597
+Switzerland,Europe,China,Asia,2003,240645
+Switzerland,Europe,Ivory Coast,Africa,2003,0
+Switzerland,Europe,Congo,Africa,2003,0
+Spain,Europe,United States,North America,2003,14708242
+Spain,Europe,Canada,North America,2003,325515
+Spain,Europe,Mexico,North America,2003,458989
+Spain,Europe,Brazil,South America,2003,22568
+Spain,Europe,Argentina,South America,2003,101208
+Spain,Europe,United Kingdom,Europe,2003,2356341
+Spain,Europe,Netherlands,Europe,2003,179878
+Spain,Europe,Belgium,Europe,2003,130720
+Spain,Europe,France,Europe,2003,3641288
+Spain,Europe,Switzerland,Europe,2003,135986
+Spain,Europe,Spain,Europe,2003,0
+Spain,Europe,Portugal,Europe,2003,4823013
+Spain,Europe,Germany,Europe,2003,692851
+Spain,Europe,Poland,Europe,2003,896175
+Spain,Europe,Austria,Europe,2003,200648
+Spain,Europe,Hungary,Europe,2003,155215
+Spain,Europe,Czech Republic,Europe,2003,194603
+Spain,Europe,Slovakia,Europe,2003,145394
+Spain,Europe,Italy,Europe,2003,601870
+Spain,Europe,Croatia,Europe,2003,0
+Spain,Europe,Serbia,Europe,2003,0
+Spain,Europe,Bosnia,Europe,2003,0
+Spain,Europe,Greece,Europe,2003,693209
+Spain,Europe,Bulgaria,Europe,2003,19262
+Spain,Europe,Romania,Europe,2003,15711
+Spain,Europe,Russia,Asia,2003,264601
+Spain,Europe,Ukraine,Europe,2003,115353
+Spain,Europe,Finland,Europe,2003,139154
+Spain,Europe,Sweden,Europe,2003,424467
+Spain,Europe,Norway,Europe,2003,1248314
+Spain,Europe,Denmark,Europe,2003,1402581
+Spain,Europe,South Africa,Africa,2003,591365
+Spain,Europe,Turkey,Asia,2003,2883979
+Spain,Europe,Israel,Asia,2003,54612
+Spain,Europe,United Arab Emirates,Asia,2003,0
+Spain,Europe,Taiwan,Asia,2003,38323
+Spain,Europe,South Korea,Asia,2003,97359
+Spain,Europe,Japan,Asia,2003,1017153
+Spain,Europe,India,Asia,2003,0
+Spain,Europe,Pakistan,Asia,2003,0
+Spain,Europe,Thailand,Asia,2003,27587
+Spain,Europe,Malaysia,Asia,2003,107070
+Spain,Europe,Singapore,Asia,2003,14314
+Spain,Europe,Philippines,Asia,2003,343838
+Spain,Europe,Indonesia,Asia,2003,0
+Spain,Europe,Australia,Oceania,2003,879440
+Spain,Europe,Cyprus,Europe,2003,334945
+Spain,Europe,China,Asia,2003,58693
+Spain,Europe,Ivory Coast,Africa,2003,108667
+Spain,Europe,Congo,Africa,2003,0
+Portugal,Europe,United States,North America,2003,6844967
+Portugal,Europe,Canada,North America,2003,97805
+Portugal,Europe,Mexico,North America,2003,0
+Portugal,Europe,Brazil,South America,2003,5858
+Portugal,Europe,Argentina,South America,2003,0
+Portugal,Europe,United Kingdom,Europe,2003,66156
+Portugal,Europe,Netherlands,Europe,2003,0
+Portugal,Europe,Belgium,Europe,2003,11438681
+Portugal,Europe,France,Europe,2003,406643
+Portugal,Europe,Switzerland,Europe,2003,18110
+Portugal,Europe,Spain,Europe,2003,1992739
+Portugal,Europe,Portugal,Europe,2003,0
+Portugal,Europe,Germany,Europe,2003,572067
+Portugal,Europe,Poland,Europe,2003,104716
+Portugal,Europe,Austria,Europe,2003,32059
+Portugal,Europe,Hungary,Europe,2003,16895
+Portugal,Europe,Czech Republic,Europe,2003,28336
+Portugal,Europe,Slovakia,Europe,2003,10099
+Portugal,Europe,Italy,Europe,2003,187980
+Portugal,Europe,Croatia,Europe,2003,6047
+Portugal,Europe,Serbia,Europe,2003,0
+Portugal,Europe,Bosnia,Europe,2003,0
+Portugal,Europe,Greece,Europe,2003,163612
+Portugal,Europe,Bulgaria,Europe,2003,0
+Portugal,Europe,Romania,Europe,2003,0
+Portugal,Europe,Russia,Asia,2003,73444
+Portugal,Europe,Ukraine,Europe,2003,0
+Portugal,Europe,Finland,Europe,2003,66175
+Portugal,Europe,Sweden,Europe,2003,484140
+Portugal,Europe,Norway,Europe,2003,45693
+Portugal,Europe,Denmark,Europe,2003,0
+Portugal,Europe,South Africa,Africa,2003,30603
+Portugal,Europe,Turkey,Asia,2003,135160
+Portugal,Europe,Israel,Asia,2003,0
+Portugal,Europe,United Arab Emirates,Asia,2003,0
+Portugal,Europe,Taiwan,Asia,2003,0
+Portugal,Europe,South Korea,Asia,2003,12072
+Portugal,Europe,Japan,Asia,2003,193412
+Portugal,Europe,India,Asia,2003,0
+Portugal,Europe,Pakistan,Asia,2003,0
+Portugal,Europe,Thailand,Asia,2003,0
+Portugal,Europe,Malaysia,Asia,2003,0
+Portugal,Europe,Singapore,Asia,2003,0
+Portugal,Europe,Philippines,Asia,2003,0
+Portugal,Europe,Indonesia,Asia,2003,0
+Portugal,Europe,Australia,Oceania,2003,25369
+Portugal,Europe,Cyprus,Europe,2003,0
+Portugal,Europe,China,Asia,2003,0
+Portugal,Europe,Ivory Coast,Africa,2003,0
+Portugal,Europe,Congo,Africa,2003,0
+Germany,Europe,United States,North America,2003,47982244
+Germany,Europe,Canada,North America,2003,1718100
+Germany,Europe,Mexico,North America,2003,101450
+Germany,Europe,Brazil,South America,2003,240842
+Germany,Europe,Argentina,South America,2003,36012
+Germany,Europe,United Kingdom,Europe,2003,8163388
+Germany,Europe,Netherlands,Europe,2003,6247476
+Germany,Europe,Belgium,Europe,2003,2609535
+Germany,Europe,France,Europe,2003,16573641
+Germany,Europe,Switzerland,Europe,2003,9547254
+Germany,Europe,Spain,Europe,2003,9155509
+Germany,Europe,Portugal,Europe,2003,1228408
+Germany,Europe,Germany,Europe,2003,0
+Germany,Europe,Poland,Europe,2003,5948830
+Germany,Europe,Austria,Europe,2003,8012859
+Germany,Europe,Hungary,Europe,2003,1234321
+Germany,Europe,Czech Republic,Europe,2003,2857605
+Germany,Europe,Slovakia,Europe,2003,646471
+Germany,Europe,Italy,Europe,2003,6259646
+Germany,Europe,Croatia,Europe,2003,88576
+Germany,Europe,Serbia,Europe,2003,14449
+Germany,Europe,Bosnia,Europe,2003,24557
+Germany,Europe,Greece,Europe,2003,1369193
+Germany,Europe,Bulgaria,Europe,2003,422677
+Germany,Europe,Romania,Europe,2003,267335
+Germany,Europe,Russia,Asia,2003,3597823
+Germany,Europe,Ukraine,Europe,2003,2044758
+Germany,Europe,Finland,Europe,2003,2087925
+Germany,Europe,Sweden,Europe,2003,3706232
+Germany,Europe,Norway,Europe,2003,4781960
+Germany,Europe,Denmark,Europe,2003,4534506
+Germany,Europe,South Africa,Africa,2003,258905
+Germany,Europe,Turkey,Asia,2003,1844569
+Germany,Europe,Israel,Asia,2003,44555
+Germany,Europe,United Arab Emirates,Asia,2003,3254997
+Germany,Europe,Taiwan,Asia,2003,45760
+Germany,Europe,South Korea,Asia,2003,535299
+Germany,Europe,Japan,Asia,2003,9608464
+Germany,Europe,India,Asia,2003,183902
+Germany,Europe,Pakistan,Asia,2003,36125
+Germany,Europe,Thailand,Asia,2003,863421
+Germany,Europe,Malaysia,Asia,2003,156403
+Germany,Europe,Singapore,Asia,2003,930600
+Germany,Europe,Philippines,Asia,2003,190666
+Germany,Europe,Indonesia,Asia,2003,52330
+Germany,Europe,Australia,Oceania,2003,1200603
+Germany,Europe,Cyprus,Europe,2003,99496
+Germany,Europe,China,Asia,2003,590065
+Germany,Europe,Ivory Coast,Africa,2003,0
+Germany,Europe,Congo,Africa,2003,0
+Poland,Europe,United States,North America,2003,2025575
+Poland,Europe,Canada,North America,2003,0
+Poland,Europe,Mexico,North America,2003,0
+Poland,Europe,Brazil,South America,2003,0
+Poland,Europe,Argentina,South America,2003,0
+Poland,Europe,United Kingdom,Europe,2003,0
+Poland,Europe,Netherlands,Europe,2003,0
+Poland,Europe,Belgium,Europe,2003,0
+Poland,Europe,France,Europe,2003,0
+Poland,Europe,Switzerland,Europe,2003,8502
+Poland,Europe,Spain,Europe,2003,0
+Poland,Europe,Portugal,Europe,2003,0
+Poland,Europe,Germany,Europe,2003,99948
+Poland,Europe,Poland,Europe,2003,0
+Poland,Europe,Austria,Europe,2003,0
+Poland,Europe,Hungary,Europe,2003,0
+Poland,Europe,Czech Republic,Europe,2003,0
+Poland,Europe,Slovakia,Europe,2003,2327
+Poland,Europe,Italy,Europe,2003,11782
+Poland,Europe,Croatia,Europe,2003,0
+Poland,Europe,Serbia,Europe,2003,0
+Poland,Europe,Bosnia,Europe,2003,0
+Poland,Europe,Greece,Europe,2003,0
+Poland,Europe,Bulgaria,Europe,2003,0
+Poland,Europe,Romania,Europe,2003,0
+Poland,Europe,Russia,Asia,2003,0
+Poland,Europe,Ukraine,Europe,2003,0
+Poland,Europe,Finland,Europe,2003,41006
+Poland,Europe,Sweden,Europe,2003,0
+Poland,Europe,Norway,Europe,2003,1567
+Poland,Europe,Denmark,Europe,2003,0
+Poland,Europe,South Africa,Africa,2003,0
+Poland,Europe,Turkey,Asia,2003,0
+Poland,Europe,Israel,Asia,2003,2829659
+Poland,Europe,United Arab Emirates,Asia,2003,0
+Poland,Europe,Taiwan,Asia,2003,0
+Poland,Europe,South Korea,Asia,2003,0
+Poland,Europe,Japan,Asia,2003,0
+Poland,Europe,India,Asia,2003,250797
+Poland,Europe,Pakistan,Asia,2003,0
+Poland,Europe,Thailand,Asia,2003,0
+Poland,Europe,Malaysia,Asia,2003,0
+Poland,Europe,Singapore,Asia,2003,0
+Poland,Europe,Philippines,Asia,2003,0
+Poland,Europe,Indonesia,Asia,2003,447156
+Poland,Europe,Australia,Oceania,2003,0
+Poland,Europe,Cyprus,Europe,2003,0
+Poland,Europe,China,Asia,2003,0
+Poland,Europe,Ivory Coast,Africa,2003,0
+Poland,Europe,Congo,Africa,2003,0
+Austria,Europe,United States,North America,2003,68149687
+Austria,Europe,Canada,North America,2003,687274
+Austria,Europe,Mexico,North America,2003,1340261
+Austria,Europe,Brazil,South America,2003,136319
+Austria,Europe,Argentina,South America,2003,276309
+Austria,Europe,United Kingdom,Europe,2003,773284
+Austria,Europe,Netherlands,Europe,2003,42246
+Austria,Europe,Belgium,Europe,2003,116891
+Austria,Europe,France,Europe,2003,411327
+Austria,Europe,Switzerland,Europe,2003,3933000
+Austria,Europe,Spain,Europe,2003,855725
+Austria,Europe,Portugal,Europe,2003,465767
+Austria,Europe,Germany,Europe,2003,2611518
+Austria,Europe,Poland,Europe,2003,398241
+Austria,Europe,Austria,Europe,2003,0
+Austria,Europe,Hungary,Europe,2003,282265
+Austria,Europe,Czech Republic,Europe,2003,566449
+Austria,Europe,Slovakia,Europe,2003,412641
+Austria,Europe,Italy,Europe,2003,2073684
+Austria,Europe,Croatia,Europe,2003,623416
+Austria,Europe,Serbia,Europe,2003,235301
+Austria,Europe,Bosnia,Europe,2003,465865
+Austria,Europe,Greece,Europe,2003,59901
+Austria,Europe,Bulgaria,Europe,2003,390070
+Austria,Europe,Romania,Europe,2003,179503
+Austria,Europe,Russia,Asia,2003,1052508
+Austria,Europe,Ukraine,Europe,2003,0
+Austria,Europe,Finland,Europe,2003,1560714
+Austria,Europe,Sweden,Europe,2003,185308
+Austria,Europe,Norway,Europe,2003,280894
+Austria,Europe,Denmark,Europe,2003,238572
+Austria,Europe,South Africa,Africa,2003,82042
+Austria,Europe,Turkey,Asia,2003,27531
+Austria,Europe,Israel,Asia,2003,0
+Austria,Europe,United Arab Emirates,Asia,2003,61949
+Austria,Europe,Taiwan,Asia,2003,0
+Austria,Europe,South Korea,Asia,2003,6746
+Austria,Europe,Japan,Asia,2003,66059
+Austria,Europe,India,Asia,2003,1598923
+Austria,Europe,Pakistan,Asia,2003,0
+Austria,Europe,Thailand,Asia,2003,2088846
+Austria,Europe,Malaysia,Asia,2003,597651
+Austria,Europe,Singapore,Asia,2003,17981
+Austria,Europe,Philippines,Asia,2003,742827
+Austria,Europe,Indonesia,Asia,2003,0
+Austria,Europe,Australia,Oceania,2003,2145625
+Austria,Europe,Cyprus,Europe,2003,123003
+Austria,Europe,China,Asia,2003,2573
+Austria,Europe,Ivory Coast,Africa,2003,0
+Austria,Europe,Congo,Africa,2003,0
+Hungary,Europe,United States,North America,2003,2788051
+Hungary,Europe,Canada,North America,2003,70438
+Hungary,Europe,Mexico,North America,2003,0
+Hungary,Europe,Brazil,South America,2003,0
+Hungary,Europe,Argentina,South America,2003,0
+Hungary,Europe,United Kingdom,Europe,2003,0
+Hungary,Europe,Netherlands,Europe,2003,5449
+Hungary,Europe,Belgium,Europe,2003,4002
+Hungary,Europe,France,Europe,2003,0
+Hungary,Europe,Switzerland,Europe,2003,0
+Hungary,Europe,Spain,Europe,2003,0
+Hungary,Europe,Portugal,Europe,2003,521
+Hungary,Europe,Germany,Europe,2003,1295736
+Hungary,Europe,Poland,Europe,2003,57802
+Hungary,Europe,Austria,Europe,2003,208192
+Hungary,Europe,Hungary,Europe,2003,0
+Hungary,Europe,Czech Republic,Europe,2003,155257
+Hungary,Europe,Slovakia,Europe,2003,732021
+Hungary,Europe,Italy,Europe,2003,1861261
+Hungary,Europe,Croatia,Europe,2003,31438
+Hungary,Europe,Serbia,Europe,2003,99950
+Hungary,Europe,Bosnia,Europe,2003,0
+Hungary,Europe,Greece,Europe,2003,0
+Hungary,Europe,Bulgaria,Europe,2003,0
+Hungary,Europe,Romania,Europe,2003,22879
+Hungary,Europe,Russia,Asia,2003,0
+Hungary,Europe,Ukraine,Europe,2003,0
+Hungary,Europe,Finland,Europe,2003,159552
+Hungary,Europe,Sweden,Europe,2003,7462
+Hungary,Europe,Norway,Europe,2003,0
+Hungary,Europe,Denmark,Europe,2003,1723
+Hungary,Europe,South Africa,Africa,2003,0
+Hungary,Europe,Turkey,Asia,2003,0
+Hungary,Europe,Israel,Asia,2003,0
+Hungary,Europe,United Arab Emirates,Asia,2003,0
+Hungary,Europe,Taiwan,Asia,2003,0
+Hungary,Europe,South Korea,Asia,2003,0
+Hungary,Europe,Japan,Asia,2003,214350
+Hungary,Europe,India,Asia,2003,1107
+Hungary,Europe,Pakistan,Asia,2003,0
+Hungary,Europe,Thailand,Asia,2003,0
+Hungary,Europe,Malaysia,Asia,2003,0
+Hungary,Europe,Singapore,Asia,2003,0
+Hungary,Europe,Philippines,Asia,2003,0
+Hungary,Europe,Indonesia,Asia,2003,0
+Hungary,Europe,Australia,Oceania,2003,0
+Hungary,Europe,Cyprus,Europe,2003,0
+Hungary,Europe,China,Asia,2003,0
+Hungary,Europe,Ivory Coast,Africa,2003,0
+Hungary,Europe,Congo,Africa,2003,0
+Czech Republic,Europe,United States,North America,2003,21433729
+Czech Republic,Europe,Canada,North America,2003,1113113
+Czech Republic,Europe,Mexico,North America,2003,795433
+Czech Republic,Europe,Brazil,South America,2003,0
+Czech Republic,Europe,Argentina,South America,2003,17587
+Czech Republic,Europe,United Kingdom,Europe,2003,1329731
+Czech Republic,Europe,Netherlands,Europe,2003,48146
+Czech Republic,Europe,Belgium,Europe,2003,758243
+Czech Republic,Europe,France,Europe,2003,2890277
+Czech Republic,Europe,Switzerland,Europe,2003,629052
+Czech Republic,Europe,Spain,Europe,2003,960243
+Czech Republic,Europe,Portugal,Europe,2003,365646
+Czech Republic,Europe,Germany,Europe,2003,6947915
+Czech Republic,Europe,Poland,Europe,2003,1364554
+Czech Republic,Europe,Austria,Europe,2003,455165
+Czech Republic,Europe,Hungary,Europe,2003,542804
+Czech Republic,Europe,Czech Republic,Europe,2003,0
+Czech Republic,Europe,Slovakia,Europe,2003,1334536
+Czech Republic,Europe,Italy,Europe,2003,1101944
+Czech Republic,Europe,Croatia,Europe,2003,81950
+Czech Republic,Europe,Serbia,Europe,2003,88639
+Czech Republic,Europe,Bosnia,Europe,2003,0
+Czech Republic,Europe,Greece,Europe,2003,36889
+Czech Republic,Europe,Bulgaria,Europe,2003,384336
+Czech Republic,Europe,Romania,Europe,2003,182654
+Czech Republic,Europe,Russia,Asia,2003,559590
+Czech Republic,Europe,Ukraine,Europe,2003,152359
+Czech Republic,Europe,Finland,Europe,2003,948482
+Czech Republic,Europe,Sweden,Europe,2003,838642
+Czech Republic,Europe,Norway,Europe,2003,1005460
+Czech Republic,Europe,Denmark,Europe,2003,701186
+Czech Republic,Europe,South Africa,Africa,2003,577580
+Czech Republic,Europe,Turkey,Asia,2003,54394
+Czech Republic,Europe,Israel,Asia,2003,161361
+Czech Republic,Europe,United Arab Emirates,Asia,2003,69197
+Czech Republic,Europe,Taiwan,Asia,2003,0
+Czech Republic,Europe,South Korea,Asia,2003,45426
+Czech Republic,Europe,Japan,Asia,2003,0
+Czech Republic,Europe,India,Asia,2003,44085
+Czech Republic,Europe,Pakistan,Asia,2003,3964
+Czech Republic,Europe,Thailand,Asia,2003,1824489
+Czech Republic,Europe,Malaysia,Asia,2003,549039
+Czech Republic,Europe,Singapore,Asia,2003,44882
+Czech Republic,Europe,Philippines,Asia,2003,303539
+Czech Republic,Europe,Indonesia,Asia,2003,362644
+Czech Republic,Europe,Australia,Oceania,2003,719309
+Czech Republic,Europe,Cyprus,Europe,2003,63865
+Czech Republic,Europe,China,Asia,2003,8354
+Czech Republic,Europe,Ivory Coast,Africa,2003,0
+Czech Republic,Europe,Congo,Africa,2003,0
+Slovakia,Europe,United States,North America,2003,118139
+Slovakia,Europe,Canada,North America,2003,0
+Slovakia,Europe,Mexico,North America,2003,0
+Slovakia,Europe,Brazil,South America,2003,0
+Slovakia,Europe,Argentina,South America,2003,0
+Slovakia,Europe,United Kingdom,Europe,2003,19345
+Slovakia,Europe,Netherlands,Europe,2003,0
+Slovakia,Europe,Belgium,Europe,2003,0
+Slovakia,Europe,France,Europe,2003,117126
+Slovakia,Europe,Switzerland,Europe,2003,0
+Slovakia,Europe,Spain,Europe,2003,0
+Slovakia,Europe,Portugal,Europe,2003,18725
+Slovakia,Europe,Germany,Europe,2003,275764
+Slovakia,Europe,Poland,Europe,2003,187060
+Slovakia,Europe,Austria,Europe,2003,46388
+Slovakia,Europe,Hungary,Europe,2003,157151
+Slovakia,Europe,Czech Republic,Europe,2003,50163
+Slovakia,Europe,Slovakia,Europe,2003,48531
+Slovakia,Europe,Italy,Europe,2003,82197
+Slovakia,Europe,Croatia,Europe,2003,0
+Slovakia,Europe,Serbia,Europe,2003,238677
+Slovakia,Europe,Bosnia,Europe,2003,0
+Slovakia,Europe,Greece,Europe,2003,0
+Slovakia,Europe,Bulgaria,Europe,2003,0
+Slovakia,Europe,Romania,Europe,2003,0
+Slovakia,Europe,Russia,Asia,2003,0
+Slovakia,Europe,Ukraine,Europe,2003,480181
+Slovakia,Europe,Finland,Europe,2003,0
+Slovakia,Europe,Sweden,Europe,2003,0
+Slovakia,Europe,Norway,Europe,2003,0
+Slovakia,Europe,Denmark,Europe,2003,0
+Slovakia,Europe,South Africa,Africa,2003,0
+Slovakia,Europe,Turkey,Asia,2003,166025
+Slovakia,Europe,Israel,Asia,2003,0
+Slovakia,Europe,United Arab Emirates,Asia,2003,5528
+Slovakia,Europe,Taiwan,Asia,2003,0
+Slovakia,Europe,South Korea,Asia,2003,0
+Slovakia,Europe,Japan,Asia,2003,0
+Slovakia,Europe,India,Asia,2003,0
+Slovakia,Europe,Pakistan,Asia,2003,0
+Slovakia,Europe,Thailand,Asia,2003,0
+Slovakia,Europe,Malaysia,Asia,2003,0
+Slovakia,Europe,Singapore,Asia,2003,0
+Slovakia,Europe,Philippines,Asia,2003,0
+Slovakia,Europe,Indonesia,Asia,2003,0
+Slovakia,Europe,Australia,Oceania,2003,0
+Slovakia,Europe,Cyprus,Europe,2003,0
+Slovakia,Europe,China,Asia,2003,0
+Slovakia,Europe,Ivory Coast,Africa,2003,0
+Slovakia,Europe,Congo,Africa,2003,0
+Italy,Europe,United States,North America,2003,147728131
+Italy,Europe,Canada,North America,2003,2848505
+Italy,Europe,Mexico,North America,2003,8169214
+Italy,Europe,Brazil,South America,2003,37337
+Italy,Europe,Argentina,South America,2003,505314
+Italy,Europe,United Kingdom,Europe,2003,35645762
+Italy,Europe,Netherlands,Europe,2003,1095047
+Italy,Europe,Belgium,Europe,2003,4308951
+Italy,Europe,France,Europe,2003,35366564
+Italy,Europe,Switzerland,Europe,2003,2564503
+Italy,Europe,Spain,Europe,2003,33302828
+Italy,Europe,Portugal,Europe,2003,5687746
+Italy,Europe,Germany,Europe,2003,14712981
+Italy,Europe,Poland,Europe,2003,856771
+Italy,Europe,Austria,Europe,2003,2755013
+Italy,Europe,Hungary,Europe,2003,1414059
+Italy,Europe,Czech Republic,Europe,2003,1743972
+Italy,Europe,Slovakia,Europe,2003,579777
+Italy,Europe,Italy,Europe,2003,0
+Italy,Europe,Croatia,Europe,2003,936316
+Italy,Europe,Serbia,Europe,2003,687028
+Italy,Europe,Bosnia,Europe,2003,347492
+Italy,Europe,Greece,Europe,2003,8674745
+Italy,Europe,Bulgaria,Europe,2003,1303530
+Italy,Europe,Romania,Europe,2003,1199864
+Italy,Europe,Russia,Asia,2003,4053638
+Italy,Europe,Ukraine,Europe,2003,1586054
+Italy,Europe,Finland,Europe,2003,4240983
+Italy,Europe,Sweden,Europe,2003,3047593
+Italy,Europe,Norway,Europe,2003,4854146
+Italy,Europe,Denmark,Europe,2003,4856966
+Italy,Europe,South Africa,Africa,2003,651513
+Italy,Europe,Turkey,Asia,2003,11412247
+Italy,Europe,Israel,Asia,2003,5564
+Italy,Europe,United Arab Emirates,Asia,2003,245362
+Italy,Europe,Taiwan,Asia,2003,87601
+Italy,Europe,South Korea,Asia,2003,2136826
+Italy,Europe,Japan,Asia,2003,10638117
+Italy,Europe,India,Asia,2003,312580
+Italy,Europe,Pakistan,Asia,2003,61331
+Italy,Europe,Thailand,Asia,2003,687051
+Italy,Europe,Malaysia,Asia,2003,1627954
+Italy,Europe,Singapore,Asia,2003,313633
+Italy,Europe,Philippines,Asia,2003,3690792
+Italy,Europe,Indonesia,Asia,2003,175167
+Italy,Europe,Australia,Oceania,2003,4472830
+Italy,Europe,Cyprus,Europe,2003,1590824
+Italy,Europe,China,Asia,2003,574936
+Italy,Europe,Ivory Coast,Africa,2003,0
+Italy,Europe,Congo,Africa,2003,408303
+Croatia,Europe,United States,North America,2003,7946879
+Croatia,Europe,Canada,North America,2003,2214
+Croatia,Europe,Mexico,North America,2003,0
+Croatia,Europe,Brazil,South America,2003,0
+Croatia,Europe,Argentina,South America,2003,0
+Croatia,Europe,United Kingdom,Europe,2003,13152
+Croatia,Europe,Netherlands,Europe,2003,0
+Croatia,Europe,Belgium,Europe,2003,287
+Croatia,Europe,France,Europe,2003,4032
+Croatia,Europe,Switzerland,Europe,2003,7455
+Croatia,Europe,Spain,Europe,2003,0
+Croatia,Europe,Portugal,Europe,2003,0
+Croatia,Europe,Germany,Europe,2003,9395
+Croatia,Europe,Poland,Europe,2003,0
+Croatia,Europe,Austria,Europe,2003,1286
+Croatia,Europe,Hungary,Europe,2003,0
+Croatia,Europe,Czech Republic,Europe,2003,44017
+Croatia,Europe,Slovakia,Europe,2003,0
+Croatia,Europe,Italy,Europe,2003,58438
+Croatia,Europe,Croatia,Europe,2003,0
+Croatia,Europe,Serbia,Europe,2003,0
+Croatia,Europe,Bosnia,Europe,2003,24040
+Croatia,Europe,Greece,Europe,2003,40164
+Croatia,Europe,Bulgaria,Europe,2003,0
+Croatia,Europe,Romania,Europe,2003,0
+Croatia,Europe,Russia,Asia,2003,0
+Croatia,Europe,Ukraine,Europe,2003,0
+Croatia,Europe,Finland,Europe,2003,0
+Croatia,Europe,Sweden,Europe,2003,0
+Croatia,Europe,Norway,Europe,2003,0
+Croatia,Europe,Denmark,Europe,2003,0
+Croatia,Europe,South Africa,Africa,2003,0
+Croatia,Europe,Turkey,Asia,2003,8958
+Croatia,Europe,Israel,Asia,2003,27837
+Croatia,Europe,United Arab Emirates,Asia,2003,0
+Croatia,Europe,Taiwan,Asia,2003,0
+Croatia,Europe,South Korea,Asia,2003,0
+Croatia,Europe,Japan,Asia,2003,0
+Croatia,Europe,India,Asia,2003,0
+Croatia,Europe,Pakistan,Asia,2003,0
+Croatia,Europe,Thailand,Asia,2003,0
+Croatia,Europe,Malaysia,Asia,2003,0
+Croatia,Europe,Singapore,Asia,2003,0
+Croatia,Europe,Philippines,Asia,2003,37594
+Croatia,Europe,Indonesia,Asia,2003,482
+Croatia,Europe,Australia,Oceania,2003,0
+Croatia,Europe,Cyprus,Europe,2003,0
+Croatia,Europe,China,Asia,2003,0
+Croatia,Europe,Ivory Coast,Africa,2003,0
+Croatia,Europe,Congo,Africa,2003,0
+Serbia,Europe,United States,North America,2003,359648
+Serbia,Europe,Canada,North America,2003,1837
+Serbia,Europe,Mexico,North America,2003,0
+Serbia,Europe,Brazil,South America,2003,0
+Serbia,Europe,Argentina,South America,2003,0
+Serbia,Europe,United Kingdom,Europe,2003,0
+Serbia,Europe,Netherlands,Europe,2003,286071
+Serbia,Europe,Belgium,Europe,2003,0
+Serbia,Europe,France,Europe,2003,369085
+Serbia,Europe,Switzerland,Europe,2003,0
+Serbia,Europe,Spain,Europe,2003,60204
+Serbia,Europe,Portugal,Europe,2003,0
+Serbia,Europe,Germany,Europe,2003,481685
+Serbia,Europe,Poland,Europe,2003,0
+Serbia,Europe,Austria,Europe,2003,102281
+Serbia,Europe,Hungary,Europe,2003,77069
+Serbia,Europe,Czech Republic,Europe,2003,92566
+Serbia,Europe,Slovakia,Europe,2003,48550
+Serbia,Europe,Italy,Europe,2003,1292
+Serbia,Europe,Croatia,Europe,2003,48516
+Serbia,Europe,Serbia,Europe,2003,0
+Serbia,Europe,Bosnia,Europe,2003,0
+Serbia,Europe,Greece,Europe,2003,1447
+Serbia,Europe,Bulgaria,Europe,2003,0
+Serbia,Europe,Romania,Europe,2003,0
+Serbia,Europe,Russia,Asia,2003,1617
+Serbia,Europe,Ukraine,Europe,2003,0
+Serbia,Europe,Finland,Europe,2003,45347
+Serbia,Europe,Sweden,Europe,2003,447
+Serbia,Europe,Norway,Europe,2003,417923
+Serbia,Europe,Denmark,Europe,2003,8073
+Serbia,Europe,South Africa,Africa,2003,0
+Serbia,Europe,Turkey,Asia,2003,0
+Serbia,Europe,Israel,Asia,2003,0
+Serbia,Europe,United Arab Emirates,Asia,2003,0
+Serbia,Europe,Taiwan,Asia,2003,0
+Serbia,Europe,South Korea,Asia,2003,0
+Serbia,Europe,Japan,Asia,2003,0
+Serbia,Europe,India,Asia,2003,0
+Serbia,Europe,Pakistan,Asia,2003,0
+Serbia,Europe,Thailand,Asia,2003,0
+Serbia,Europe,Malaysia,Asia,2003,0
+Serbia,Europe,Singapore,Asia,2003,0
+Serbia,Europe,Philippines,Asia,2003,0
+Serbia,Europe,Indonesia,Asia,2003,0
+Serbia,Europe,Australia,Oceania,2003,735511
+Serbia,Europe,Cyprus,Europe,2003,0
+Serbia,Europe,China,Asia,2003,0
+Serbia,Europe,Ivory Coast,Africa,2003,0
+Serbia,Europe,Congo,Africa,2003,0
+Bosnia,Europe,United States,North America,2003,1613726
+Bosnia,Europe,Canada,North America,2003,195884
+Bosnia,Europe,Mexico,North America,2003,0
+Bosnia,Europe,Brazil,South America,2003,0
+Bosnia,Europe,Argentina,South America,2003,0
+Bosnia,Europe,United Kingdom,Europe,2003,727968
+Bosnia,Europe,Netherlands,Europe,2003,0
+Bosnia,Europe,Belgium,Europe,2003,0
+Bosnia,Europe,France,Europe,2003,140279
+Bosnia,Europe,Switzerland,Europe,2003,8686
+Bosnia,Europe,Spain,Europe,2003,0
+Bosnia,Europe,Portugal,Europe,2003,0
+Bosnia,Europe,Germany,Europe,2003,1903867
+Bosnia,Europe,Poland,Europe,2003,0
+Bosnia,Europe,Austria,Europe,2003,81656
+Bosnia,Europe,Hungary,Europe,2003,374253
+Bosnia,Europe,Czech Republic,Europe,2003,23100
+Bosnia,Europe,Slovakia,Europe,2003,12771
+Bosnia,Europe,Italy,Europe,2003,33061
+Bosnia,Europe,Croatia,Europe,2003,48364
+Bosnia,Europe,Serbia,Europe,2003,802867
+Bosnia,Europe,Bosnia,Europe,2003,94087
+Bosnia,Europe,Greece,Europe,2003,0
+Bosnia,Europe,Bulgaria,Europe,2003,2733680
+Bosnia,Europe,Romania,Europe,2003,0
+Bosnia,Europe,Russia,Asia,2003,0
+Bosnia,Europe,Ukraine,Europe,2003,0
+Bosnia,Europe,Finland,Europe,2003,0
+Bosnia,Europe,Sweden,Europe,2003,0
+Bosnia,Europe,Norway,Europe,2003,0
+Bosnia,Europe,Denmark,Europe,2003,0
+Bosnia,Europe,South Africa,Africa,2003,0
+Bosnia,Europe,Turkey,Asia,2003,61800
+Bosnia,Europe,Israel,Asia,2003,0
+Bosnia,Europe,United Arab Emirates,Asia,2003,0
+Bosnia,Europe,Taiwan,Asia,2003,0
+Bosnia,Europe,South Korea,Asia,2003,0
+Bosnia,Europe,Japan,Asia,2003,0
+Bosnia,Europe,India,Asia,2003,0
+Bosnia,Europe,Pakistan,Asia,2003,0
+Bosnia,Europe,Thailand,Asia,2003,0
+Bosnia,Europe,Malaysia,Asia,2003,0
+Bosnia,Europe,Singapore,Asia,2003,0
+Bosnia,Europe,Philippines,Asia,2003,0
+Bosnia,Europe,Indonesia,Asia,2003,0
+Bosnia,Europe,Australia,Oceania,2003,0
+Bosnia,Europe,Cyprus,Europe,2003,0
+Bosnia,Europe,China,Asia,2003,0
+Bosnia,Europe,Ivory Coast,Africa,2003,0
+Bosnia,Europe,Congo,Africa,2003,0
+Greece,Europe,United States,North America,2003,475278
+Greece,Europe,Canada,North America,2003,0
+Greece,Europe,Mexico,North America,2003,0
+Greece,Europe,Brazil,South America,2003,0
+Greece,Europe,Argentina,South America,2003,0
+Greece,Europe,United Kingdom,Europe,2003,0
+Greece,Europe,Netherlands,Europe,2003,0
+Greece,Europe,Belgium,Europe,2003,0
+Greece,Europe,France,Europe,2003,0
+Greece,Europe,Switzerland,Europe,2003,0
+Greece,Europe,Spain,Europe,2003,0
+Greece,Europe,Portugal,Europe,2003,51034
+Greece,Europe,Germany,Europe,2003,0
+Greece,Europe,Poland,Europe,2003,0
+Greece,Europe,Austria,Europe,2003,0
+Greece,Europe,Hungary,Europe,2003,0
+Greece,Europe,Czech Republic,Europe,2003,0
+Greece,Europe,Slovakia,Europe,2003,0
+Greece,Europe,Italy,Europe,2003,8700
+Greece,Europe,Croatia,Europe,2003,0
+Greece,Europe,Serbia,Europe,2003,0
+Greece,Europe,Bosnia,Europe,2003,0
+Greece,Europe,Greece,Europe,2003,0
+Greece,Europe,Bulgaria,Europe,2003,0
+Greece,Europe,Romania,Europe,2003,181386
+Greece,Europe,Russia,Asia,2003,0
+Greece,Europe,Ukraine,Europe,2003,0
+Greece,Europe,Finland,Europe,2003,0
+Greece,Europe,Sweden,Europe,2003,0
+Greece,Europe,Norway,Europe,2003,0
+Greece,Europe,Denmark,Europe,2003,0
+Greece,Europe,South Africa,Africa,2003,0
+Greece,Europe,Turkey,Asia,2003,4591
+Greece,Europe,Israel,Asia,2003,0
+Greece,Europe,United Arab Emirates,Asia,2003,0
+Greece,Europe,Taiwan,Asia,2003,0
+Greece,Europe,South Korea,Asia,2003,0
+Greece,Europe,Japan,Asia,2003,0
+Greece,Europe,India,Asia,2003,0
+Greece,Europe,Pakistan,Asia,2003,0
+Greece,Europe,Thailand,Asia,2003,0
+Greece,Europe,Malaysia,Asia,2003,0
+Greece,Europe,Singapore,Asia,2003,0
+Greece,Europe,Philippines,Asia,2003,0
+Greece,Europe,Indonesia,Asia,2003,0
+Greece,Europe,Australia,Oceania,2003,0
+Greece,Europe,Cyprus,Europe,2003,582178
+Greece,Europe,China,Asia,2003,0
+Greece,Europe,Ivory Coast,Africa,2003,0
+Greece,Europe,Congo,Africa,2003,0
+Bulgaria,Europe,United States,North America,2003,1394965
+Bulgaria,Europe,Canada,North America,2003,0
+Bulgaria,Europe,Mexico,North America,2003,0
+Bulgaria,Europe,Brazil,South America,2003,0
+Bulgaria,Europe,Argentina,South America,2003,0
+Bulgaria,Europe,United Kingdom,Europe,2003,4506
+Bulgaria,Europe,Netherlands,Europe,2003,0
+Bulgaria,Europe,Belgium,Europe,2003,0
+Bulgaria,Europe,France,Europe,2003,0
+Bulgaria,Europe,Switzerland,Europe,2003,35891
+Bulgaria,Europe,Spain,Europe,2003,0
+Bulgaria,Europe,Portugal,Europe,2003,0
+Bulgaria,Europe,Germany,Europe,2003,105971
+Bulgaria,Europe,Poland,Europe,2003,0
+Bulgaria,Europe,Austria,Europe,2003,0
+Bulgaria,Europe,Hungary,Europe,2003,0
+Bulgaria,Europe,Czech Republic,Europe,2003,15568
+Bulgaria,Europe,Slovakia,Europe,2003,10244
+Bulgaria,Europe,Italy,Europe,2003,0
+Bulgaria,Europe,Croatia,Europe,2003,0
+Bulgaria,Europe,Serbia,Europe,2003,0
+Bulgaria,Europe,Bosnia,Europe,2003,0
+Bulgaria,Europe,Greece,Europe,2003,0
+Bulgaria,Europe,Bulgaria,Europe,2003,0
+Bulgaria,Europe,Romania,Europe,2003,0
+Bulgaria,Europe,Russia,Asia,2003,0
+Bulgaria,Europe,Ukraine,Europe,2003,0
+Bulgaria,Europe,Finland,Europe,2003,6582
+Bulgaria,Europe,Sweden,Europe,2003,0
+Bulgaria,Europe,Norway,Europe,2003,0
+Bulgaria,Europe,Denmark,Europe,2003,0
+Bulgaria,Europe,South Africa,Africa,2003,0
+Bulgaria,Europe,Turkey,Asia,2003,0
+Bulgaria,Europe,Israel,Asia,2003,0
+Bulgaria,Europe,United Arab Emirates,Asia,2003,0
+Bulgaria,Europe,Taiwan,Asia,2003,0
+Bulgaria,Europe,South Korea,Asia,2003,0
+Bulgaria,Europe,Japan,Asia,2003,0
+Bulgaria,Europe,India,Asia,2003,0
+Bulgaria,Europe,Pakistan,Asia,2003,0
+Bulgaria,Europe,Thailand,Asia,2003,0
+Bulgaria,Europe,Malaysia,Asia,2003,0
+Bulgaria,Europe,Singapore,Asia,2003,0
+Bulgaria,Europe,Philippines,Asia,2003,0
+Bulgaria,Europe,Indonesia,Asia,2003,0
+Bulgaria,Europe,Australia,Oceania,2003,0
+Bulgaria,Europe,Cyprus,Europe,2003,0
+Bulgaria,Europe,China,Asia,2003,0
+Bulgaria,Europe,Ivory Coast,Africa,2003,0
+Bulgaria,Europe,Congo,Africa,2003,0
+Romania,Europe,United States,North America,2003,18680680
+Romania,Europe,Canada,North America,2003,0
+Romania,Europe,Mexico,North America,2003,0
+Romania,Europe,Brazil,South America,2003,0
+Romania,Europe,Argentina,South America,2003,0
+Romania,Europe,United Kingdom,Europe,2003,5431
+Romania,Europe,Netherlands,Europe,2003,0
+Romania,Europe,Belgium,Europe,2003,0
+Romania,Europe,France,Europe,2003,9533
+Romania,Europe,Switzerland,Europe,2003,2962
+Romania,Europe,Spain,Europe,2003,0
+Romania,Europe,Portugal,Europe,2003,0
+Romania,Europe,Germany,Europe,2003,0
+Romania,Europe,Poland,Europe,2003,0
+Romania,Europe,Austria,Europe,2003,5858
+Romania,Europe,Hungary,Europe,2003,0
+Romania,Europe,Czech Republic,Europe,2003,0
+Romania,Europe,Slovakia,Europe,2003,0
+Romania,Europe,Italy,Europe,2003,0
+Romania,Europe,Croatia,Europe,2003,0
+Romania,Europe,Serbia,Europe,2003,0
+Romania,Europe,Bosnia,Europe,2003,0
+Romania,Europe,Greece,Europe,2003,0
+Romania,Europe,Bulgaria,Europe,2003,0
+Romania,Europe,Romania,Europe,2003,0
+Romania,Europe,Russia,Asia,2003,0
+Romania,Europe,Ukraine,Europe,2003,0
+Romania,Europe,Finland,Europe,2003,0
+Romania,Europe,Sweden,Europe,2003,0
+Romania,Europe,Norway,Europe,2003,268588
+Romania,Europe,Denmark,Europe,2003,0
+Romania,Europe,South Africa,Africa,2003,0
+Romania,Europe,Turkey,Asia,2003,563949
+Romania,Europe,Israel,Asia,2003,0
+Romania,Europe,United Arab Emirates,Asia,2003,0
+Romania,Europe,Taiwan,Asia,2003,0
+Romania,Europe,South Korea,Asia,2003,0
+Romania,Europe,Japan,Asia,2003,0
+Romania,Europe,India,Asia,2003,24084
+Romania,Europe,Pakistan,Asia,2003,0
+Romania,Europe,Thailand,Asia,2003,0
+Romania,Europe,Malaysia,Asia,2003,0
+Romania,Europe,Singapore,Asia,2003,0
+Romania,Europe,Philippines,Asia,2003,0
+Romania,Europe,Indonesia,Asia,2003,0
+Romania,Europe,Australia,Oceania,2003,0
+Romania,Europe,Cyprus,Europe,2003,0
+Romania,Europe,China,Asia,2003,0
+Romania,Europe,Ivory Coast,Africa,2003,0
+Romania,Europe,Congo,Africa,2003,0
+Russia,Asia,United States,North America,2003,30545353
+Russia,Asia,Canada,North America,2003,151006
+Russia,Asia,Mexico,North America,2003,0
+Russia,Asia,Brazil,South America,2003,0
+Russia,Asia,Argentina,South America,2003,0
+Russia,Asia,United Kingdom,Europe,2003,79898
+Russia,Asia,Netherlands,Europe,2003,34056
+Russia,Asia,Belgium,Europe,2003,60161
+Russia,Asia,France,Europe,2003,235399
+Russia,Asia,Switzerland,Europe,2003,1187
+Russia,Asia,Spain,Europe,2003,0
+Russia,Asia,Portugal,Europe,2003,27574
+Russia,Asia,Germany,Europe,2003,3458502
+Russia,Asia,Poland,Europe,2003,1272881
+Russia,Asia,Austria,Europe,2003,423124
+Russia,Asia,Hungary,Europe,2003,263723
+Russia,Asia,Czech Republic,Europe,2003,297383
+Russia,Asia,Slovakia,Europe,2003,36993
+Russia,Asia,Italy,Europe,2003,347052
+Russia,Asia,Croatia,Europe,2003,16673
+Russia,Asia,Serbia,Europe,2003,34825
+Russia,Asia,Bosnia,Europe,2003,226211
+Russia,Asia,Greece,Europe,2003,29869
+Russia,Asia,Bulgaria,Europe,2003,453497
+Russia,Asia,Romania,Europe,2003,0
+Russia,Asia,Russia,Asia,2003,0
+Russia,Asia,Ukraine,Europe,2003,1370918
+Russia,Asia,Finland,Europe,2003,864142
+Russia,Asia,Sweden,Europe,2003,14464
+Russia,Asia,Norway,Europe,2003,173305
+Russia,Asia,Denmark,Europe,2003,31309
+Russia,Asia,South Africa,Africa,2003,31812
+Russia,Asia,Turkey,Asia,2003,0
+Russia,Asia,Israel,Asia,2003,0
+Russia,Asia,United Arab Emirates,Asia,2003,0
+Russia,Asia,Taiwan,Asia,2003,0
+Russia,Asia,South Korea,Asia,2003,0
+Russia,Asia,Japan,Asia,2003,0
+Russia,Asia,India,Asia,2003,0
+Russia,Asia,Pakistan,Asia,2003,0
+Russia,Asia,Thailand,Asia,2003,86565
+Russia,Asia,Malaysia,Asia,2003,0
+Russia,Asia,Singapore,Asia,2003,0
+Russia,Asia,Philippines,Asia,2003,0
+Russia,Asia,Indonesia,Asia,2003,0
+Russia,Asia,Australia,Oceania,2003,38616
+Russia,Asia,Cyprus,Europe,2003,4357361
+Russia,Asia,China,Asia,2003,0
+Russia,Asia,Ivory Coast,Africa,2003,0
+Russia,Asia,Congo,Africa,2003,0
+Ukraine,Europe,United States,North America,2003,1241752
+Ukraine,Europe,Canada,North America,2003,0
+Ukraine,Europe,Mexico,North America,2003,0
+Ukraine,Europe,Brazil,South America,2003,0
+Ukraine,Europe,Argentina,South America,2003,0
+Ukraine,Europe,United Kingdom,Europe,2003,0
+Ukraine,Europe,Netherlands,Europe,2003,0
+Ukraine,Europe,Belgium,Europe,2003,0
+Ukraine,Europe,France,Europe,2003,0
+Ukraine,Europe,Switzerland,Europe,2003,0
+Ukraine,Europe,Spain,Europe,2003,0
+Ukraine,Europe,Portugal,Europe,2003,0
+Ukraine,Europe,Germany,Europe,2003,210738
+Ukraine,Europe,Poland,Europe,2003,0
+Ukraine,Europe,Austria,Europe,2003,3525
+Ukraine,Europe,Hungary,Europe,2003,2408
+Ukraine,Europe,Czech Republic,Europe,2003,157966
+Ukraine,Europe,Slovakia,Europe,2003,2095
+Ukraine,Europe,Italy,Europe,2003,0
+Ukraine,Europe,Croatia,Europe,2003,0
+Ukraine,Europe,Serbia,Europe,2003,0
+Ukraine,Europe,Bosnia,Europe,2003,0
+Ukraine,Europe,Greece,Europe,2003,0
+Ukraine,Europe,Bulgaria,Europe,2003,0
+Ukraine,Europe,Romania,Europe,2003,0
+Ukraine,Europe,Russia,Asia,2003,0
+Ukraine,Europe,Ukraine,Europe,2003,0
+Ukraine,Europe,Finland,Europe,2003,0
+Ukraine,Europe,Sweden,Europe,2003,0
+Ukraine,Europe,Norway,Europe,2003,0
+Ukraine,Europe,Denmark,Europe,2003,0
+Ukraine,Europe,South Africa,Africa,2003,0
+Ukraine,Europe,Turkey,Asia,2003,0
+Ukraine,Europe,Israel,Asia,2003,0
+Ukraine,Europe,United Arab Emirates,Asia,2003,0
+Ukraine,Europe,Taiwan,Asia,2003,0
+Ukraine,Europe,South Korea,Asia,2003,0
+Ukraine,Europe,Japan,Asia,2003,0
+Ukraine,Europe,India,Asia,2003,0
+Ukraine,Europe,Pakistan,Asia,2003,0
+Ukraine,Europe,Thailand,Asia,2003,8005
+Ukraine,Europe,Malaysia,Asia,2003,0
+Ukraine,Europe,Singapore,Asia,2003,0
+Ukraine,Europe,Philippines,Asia,2003,0
+Ukraine,Europe,Indonesia,Asia,2003,0
+Ukraine,Europe,Australia,Oceania,2003,0
+Ukraine,Europe,Cyprus,Europe,2003,0
+Ukraine,Europe,China,Asia,2003,0
+Ukraine,Europe,Ivory Coast,Africa,2003,0
+Ukraine,Europe,Congo,Africa,2003,0
+Finland,Europe,United States,North America,2003,7761732
+Finland,Europe,Canada,North America,2003,1506426
+Finland,Europe,Mexico,North America,2003,0
+Finland,Europe,Brazil,South America,2003,239754
+Finland,Europe,Argentina,South America,2003,31829
+Finland,Europe,United Kingdom,Europe,2003,2787729
+Finland,Europe,Netherlands,Europe,2003,270362
+Finland,Europe,Belgium,Europe,2003,287605
+Finland,Europe,France,Europe,2003,630409
+Finland,Europe,Switzerland,Europe,2003,201447
+Finland,Europe,Spain,Europe,2003,322323
+Finland,Europe,Portugal,Europe,2003,37451
+Finland,Europe,Germany,Europe,2003,2096978
+Finland,Europe,Poland,Europe,2003,469708
+Finland,Europe,Austria,Europe,2003,343835
+Finland,Europe,Hungary,Europe,2003,263152
+Finland,Europe,Czech Republic,Europe,2003,382381
+Finland,Europe,Slovakia,Europe,2003,111585
+Finland,Europe,Italy,Europe,2003,2041677
+Finland,Europe,Croatia,Europe,2003,0
+Finland,Europe,Serbia,Europe,2003,0
+Finland,Europe,Bosnia,Europe,2003,0
+Finland,Europe,Greece,Europe,2003,31190
+Finland,Europe,Bulgaria,Europe,2003,64192
+Finland,Europe,Romania,Europe,2003,9283
+Finland,Europe,Russia,Asia,2003,498658
+Finland,Europe,Ukraine,Europe,2003,29438
+Finland,Europe,Finland,Europe,2003,0
+Finland,Europe,Sweden,Europe,2003,4227336
+Finland,Europe,Norway,Europe,2003,3023684
+Finland,Europe,Denmark,Europe,2003,1229776
+Finland,Europe,South Africa,Africa,2003,282178
+Finland,Europe,Turkey,Asia,2003,4786
+Finland,Europe,Israel,Asia,2003,0
+Finland,Europe,United Arab Emirates,Asia,2003,1193839
+Finland,Europe,Taiwan,Asia,2003,0
+Finland,Europe,South Korea,Asia,2003,287614
+Finland,Europe,Japan,Asia,2003,514886
+Finland,Europe,India,Asia,2003,0
+Finland,Europe,Pakistan,Asia,2003,0
+Finland,Europe,Thailand,Asia,2003,15951
+Finland,Europe,Malaysia,Asia,2003,9031
+Finland,Europe,Singapore,Asia,2003,120766
+Finland,Europe,Philippines,Asia,2003,0
+Finland,Europe,Indonesia,Asia,2003,0
+Finland,Europe,Australia,Oceania,2003,1871641
+Finland,Europe,Cyprus,Europe,2003,335
+Finland,Europe,China,Asia,2003,254737
+Finland,Europe,Ivory Coast,Africa,2003,0
+Finland,Europe,Congo,Africa,2003,0
+Sweden,Europe,United States,North America,2003,2659354
+Sweden,Europe,Canada,North America,2003,152395
+Sweden,Europe,Mexico,North America,2003,1251892
+Sweden,Europe,Brazil,South America,2003,0
+Sweden,Europe,Argentina,South America,2003,0
+Sweden,Europe,United Kingdom,Europe,2003,603862
+Sweden,Europe,Netherlands,Europe,2003,45544
+Sweden,Europe,Belgium,Europe,2003,234688
+Sweden,Europe,France,Europe,2003,1749785
+Sweden,Europe,Switzerland,Europe,2003,135608
+Sweden,Europe,Spain,Europe,2003,875382
+Sweden,Europe,Portugal,Europe,2003,56447
+Sweden,Europe,Germany,Europe,2003,3250723
+Sweden,Europe,Poland,Europe,2003,173372
+Sweden,Europe,Austria,Europe,2003,218920
+Sweden,Europe,Hungary,Europe,2003,156798
+Sweden,Europe,Czech Republic,Europe,2003,234689
+Sweden,Europe,Slovakia,Europe,2003,32106
+Sweden,Europe,Italy,Europe,2003,622404
+Sweden,Europe,Croatia,Europe,2003,70050
+Sweden,Europe,Serbia,Europe,2003,0
+Sweden,Europe,Bosnia,Europe,2003,16023
+Sweden,Europe,Greece,Europe,2003,0
+Sweden,Europe,Bulgaria,Europe,2003,47038
+Sweden,Europe,Romania,Europe,2003,19711
+Sweden,Europe,Russia,Asia,2003,403281
+Sweden,Europe,Ukraine,Europe,2003,0
+Sweden,Europe,Finland,Europe,2003,783067
+Sweden,Europe,Sweden,Europe,2003,0
+Sweden,Europe,Norway,Europe,2003,4763013
+Sweden,Europe,Denmark,Europe,2003,2751512
+Sweden,Europe,South Africa,Africa,2003,46292
+Sweden,Europe,Turkey,Asia,2003,391099
+Sweden,Europe,Israel,Asia,2003,0
+Sweden,Europe,United Arab Emirates,Asia,2003,0
+Sweden,Europe,Taiwan,Asia,2003,0
+Sweden,Europe,South Korea,Asia,2003,0
+Sweden,Europe,Japan,Asia,2003,415980
+Sweden,Europe,India,Asia,2003,0
+Sweden,Europe,Pakistan,Asia,2003,0
+Sweden,Europe,Thailand,Asia,2003,0
+Sweden,Europe,Malaysia,Asia,2003,0
+Sweden,Europe,Singapore,Asia,2003,0
+Sweden,Europe,Philippines,Asia,2003,0
+Sweden,Europe,Indonesia,Asia,2003,20266
+Sweden,Europe,Australia,Oceania,2003,596055
+Sweden,Europe,Cyprus,Europe,2003,2986
+Sweden,Europe,China,Asia,2003,0
+Sweden,Europe,Ivory Coast,Africa,2003,0
+Sweden,Europe,Congo,Africa,2003,0
+Norway,Europe,United States,North America,2003,1762981
+Norway,Europe,Canada,North America,2003,17833
+Norway,Europe,Mexico,North America,2003,0
+Norway,Europe,Brazil,South America,2003,0
+Norway,Europe,Argentina,South America,2003,0
+Norway,Europe,United Kingdom,Europe,2003,1676745
+Norway,Europe,Netherlands,Europe,2003,5221
+Norway,Europe,Belgium,Europe,2003,0
+Norway,Europe,France,Europe,2003,0
+Norway,Europe,Switzerland,Europe,2003,2508108
+Norway,Europe,Spain,Europe,2003,63251009
+Norway,Europe,Portugal,Europe,2003,0
+Norway,Europe,Germany,Europe,2003,42636
+Norway,Europe,Poland,Europe,2003,54041
+Norway,Europe,Austria,Europe,2003,3215
+Norway,Europe,Hungary,Europe,2003,0
+Norway,Europe,Czech Republic,Europe,2003,57289
+Norway,Europe,Slovakia,Europe,2003,7404
+Norway,Europe,Italy,Europe,2003,3439230
+Norway,Europe,Croatia,Europe,2003,0
+Norway,Europe,Serbia,Europe,2003,0
+Norway,Europe,Bosnia,Europe,2003,0
+Norway,Europe,Greece,Europe,2003,0
+Norway,Europe,Bulgaria,Europe,2003,0
+Norway,Europe,Romania,Europe,2003,0
+Norway,Europe,Russia,Asia,2003,0
+Norway,Europe,Ukraine,Europe,2003,0
+Norway,Europe,Finland,Europe,2003,1242145
+Norway,Europe,Sweden,Europe,2003,225416
+Norway,Europe,Norway,Europe,2003,0
+Norway,Europe,Denmark,Europe,2003,726995
+Norway,Europe,South Africa,Africa,2003,0
+Norway,Europe,Turkey,Asia,2003,0
+Norway,Europe,Israel,Asia,2003,0
+Norway,Europe,United Arab Emirates,Asia,2003,0
+Norway,Europe,Taiwan,Asia,2003,0
+Norway,Europe,South Korea,Asia,2003,0
+Norway,Europe,Japan,Asia,2003,0
+Norway,Europe,India,Asia,2003,0
+Norway,Europe,Pakistan,Asia,2003,0
+Norway,Europe,Thailand,Asia,2003,724849
+Norway,Europe,Malaysia,Asia,2003,1567169
+Norway,Europe,Singapore,Asia,2003,1357155
+Norway,Europe,Philippines,Asia,2003,0
+Norway,Europe,Indonesia,Asia,2003,0
+Norway,Europe,Australia,Oceania,2003,2483363
+Norway,Europe,Cyprus,Europe,2003,0
+Norway,Europe,China,Asia,2003,0
+Norway,Europe,Ivory Coast,Africa,2003,0
+Norway,Europe,Congo,Africa,2003,0
+Denmark,Europe,United States,North America,2003,58811
+Denmark,Europe,Canada,North America,2003,94681
+Denmark,Europe,Mexico,North America,2003,0
+Denmark,Europe,Brazil,South America,2003,0
+Denmark,Europe,Argentina,South America,2003,0
+Denmark,Europe,United Kingdom,Europe,2003,13590
+Denmark,Europe,Netherlands,Europe,2003,80882
+Denmark,Europe,Belgium,Europe,2003,16928
+Denmark,Europe,France,Europe,2003,1361
+Denmark,Europe,Switzerland,Europe,2003,52136
+Denmark,Europe,Spain,Europe,2003,0
+Denmark,Europe,Portugal,Europe,2003,0
+Denmark,Europe,Germany,Europe,2003,155351
+Denmark,Europe,Poland,Europe,2003,273
+Denmark,Europe,Austria,Europe,2003,1019
+Denmark,Europe,Hungary,Europe,2003,0
+Denmark,Europe,Czech Republic,Europe,2003,0
+Denmark,Europe,Slovakia,Europe,2003,1031
+Denmark,Europe,Italy,Europe,2003,2110
+Denmark,Europe,Croatia,Europe,2003,0
+Denmark,Europe,Serbia,Europe,2003,0
+Denmark,Europe,Bosnia,Europe,2003,0
+Denmark,Europe,Greece,Europe,2003,0
+Denmark,Europe,Bulgaria,Europe,2003,0
+Denmark,Europe,Romania,Europe,2003,0
+Denmark,Europe,Russia,Asia,2003,0
+Denmark,Europe,Ukraine,Europe,2003,0
+Denmark,Europe,Finland,Europe,2003,0
+Denmark,Europe,Sweden,Europe,2003,1554083
+Denmark,Europe,Norway,Europe,2003,212907
+Denmark,Europe,Denmark,Europe,2003,0
+Denmark,Europe,South Africa,Africa,2003,6134
+Denmark,Europe,Turkey,Asia,2003,0
+Denmark,Europe,Israel,Asia,2003,0
+Denmark,Europe,United Arab Emirates,Asia,2003,0
+Denmark,Europe,Taiwan,Asia,2003,0
+Denmark,Europe,South Korea,Asia,2003,0
+Denmark,Europe,Japan,Asia,2003,3295
+Denmark,Europe,India,Asia,2003,0
+Denmark,Europe,Pakistan,Asia,2003,0
+Denmark,Europe,Thailand,Asia,2003,0
+Denmark,Europe,Malaysia,Asia,2003,0
+Denmark,Europe,Singapore,Asia,2003,0
+Denmark,Europe,Philippines,Asia,2003,4934
+Denmark,Europe,Indonesia,Asia,2003,0
+Denmark,Europe,Australia,Oceania,2003,8455
+Denmark,Europe,Cyprus,Europe,2003,0
+Denmark,Europe,China,Asia,2003,0
+Denmark,Europe,Ivory Coast,Africa,2003,0
+Denmark,Europe,Congo,Africa,2003,0
+South Africa,Africa,United States,North America,2003,3219451
+South Africa,Africa,Canada,North America,2003,33530
+South Africa,Africa,Mexico,North America,2003,0
+South Africa,Africa,Brazil,South America,2003,395000
+South Africa,Africa,Argentina,South America,2003,0
+South Africa,Africa,United Kingdom,Europe,2003,407454
+South Africa,Africa,Netherlands,Europe,2003,79009
+South Africa,Africa,Belgium,Europe,2003,7236
+South Africa,Africa,France,Europe,2003,38133
+South Africa,Africa,Switzerland,Europe,2003,9214
+South Africa,Africa,Spain,Europe,2003,0
+South Africa,Africa,Portugal,Europe,2003,0
+South Africa,Africa,Germany,Europe,2003,392572
+South Africa,Africa,Poland,Europe,2003,0
+South Africa,Africa,Austria,Europe,2003,228686
+South Africa,Africa,Hungary,Europe,2003,0
+South Africa,Africa,Czech Republic,Europe,2003,14982
+South Africa,Africa,Slovakia,Europe,2003,0
+South Africa,Africa,Italy,Europe,2003,28610
+South Africa,Africa,Croatia,Europe,2003,0
+South Africa,Africa,Serbia,Europe,2003,0
+South Africa,Africa,Bosnia,Europe,2003,0
+South Africa,Africa,Greece,Europe,2003,0
+South Africa,Africa,Bulgaria,Europe,2003,0
+South Africa,Africa,Romania,Europe,2003,0
+South Africa,Africa,Russia,Asia,2003,0
+South Africa,Africa,Ukraine,Europe,2003,0
+South Africa,Africa,Finland,Europe,2003,85610
+South Africa,Africa,Sweden,Europe,2003,65525
+South Africa,Africa,Norway,Europe,2003,3794
+South Africa,Africa,Denmark,Europe,2003,0
+South Africa,Africa,South Africa,Africa,2003,0
+South Africa,Africa,Turkey,Asia,2003,0
+South Africa,Africa,Israel,Asia,2003,0
+South Africa,Africa,United Arab Emirates,Asia,2003,0
+South Africa,Africa,Taiwan,Asia,2003,0
+South Africa,Africa,South Korea,Asia,2003,0
+South Africa,Africa,Japan,Asia,2003,0
+South Africa,Africa,India,Asia,2003,0
+South Africa,Africa,Pakistan,Asia,2003,0
+South Africa,Africa,Thailand,Asia,2003,0
+South Africa,Africa,Malaysia,Asia,2003,2981
+South Africa,Africa,Singapore,Asia,2003,0
+South Africa,Africa,Philippines,Asia,2003,0
+South Africa,Africa,Indonesia,Asia,2003,0
+South Africa,Africa,Australia,Oceania,2003,84838
+South Africa,Africa,Cyprus,Europe,2003,2645
+South Africa,Africa,China,Asia,2003,0
+South Africa,Africa,Ivory Coast,Africa,2003,0
+South Africa,Africa,Congo,Africa,2003,0
+Turkey,Asia,United States,North America,2003,17192894
+Turkey,Asia,Canada,North America,2003,73024
+Turkey,Asia,Mexico,North America,2003,516
+Turkey,Asia,Brazil,South America,2003,0
+Turkey,Asia,Argentina,South America,2003,30910
+Turkey,Asia,United Kingdom,Europe,2003,92577
+Turkey,Asia,Netherlands,Europe,2003,17598
+Turkey,Asia,Belgium,Europe,2003,52700
+Turkey,Asia,France,Europe,2003,1338291
+Turkey,Asia,Switzerland,Europe,2003,513959
+Turkey,Asia,Spain,Europe,2003,36462
+Turkey,Asia,Portugal,Europe,2003,294372
+Turkey,Asia,Germany,Europe,2003,24463851
+Turkey,Asia,Poland,Europe,2003,25883
+Turkey,Asia,Austria,Europe,2003,102384
+Turkey,Asia,Hungary,Europe,2003,43614
+Turkey,Asia,Czech Republic,Europe,2003,99155
+Turkey,Asia,Slovakia,Europe,2003,47005
+Turkey,Asia,Italy,Europe,2003,779967
+Turkey,Asia,Croatia,Europe,2003,11016
+Turkey,Asia,Serbia,Europe,2003,0
+Turkey,Asia,Bosnia,Europe,2003,53890
+Turkey,Asia,Greece,Europe,2003,360196
+Turkey,Asia,Bulgaria,Europe,2003,98123
+Turkey,Asia,Romania,Europe,2003,14539
+Turkey,Asia,Russia,Asia,2003,51578
+Turkey,Asia,Ukraine,Europe,2003,67892
+Turkey,Asia,Finland,Europe,2003,176384
+Turkey,Asia,Sweden,Europe,2003,160308
+Turkey,Asia,Norway,Europe,2003,316584
+Turkey,Asia,Denmark,Europe,2003,145025
+Turkey,Asia,South Africa,Africa,2003,107276
+Turkey,Asia,Turkey,Asia,2003,0
+Turkey,Asia,Israel,Asia,2003,96978
+Turkey,Asia,United Arab Emirates,Asia,2003,0
+Turkey,Asia,Taiwan,Asia,2003,0
+Turkey,Asia,South Korea,Asia,2003,24906
+Turkey,Asia,Japan,Asia,2003,137
+Turkey,Asia,India,Asia,2003,0
+Turkey,Asia,Pakistan,Asia,2003,1700
+Turkey,Asia,Thailand,Asia,2003,0
+Turkey,Asia,Malaysia,Asia,2003,23939
+Turkey,Asia,Singapore,Asia,2003,5304
+Turkey,Asia,Philippines,Asia,2003,142817
+Turkey,Asia,Indonesia,Asia,2003,0
+Turkey,Asia,Australia,Oceania,2003,10933
+Turkey,Asia,Cyprus,Europe,2003,245198
+Turkey,Asia,China,Asia,2003,0
+Turkey,Asia,Ivory Coast,Africa,2003,0
+Turkey,Asia,Congo,Africa,2003,0
+Israel,Asia,United States,North America,2003,8934957
+Israel,Asia,Canada,North America,2003,49982
+Israel,Asia,Mexico,North America,2003,1451348
+Israel,Asia,Brazil,South America,2003,266113
+Israel,Asia,Argentina,South America,2003,5099
+Israel,Asia,United Kingdom,Europe,2003,9610
+Israel,Asia,Netherlands,Europe,2003,0
+Israel,Asia,Belgium,Europe,2003,0
+Israel,Asia,France,Europe,2003,0
+Israel,Asia,Switzerland,Europe,2003,48535
+Israel,Asia,Spain,Europe,2003,14615
+Israel,Asia,Portugal,Europe,2003,0
+Israel,Asia,Germany,Europe,2003,951331
+Israel,Asia,Poland,Europe,2003,0
+Israel,Asia,Austria,Europe,2003,18254
+Israel,Asia,Hungary,Europe,2003,0
+Israel,Asia,Czech Republic,Europe,2003,29954
+Israel,Asia,Slovakia,Europe,2003,16028
+Israel,Asia,Italy,Europe,2003,8065
+Israel,Asia,Croatia,Europe,2003,240
+Israel,Asia,Serbia,Europe,2003,0
+Israel,Asia,Bosnia,Europe,2003,0
+Israel,Asia,Greece,Europe,2003,0
+Israel,Asia,Bulgaria,Europe,2003,0
+Israel,Asia,Romania,Europe,2003,0
+Israel,Asia,Russia,Asia,2003,0
+Israel,Asia,Ukraine,Europe,2003,0
+Israel,Asia,Finland,Europe,2003,2275
+Israel,Asia,Sweden,Europe,2003,0
+Israel,Asia,Norway,Europe,2003,3883
+Israel,Asia,Denmark,Europe,2003,532537
+Israel,Asia,South Africa,Africa,2003,0
+Israel,Asia,Turkey,Asia,2003,133508
+Israel,Asia,Israel,Asia,2003,0
+Israel,Asia,United Arab Emirates,Asia,2003,0
+Israel,Asia,Taiwan,Asia,2003,0
+Israel,Asia,South Korea,Asia,2003,6957
+Israel,Asia,Japan,Asia,2003,2914
+Israel,Asia,India,Asia,2003,156221
+Israel,Asia,Pakistan,Asia,2003,0
+Israel,Asia,Thailand,Asia,2003,58453
+Israel,Asia,Malaysia,Asia,2003,0
+Israel,Asia,Singapore,Asia,2003,0
+Israel,Asia,Philippines,Asia,2003,88314
+Israel,Asia,Indonesia,Asia,2003,0
+Israel,Asia,Australia,Oceania,2003,0
+Israel,Asia,Cyprus,Europe,2003,0
+Israel,Asia,China,Asia,2003,0
+Israel,Asia,Ivory Coast,Africa,2003,0
+Israel,Asia,Congo,Africa,2003,0
+United Arab Emirates,Asia,United States,North America,2003,0
+United Arab Emirates,Asia,Canada,North America,2003,0
+United Arab Emirates,Asia,Mexico,North America,2003,0
+United Arab Emirates,Asia,Brazil,South America,2003,0
+United Arab Emirates,Asia,Argentina,South America,2003,0
+United Arab Emirates,Asia,United Kingdom,Europe,2003,0
+United Arab Emirates,Asia,Netherlands,Europe,2003,0
+United Arab Emirates,Asia,Belgium,Europe,2003,2581
+United Arab Emirates,Asia,France,Europe,2003,0
+United Arab Emirates,Asia,Switzerland,Europe,2003,0
+United Arab Emirates,Asia,Spain,Europe,2003,0
+United Arab Emirates,Asia,Portugal,Europe,2003,0
+United Arab Emirates,Asia,Germany,Europe,2003,0
+United Arab Emirates,Asia,Poland,Europe,2003,0
+United Arab Emirates,Asia,Austria,Europe,2003,12130
+United Arab Emirates,Asia,Hungary,Europe,2003,0
+United Arab Emirates,Asia,Czech Republic,Europe,2003,0
+United Arab Emirates,Asia,Slovakia,Europe,2003,0
+United Arab Emirates,Asia,Italy,Europe,2003,0
+United Arab Emirates,Asia,Croatia,Europe,2003,0
+United Arab Emirates,Asia,Serbia,Europe,2003,0
+United Arab Emirates,Asia,Bosnia,Europe,2003,0
+United Arab Emirates,Asia,Greece,Europe,2003,0
+United Arab Emirates,Asia,Bulgaria,Europe,2003,0
+United Arab Emirates,Asia,Romania,Europe,2003,0
+United Arab Emirates,Asia,Russia,Asia,2003,0
+United Arab Emirates,Asia,Ukraine,Europe,2003,0
+United Arab Emirates,Asia,Finland,Europe,2003,0
+United Arab Emirates,Asia,Sweden,Europe,2003,0
+United Arab Emirates,Asia,Norway,Europe,2003,0
+United Arab Emirates,Asia,Denmark,Europe,2003,0
+United Arab Emirates,Asia,South Africa,Africa,2003,0
+United Arab Emirates,Asia,Turkey,Asia,2003,0
+United Arab Emirates,Asia,Israel,Asia,2003,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,2003,0
+United Arab Emirates,Asia,Taiwan,Asia,2003,0
+United Arab Emirates,Asia,South Korea,Asia,2003,0
+United Arab Emirates,Asia,Japan,Asia,2003,0
+United Arab Emirates,Asia,India,Asia,2003,6359
+United Arab Emirates,Asia,Pakistan,Asia,2003,0
+United Arab Emirates,Asia,Thailand,Asia,2003,0
+United Arab Emirates,Asia,Malaysia,Asia,2003,0
+United Arab Emirates,Asia,Singapore,Asia,2003,0
+United Arab Emirates,Asia,Philippines,Asia,2003,0
+United Arab Emirates,Asia,Indonesia,Asia,2003,0
+United Arab Emirates,Asia,Australia,Oceania,2003,0
+United Arab Emirates,Asia,Cyprus,Europe,2003,0
+United Arab Emirates,Asia,China,Asia,2003,0
+United Arab Emirates,Asia,Ivory Coast,Africa,2003,0
+United Arab Emirates,Asia,Congo,Africa,2003,0
+Taiwan,Asia,United States,North America,2003,102798
+Taiwan,Asia,Canada,North America,2003,16678
+Taiwan,Asia,Mexico,North America,2003,0
+Taiwan,Asia,Brazil,South America,2003,0
+Taiwan,Asia,Argentina,South America,2003,0
+Taiwan,Asia,United Kingdom,Europe,2003,0
+Taiwan,Asia,Netherlands,Europe,2003,0
+Taiwan,Asia,Belgium,Europe,2003,0
+Taiwan,Asia,France,Europe,2003,0
+Taiwan,Asia,Switzerland,Europe,2003,0
+Taiwan,Asia,Spain,Europe,2003,0
+Taiwan,Asia,Portugal,Europe,2003,0
+Taiwan,Asia,Germany,Europe,2003,0
+Taiwan,Asia,Poland,Europe,2003,0
+Taiwan,Asia,Austria,Europe,2003,435
+Taiwan,Asia,Hungary,Europe,2003,0
+Taiwan,Asia,Czech Republic,Europe,2003,4017
+Taiwan,Asia,Slovakia,Europe,2003,0
+Taiwan,Asia,Italy,Europe,2003,0
+Taiwan,Asia,Croatia,Europe,2003,0
+Taiwan,Asia,Serbia,Europe,2003,0
+Taiwan,Asia,Bosnia,Europe,2003,0
+Taiwan,Asia,Greece,Europe,2003,0
+Taiwan,Asia,Bulgaria,Europe,2003,0
+Taiwan,Asia,Romania,Europe,2003,0
+Taiwan,Asia,Russia,Asia,2003,0
+Taiwan,Asia,Ukraine,Europe,2003,0
+Taiwan,Asia,Finland,Europe,2003,0
+Taiwan,Asia,Sweden,Europe,2003,8209
+Taiwan,Asia,Norway,Europe,2003,0
+Taiwan,Asia,Denmark,Europe,2003,0
+Taiwan,Asia,South Africa,Africa,2003,0
+Taiwan,Asia,Turkey,Asia,2003,0
+Taiwan,Asia,Israel,Asia,2003,0
+Taiwan,Asia,United Arab Emirates,Asia,2003,0
+Taiwan,Asia,Taiwan,Asia,2003,0
+Taiwan,Asia,South Korea,Asia,2003,0
+Taiwan,Asia,Japan,Asia,2003,0
+Taiwan,Asia,India,Asia,2003,0
+Taiwan,Asia,Pakistan,Asia,2003,0
+Taiwan,Asia,Thailand,Asia,2003,0
+Taiwan,Asia,Malaysia,Asia,2003,0
+Taiwan,Asia,Singapore,Asia,2003,0
+Taiwan,Asia,Philippines,Asia,2003,0
+Taiwan,Asia,Indonesia,Asia,2003,391
+Taiwan,Asia,Australia,Oceania,2003,0
+Taiwan,Asia,Cyprus,Europe,2003,16433
+Taiwan,Asia,China,Asia,2003,0
+Taiwan,Asia,Ivory Coast,Africa,2003,0
+Taiwan,Asia,Congo,Africa,2003,0
+South Korea,Asia,United States,North America,2003,15826062
+South Korea,Asia,Canada,North America,2003,189664
+South Korea,Asia,Mexico,North America,2003,0
+South Korea,Asia,Brazil,South America,2003,0
+South Korea,Asia,Argentina,South America,2003,0
+South Korea,Asia,United Kingdom,Europe,2003,4840
+South Korea,Asia,Netherlands,Europe,2003,0
+South Korea,Asia,Belgium,Europe,2003,0
+South Korea,Asia,France,Europe,2003,0
+South Korea,Asia,Switzerland,Europe,2003,0
+South Korea,Asia,Spain,Europe,2003,253867
+South Korea,Asia,Portugal,Europe,2003,0
+South Korea,Asia,Germany,Europe,2003,0
+South Korea,Asia,Poland,Europe,2003,0
+South Korea,Asia,Austria,Europe,2003,18
+South Korea,Asia,Hungary,Europe,2003,0
+South Korea,Asia,Czech Republic,Europe,2003,940
+South Korea,Asia,Slovakia,Europe,2003,0
+South Korea,Asia,Italy,Europe,2003,0
+South Korea,Asia,Croatia,Europe,2003,0
+South Korea,Asia,Serbia,Europe,2003,0
+South Korea,Asia,Bosnia,Europe,2003,0
+South Korea,Asia,Greece,Europe,2003,0
+South Korea,Asia,Bulgaria,Europe,2003,0
+South Korea,Asia,Romania,Europe,2003,0
+South Korea,Asia,Russia,Asia,2003,1083
+South Korea,Asia,Ukraine,Europe,2003,0
+South Korea,Asia,Finland,Europe,2003,0
+South Korea,Asia,Sweden,Europe,2003,0
+South Korea,Asia,Norway,Europe,2003,0
+South Korea,Asia,Denmark,Europe,2003,0
+South Korea,Asia,South Africa,Africa,2003,0
+South Korea,Asia,Turkey,Asia,2003,234822
+South Korea,Asia,Israel,Asia,2003,193276
+South Korea,Asia,United Arab Emirates,Asia,2003,0
+South Korea,Asia,Taiwan,Asia,2003,97511
+South Korea,Asia,South Korea,Asia,2003,0
+South Korea,Asia,Japan,Asia,2003,0
+South Korea,Asia,India,Asia,2003,0
+South Korea,Asia,Pakistan,Asia,2003,104766
+South Korea,Asia,Thailand,Asia,2003,646385
+South Korea,Asia,Malaysia,Asia,2003,124297
+South Korea,Asia,Singapore,Asia,2003,0
+South Korea,Asia,Philippines,Asia,2003,17388
+South Korea,Asia,Indonesia,Asia,2003,1057779
+South Korea,Asia,Australia,Oceania,2003,1710988
+South Korea,Asia,Cyprus,Europe,2003,0
+South Korea,Asia,China,Asia,2003,0
+South Korea,Asia,Ivory Coast,Africa,2003,0
+South Korea,Asia,Congo,Africa,2003,0
+Japan,Asia,United States,North America,2003,26709450
+Japan,Asia,Canada,North America,2003,2483636
+Japan,Asia,Mexico,North America,2003,0
+Japan,Asia,Brazil,South America,2003,0
+Japan,Asia,Argentina,South America,2003,50
+Japan,Asia,United Kingdom,Europe,2003,2145
+Japan,Asia,Netherlands,Europe,2003,0
+Japan,Asia,Belgium,Europe,2003,9214637
+Japan,Asia,France,Europe,2003,712303
+Japan,Asia,Switzerland,Europe,2003,0
+Japan,Asia,Spain,Europe,2003,268918
+Japan,Asia,Portugal,Europe,2003,32728
+Japan,Asia,Germany,Europe,2003,880879
+Japan,Asia,Poland,Europe,2003,117326
+Japan,Asia,Austria,Europe,2003,75618
+Japan,Asia,Hungary,Europe,2003,37533
+Japan,Asia,Czech Republic,Europe,2003,97743
+Japan,Asia,Slovakia,Europe,2003,9933
+Japan,Asia,Italy,Europe,2003,8345
+Japan,Asia,Croatia,Europe,2003,10963
+Japan,Asia,Serbia,Europe,2003,0
+Japan,Asia,Bosnia,Europe,2003,0
+Japan,Asia,Greece,Europe,2003,0
+Japan,Asia,Bulgaria,Europe,2003,0
+Japan,Asia,Romania,Europe,2003,0
+Japan,Asia,Russia,Asia,2003,71630
+Japan,Asia,Ukraine,Europe,2003,6542
+Japan,Asia,Finland,Europe,2003,7428
+Japan,Asia,Sweden,Europe,2003,47972
+Japan,Asia,Norway,Europe,2003,43819
+Japan,Asia,Denmark,Europe,2003,12287
+Japan,Asia,South Africa,Africa,2003,68978
+Japan,Asia,Turkey,Asia,2003,41310
+Japan,Asia,Israel,Asia,2003,0
+Japan,Asia,United Arab Emirates,Asia,2003,0
+Japan,Asia,Taiwan,Asia,2003,0
+Japan,Asia,South Korea,Asia,2003,33353
+Japan,Asia,Japan,Asia,2003,0
+Japan,Asia,India,Asia,2003,551
+Japan,Asia,Pakistan,Asia,2003,0
+Japan,Asia,Thailand,Asia,2003,3093
+Japan,Asia,Malaysia,Asia,2003,1607
+Japan,Asia,Singapore,Asia,2003,0
+Japan,Asia,Philippines,Asia,2003,48953
+Japan,Asia,Indonesia,Asia,2003,576
+Japan,Asia,Australia,Oceania,2003,449849
+Japan,Asia,Cyprus,Europe,2003,258990
+Japan,Asia,China,Asia,2003,0
+Japan,Asia,Ivory Coast,Africa,2003,0
+Japan,Asia,Congo,Africa,2003,0
+India,Asia,United States,North America,2003,2426963
+India,Asia,Canada,North America,2003,15189
+India,Asia,Mexico,North America,2003,0
+India,Asia,Brazil,South America,2003,0
+India,Asia,Argentina,South America,2003,0
+India,Asia,United Kingdom,Europe,2003,148934
+India,Asia,Netherlands,Europe,2003,0
+India,Asia,Belgium,Europe,2003,14822
+India,Asia,France,Europe,2003,63390
+India,Asia,Switzerland,Europe,2003,1115
+India,Asia,Spain,Europe,2003,0
+India,Asia,Portugal,Europe,2003,0
+India,Asia,Germany,Europe,2003,0
+India,Asia,Poland,Europe,2003,0
+India,Asia,Austria,Europe,2003,0
+India,Asia,Hungary,Europe,2003,0
+India,Asia,Czech Republic,Europe,2003,0
+India,Asia,Slovakia,Europe,2003,0
+India,Asia,Italy,Europe,2003,0
+India,Asia,Croatia,Europe,2003,0
+India,Asia,Serbia,Europe,2003,0
+India,Asia,Bosnia,Europe,2003,0
+India,Asia,Greece,Europe,2003,0
+India,Asia,Bulgaria,Europe,2003,0
+India,Asia,Romania,Europe,2003,0
+India,Asia,Russia,Asia,2003,7325
+India,Asia,Ukraine,Europe,2003,0
+India,Asia,Finland,Europe,2003,1012
+India,Asia,Sweden,Europe,2003,0
+India,Asia,Norway,Europe,2003,0
+India,Asia,Denmark,Europe,2003,0
+India,Asia,South Africa,Africa,2003,0
+India,Asia,Turkey,Asia,2003,0
+India,Asia,Israel,Asia,2003,0
+India,Asia,United Arab Emirates,Asia,2003,2926
+India,Asia,Taiwan,Asia,2003,0
+India,Asia,South Korea,Asia,2003,0
+India,Asia,Japan,Asia,2003,0
+India,Asia,India,Asia,2003,0
+India,Asia,Pakistan,Asia,2003,0
+India,Asia,Thailand,Asia,2003,0
+India,Asia,Malaysia,Asia,2003,20878
+India,Asia,Singapore,Asia,2003,3370
+India,Asia,Philippines,Asia,2003,0
+India,Asia,Indonesia,Asia,2003,0
+India,Asia,Australia,Oceania,2003,31599
+India,Asia,Cyprus,Europe,2003,0
+India,Asia,China,Asia,2003,0
+India,Asia,Ivory Coast,Africa,2003,0
+India,Asia,Congo,Africa,2003,0
+Pakistan,Asia,United States,North America,2003,7204
+Pakistan,Asia,Canada,North America,2003,99
+Pakistan,Asia,Mexico,North America,2003,0
+Pakistan,Asia,Brazil,South America,2003,0
+Pakistan,Asia,Argentina,South America,2003,0
+Pakistan,Asia,United Kingdom,Europe,2003,0
+Pakistan,Asia,Netherlands,Europe,2003,0
+Pakistan,Asia,Belgium,Europe,2003,0
+Pakistan,Asia,France,Europe,2003,662297
+Pakistan,Asia,Switzerland,Europe,2003,0
+Pakistan,Asia,Spain,Europe,2003,0
+Pakistan,Asia,Portugal,Europe,2003,0
+Pakistan,Asia,Germany,Europe,2003,0
+Pakistan,Asia,Poland,Europe,2003,0
+Pakistan,Asia,Austria,Europe,2003,0
+Pakistan,Asia,Hungary,Europe,2003,0
+Pakistan,Asia,Czech Republic,Europe,2003,0
+Pakistan,Asia,Slovakia,Europe,2003,0
+Pakistan,Asia,Italy,Europe,2003,0
+Pakistan,Asia,Croatia,Europe,2003,0
+Pakistan,Asia,Serbia,Europe,2003,0
+Pakistan,Asia,Bosnia,Europe,2003,0
+Pakistan,Asia,Greece,Europe,2003,0
+Pakistan,Asia,Bulgaria,Europe,2003,0
+Pakistan,Asia,Romania,Europe,2003,0
+Pakistan,Asia,Russia,Asia,2003,0
+Pakistan,Asia,Ukraine,Europe,2003,0
+Pakistan,Asia,Finland,Europe,2003,0
+Pakistan,Asia,Sweden,Europe,2003,0
+Pakistan,Asia,Norway,Europe,2003,0
+Pakistan,Asia,Denmark,Europe,2003,0
+Pakistan,Asia,South Africa,Africa,2003,0
+Pakistan,Asia,Turkey,Asia,2003,0
+Pakistan,Asia,Israel,Asia,2003,0
+Pakistan,Asia,United Arab Emirates,Asia,2003,0
+Pakistan,Asia,Taiwan,Asia,2003,0
+Pakistan,Asia,South Korea,Asia,2003,0
+Pakistan,Asia,Japan,Asia,2003,0
+Pakistan,Asia,India,Asia,2003,0
+Pakistan,Asia,Pakistan,Asia,2003,0
+Pakistan,Asia,Thailand,Asia,2003,0
+Pakistan,Asia,Malaysia,Asia,2003,0
+Pakistan,Asia,Singapore,Asia,2003,0
+Pakistan,Asia,Philippines,Asia,2003,0
+Pakistan,Asia,Indonesia,Asia,2003,0
+Pakistan,Asia,Australia,Oceania,2003,2522
+Pakistan,Asia,Cyprus,Europe,2003,0
+Pakistan,Asia,China,Asia,2003,1162
+Pakistan,Asia,Ivory Coast,Africa,2003,0
+Pakistan,Asia,Congo,Africa,2003,0
+Thailand,Asia,United States,North America,2003,0
+Thailand,Asia,Canada,North America,2003,0
+Thailand,Asia,Mexico,North America,2003,0
+Thailand,Asia,Brazil,South America,2003,0
+Thailand,Asia,Argentina,South America,2003,0
+Thailand,Asia,United Kingdom,Europe,2003,0
+Thailand,Asia,Netherlands,Europe,2003,0
+Thailand,Asia,Belgium,Europe,2003,0
+Thailand,Asia,France,Europe,2003,0
+Thailand,Asia,Switzerland,Europe,2003,0
+Thailand,Asia,Spain,Europe,2003,0
+Thailand,Asia,Portugal,Europe,2003,0
+Thailand,Asia,Germany,Europe,2003,0
+Thailand,Asia,Poland,Europe,2003,0
+Thailand,Asia,Austria,Europe,2003,0
+Thailand,Asia,Hungary,Europe,2003,0
+Thailand,Asia,Czech Republic,Europe,2003,59615
+Thailand,Asia,Slovakia,Europe,2003,0
+Thailand,Asia,Italy,Europe,2003,0
+Thailand,Asia,Croatia,Europe,2003,0
+Thailand,Asia,Serbia,Europe,2003,0
+Thailand,Asia,Bosnia,Europe,2003,0
+Thailand,Asia,Greece,Europe,2003,0
+Thailand,Asia,Bulgaria,Europe,2003,0
+Thailand,Asia,Romania,Europe,2003,0
+Thailand,Asia,Russia,Asia,2003,0
+Thailand,Asia,Ukraine,Europe,2003,0
+Thailand,Asia,Finland,Europe,2003,0
+Thailand,Asia,Sweden,Europe,2003,0
+Thailand,Asia,Norway,Europe,2003,0
+Thailand,Asia,Denmark,Europe,2003,0
+Thailand,Asia,South Africa,Africa,2003,0
+Thailand,Asia,Turkey,Asia,2003,0
+Thailand,Asia,Israel,Asia,2003,0
+Thailand,Asia,United Arab Emirates,Asia,2003,0
+Thailand,Asia,Taiwan,Asia,2003,0
+Thailand,Asia,South Korea,Asia,2003,0
+Thailand,Asia,Japan,Asia,2003,0
+Thailand,Asia,India,Asia,2003,0
+Thailand,Asia,Pakistan,Asia,2003,0
+Thailand,Asia,Thailand,Asia,2003,0
+Thailand,Asia,Malaysia,Asia,2003,0
+Thailand,Asia,Singapore,Asia,2003,69778
+Thailand,Asia,Philippines,Asia,2003,24983
+Thailand,Asia,Indonesia,Asia,2003,0
+Thailand,Asia,Australia,Oceania,2003,0
+Thailand,Asia,Cyprus,Europe,2003,0
+Thailand,Asia,China,Asia,2003,0
+Thailand,Asia,Ivory Coast,Africa,2003,0
+Thailand,Asia,Congo,Africa,2003,0
+Malaysia,Asia,United States,North America,2003,388769
+Malaysia,Asia,Canada,North America,2003,0
+Malaysia,Asia,Mexico,North America,2003,1613
+Malaysia,Asia,Brazil,South America,2003,0
+Malaysia,Asia,Argentina,South America,2003,0
+Malaysia,Asia,United Kingdom,Europe,2003,0
+Malaysia,Asia,Netherlands,Europe,2003,0
+Malaysia,Asia,Belgium,Europe,2003,0
+Malaysia,Asia,France,Europe,2003,0
+Malaysia,Asia,Switzerland,Europe,2003,0
+Malaysia,Asia,Spain,Europe,2003,0
+Malaysia,Asia,Portugal,Europe,2003,0
+Malaysia,Asia,Germany,Europe,2003,0
+Malaysia,Asia,Poland,Europe,2003,0
+Malaysia,Asia,Austria,Europe,2003,0
+Malaysia,Asia,Hungary,Europe,2003,0
+Malaysia,Asia,Czech Republic,Europe,2003,0
+Malaysia,Asia,Slovakia,Europe,2003,0
+Malaysia,Asia,Italy,Europe,2003,0
+Malaysia,Asia,Croatia,Europe,2003,0
+Malaysia,Asia,Serbia,Europe,2003,0
+Malaysia,Asia,Bosnia,Europe,2003,0
+Malaysia,Asia,Greece,Europe,2003,0
+Malaysia,Asia,Bulgaria,Europe,2003,0
+Malaysia,Asia,Romania,Europe,2003,0
+Malaysia,Asia,Russia,Asia,2003,0
+Malaysia,Asia,Ukraine,Europe,2003,0
+Malaysia,Asia,Finland,Europe,2003,0
+Malaysia,Asia,Sweden,Europe,2003,0
+Malaysia,Asia,Norway,Europe,2003,0
+Malaysia,Asia,Denmark,Europe,2003,0
+Malaysia,Asia,South Africa,Africa,2003,0
+Malaysia,Asia,Turkey,Asia,2003,282
+Malaysia,Asia,Israel,Asia,2003,0
+Malaysia,Asia,United Arab Emirates,Asia,2003,0
+Malaysia,Asia,Taiwan,Asia,2003,0
+Malaysia,Asia,South Korea,Asia,2003,0
+Malaysia,Asia,Japan,Asia,2003,0
+Malaysia,Asia,India,Asia,2003,0
+Malaysia,Asia,Pakistan,Asia,2003,0
+Malaysia,Asia,Thailand,Asia,2003,0
+Malaysia,Asia,Malaysia,Asia,2003,0
+Malaysia,Asia,Singapore,Asia,2003,1764
+Malaysia,Asia,Philippines,Asia,2003,0
+Malaysia,Asia,Indonesia,Asia,2003,0
+Malaysia,Asia,Australia,Oceania,2003,20735
+Malaysia,Asia,Cyprus,Europe,2003,0
+Malaysia,Asia,China,Asia,2003,0
+Malaysia,Asia,Ivory Coast,Africa,2003,0
+Malaysia,Asia,Congo,Africa,2003,0
+Singapore,Asia,United States,North America,2003,228622
+Singapore,Asia,Canada,North America,2003,0
+Singapore,Asia,Mexico,North America,2003,0
+Singapore,Asia,Brazil,South America,2003,0
+Singapore,Asia,Argentina,South America,2003,0
+Singapore,Asia,United Kingdom,Europe,2003,0
+Singapore,Asia,Netherlands,Europe,2003,0
+Singapore,Asia,Belgium,Europe,2003,0
+Singapore,Asia,France,Europe,2003,0
+Singapore,Asia,Switzerland,Europe,2003,2628
+Singapore,Asia,Spain,Europe,2003,0
+Singapore,Asia,Portugal,Europe,2003,0
+Singapore,Asia,Germany,Europe,2003,0
+Singapore,Asia,Poland,Europe,2003,0
+Singapore,Asia,Austria,Europe,2003,0
+Singapore,Asia,Hungary,Europe,2003,0
+Singapore,Asia,Czech Republic,Europe,2003,0
+Singapore,Asia,Slovakia,Europe,2003,0
+Singapore,Asia,Italy,Europe,2003,0
+Singapore,Asia,Croatia,Europe,2003,0
+Singapore,Asia,Serbia,Europe,2003,0
+Singapore,Asia,Bosnia,Europe,2003,0
+Singapore,Asia,Greece,Europe,2003,0
+Singapore,Asia,Bulgaria,Europe,2003,0
+Singapore,Asia,Romania,Europe,2003,0
+Singapore,Asia,Russia,Asia,2003,0
+Singapore,Asia,Ukraine,Europe,2003,0
+Singapore,Asia,Finland,Europe,2003,0
+Singapore,Asia,Sweden,Europe,2003,0
+Singapore,Asia,Norway,Europe,2003,20511
+Singapore,Asia,Denmark,Europe,2003,0
+Singapore,Asia,South Africa,Africa,2003,0
+Singapore,Asia,Turkey,Asia,2003,0
+Singapore,Asia,Israel,Asia,2003,0
+Singapore,Asia,United Arab Emirates,Asia,2003,0
+Singapore,Asia,Taiwan,Asia,2003,5254
+Singapore,Asia,South Korea,Asia,2003,0
+Singapore,Asia,Japan,Asia,2003,0
+Singapore,Asia,India,Asia,2003,315
+Singapore,Asia,Pakistan,Asia,2003,0
+Singapore,Asia,Thailand,Asia,2003,0
+Singapore,Asia,Malaysia,Asia,2003,8056
+Singapore,Asia,Singapore,Asia,2003,0
+Singapore,Asia,Philippines,Asia,2003,81871
+Singapore,Asia,Indonesia,Asia,2003,155236
+Singapore,Asia,Australia,Oceania,2003,109191
+Singapore,Asia,Cyprus,Europe,2003,0
+Singapore,Asia,China,Asia,2003,0
+Singapore,Asia,Ivory Coast,Africa,2003,0
+Singapore,Asia,Congo,Africa,2003,0
+Philippines,Asia,United States,North America,2003,3451612
+Philippines,Asia,Canada,North America,2003,0
+Philippines,Asia,Mexico,North America,2003,0
+Philippines,Asia,Brazil,South America,2003,0
+Philippines,Asia,Argentina,South America,2003,0
+Philippines,Asia,United Kingdom,Europe,2003,0
+Philippines,Asia,Netherlands,Europe,2003,0
+Philippines,Asia,Belgium,Europe,2003,0
+Philippines,Asia,France,Europe,2003,573751
+Philippines,Asia,Switzerland,Europe,2003,0
+Philippines,Asia,Spain,Europe,2003,0
+Philippines,Asia,Portugal,Europe,2003,0
+Philippines,Asia,Germany,Europe,2003,27623
+Philippines,Asia,Poland,Europe,2003,0
+Philippines,Asia,Austria,Europe,2003,0
+Philippines,Asia,Hungary,Europe,2003,0
+Philippines,Asia,Czech Republic,Europe,2003,7207
+Philippines,Asia,Slovakia,Europe,2003,0
+Philippines,Asia,Italy,Europe,2003,46964
+Philippines,Asia,Croatia,Europe,2003,0
+Philippines,Asia,Serbia,Europe,2003,0
+Philippines,Asia,Bosnia,Europe,2003,0
+Philippines,Asia,Greece,Europe,2003,0
+Philippines,Asia,Bulgaria,Europe,2003,0
+Philippines,Asia,Romania,Europe,2003,0
+Philippines,Asia,Russia,Asia,2003,0
+Philippines,Asia,Ukraine,Europe,2003,0
+Philippines,Asia,Finland,Europe,2003,0
+Philippines,Asia,Sweden,Europe,2003,0
+Philippines,Asia,Norway,Europe,2003,0
+Philippines,Asia,Denmark,Europe,2003,2938
+Philippines,Asia,South Africa,Africa,2003,18027
+Philippines,Asia,Turkey,Asia,2003,0
+Philippines,Asia,Israel,Asia,2003,0
+Philippines,Asia,United Arab Emirates,Asia,2003,0
+Philippines,Asia,Taiwan,Asia,2003,1418
+Philippines,Asia,South Korea,Asia,2003,0
+Philippines,Asia,Japan,Asia,2003,791
+Philippines,Asia,India,Asia,2003,0
+Philippines,Asia,Pakistan,Asia,2003,0
+Philippines,Asia,Thailand,Asia,2003,253062
+Philippines,Asia,Malaysia,Asia,2003,0
+Philippines,Asia,Singapore,Asia,2003,245
+Philippines,Asia,Philippines,Asia,2003,0
+Philippines,Asia,Indonesia,Asia,2003,308
+Philippines,Asia,Australia,Oceania,2003,232072
+Philippines,Asia,Cyprus,Europe,2003,0
+Philippines,Asia,China,Asia,2003,0
+Philippines,Asia,Ivory Coast,Africa,2003,0
+Philippines,Asia,Congo,Africa,2003,0
+Indonesia,Asia,United States,North America,2003,0
+Indonesia,Asia,Canada,North America,2003,0
+Indonesia,Asia,Mexico,North America,2003,0
+Indonesia,Asia,Brazil,South America,2003,0
+Indonesia,Asia,Argentina,South America,2003,0
+Indonesia,Asia,United Kingdom,Europe,2003,158532
+Indonesia,Asia,Netherlands,Europe,2003,504760
+Indonesia,Asia,Belgium,Europe,2003,823
+Indonesia,Asia,France,Europe,2003,154
+Indonesia,Asia,Switzerland,Europe,2003,0
+Indonesia,Asia,Spain,Europe,2003,0
+Indonesia,Asia,Portugal,Europe,2003,0
+Indonesia,Asia,Germany,Europe,2003,0
+Indonesia,Asia,Poland,Europe,2003,4496
+Indonesia,Asia,Austria,Europe,2003,0
+Indonesia,Asia,Hungary,Europe,2003,0
+Indonesia,Asia,Czech Republic,Europe,2003,0
+Indonesia,Asia,Slovakia,Europe,2003,0
+Indonesia,Asia,Italy,Europe,2003,40
+Indonesia,Asia,Croatia,Europe,2003,0
+Indonesia,Asia,Serbia,Europe,2003,0
+Indonesia,Asia,Bosnia,Europe,2003,0
+Indonesia,Asia,Greece,Europe,2003,663
+Indonesia,Asia,Bulgaria,Europe,2003,0
+Indonesia,Asia,Romania,Europe,2003,0
+Indonesia,Asia,Russia,Asia,2003,0
+Indonesia,Asia,Ukraine,Europe,2003,0
+Indonesia,Asia,Finland,Europe,2003,0
+Indonesia,Asia,Sweden,Europe,2003,0
+Indonesia,Asia,Norway,Europe,2003,0
+Indonesia,Asia,Denmark,Europe,2003,0
+Indonesia,Asia,South Africa,Africa,2003,382790
+Indonesia,Asia,Turkey,Asia,2003,0
+Indonesia,Asia,Israel,Asia,2003,0
+Indonesia,Asia,United Arab Emirates,Asia,2003,0
+Indonesia,Asia,Taiwan,Asia,2003,0
+Indonesia,Asia,South Korea,Asia,2003,0
+Indonesia,Asia,Japan,Asia,2003,29196
+Indonesia,Asia,India,Asia,2003,0
+Indonesia,Asia,Pakistan,Asia,2003,0
+Indonesia,Asia,Thailand,Asia,2003,37883
+Indonesia,Asia,Malaysia,Asia,2003,10683
+Indonesia,Asia,Singapore,Asia,2003,11517
+Indonesia,Asia,Philippines,Asia,2003,1023
+Indonesia,Asia,Indonesia,Asia,2003,0
+Indonesia,Asia,Australia,Oceania,2003,0
+Indonesia,Asia,Cyprus,Europe,2003,0
+Indonesia,Asia,China,Asia,2003,34105
+Indonesia,Asia,Ivory Coast,Africa,2003,0
+Indonesia,Asia,Congo,Africa,2003,0
+Australia,Oceania,United States,North America,2003,3685206
+Australia,Oceania,Canada,North America,2003,22310
+Australia,Oceania,Mexico,North America,2003,0
+Australia,Oceania,Brazil,South America,2003,0
+Australia,Oceania,Argentina,South America,2003,0
+Australia,Oceania,United Kingdom,Europe,2003,574190
+Australia,Oceania,Netherlands,Europe,2003,1567
+Australia,Oceania,Belgium,Europe,2003,728990
+Australia,Oceania,France,Europe,2003,492900
+Australia,Oceania,Switzerland,Europe,2003,10528
+Australia,Oceania,Spain,Europe,2003,59158
+Australia,Oceania,Portugal,Europe,2003,7845
+Australia,Oceania,Germany,Europe,2003,145893
+Australia,Oceania,Poland,Europe,2003,0
+Australia,Oceania,Austria,Europe,2003,248
+Australia,Oceania,Hungary,Europe,2003,0
+Australia,Oceania,Czech Republic,Europe,2003,28603
+Australia,Oceania,Slovakia,Europe,2003,0
+Australia,Oceania,Italy,Europe,2003,33483
+Australia,Oceania,Croatia,Europe,2003,0
+Australia,Oceania,Serbia,Europe,2003,0
+Australia,Oceania,Bosnia,Europe,2003,0
+Australia,Oceania,Greece,Europe,2003,388
+Australia,Oceania,Bulgaria,Europe,2003,0
+Australia,Oceania,Romania,Europe,2003,0
+Australia,Oceania,Russia,Asia,2003,4903
+Australia,Oceania,Ukraine,Europe,2003,0
+Australia,Oceania,Finland,Europe,2003,30963
+Australia,Oceania,Sweden,Europe,2003,13283
+Australia,Oceania,Norway,Europe,2003,15047
+Australia,Oceania,Denmark,Europe,2003,0
+Australia,Oceania,South Africa,Africa,2003,119629
+Australia,Oceania,Turkey,Asia,2003,0
+Australia,Oceania,Israel,Asia,2003,39059
+Australia,Oceania,United Arab Emirates,Asia,2003,148997
+Australia,Oceania,Taiwan,Asia,2003,75062
+Australia,Oceania,South Korea,Asia,2003,258766
+Australia,Oceania,Japan,Asia,2003,1993947
+Australia,Oceania,India,Asia,2003,116110
+Australia,Oceania,Pakistan,Asia,2003,0
+Australia,Oceania,Thailand,Asia,2003,149947
+Australia,Oceania,Malaysia,Asia,2003,12440
+Australia,Oceania,Singapore,Asia,2003,103768
+Australia,Oceania,Philippines,Asia,2003,236313
+Australia,Oceania,Indonesia,Asia,2003,3426
+Australia,Oceania,Australia,Oceania,2003,0
+Australia,Oceania,Cyprus,Europe,2003,7982
+Australia,Oceania,China,Asia,2003,114927
+Australia,Oceania,Ivory Coast,Africa,2003,0
+Australia,Oceania,Congo,Africa,2003,0
+Cyprus,Europe,United States,North America,2003,301174
+Cyprus,Europe,Canada,North America,2003,0
+Cyprus,Europe,Mexico,North America,2003,0
+Cyprus,Europe,Brazil,South America,2003,0
+Cyprus,Europe,Argentina,South America,2003,0
+Cyprus,Europe,United Kingdom,Europe,2003,589531
+Cyprus,Europe,Netherlands,Europe,2003,0
+Cyprus,Europe,Belgium,Europe,2003,0
+Cyprus,Europe,France,Europe,2003,1365248
+Cyprus,Europe,Switzerland,Europe,2003,18242
+Cyprus,Europe,Spain,Europe,2003,10775
+Cyprus,Europe,Portugal,Europe,2003,15860
+Cyprus,Europe,Germany,Europe,2003,3854
+Cyprus,Europe,Poland,Europe,2003,0
+Cyprus,Europe,Austria,Europe,2003,0
+Cyprus,Europe,Hungary,Europe,2003,11659
+Cyprus,Europe,Czech Republic,Europe,2003,78655
+Cyprus,Europe,Slovakia,Europe,2003,2121
+Cyprus,Europe,Italy,Europe,2003,34641
+Cyprus,Europe,Croatia,Europe,2003,75648
+Cyprus,Europe,Serbia,Europe,2003,264708
+Cyprus,Europe,Bosnia,Europe,2003,0
+Cyprus,Europe,Greece,Europe,2003,156610
+Cyprus,Europe,Bulgaria,Europe,2003,64169
+Cyprus,Europe,Romania,Europe,2003,100308
+Cyprus,Europe,Russia,Asia,2003,4230
+Cyprus,Europe,Ukraine,Europe,2003,69206
+Cyprus,Europe,Finland,Europe,2003,54258
+Cyprus,Europe,Sweden,Europe,2003,0
+Cyprus,Europe,Norway,Europe,2003,0
+Cyprus,Europe,Denmark,Europe,2003,0
+Cyprus,Europe,South Africa,Africa,2003,1631
+Cyprus,Europe,Turkey,Asia,2003,1436548
+Cyprus,Europe,Israel,Asia,2003,0
+Cyprus,Europe,United Arab Emirates,Asia,2003,45542
+Cyprus,Europe,Taiwan,Asia,2003,0
+Cyprus,Europe,South Korea,Asia,2003,0
+Cyprus,Europe,Japan,Asia,2003,39323
+Cyprus,Europe,India,Asia,2003,65561
+Cyprus,Europe,Pakistan,Asia,2003,0
+Cyprus,Europe,Thailand,Asia,2003,14309
+Cyprus,Europe,Malaysia,Asia,2003,0
+Cyprus,Europe,Singapore,Asia,2003,0
+Cyprus,Europe,Philippines,Asia,2003,0
+Cyprus,Europe,Indonesia,Asia,2003,0
+Cyprus,Europe,Australia,Oceania,2003,61843
+Cyprus,Europe,Cyprus,Europe,2003,606
+Cyprus,Europe,China,Asia,2003,0
+Cyprus,Europe,Ivory Coast,Africa,2003,0
+Cyprus,Europe,Congo,Africa,2003,0
+China,Asia,United States,North America,2003,5264548
+China,Asia,Canada,North America,2003,399414
+China,Asia,Mexico,North America,2003,0
+China,Asia,Brazil,South America,2003,24084
+China,Asia,Argentina,South America,2003,0
+China,Asia,United Kingdom,Europe,2003,14096
+China,Asia,Netherlands,Europe,2003,0
+China,Asia,Belgium,Europe,2003,49961
+China,Asia,France,Europe,2003,341845
+China,Asia,Switzerland,Europe,2003,17484
+China,Asia,Spain,Europe,2003,0
+China,Asia,Portugal,Europe,2003,0
+China,Asia,Germany,Europe,2003,1086202
+China,Asia,Poland,Europe,2003,0
+China,Asia,Austria,Europe,2003,7397
+China,Asia,Hungary,Europe,2003,0
+China,Asia,Czech Republic,Europe,2003,79216
+China,Asia,Slovakia,Europe,2003,15763
+China,Asia,Italy,Europe,2003,108313
+China,Asia,Croatia,Europe,2003,0
+China,Asia,Serbia,Europe,2003,0
+China,Asia,Bosnia,Europe,2003,0
+China,Asia,Greece,Europe,2003,0
+China,Asia,Bulgaria,Europe,2003,0
+China,Asia,Romania,Europe,2003,0
+China,Asia,Russia,Asia,2003,0
+China,Asia,Ukraine,Europe,2003,0
+China,Asia,Finland,Europe,2003,11228
+China,Asia,Sweden,Europe,2003,0
+China,Asia,Norway,Europe,2003,10574
+China,Asia,Denmark,Europe,2003,0
+China,Asia,South Africa,Africa,2003,45360
+China,Asia,Turkey,Asia,2003,0
+China,Asia,Israel,Asia,2003,0
+China,Asia,United Arab Emirates,Asia,2003,0
+China,Asia,Taiwan,Asia,2003,0
+China,Asia,South Korea,Asia,2003,40461
+China,Asia,Japan,Asia,2003,0
+China,Asia,India,Asia,2003,4161
+China,Asia,Pakistan,Asia,2003,67983
+China,Asia,Thailand,Asia,2003,0
+China,Asia,Malaysia,Asia,2003,7686
+China,Asia,Singapore,Asia,2003,548465
+China,Asia,Philippines,Asia,2003,525647
+China,Asia,Indonesia,Asia,2003,23556
+China,Asia,Australia,Oceania,2003,8399
+China,Asia,Cyprus,Europe,2003,116
+China,Asia,China,Asia,2003,0
+China,Asia,Ivory Coast,Africa,2003,0
+China,Asia,Congo,Africa,2003,0
+Ivory Coast,Africa,United States,North America,2003,0
+Ivory Coast,Africa,Canada,North America,2003,0
+Ivory Coast,Africa,Mexico,North America,2003,0
+Ivory Coast,Africa,Brazil,South America,2003,0
+Ivory Coast,Africa,Argentina,South America,2003,0
+Ivory Coast,Africa,United Kingdom,Europe,2003,0
+Ivory Coast,Africa,Netherlands,Europe,2003,0
+Ivory Coast,Africa,Belgium,Europe,2003,0
+Ivory Coast,Africa,France,Europe,2003,5931
+Ivory Coast,Africa,Switzerland,Europe,2003,0
+Ivory Coast,Africa,Spain,Europe,2003,0
+Ivory Coast,Africa,Portugal,Europe,2003,0
+Ivory Coast,Africa,Germany,Europe,2003,30105
+Ivory Coast,Africa,Poland,Europe,2003,0
+Ivory Coast,Africa,Austria,Europe,2003,0
+Ivory Coast,Africa,Hungary,Europe,2003,0
+Ivory Coast,Africa,Czech Republic,Europe,2003,0
+Ivory Coast,Africa,Slovakia,Europe,2003,0
+Ivory Coast,Africa,Italy,Europe,2003,1770
+Ivory Coast,Africa,Croatia,Europe,2003,0
+Ivory Coast,Africa,Serbia,Europe,2003,0
+Ivory Coast,Africa,Bosnia,Europe,2003,0
+Ivory Coast,Africa,Greece,Europe,2003,0
+Ivory Coast,Africa,Bulgaria,Europe,2003,0
+Ivory Coast,Africa,Romania,Europe,2003,0
+Ivory Coast,Africa,Russia,Asia,2003,0
+Ivory Coast,Africa,Ukraine,Europe,2003,0
+Ivory Coast,Africa,Finland,Europe,2003,0
+Ivory Coast,Africa,Sweden,Europe,2003,0
+Ivory Coast,Africa,Norway,Europe,2003,0
+Ivory Coast,Africa,Denmark,Europe,2003,0
+Ivory Coast,Africa,South Africa,Africa,2003,0
+Ivory Coast,Africa,Turkey,Asia,2003,0
+Ivory Coast,Africa,Israel,Asia,2003,0
+Ivory Coast,Africa,United Arab Emirates,Asia,2003,0
+Ivory Coast,Africa,Taiwan,Asia,2003,0
+Ivory Coast,Africa,South Korea,Asia,2003,0
+Ivory Coast,Africa,Japan,Asia,2003,0
+Ivory Coast,Africa,India,Asia,2003,0
+Ivory Coast,Africa,Pakistan,Asia,2003,0
+Ivory Coast,Africa,Thailand,Asia,2003,0
+Ivory Coast,Africa,Malaysia,Asia,2003,0
+Ivory Coast,Africa,Singapore,Asia,2003,0
+Ivory Coast,Africa,Philippines,Asia,2003,0
+Ivory Coast,Africa,Indonesia,Asia,2003,0
+Ivory Coast,Africa,Australia,Oceania,2003,0
+Ivory Coast,Africa,Cyprus,Europe,2003,0
+Ivory Coast,Africa,China,Asia,2003,0
+Ivory Coast,Africa,Ivory Coast,Africa,2003,0
+Ivory Coast,Africa,Congo,Africa,2003,0
+Congo,Africa,United States,North America,2003,0
+Congo,Africa,Canada,North America,2003,0
+Congo,Africa,Mexico,North America,2003,0
+Congo,Africa,Brazil,South America,2003,0
+Congo,Africa,Argentina,South America,2003,0
+Congo,Africa,United Kingdom,Europe,2003,0
+Congo,Africa,Netherlands,Europe,2003,0
+Congo,Africa,Belgium,Europe,2003,0
+Congo,Africa,France,Europe,2003,0
+Congo,Africa,Switzerland,Europe,2003,0
+Congo,Africa,Spain,Europe,2003,0
+Congo,Africa,Portugal,Europe,2003,0
+Congo,Africa,Germany,Europe,2003,0
+Congo,Africa,Poland,Europe,2003,0
+Congo,Africa,Austria,Europe,2003,0
+Congo,Africa,Hungary,Europe,2003,0
+Congo,Africa,Czech Republic,Europe,2003,0
+Congo,Africa,Slovakia,Europe,2003,0
+Congo,Africa,Italy,Europe,2003,0
+Congo,Africa,Croatia,Europe,2003,0
+Congo,Africa,Serbia,Europe,2003,0
+Congo,Africa,Bosnia,Europe,2003,0
+Congo,Africa,Greece,Europe,2003,0
+Congo,Africa,Bulgaria,Europe,2003,0
+Congo,Africa,Romania,Europe,2003,0
+Congo,Africa,Russia,Asia,2003,0
+Congo,Africa,Ukraine,Europe,2003,0
+Congo,Africa,Finland,Europe,2003,0
+Congo,Africa,Sweden,Europe,2003,0
+Congo,Africa,Norway,Europe,2003,0
+Congo,Africa,Denmark,Europe,2003,0
+Congo,Africa,South Africa,Africa,2003,0
+Congo,Africa,Turkey,Asia,2003,0
+Congo,Africa,Israel,Asia,2003,0
+Congo,Africa,United Arab Emirates,Asia,2003,0
+Congo,Africa,Taiwan,Asia,2003,0
+Congo,Africa,South Korea,Asia,2003,0
+Congo,Africa,Japan,Asia,2003,0
+Congo,Africa,India,Asia,2003,0
+Congo,Africa,Pakistan,Asia,2003,0
+Congo,Africa,Thailand,Asia,2003,0
+Congo,Africa,Malaysia,Asia,2003,0
+Congo,Africa,Singapore,Asia,2003,0
+Congo,Africa,Philippines,Asia,2003,0
+Congo,Africa,Indonesia,Asia,2003,0
+Congo,Africa,Australia,Oceania,2003,0
+Congo,Africa,Cyprus,Europe,2003,0
+Congo,Africa,China,Asia,2003,0
+Congo,Africa,Ivory Coast,Africa,2003,0
+Congo,Africa,Congo,Africa,2003,0

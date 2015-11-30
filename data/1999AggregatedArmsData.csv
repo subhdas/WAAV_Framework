@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,1999,0
+United States,North America,Canada,North America,1999,37349555
+United States,North America,Mexico,North America,1999,5102080
+United States,North America,Brazil,South America,1999,1180019
+United States,North America,Argentina,South America,1999,4868909
+United States,North America,United Kingdom,Europe,1999,5658126
+United States,North America,Netherlands,Europe,1999,12961467
+United States,North America,Belgium,Europe,1999,11022016
+United States,North America,France,Europe,1999,6111076
+United States,North America,Switzerland,Europe,1999,2349022
+United States,North America,Spain,Europe,1999,3058820
+United States,North America,Portugal,Europe,1999,1063617
+United States,North America,Germany,Europe,1999,20582018
+United States,North America,Poland,Europe,1999,160610
+United States,North America,Austria,Europe,1999,664627
+United States,North America,Hungary,Europe,1999,415367
+United States,North America,Czech Republic,Europe,1999,621513
+United States,North America,Slovakia,Europe,1999,56583
+United States,North America,Italy,Europe,1999,7354143
+United States,North America,Croatia,Europe,1999,13867
+United States,North America,Serbia,Europe,1999,1305
+United States,North America,Bosnia,Europe,1999,0
+United States,North America,Greece,Europe,1999,1211484
+United States,North America,Bulgaria,Europe,1999,138216
+United States,North America,Romania,Europe,1999,0
+United States,North America,Russia,Asia,1999,42958
+United States,North America,Ukraine,Europe,1999,5128
+United States,North America,Finland,Europe,1999,673499
+United States,North America,Sweden,Europe,1999,2090580
+United States,North America,Norway,Europe,1999,3656402
+United States,North America,Denmark,Europe,1999,2614191
+United States,North America,South Africa,Africa,1999,2083034
+United States,North America,Turkey,Asia,1999,2439189
+United States,North America,Israel,Asia,1999,18766842
+United States,North America,United Arab Emirates,Asia,1999,1846871
+United States,North America,Taiwan,Asia,1999,19251557
+United States,North America,South Korea,Asia,1999,2836007
+United States,North America,Japan,Asia,1999,4407147
+United States,North America,India,Asia,1999,18718
+United States,North America,Pakistan,Asia,1999,18649
+United States,North America,Thailand,Asia,1999,13962014
+United States,North America,Malaysia,Asia,1999,433404
+United States,North America,Singapore,Asia,1999,1000075
+United States,North America,Philippines,Asia,1999,4761677
+United States,North America,Indonesia,Asia,1999,98219
+United States,North America,Australia,Oceania,1999,12448409
+United States,North America,Cyprus,Europe,1999,51444
+United States,North America,China,Asia,1999,189341
+United States,North America,Ivory Coast,Africa,1999,0
+United States,North America,Congo,Africa,1999,0
+Canada,North America,United States,North America,1999,20389190
+Canada,North America,Canada,North America,1999,0
+Canada,North America,Mexico,North America,1999,0
+Canada,North America,Brazil,South America,1999,23350
+Canada,North America,Argentina,South America,1999,112489
+Canada,North America,United Kingdom,Europe,1999,536858
+Canada,North America,Netherlands,Europe,1999,2079393
+Canada,North America,Belgium,Europe,1999,4452828
+Canada,North America,France,Europe,1999,2615696
+Canada,North America,Switzerland,Europe,1999,1495617
+Canada,North America,Spain,Europe,1999,52893
+Canada,North America,Portugal,Europe,1999,1227954
+Canada,North America,Germany,Europe,1999,1468917
+Canada,North America,Poland,Europe,1999,0
+Canada,North America,Austria,Europe,1999,66623
+Canada,North America,Hungary,Europe,1999,0
+Canada,North America,Czech Republic,Europe,1999,79385
+Canada,North America,Slovakia,Europe,1999,3541
+Canada,North America,Italy,Europe,1999,303392
+Canada,North America,Croatia,Europe,1999,0
+Canada,North America,Serbia,Europe,1999,0
+Canada,North America,Bosnia,Europe,1999,0
+Canada,North America,Greece,Europe,1999,268197
+Canada,North America,Bulgaria,Europe,1999,0
+Canada,North America,Romania,Europe,1999,0
+Canada,North America,Russia,Asia,1999,0
+Canada,North America,Ukraine,Europe,1999,0
+Canada,North America,Finland,Europe,1999,34038
+Canada,North America,Sweden,Europe,1999,63417
+Canada,North America,Norway,Europe,1999,642801
+Canada,North America,Denmark,Europe,1999,7581035
+Canada,North America,South Africa,Africa,1999,13867
+Canada,North America,Turkey,Asia,1999,0
+Canada,North America,Israel,Asia,1999,147298
+Canada,North America,United Arab Emirates,Asia,1999,1081518
+Canada,North America,Taiwan,Asia,1999,72753
+Canada,North America,South Korea,Asia,1999,0
+Canada,North America,Japan,Asia,1999,4106
+Canada,North America,India,Asia,1999,0
+Canada,North America,Pakistan,Asia,1999,0
+Canada,North America,Thailand,Asia,1999,305874
+Canada,North America,Malaysia,Asia,1999,4341
+Canada,North America,Singapore,Asia,1999,347736
+Canada,North America,Philippines,Asia,1999,29851
+Canada,North America,Indonesia,Asia,1999,0
+Canada,North America,Australia,Oceania,1999,468420
+Canada,North America,Cyprus,Europe,1999,0
+Canada,North America,China,Asia,1999,143918
+Canada,North America,Ivory Coast,Africa,1999,0
+Canada,North America,Congo,Africa,1999,0
+Mexico,North America,United States,North America,1999,4851485
+Mexico,North America,Canada,North America,1999,23780
+Mexico,North America,Mexico,North America,1999,0
+Mexico,North America,Brazil,South America,1999,0
+Mexico,North America,Argentina,South America,1999,0
+Mexico,North America,United Kingdom,Europe,1999,8005
+Mexico,North America,Netherlands,Europe,1999,0
+Mexico,North America,Belgium,Europe,1999,0
+Mexico,North America,France,Europe,1999,579930
+Mexico,North America,Switzerland,Europe,1999,0
+Mexico,North America,Spain,Europe,1999,52422
+Mexico,North America,Portugal,Europe,1999,0
+Mexico,North America,Germany,Europe,1999,20604
+Mexico,North America,Poland,Europe,1999,0
+Mexico,North America,Austria,Europe,1999,6466
+Mexico,North America,Hungary,Europe,1999,0
+Mexico,North America,Czech Republic,Europe,1999,323937
+Mexico,North America,Slovakia,Europe,1999,7047
+Mexico,North America,Italy,Europe,1999,0
+Mexico,North America,Croatia,Europe,1999,0
+Mexico,North America,Serbia,Europe,1999,0
+Mexico,North America,Bosnia,Europe,1999,0
+Mexico,North America,Greece,Europe,1999,0
+Mexico,North America,Bulgaria,Europe,1999,0
+Mexico,North America,Romania,Europe,1999,0
+Mexico,North America,Russia,Asia,1999,0
+Mexico,North America,Ukraine,Europe,1999,0
+Mexico,North America,Finland,Europe,1999,0
+Mexico,North America,Sweden,Europe,1999,0
+Mexico,North America,Norway,Europe,1999,0
+Mexico,North America,Denmark,Europe,1999,0
+Mexico,North America,South Africa,Africa,1999,0
+Mexico,North America,Turkey,Asia,1999,0
+Mexico,North America,Israel,Asia,1999,0
+Mexico,North America,United Arab Emirates,Asia,1999,0
+Mexico,North America,Taiwan,Asia,1999,0
+Mexico,North America,South Korea,Asia,1999,0
+Mexico,North America,Japan,Asia,1999,0
+Mexico,North America,India,Asia,1999,0
+Mexico,North America,Pakistan,Asia,1999,0
+Mexico,North America,Thailand,Asia,1999,0
+Mexico,North America,Malaysia,Asia,1999,0
+Mexico,North America,Singapore,Asia,1999,0
+Mexico,North America,Philippines,Asia,1999,0
+Mexico,North America,Indonesia,Asia,1999,0
+Mexico,North America,Australia,Oceania,1999,0
+Mexico,North America,Cyprus,Europe,1999,0
+Mexico,North America,China,Asia,1999,0
+Mexico,North America,Ivory Coast,Africa,1999,0
+Mexico,North America,Congo,Africa,1999,0
+Brazil,South America,United States,North America,1999,50269456
+Brazil,South America,Canada,North America,1999,4763
+Brazil,South America,Mexico,North America,1999,1561490
+Brazil,South America,Brazil,South America,1999,0
+Brazil,South America,Argentina,South America,1999,4899241
+Brazil,South America,United Kingdom,Europe,1999,659054
+Brazil,South America,Netherlands,Europe,1999,60539
+Brazil,South America,Belgium,Europe,1999,348258
+Brazil,South America,France,Europe,1999,296585
+Brazil,South America,Switzerland,Europe,1999,593268
+Brazil,South America,Spain,Europe,1999,234731
+Brazil,South America,Portugal,Europe,1999,888138
+Brazil,South America,Germany,Europe,1999,4576034
+Brazil,South America,Poland,Europe,1999,35728
+Brazil,South America,Austria,Europe,1999,318220
+Brazil,South America,Hungary,Europe,1999,0
+Brazil,South America,Czech Republic,Europe,1999,216413
+Brazil,South America,Slovakia,Europe,1999,51986
+Brazil,South America,Italy,Europe,1999,336918
+Brazil,South America,Croatia,Europe,1999,34570
+Brazil,South America,Serbia,Europe,1999,0
+Brazil,South America,Bosnia,Europe,1999,0
+Brazil,South America,Greece,Europe,1999,232125
+Brazil,South America,Bulgaria,Europe,1999,31714
+Brazil,South America,Romania,Europe,1999,0
+Brazil,South America,Russia,Asia,1999,0
+Brazil,South America,Ukraine,Europe,1999,0
+Brazil,South America,Finland,Europe,1999,154272
+Brazil,South America,Sweden,Europe,1999,12001
+Brazil,South America,Norway,Europe,1999,2381352
+Brazil,South America,Denmark,Europe,1999,0
+Brazil,South America,South Africa,Africa,1999,1692687
+Brazil,South America,Turkey,Asia,1999,163749
+Brazil,South America,Israel,Asia,1999,7832
+Brazil,South America,United Arab Emirates,Asia,1999,256448
+Brazil,South America,Taiwan,Asia,1999,0
+Brazil,South America,South Korea,Asia,1999,0
+Brazil,South America,Japan,Asia,1999,0
+Brazil,South America,India,Asia,1999,0
+Brazil,South America,Pakistan,Asia,1999,0
+Brazil,South America,Thailand,Asia,1999,199966
+Brazil,South America,Malaysia,Asia,1999,18330
+Brazil,South America,Singapore,Asia,1999,518417
+Brazil,South America,Philippines,Asia,1999,2130267
+Brazil,South America,Indonesia,Asia,1999,219510
+Brazil,South America,Australia,Oceania,1999,241093
+Brazil,South America,Cyprus,Europe,1999,10291
+Brazil,South America,China,Asia,1999,0
+Brazil,South America,Ivory Coast,Africa,1999,0
+Brazil,South America,Congo,Africa,1999,0
+Argentina,South America,United States,North America,1999,4001794
+Argentina,South America,Canada,North America,1999,0
+Argentina,South America,Mexico,North America,1999,0
+Argentina,South America,Brazil,South America,1999,25928
+Argentina,South America,Argentina,South America,1999,0
+Argentina,South America,United Kingdom,Europe,1999,31682
+Argentina,South America,Netherlands,Europe,1999,0
+Argentina,South America,Belgium,Europe,1999,0
+Argentina,South America,France,Europe,1999,8184
+Argentina,South America,Switzerland,Europe,1999,0
+Argentina,South America,Spain,Europe,1999,0
+Argentina,South America,Portugal,Europe,1999,0
+Argentina,South America,Germany,Europe,1999,1420
+Argentina,South America,Poland,Europe,1999,30619
+Argentina,South America,Austria,Europe,1999,0
+Argentina,South America,Hungary,Europe,1999,0
+Argentina,South America,Czech Republic,Europe,1999,1322
+Argentina,South America,Slovakia,Europe,1999,0
+Argentina,South America,Italy,Europe,1999,0
+Argentina,South America,Croatia,Europe,1999,0
+Argentina,South America,Serbia,Europe,1999,0
+Argentina,South America,Bosnia,Europe,1999,0
+Argentina,South America,Greece,Europe,1999,0
+Argentina,South America,Bulgaria,Europe,1999,0
+Argentina,South America,Romania,Europe,1999,0
+Argentina,South America,Russia,Asia,1999,0
+Argentina,South America,Ukraine,Europe,1999,0
+Argentina,South America,Finland,Europe,1999,0
+Argentina,South America,Sweden,Europe,1999,0
+Argentina,South America,Norway,Europe,1999,0
+Argentina,South America,Denmark,Europe,1999,0
+Argentina,South America,South Africa,Africa,1999,0
+Argentina,South America,Turkey,Asia,1999,0
+Argentina,South America,Israel,Asia,1999,0
+Argentina,South America,United Arab Emirates,Asia,1999,2229
+Argentina,South America,Taiwan,Asia,1999,0
+Argentina,South America,South Korea,Asia,1999,0
+Argentina,South America,Japan,Asia,1999,0
+Argentina,South America,India,Asia,1999,0
+Argentina,South America,Pakistan,Asia,1999,0
+Argentina,South America,Thailand,Asia,1999,0
+Argentina,South America,Malaysia,Asia,1999,0
+Argentina,South America,Singapore,Asia,1999,0
+Argentina,South America,Philippines,Asia,1999,16250
+Argentina,South America,Indonesia,Asia,1999,0
+Argentina,South America,Australia,Oceania,1999,0
+Argentina,South America,Cyprus,Europe,1999,0
+Argentina,South America,China,Asia,1999,0
+Argentina,South America,Ivory Coast,Africa,1999,0
+Argentina,South America,Congo,Africa,1999,0
+United Kingdom,Europe,United States,North America,1999,15334557
+United Kingdom,Europe,Canada,North America,1999,971434
+United Kingdom,Europe,Mexico,North America,1999,0
+United Kingdom,Europe,Brazil,South America,1999,141101
+United Kingdom,Europe,Argentina,South America,1999,57397
+United Kingdom,Europe,United Kingdom,Europe,1999,0
+United Kingdom,Europe,Netherlands,Europe,1999,515098
+United Kingdom,Europe,Belgium,Europe,1999,1517380
+United Kingdom,Europe,France,Europe,1999,2680865
+United Kingdom,Europe,Switzerland,Europe,1999,1602306
+United Kingdom,Europe,Spain,Europe,1999,164817
+United Kingdom,Europe,Portugal,Europe,1999,15130
+United Kingdom,Europe,Germany,Europe,1999,3279476
+United Kingdom,Europe,Poland,Europe,1999,54400
+United Kingdom,Europe,Austria,Europe,1999,148844
+United Kingdom,Europe,Hungary,Europe,1999,8027
+United Kingdom,Europe,Czech Republic,Europe,1999,214450
+United Kingdom,Europe,Slovakia,Europe,1999,20621
+United Kingdom,Europe,Italy,Europe,1999,1005235
+United Kingdom,Europe,Croatia,Europe,1999,25862
+United Kingdom,Europe,Serbia,Europe,1999,0
+United Kingdom,Europe,Bosnia,Europe,1999,0
+United Kingdom,Europe,Greece,Europe,1999,48970
+United Kingdom,Europe,Bulgaria,Europe,1999,7922
+United Kingdom,Europe,Romania,Europe,1999,15246
+United Kingdom,Europe,Russia,Asia,1999,0
+United Kingdom,Europe,Ukraine,Europe,1999,788919
+United Kingdom,Europe,Finland,Europe,1999,517623
+United Kingdom,Europe,Sweden,Europe,1999,253609
+United Kingdom,Europe,Norway,Europe,1999,768688
+United Kingdom,Europe,Denmark,Europe,1999,3918031
+United Kingdom,Europe,South Africa,Africa,1999,461882
+United Kingdom,Europe,Turkey,Asia,1999,121333
+United Kingdom,Europe,Israel,Asia,1999,97382
+United Kingdom,Europe,United Arab Emirates,Asia,1999,1060096
+United Kingdom,Europe,Taiwan,Asia,1999,82153
+United Kingdom,Europe,South Korea,Asia,1999,629359
+United Kingdom,Europe,Japan,Asia,1999,1356075
+United Kingdom,Europe,India,Asia,1999,106171
+United Kingdom,Europe,Pakistan,Asia,1999,25337
+United Kingdom,Europe,Thailand,Asia,1999,1386365
+United Kingdom,Europe,Malaysia,Asia,1999,75154
+United Kingdom,Europe,Singapore,Asia,1999,41017
+United Kingdom,Europe,Philippines,Asia,1999,136970
+United Kingdom,Europe,Indonesia,Asia,1999,42573
+United Kingdom,Europe,Australia,Oceania,1999,608329
+United Kingdom,Europe,Cyprus,Europe,1999,282487
+United Kingdom,Europe,China,Asia,1999,304726
+United Kingdom,Europe,Ivory Coast,Africa,1999,0
+United Kingdom,Europe,Congo,Africa,1999,0
+Netherlands,Europe,United States,North America,1999,557754
+Netherlands,Europe,Canada,North America,1999,2523
+Netherlands,Europe,Mexico,North America,1999,0
+Netherlands,Europe,Brazil,South America,1999,874840
+Netherlands,Europe,Argentina,South America,1999,0
+Netherlands,Europe,United Kingdom,Europe,1999,3784
+Netherlands,Europe,Netherlands,Europe,1999,0
+Netherlands,Europe,Belgium,Europe,1999,52637
+Netherlands,Europe,France,Europe,1999,6247788
+Netherlands,Europe,Switzerland,Europe,1999,1296725
+Netherlands,Europe,Spain,Europe,1999,13296
+Netherlands,Europe,Portugal,Europe,1999,10064
+Netherlands,Europe,Germany,Europe,1999,1792753
+Netherlands,Europe,Poland,Europe,1999,0
+Netherlands,Europe,Austria,Europe,1999,2929
+Netherlands,Europe,Hungary,Europe,1999,0
+Netherlands,Europe,Czech Republic,Europe,1999,674
+Netherlands,Europe,Slovakia,Europe,1999,0
+Netherlands,Europe,Italy,Europe,1999,14510
+Netherlands,Europe,Croatia,Europe,1999,0
+Netherlands,Europe,Serbia,Europe,1999,0
+Netherlands,Europe,Bosnia,Europe,1999,0
+Netherlands,Europe,Greece,Europe,1999,0
+Netherlands,Europe,Bulgaria,Europe,1999,0
+Netherlands,Europe,Romania,Europe,1999,0
+Netherlands,Europe,Russia,Asia,1999,0
+Netherlands,Europe,Ukraine,Europe,1999,0
+Netherlands,Europe,Finland,Europe,1999,0
+Netherlands,Europe,Sweden,Europe,1999,0
+Netherlands,Europe,Norway,Europe,1999,391572
+Netherlands,Europe,Denmark,Europe,1999,18793
+Netherlands,Europe,South Africa,Africa,1999,4499
+Netherlands,Europe,Turkey,Asia,1999,0
+Netherlands,Europe,Israel,Asia,1999,0
+Netherlands,Europe,United Arab Emirates,Asia,1999,0
+Netherlands,Europe,Taiwan,Asia,1999,0
+Netherlands,Europe,South Korea,Asia,1999,0
+Netherlands,Europe,Japan,Asia,1999,0
+Netherlands,Europe,India,Asia,1999,0
+Netherlands,Europe,Pakistan,Asia,1999,0
+Netherlands,Europe,Thailand,Asia,1999,0
+Netherlands,Europe,Malaysia,Asia,1999,0
+Netherlands,Europe,Singapore,Asia,1999,0
+Netherlands,Europe,Philippines,Asia,1999,934
+Netherlands,Europe,Indonesia,Asia,1999,0
+Netherlands,Europe,Australia,Oceania,1999,0
+Netherlands,Europe,Cyprus,Europe,1999,0
+Netherlands,Europe,China,Asia,1999,0
+Netherlands,Europe,Ivory Coast,Africa,1999,0
+Netherlands,Europe,Congo,Africa,1999,0
+Belgium,Europe,United States,North America,1999,7175555
+Belgium,Europe,Canada,North America,1999,377084
+Belgium,Europe,Mexico,North America,1999,817451
+Belgium,Europe,Brazil,South America,1999,0
+Belgium,Europe,Argentina,South America,1999,5877
+Belgium,Europe,United Kingdom,Europe,1999,3720386
+Belgium,Europe,Netherlands,Europe,1999,1672912
+Belgium,Europe,Belgium,Europe,1999,0
+Belgium,Europe,France,Europe,1999,16423074
+Belgium,Europe,Switzerland,Europe,1999,565624
+Belgium,Europe,Spain,Europe,1999,2730431
+Belgium,Europe,Portugal,Europe,1999,2091678
+Belgium,Europe,Germany,Europe,1999,3727992
+Belgium,Europe,Poland,Europe,1999,5264
+Belgium,Europe,Austria,Europe,1999,1722079
+Belgium,Europe,Hungary,Europe,1999,11270
+Belgium,Europe,Czech Republic,Europe,1999,103842
+Belgium,Europe,Slovakia,Europe,1999,20375
+Belgium,Europe,Italy,Europe,1999,5043257
+Belgium,Europe,Croatia,Europe,1999,0
+Belgium,Europe,Serbia,Europe,1999,0
+Belgium,Europe,Bosnia,Europe,1999,0
+Belgium,Europe,Greece,Europe,1999,818934
+Belgium,Europe,Bulgaria,Europe,1999,0
+Belgium,Europe,Romania,Europe,1999,1384
+Belgium,Europe,Russia,Asia,1999,269547
+Belgium,Europe,Ukraine,Europe,1999,0
+Belgium,Europe,Finland,Europe,1999,411455
+Belgium,Europe,Sweden,Europe,1999,508506
+Belgium,Europe,Norway,Europe,1999,1025863
+Belgium,Europe,Denmark,Europe,1999,433229
+Belgium,Europe,South Africa,Africa,1999,37152
+Belgium,Europe,Turkey,Asia,1999,819200
+Belgium,Europe,Israel,Asia,1999,0
+Belgium,Europe,United Arab Emirates,Asia,1999,62598
+Belgium,Europe,Taiwan,Asia,1999,0
+Belgium,Europe,South Korea,Asia,1999,12503
+Belgium,Europe,Japan,Asia,1999,266150
+Belgium,Europe,India,Asia,1999,1127
+Belgium,Europe,Pakistan,Asia,1999,0
+Belgium,Europe,Thailand,Asia,1999,73179
+Belgium,Europe,Malaysia,Asia,1999,8658
+Belgium,Europe,Singapore,Asia,1999,0
+Belgium,Europe,Philippines,Asia,1999,318114
+Belgium,Europe,Indonesia,Asia,1999,0
+Belgium,Europe,Australia,Oceania,1999,0
+Belgium,Europe,Cyprus,Europe,1999,5815
+Belgium,Europe,China,Asia,1999,0
+Belgium,Europe,Ivory Coast,Africa,1999,0
+Belgium,Europe,Congo,Africa,1999,0
+France,Europe,United States,North America,1999,3442224
+France,Europe,Canada,North America,1999,45255
+France,Europe,Mexico,North America,1999,0
+France,Europe,Brazil,South America,1999,1012009
+France,Europe,Argentina,South America,1999,98422
+France,Europe,United Kingdom,Europe,1999,602601
+France,Europe,Netherlands,Europe,1999,3153
+France,Europe,Belgium,Europe,1999,525409
+France,Europe,France,Europe,1999,0
+France,Europe,Switzerland,Europe,1999,291900
+France,Europe,Spain,Europe,1999,323937
+France,Europe,Portugal,Europe,1999,225587
+France,Europe,Germany,Europe,1999,1583256
+France,Europe,Poland,Europe,1999,84847
+France,Europe,Austria,Europe,1999,231812
+France,Europe,Hungary,Europe,1999,0
+France,Europe,Czech Republic,Europe,1999,60016
+France,Europe,Slovakia,Europe,1999,29023
+France,Europe,Italy,Europe,1999,367650
+France,Europe,Croatia,Europe,1999,2118
+France,Europe,Serbia,Europe,1999,0
+France,Europe,Bosnia,Europe,1999,11440
+France,Europe,Greece,Europe,1999,440014
+France,Europe,Bulgaria,Europe,1999,3388
+France,Europe,Romania,Europe,1999,2541
+France,Europe,Russia,Asia,1999,125979
+France,Europe,Ukraine,Europe,1999,346167
+France,Europe,Finland,Europe,1999,41090
+France,Europe,Sweden,Europe,1999,86847
+France,Europe,Norway,Europe,1999,1161381
+France,Europe,Denmark,Europe,1999,57602
+France,Europe,South Africa,Africa,1999,4258
+France,Europe,Turkey,Asia,1999,1697384
+France,Europe,Israel,Asia,1999,0
+France,Europe,United Arab Emirates,Asia,1999,23089
+France,Europe,Taiwan,Asia,1999,0
+France,Europe,South Korea,Asia,1999,154336
+France,Europe,Japan,Asia,1999,139676
+France,Europe,India,Asia,1999,4214
+France,Europe,Pakistan,Asia,1999,0
+France,Europe,Thailand,Asia,1999,140055
+France,Europe,Malaysia,Asia,1999,0
+France,Europe,Singapore,Asia,1999,0
+France,Europe,Philippines,Asia,1999,0
+France,Europe,Indonesia,Asia,1999,0
+France,Europe,Australia,Oceania,1999,1178
+France,Europe,Cyprus,Europe,1999,106350
+France,Europe,China,Asia,1999,0
+France,Europe,Ivory Coast,Africa,1999,444827
+France,Europe,Congo,Africa,1999,7414
+Switzerland,Europe,United States,North America,1999,2644824
+Switzerland,Europe,Canada,North America,1999,1183750
+Switzerland,Europe,Mexico,North America,1999,15938
+Switzerland,Europe,Brazil,South America,1999,24857
+Switzerland,Europe,Argentina,South America,1999,7122
+Switzerland,Europe,United Kingdom,Europe,1999,231688
+Switzerland,Europe,Netherlands,Europe,1999,4446389
+Switzerland,Europe,Belgium,Europe,1999,182919
+Switzerland,Europe,France,Europe,1999,316057
+Switzerland,Europe,Switzerland,Europe,1999,0
+Switzerland,Europe,Spain,Europe,1999,800053
+Switzerland,Europe,Portugal,Europe,1999,250278
+Switzerland,Europe,Germany,Europe,1999,4970111
+Switzerland,Europe,Poland,Europe,1999,600128
+Switzerland,Europe,Austria,Europe,1999,1487723
+Switzerland,Europe,Hungary,Europe,1999,0
+Switzerland,Europe,Czech Republic,Europe,1999,15462
+Switzerland,Europe,Slovakia,Europe,1999,16635
+Switzerland,Europe,Italy,Europe,1999,1090357
+Switzerland,Europe,Croatia,Europe,1999,40506
+Switzerland,Europe,Serbia,Europe,1999,0
+Switzerland,Europe,Bosnia,Europe,1999,0
+Switzerland,Europe,Greece,Europe,1999,8891
+Switzerland,Europe,Bulgaria,Europe,1999,3384
+Switzerland,Europe,Romania,Europe,1999,12138035
+Switzerland,Europe,Russia,Asia,1999,98758
+Switzerland,Europe,Ukraine,Europe,1999,0
+Switzerland,Europe,Finland,Europe,1999,224385
+Switzerland,Europe,Sweden,Europe,1999,119547
+Switzerland,Europe,Norway,Europe,1999,866260
+Switzerland,Europe,Denmark,Europe,1999,994800
+Switzerland,Europe,South Africa,Africa,1999,203675
+Switzerland,Europe,Turkey,Asia,1999,359659
+Switzerland,Europe,Israel,Asia,1999,0
+Switzerland,Europe,United Arab Emirates,Asia,1999,186223
+Switzerland,Europe,Taiwan,Asia,1999,3132
+Switzerland,Europe,South Korea,Asia,1999,18684
+Switzerland,Europe,Japan,Asia,1999,201303
+Switzerland,Europe,India,Asia,1999,19334
+Switzerland,Europe,Pakistan,Asia,1999,0
+Switzerland,Europe,Thailand,Asia,1999,48518
+Switzerland,Europe,Malaysia,Asia,1999,1750
+Switzerland,Europe,Singapore,Asia,1999,542620
+Switzerland,Europe,Philippines,Asia,1999,185172
+Switzerland,Europe,Indonesia,Asia,1999,10077
+Switzerland,Europe,Australia,Oceania,1999,56456
+Switzerland,Europe,Cyprus,Europe,1999,0
+Switzerland,Europe,China,Asia,1999,17368
+Switzerland,Europe,Ivory Coast,Africa,1999,1414
+Switzerland,Europe,Congo,Africa,1999,0
+Spain,Europe,United States,North America,1999,9297991
+Spain,Europe,Canada,North America,1999,342222
+Spain,Europe,Mexico,North America,1999,12334
+Spain,Europe,Brazil,South America,1999,13140
+Spain,Europe,Argentina,South America,1999,1181888
+Spain,Europe,United Kingdom,Europe,1999,1491366
+Spain,Europe,Netherlands,Europe,1999,333334
+Spain,Europe,Belgium,Europe,1999,269579
+Spain,Europe,France,Europe,1999,3771861
+Spain,Europe,Switzerland,Europe,1999,210533
+Spain,Europe,Spain,Europe,1999,0
+Spain,Europe,Portugal,Europe,1999,6848575
+Spain,Europe,Germany,Europe,1999,320332
+Spain,Europe,Poland,Europe,1999,153683
+Spain,Europe,Austria,Europe,1999,512451
+Spain,Europe,Hungary,Europe,1999,41199
+Spain,Europe,Czech Republic,Europe,1999,138750
+Spain,Europe,Slovakia,Europe,1999,22885
+Spain,Europe,Italy,Europe,1999,147306
+Spain,Europe,Croatia,Europe,1999,0
+Spain,Europe,Serbia,Europe,1999,0
+Spain,Europe,Bosnia,Europe,1999,0
+Spain,Europe,Greece,Europe,1999,655671
+Spain,Europe,Bulgaria,Europe,1999,1334964
+Spain,Europe,Romania,Europe,1999,0
+Spain,Europe,Russia,Asia,1999,3467
+Spain,Europe,Ukraine,Europe,1999,76063
+Spain,Europe,Finland,Europe,1999,174044
+Spain,Europe,Sweden,Europe,1999,146571
+Spain,Europe,Norway,Europe,1999,650956
+Spain,Europe,Denmark,Europe,1999,345660
+Spain,Europe,South Africa,Africa,1999,114807
+Spain,Europe,Turkey,Asia,1999,5656087
+Spain,Europe,Israel,Asia,1999,3296
+Spain,Europe,United Arab Emirates,Asia,1999,0
+Spain,Europe,Taiwan,Asia,1999,0
+Spain,Europe,South Korea,Asia,1999,239569
+Spain,Europe,Japan,Asia,1999,1285679
+Spain,Europe,India,Asia,1999,0
+Spain,Europe,Pakistan,Asia,1999,0
+Spain,Europe,Thailand,Asia,1999,105821
+Spain,Europe,Malaysia,Asia,1999,0
+Spain,Europe,Singapore,Asia,1999,20518
+Spain,Europe,Philippines,Asia,1999,798042
+Spain,Europe,Indonesia,Asia,1999,41175
+Spain,Europe,Australia,Oceania,1999,994420
+Spain,Europe,Cyprus,Europe,1999,281522
+Spain,Europe,China,Asia,1999,0
+Spain,Europe,Ivory Coast,Africa,1999,0
+Spain,Europe,Congo,Africa,1999,0
+Portugal,Europe,United States,North America,1999,1648994
+Portugal,Europe,Canada,North America,1999,119208
+Portugal,Europe,Mexico,North America,1999,173622
+Portugal,Europe,Brazil,South America,1999,8269
+Portugal,Europe,Argentina,South America,1999,0
+Portugal,Europe,United Kingdom,Europe,1999,216940
+Portugal,Europe,Netherlands,Europe,1999,0
+Portugal,Europe,Belgium,Europe,1999,10058849
+Portugal,Europe,France,Europe,1999,0
+Portugal,Europe,Switzerland,Europe,1999,23395
+Portugal,Europe,Spain,Europe,1999,2108710
+Portugal,Europe,Portugal,Europe,1999,0
+Portugal,Europe,Germany,Europe,1999,32684
+Portugal,Europe,Poland,Europe,1999,23737
+Portugal,Europe,Austria,Europe,1999,11014
+Portugal,Europe,Hungary,Europe,1999,0
+Portugal,Europe,Czech Republic,Europe,1999,1159
+Portugal,Europe,Slovakia,Europe,1999,0
+Portugal,Europe,Italy,Europe,1999,1507124
+Portugal,Europe,Croatia,Europe,1999,0
+Portugal,Europe,Serbia,Europe,1999,0
+Portugal,Europe,Bosnia,Europe,1999,0
+Portugal,Europe,Greece,Europe,1999,573920
+Portugal,Europe,Bulgaria,Europe,1999,0
+Portugal,Europe,Romania,Europe,1999,0
+Portugal,Europe,Russia,Asia,1999,0
+Portugal,Europe,Ukraine,Europe,1999,0
+Portugal,Europe,Finland,Europe,1999,60690
+Portugal,Europe,Sweden,Europe,1999,322588
+Portugal,Europe,Norway,Europe,1999,107982
+Portugal,Europe,Denmark,Europe,1999,126685
+Portugal,Europe,South Africa,Africa,1999,0
+Portugal,Europe,Turkey,Asia,1999,46070
+Portugal,Europe,Israel,Asia,1999,0
+Portugal,Europe,United Arab Emirates,Asia,1999,0
+Portugal,Europe,Taiwan,Asia,1999,0
+Portugal,Europe,South Korea,Asia,1999,0
+Portugal,Europe,Japan,Asia,1999,134318
+Portugal,Europe,India,Asia,1999,0
+Portugal,Europe,Pakistan,Asia,1999,0
+Portugal,Europe,Thailand,Asia,1999,23775
+Portugal,Europe,Malaysia,Asia,1999,0
+Portugal,Europe,Singapore,Asia,1999,0
+Portugal,Europe,Philippines,Asia,1999,0
+Portugal,Europe,Indonesia,Asia,1999,0
+Portugal,Europe,Australia,Oceania,1999,0
+Portugal,Europe,Cyprus,Europe,1999,0
+Portugal,Europe,China,Asia,1999,0
+Portugal,Europe,Ivory Coast,Africa,1999,0
+Portugal,Europe,Congo,Africa,1999,0
+Germany,Europe,United States,North America,1999,40252968
+Germany,Europe,Canada,North America,1999,270649
+Germany,Europe,Mexico,North America,1999,208842
+Germany,Europe,Brazil,South America,1999,18374
+Germany,Europe,Argentina,South America,1999,559472
+Germany,Europe,United Kingdom,Europe,1999,3248108
+Germany,Europe,Netherlands,Europe,1999,5735341
+Germany,Europe,Belgium,Europe,1999,2543353
+Germany,Europe,France,Europe,1999,17928542
+Germany,Europe,Switzerland,Europe,1999,9318777
+Germany,Europe,Spain,Europe,1999,5385930
+Germany,Europe,Portugal,Europe,1999,1197814
+Germany,Europe,Germany,Europe,1999,0
+Germany,Europe,Poland,Europe,1999,1155994
+Germany,Europe,Austria,Europe,1999,6798152
+Germany,Europe,Hungary,Europe,1999,934929
+Germany,Europe,Czech Republic,Europe,1999,1741274
+Germany,Europe,Slovakia,Europe,1999,348449
+Germany,Europe,Italy,Europe,1999,4236626
+Germany,Europe,Croatia,Europe,1999,75190
+Germany,Europe,Serbia,Europe,1999,0
+Germany,Europe,Bosnia,Europe,1999,0
+Germany,Europe,Greece,Europe,1999,1829751
+Germany,Europe,Bulgaria,Europe,1999,751636
+Germany,Europe,Romania,Europe,1999,98035
+Germany,Europe,Russia,Asia,1999,327927
+Germany,Europe,Ukraine,Europe,1999,1101168
+Germany,Europe,Finland,Europe,1999,1238361
+Germany,Europe,Sweden,Europe,1999,2880099
+Germany,Europe,Norway,Europe,1999,2181271
+Germany,Europe,Denmark,Europe,1999,5090974
+Germany,Europe,South Africa,Africa,1999,387893
+Germany,Europe,Turkey,Asia,1999,4357328
+Germany,Europe,Israel,Asia,1999,101590
+Germany,Europe,United Arab Emirates,Asia,1999,809181
+Germany,Europe,Taiwan,Asia,1999,18469
+Germany,Europe,South Korea,Asia,1999,976604
+Germany,Europe,Japan,Asia,1999,2745375
+Germany,Europe,India,Asia,1999,43575
+Germany,Europe,Pakistan,Asia,1999,20600
+Germany,Europe,Thailand,Asia,1999,527138
+Germany,Europe,Malaysia,Asia,1999,107472
+Germany,Europe,Singapore,Asia,1999,121680
+Germany,Europe,Philippines,Asia,1999,200230
+Germany,Europe,Indonesia,Asia,1999,157032
+Germany,Europe,Australia,Oceania,1999,334097
+Germany,Europe,Cyprus,Europe,1999,28818
+Germany,Europe,China,Asia,1999,297897
+Germany,Europe,Ivory Coast,Africa,1999,0
+Germany,Europe,Congo,Africa,1999,0
+Poland,Europe,United States,North America,1999,66852
+Poland,Europe,Canada,North America,1999,0
+Poland,Europe,Mexico,North America,1999,0
+Poland,Europe,Brazil,South America,1999,0
+Poland,Europe,Argentina,South America,1999,767
+Poland,Europe,United Kingdom,Europe,1999,0
+Poland,Europe,Netherlands,Europe,1999,0
+Poland,Europe,Belgium,Europe,1999,1952
+Poland,Europe,France,Europe,1999,0
+Poland,Europe,Switzerland,Europe,1999,0
+Poland,Europe,Spain,Europe,1999,0
+Poland,Europe,Portugal,Europe,1999,0
+Poland,Europe,Germany,Europe,1999,71050
+Poland,Europe,Poland,Europe,1999,0
+Poland,Europe,Austria,Europe,1999,0
+Poland,Europe,Hungary,Europe,1999,0
+Poland,Europe,Czech Republic,Europe,1999,9732
+Poland,Europe,Slovakia,Europe,1999,0
+Poland,Europe,Italy,Europe,1999,0
+Poland,Europe,Croatia,Europe,1999,0
+Poland,Europe,Serbia,Europe,1999,0
+Poland,Europe,Bosnia,Europe,1999,0
+Poland,Europe,Greece,Europe,1999,0
+Poland,Europe,Bulgaria,Europe,1999,0
+Poland,Europe,Romania,Europe,1999,0
+Poland,Europe,Russia,Asia,1999,9596
+Poland,Europe,Ukraine,Europe,1999,0
+Poland,Europe,Finland,Europe,1999,43722
+Poland,Europe,Sweden,Europe,1999,0
+Poland,Europe,Norway,Europe,1999,0
+Poland,Europe,Denmark,Europe,1999,0
+Poland,Europe,South Africa,Africa,1999,0
+Poland,Europe,Turkey,Asia,1999,0
+Poland,Europe,Israel,Asia,1999,0
+Poland,Europe,United Arab Emirates,Asia,1999,0
+Poland,Europe,Taiwan,Asia,1999,0
+Poland,Europe,South Korea,Asia,1999,0
+Poland,Europe,Japan,Asia,1999,0
+Poland,Europe,India,Asia,1999,0
+Poland,Europe,Pakistan,Asia,1999,0
+Poland,Europe,Thailand,Asia,1999,0
+Poland,Europe,Malaysia,Asia,1999,0
+Poland,Europe,Singapore,Asia,1999,0
+Poland,Europe,Philippines,Asia,1999,0
+Poland,Europe,Indonesia,Asia,1999,0
+Poland,Europe,Australia,Oceania,1999,0
+Poland,Europe,Cyprus,Europe,1999,0
+Poland,Europe,China,Asia,1999,0
+Poland,Europe,Ivory Coast,Africa,1999,0
+Poland,Europe,Congo,Africa,1999,1292294
+Austria,Europe,United States,North America,1999,66777919
+Austria,Europe,Canada,North America,1999,928526
+Austria,Europe,Mexico,North America,1999,356050
+Austria,Europe,Brazil,South America,1999,295243
+Austria,Europe,Argentina,South America,1999,433076
+Austria,Europe,United Kingdom,Europe,1999,253268
+Austria,Europe,Netherlands,Europe,1999,130653
+Austria,Europe,Belgium,Europe,1999,136974
+Austria,Europe,France,Europe,1999,1411328
+Austria,Europe,Switzerland,Europe,1999,542109
+Austria,Europe,Spain,Europe,1999,230885
+Austria,Europe,Portugal,Europe,1999,206870
+Austria,Europe,Germany,Europe,1999,4359381
+Austria,Europe,Poland,Europe,1999,1083774
+Austria,Europe,Austria,Europe,1999,0
+Austria,Europe,Hungary,Europe,1999,199522
+Austria,Europe,Czech Republic,Europe,1999,477996
+Austria,Europe,Slovakia,Europe,1999,231418
+Austria,Europe,Italy,Europe,1999,1723829
+Austria,Europe,Croatia,Europe,1999,1404005
+Austria,Europe,Serbia,Europe,1999,59365
+Austria,Europe,Bosnia,Europe,1999,0
+Austria,Europe,Greece,Europe,1999,90473
+Austria,Europe,Bulgaria,Europe,1999,107535
+Austria,Europe,Romania,Europe,1999,1413
+Austria,Europe,Russia,Asia,1999,114973
+Austria,Europe,Ukraine,Europe,1999,35641
+Austria,Europe,Finland,Europe,1999,691279
+Austria,Europe,Sweden,Europe,1999,176672
+Austria,Europe,Norway,Europe,1999,625077
+Austria,Europe,Denmark,Europe,1999,211280
+Austria,Europe,South Africa,Africa,1999,917072
+Austria,Europe,Turkey,Asia,1999,0
+Austria,Europe,Israel,Asia,1999,0
+Austria,Europe,United Arab Emirates,Asia,1999,939673
+Austria,Europe,Taiwan,Asia,1999,0
+Austria,Europe,South Korea,Asia,1999,11272
+Austria,Europe,Japan,Asia,1999,56847
+Austria,Europe,India,Asia,1999,250998
+Austria,Europe,Pakistan,Asia,1999,0
+Austria,Europe,Thailand,Asia,1999,1166708
+Austria,Europe,Malaysia,Asia,1999,33179
+Austria,Europe,Singapore,Asia,1999,260816
+Austria,Europe,Philippines,Asia,1999,1103239
+Austria,Europe,Indonesia,Asia,1999,723
+Austria,Europe,Australia,Oceania,1999,687774
+Austria,Europe,Cyprus,Europe,1999,8378
+Austria,Europe,China,Asia,1999,0
+Austria,Europe,Ivory Coast,Africa,1999,0
+Austria,Europe,Congo,Africa,1999,0
+Hungary,Europe,United States,North America,1999,3202992
+Hungary,Europe,Canada,North America,1999,1442
+Hungary,Europe,Mexico,North America,1999,0
+Hungary,Europe,Brazil,South America,1999,0
+Hungary,Europe,Argentina,South America,1999,1673
+Hungary,Europe,United Kingdom,Europe,1999,0
+Hungary,Europe,Netherlands,Europe,1999,0
+Hungary,Europe,Belgium,Europe,1999,0
+Hungary,Europe,France,Europe,1999,54661
+Hungary,Europe,Switzerland,Europe,1999,31105
+Hungary,Europe,Spain,Europe,1999,0
+Hungary,Europe,Portugal,Europe,1999,0
+Hungary,Europe,Germany,Europe,1999,2642590
+Hungary,Europe,Poland,Europe,1999,272817
+Hungary,Europe,Austria,Europe,1999,485995
+Hungary,Europe,Hungary,Europe,1999,0
+Hungary,Europe,Czech Republic,Europe,1999,34583
+Hungary,Europe,Slovakia,Europe,1999,108930
+Hungary,Europe,Italy,Europe,1999,0
+Hungary,Europe,Croatia,Europe,1999,0
+Hungary,Europe,Serbia,Europe,1999,0
+Hungary,Europe,Bosnia,Europe,1999,0
+Hungary,Europe,Greece,Europe,1999,96112
+Hungary,Europe,Bulgaria,Europe,1999,0
+Hungary,Europe,Romania,Europe,1999,0
+Hungary,Europe,Russia,Asia,1999,0
+Hungary,Europe,Ukraine,Europe,1999,0
+Hungary,Europe,Finland,Europe,1999,217173
+Hungary,Europe,Sweden,Europe,1999,0
+Hungary,Europe,Norway,Europe,1999,358530
+Hungary,Europe,Denmark,Europe,1999,0
+Hungary,Europe,South Africa,Africa,1999,42230
+Hungary,Europe,Turkey,Asia,1999,0
+Hungary,Europe,Israel,Asia,1999,0
+Hungary,Europe,United Arab Emirates,Asia,1999,0
+Hungary,Europe,Taiwan,Asia,1999,0
+Hungary,Europe,South Korea,Asia,1999,0
+Hungary,Europe,Japan,Asia,1999,273322
+Hungary,Europe,India,Asia,1999,0
+Hungary,Europe,Pakistan,Asia,1999,0
+Hungary,Europe,Thailand,Asia,1999,6436
+Hungary,Europe,Malaysia,Asia,1999,0
+Hungary,Europe,Singapore,Asia,1999,0
+Hungary,Europe,Philippines,Asia,1999,251195
+Hungary,Europe,Indonesia,Asia,1999,772
+Hungary,Europe,Australia,Oceania,1999,0
+Hungary,Europe,Cyprus,Europe,1999,0
+Hungary,Europe,China,Asia,1999,0
+Hungary,Europe,Ivory Coast,Africa,1999,0
+Hungary,Europe,Congo,Africa,1999,0
+Czech Republic,Europe,United States,North America,1999,18285205
+Czech Republic,Europe,Canada,North America,1999,135577
+Czech Republic,Europe,Mexico,North America,1999,791528
+Czech Republic,Europe,Brazil,South America,1999,7876
+Czech Republic,Europe,Argentina,South America,1999,228674
+Czech Republic,Europe,United Kingdom,Europe,1999,627632
+Czech Republic,Europe,Netherlands,Europe,1999,110717
+Czech Republic,Europe,Belgium,Europe,1999,773054
+Czech Republic,Europe,France,Europe,1999,2138848
+Czech Republic,Europe,Switzerland,Europe,1999,229739
+Czech Republic,Europe,Spain,Europe,1999,712790
+Czech Republic,Europe,Portugal,Europe,1999,181488
+Czech Republic,Europe,Germany,Europe,1999,6401380
+Czech Republic,Europe,Poland,Europe,1999,1698700
+Czech Republic,Europe,Austria,Europe,1999,771457
+Czech Republic,Europe,Hungary,Europe,1999,413434
+Czech Republic,Europe,Czech Republic,Europe,1999,0
+Czech Republic,Europe,Slovakia,Europe,1999,2119680
+Czech Republic,Europe,Italy,Europe,1999,988305
+Czech Republic,Europe,Croatia,Europe,1999,613758
+Czech Republic,Europe,Serbia,Europe,1999,0
+Czech Republic,Europe,Bosnia,Europe,1999,291580
+Czech Republic,Europe,Greece,Europe,1999,208360
+Czech Republic,Europe,Bulgaria,Europe,1999,2971819
+Czech Republic,Europe,Romania,Europe,1999,70707
+Czech Republic,Europe,Russia,Asia,1999,78976
+Czech Republic,Europe,Ukraine,Europe,1999,68235
+Czech Republic,Europe,Finland,Europe,1999,594292
+Czech Republic,Europe,Sweden,Europe,1999,291946
+Czech Republic,Europe,Norway,Europe,1999,1083196
+Czech Republic,Europe,Denmark,Europe,1999,203797
+Czech Republic,Europe,South Africa,Africa,1999,1120683
+Czech Republic,Europe,Turkey,Asia,1999,443785
+Czech Republic,Europe,Israel,Asia,1999,121797
+Czech Republic,Europe,United Arab Emirates,Asia,1999,421362
+Czech Republic,Europe,Taiwan,Asia,1999,0
+Czech Republic,Europe,South Korea,Asia,1999,0
+Czech Republic,Europe,Japan,Asia,1999,0
+Czech Republic,Europe,India,Asia,1999,18197
+Czech Republic,Europe,Pakistan,Asia,1999,7291
+Czech Republic,Europe,Thailand,Asia,1999,1503347
+Czech Republic,Europe,Malaysia,Asia,1999,40887
+Czech Republic,Europe,Singapore,Asia,1999,21909
+Czech Republic,Europe,Philippines,Asia,1999,767676
+Czech Republic,Europe,Indonesia,Asia,1999,33340
+Czech Republic,Europe,Australia,Oceania,1999,510012
+Czech Republic,Europe,Cyprus,Europe,1999,32497
+Czech Republic,Europe,China,Asia,1999,8422
+Czech Republic,Europe,Ivory Coast,Africa,1999,0
+Czech Republic,Europe,Congo,Africa,1999,0
+Slovakia,Europe,United States,North America,1999,446616
+Slovakia,Europe,Canada,North America,1999,0
+Slovakia,Europe,Mexico,North America,1999,0
+Slovakia,Europe,Brazil,South America,1999,0
+Slovakia,Europe,Argentina,South America,1999,0
+Slovakia,Europe,United Kingdom,Europe,1999,0
+Slovakia,Europe,Netherlands,Europe,1999,0
+Slovakia,Europe,Belgium,Europe,1999,0
+Slovakia,Europe,France,Europe,1999,172459
+Slovakia,Europe,Switzerland,Europe,1999,0
+Slovakia,Europe,Spain,Europe,1999,0
+Slovakia,Europe,Portugal,Europe,1999,0
+Slovakia,Europe,Germany,Europe,1999,188299
+Slovakia,Europe,Poland,Europe,1999,0
+Slovakia,Europe,Austria,Europe,1999,61544
+Slovakia,Europe,Hungary,Europe,1999,20879
+Slovakia,Europe,Czech Republic,Europe,1999,518503
+Slovakia,Europe,Slovakia,Europe,1999,0
+Slovakia,Europe,Italy,Europe,1999,2065
+Slovakia,Europe,Croatia,Europe,1999,0
+Slovakia,Europe,Serbia,Europe,1999,0
+Slovakia,Europe,Bosnia,Europe,1999,0
+Slovakia,Europe,Greece,Europe,1999,0
+Slovakia,Europe,Bulgaria,Europe,1999,0
+Slovakia,Europe,Romania,Europe,1999,0
+Slovakia,Europe,Russia,Asia,1999,0
+Slovakia,Europe,Ukraine,Europe,1999,0
+Slovakia,Europe,Finland,Europe,1999,0
+Slovakia,Europe,Sweden,Europe,1999,0
+Slovakia,Europe,Norway,Europe,1999,0
+Slovakia,Europe,Denmark,Europe,1999,0
+Slovakia,Europe,South Africa,Africa,1999,663
+Slovakia,Europe,Turkey,Asia,1999,738
+Slovakia,Europe,Israel,Asia,1999,0
+Slovakia,Europe,United Arab Emirates,Asia,1999,0
+Slovakia,Europe,Taiwan,Asia,1999,0
+Slovakia,Europe,South Korea,Asia,1999,0
+Slovakia,Europe,Japan,Asia,1999,0
+Slovakia,Europe,India,Asia,1999,0
+Slovakia,Europe,Pakistan,Asia,1999,0
+Slovakia,Europe,Thailand,Asia,1999,0
+Slovakia,Europe,Malaysia,Asia,1999,0
+Slovakia,Europe,Singapore,Asia,1999,0
+Slovakia,Europe,Philippines,Asia,1999,0
+Slovakia,Europe,Indonesia,Asia,1999,0
+Slovakia,Europe,Australia,Oceania,1999,0
+Slovakia,Europe,Cyprus,Europe,1999,0
+Slovakia,Europe,China,Asia,1999,0
+Slovakia,Europe,Ivory Coast,Africa,1999,0
+Slovakia,Europe,Congo,Africa,1999,0
+Italy,Europe,United States,North America,1999,103390256
+Italy,Europe,Canada,North America,1999,331986
+Italy,Europe,Mexico,North America,1999,196687
+Italy,Europe,Brazil,South America,1999,95916
+Italy,Europe,Argentina,South America,1999,2755722
+Italy,Europe,United Kingdom,Europe,1999,13274333
+Italy,Europe,Netherlands,Europe,1999,687625
+Italy,Europe,Belgium,Europe,1999,13948727
+Italy,Europe,France,Europe,1999,30172590
+Italy,Europe,Switzerland,Europe,1999,2016594
+Italy,Europe,Spain,Europe,1999,17920339
+Italy,Europe,Portugal,Europe,1999,7864490
+Italy,Europe,Germany,Europe,1999,19757070
+Italy,Europe,Poland,Europe,1999,1058271
+Italy,Europe,Austria,Europe,1999,4406866
+Italy,Europe,Hungary,Europe,1999,788048
+Italy,Europe,Czech Republic,Europe,1999,1546182
+Italy,Europe,Slovakia,Europe,1999,359568
+Italy,Europe,Italy,Europe,1999,0
+Italy,Europe,Croatia,Europe,1999,177172
+Italy,Europe,Serbia,Europe,1999,2610
+Italy,Europe,Bosnia,Europe,1999,277124
+Italy,Europe,Greece,Europe,1999,10121950
+Italy,Europe,Bulgaria,Europe,1999,600228
+Italy,Europe,Romania,Europe,1999,138469
+Italy,Europe,Russia,Asia,1999,1096797
+Italy,Europe,Ukraine,Europe,1999,196162
+Italy,Europe,Finland,Europe,1999,3277836
+Italy,Europe,Sweden,Europe,1999,4228222
+Italy,Europe,Norway,Europe,1999,4190746
+Italy,Europe,Denmark,Europe,1999,2409681
+Italy,Europe,South Africa,Africa,1999,510931
+Italy,Europe,Turkey,Asia,1999,24273298
+Italy,Europe,Israel,Asia,1999,203393
+Italy,Europe,United Arab Emirates,Asia,1999,605222
+Italy,Europe,Taiwan,Asia,1999,468196
+Italy,Europe,South Korea,Asia,1999,515294
+Italy,Europe,Japan,Asia,1999,10908642
+Italy,Europe,India,Asia,1999,52263
+Italy,Europe,Pakistan,Asia,1999,118824
+Italy,Europe,Thailand,Asia,1999,694816
+Italy,Europe,Malaysia,Asia,1999,94984
+Italy,Europe,Singapore,Asia,1999,420390
+Italy,Europe,Philippines,Asia,1999,188158
+Italy,Europe,Indonesia,Asia,1999,34642
+Italy,Europe,Australia,Oceania,1999,2473658
+Italy,Europe,Cyprus,Europe,1999,1389847
+Italy,Europe,China,Asia,1999,91887
+Italy,Europe,Ivory Coast,Africa,1999,24209
+Italy,Europe,Congo,Africa,1999,108829
+Croatia,Europe,United States,North America,1999,398693
+Croatia,Europe,Canada,North America,1999,0
+Croatia,Europe,Mexico,North America,1999,0
+Croatia,Europe,Brazil,South America,1999,0
+Croatia,Europe,Argentina,South America,1999,0
+Croatia,Europe,United Kingdom,Europe,1999,0
+Croatia,Europe,Netherlands,Europe,1999,0
+Croatia,Europe,Belgium,Europe,1999,0
+Croatia,Europe,France,Europe,1999,0
+Croatia,Europe,Switzerland,Europe,1999,0
+Croatia,Europe,Spain,Europe,1999,0
+Croatia,Europe,Portugal,Europe,1999,0
+Croatia,Europe,Germany,Europe,1999,4972
+Croatia,Europe,Poland,Europe,1999,0
+Croatia,Europe,Austria,Europe,1999,1255
+Croatia,Europe,Hungary,Europe,1999,0
+Croatia,Europe,Czech Republic,Europe,1999,1045
+Croatia,Europe,Slovakia,Europe,1999,0
+Croatia,Europe,Italy,Europe,1999,0
+Croatia,Europe,Croatia,Europe,1999,0
+Croatia,Europe,Serbia,Europe,1999,0
+Croatia,Europe,Bosnia,Europe,1999,150310
+Croatia,Europe,Greece,Europe,1999,0
+Croatia,Europe,Bulgaria,Europe,1999,0
+Croatia,Europe,Romania,Europe,1999,0
+Croatia,Europe,Russia,Asia,1999,0
+Croatia,Europe,Ukraine,Europe,1999,0
+Croatia,Europe,Finland,Europe,1999,0
+Croatia,Europe,Sweden,Europe,1999,0
+Croatia,Europe,Norway,Europe,1999,0
+Croatia,Europe,Denmark,Europe,1999,6922
+Croatia,Europe,South Africa,Africa,1999,0
+Croatia,Europe,Turkey,Asia,1999,0
+Croatia,Europe,Israel,Asia,1999,0
+Croatia,Europe,United Arab Emirates,Asia,1999,0
+Croatia,Europe,Taiwan,Asia,1999,0
+Croatia,Europe,South Korea,Asia,1999,0
+Croatia,Europe,Japan,Asia,1999,0
+Croatia,Europe,India,Asia,1999,0
+Croatia,Europe,Pakistan,Asia,1999,0
+Croatia,Europe,Thailand,Asia,1999,0
+Croatia,Europe,Malaysia,Asia,1999,0
+Croatia,Europe,Singapore,Asia,1999,0
+Croatia,Europe,Philippines,Asia,1999,5261
+Croatia,Europe,Indonesia,Asia,1999,0
+Croatia,Europe,Australia,Oceania,1999,0
+Croatia,Europe,Cyprus,Europe,1999,0
+Croatia,Europe,China,Asia,1999,0
+Croatia,Europe,Ivory Coast,Africa,1999,0
+Croatia,Europe,Congo,Africa,1999,0
+Serbia,Europe,United States,North America,1999,0
+Serbia,Europe,Canada,North America,1999,0
+Serbia,Europe,Mexico,North America,1999,0
+Serbia,Europe,Brazil,South America,1999,0
+Serbia,Europe,Argentina,South America,1999,0
+Serbia,Europe,United Kingdom,Europe,1999,0
+Serbia,Europe,Netherlands,Europe,1999,0
+Serbia,Europe,Belgium,Europe,1999,0
+Serbia,Europe,France,Europe,1999,4872
+Serbia,Europe,Switzerland,Europe,1999,0
+Serbia,Europe,Spain,Europe,1999,0
+Serbia,Europe,Portugal,Europe,1999,0
+Serbia,Europe,Germany,Europe,1999,209565
+Serbia,Europe,Poland,Europe,1999,0
+Serbia,Europe,Austria,Europe,1999,33348
+Serbia,Europe,Hungary,Europe,1999,22190
+Serbia,Europe,Czech Republic,Europe,1999,0
+Serbia,Europe,Slovakia,Europe,1999,0
+Serbia,Europe,Italy,Europe,1999,1305
+Serbia,Europe,Croatia,Europe,1999,0
+Serbia,Europe,Serbia,Europe,1999,0
+Serbia,Europe,Bosnia,Europe,1999,1072994
+Serbia,Europe,Greece,Europe,1999,5227
+Serbia,Europe,Bulgaria,Europe,1999,0
+Serbia,Europe,Romania,Europe,1999,0
+Serbia,Europe,Russia,Asia,1999,0
+Serbia,Europe,Ukraine,Europe,1999,0
+Serbia,Europe,Finland,Europe,1999,0
+Serbia,Europe,Sweden,Europe,1999,0
+Serbia,Europe,Norway,Europe,1999,0
+Serbia,Europe,Denmark,Europe,1999,1305
+Serbia,Europe,South Africa,Africa,1999,13053
+Serbia,Europe,Turkey,Asia,1999,0
+Serbia,Europe,Israel,Asia,1999,0
+Serbia,Europe,United Arab Emirates,Asia,1999,0
+Serbia,Europe,Taiwan,Asia,1999,0
+Serbia,Europe,South Korea,Asia,1999,0
+Serbia,Europe,Japan,Asia,1999,0
+Serbia,Europe,India,Asia,1999,0
+Serbia,Europe,Pakistan,Asia,1999,0
+Serbia,Europe,Thailand,Asia,1999,0
+Serbia,Europe,Malaysia,Asia,1999,0
+Serbia,Europe,Singapore,Asia,1999,0
+Serbia,Europe,Philippines,Asia,1999,0
+Serbia,Europe,Indonesia,Asia,1999,0
+Serbia,Europe,Australia,Oceania,1999,1305
+Serbia,Europe,Cyprus,Europe,1999,0
+Serbia,Europe,China,Asia,1999,0
+Serbia,Europe,Ivory Coast,Africa,1999,0
+Serbia,Europe,Congo,Africa,1999,0
+Bosnia,Europe,United States,North America,1999,0
+Bosnia,Europe,Canada,North America,1999,41760
+Bosnia,Europe,Mexico,North America,1999,0
+Bosnia,Europe,Brazil,South America,1999,0
+Bosnia,Europe,Argentina,South America,1999,0
+Bosnia,Europe,United Kingdom,Europe,1999,0
+Bosnia,Europe,Netherlands,Europe,1999,0
+Bosnia,Europe,Belgium,Europe,1999,0
+Bosnia,Europe,France,Europe,1999,6778
+Bosnia,Europe,Switzerland,Europe,1999,0
+Bosnia,Europe,Spain,Europe,1999,0
+Bosnia,Europe,Portugal,Europe,1999,0
+Bosnia,Europe,Germany,Europe,1999,3078171
+Bosnia,Europe,Poland,Europe,1999,0
+Bosnia,Europe,Austria,Europe,1999,1181492
+Bosnia,Europe,Hungary,Europe,1999,0
+Bosnia,Europe,Czech Republic,Europe,1999,15644
+Bosnia,Europe,Slovakia,Europe,1999,0
+Bosnia,Europe,Italy,Europe,1999,0
+Bosnia,Europe,Croatia,Europe,1999,0
+Bosnia,Europe,Serbia,Europe,1999,0
+Bosnia,Europe,Bosnia,Europe,1999,0
+Bosnia,Europe,Greece,Europe,1999,0
+Bosnia,Europe,Bulgaria,Europe,1999,0
+Bosnia,Europe,Romania,Europe,1999,0
+Bosnia,Europe,Russia,Asia,1999,0
+Bosnia,Europe,Ukraine,Europe,1999,0
+Bosnia,Europe,Finland,Europe,1999,0
+Bosnia,Europe,Sweden,Europe,1999,0
+Bosnia,Europe,Norway,Europe,1999,0
+Bosnia,Europe,Denmark,Europe,1999,0
+Bosnia,Europe,South Africa,Africa,1999,0
+Bosnia,Europe,Turkey,Asia,1999,2191569
+Bosnia,Europe,Israel,Asia,1999,0
+Bosnia,Europe,United Arab Emirates,Asia,1999,0
+Bosnia,Europe,Taiwan,Asia,1999,0
+Bosnia,Europe,South Korea,Asia,1999,0
+Bosnia,Europe,Japan,Asia,1999,0
+Bosnia,Europe,India,Asia,1999,0
+Bosnia,Europe,Pakistan,Asia,1999,0
+Bosnia,Europe,Thailand,Asia,1999,0
+Bosnia,Europe,Malaysia,Asia,1999,0
+Bosnia,Europe,Singapore,Asia,1999,0
+Bosnia,Europe,Philippines,Asia,1999,0
+Bosnia,Europe,Indonesia,Asia,1999,0
+Bosnia,Europe,Australia,Oceania,1999,0
+Bosnia,Europe,Cyprus,Europe,1999,0
+Bosnia,Europe,China,Asia,1999,0
+Bosnia,Europe,Ivory Coast,Africa,1999,0
+Bosnia,Europe,Congo,Africa,1999,0
+Greece,Europe,United States,North America,1999,396360
+Greece,Europe,Canada,North America,1999,0
+Greece,Europe,Mexico,North America,1999,0
+Greece,Europe,Brazil,South America,1999,0
+Greece,Europe,Argentina,South America,1999,0
+Greece,Europe,United Kingdom,Europe,1999,0
+Greece,Europe,Netherlands,Europe,1999,0
+Greece,Europe,Belgium,Europe,1999,16293
+Greece,Europe,France,Europe,1999,0
+Greece,Europe,Switzerland,Europe,1999,0
+Greece,Europe,Spain,Europe,1999,0
+Greece,Europe,Portugal,Europe,1999,3012
+Greece,Europe,Germany,Europe,1999,0
+Greece,Europe,Poland,Europe,1999,0
+Greece,Europe,Austria,Europe,1999,0
+Greece,Europe,Hungary,Europe,1999,0
+Greece,Europe,Czech Republic,Europe,1999,0
+Greece,Europe,Slovakia,Europe,1999,0
+Greece,Europe,Italy,Europe,1999,11920
+Greece,Europe,Croatia,Europe,1999,0
+Greece,Europe,Serbia,Europe,1999,0
+Greece,Europe,Bosnia,Europe,1999,0
+Greece,Europe,Greece,Europe,1999,0
+Greece,Europe,Bulgaria,Europe,1999,0
+Greece,Europe,Romania,Europe,1999,27161
+Greece,Europe,Russia,Asia,1999,0
+Greece,Europe,Ukraine,Europe,1999,0
+Greece,Europe,Finland,Europe,1999,0
+Greece,Europe,Sweden,Europe,1999,0
+Greece,Europe,Norway,Europe,1999,0
+Greece,Europe,Denmark,Europe,1999,0
+Greece,Europe,South Africa,Africa,1999,0
+Greece,Europe,Turkey,Asia,1999,108550
+Greece,Europe,Israel,Asia,1999,0
+Greece,Europe,United Arab Emirates,Asia,1999,0
+Greece,Europe,Taiwan,Asia,1999,0
+Greece,Europe,South Korea,Asia,1999,0
+Greece,Europe,Japan,Asia,1999,0
+Greece,Europe,India,Asia,1999,0
+Greece,Europe,Pakistan,Asia,1999,0
+Greece,Europe,Thailand,Asia,1999,0
+Greece,Europe,Malaysia,Asia,1999,0
+Greece,Europe,Singapore,Asia,1999,0
+Greece,Europe,Philippines,Asia,1999,0
+Greece,Europe,Indonesia,Asia,1999,0
+Greece,Europe,Australia,Oceania,1999,0
+Greece,Europe,Cyprus,Europe,1999,813403
+Greece,Europe,China,Asia,1999,0
+Greece,Europe,Ivory Coast,Africa,1999,0
+Greece,Europe,Congo,Africa,1999,0
+Bulgaria,Europe,United States,North America,1999,1705543
+Bulgaria,Europe,Canada,North America,1999,2373
+Bulgaria,Europe,Mexico,North America,1999,0
+Bulgaria,Europe,Brazil,South America,1999,0
+Bulgaria,Europe,Argentina,South America,1999,0
+Bulgaria,Europe,United Kingdom,Europe,1999,0
+Bulgaria,Europe,Netherlands,Europe,1999,0
+Bulgaria,Europe,Belgium,Europe,1999,0
+Bulgaria,Europe,France,Europe,1999,0
+Bulgaria,Europe,Switzerland,Europe,1999,34703
+Bulgaria,Europe,Spain,Europe,1999,0
+Bulgaria,Europe,Portugal,Europe,1999,0
+Bulgaria,Europe,Germany,Europe,1999,3551
+Bulgaria,Europe,Poland,Europe,1999,113565
+Bulgaria,Europe,Austria,Europe,1999,239107
+Bulgaria,Europe,Hungary,Europe,1999,0
+Bulgaria,Europe,Czech Republic,Europe,1999,1051477
+Bulgaria,Europe,Slovakia,Europe,1999,0
+Bulgaria,Europe,Italy,Europe,1999,0
+Bulgaria,Europe,Croatia,Europe,1999,0
+Bulgaria,Europe,Serbia,Europe,1999,0
+Bulgaria,Europe,Bosnia,Europe,1999,0
+Bulgaria,Europe,Greece,Europe,1999,0
+Bulgaria,Europe,Bulgaria,Europe,1999,0
+Bulgaria,Europe,Romania,Europe,1999,0
+Bulgaria,Europe,Russia,Asia,1999,0
+Bulgaria,Europe,Ukraine,Europe,1999,0
+Bulgaria,Europe,Finland,Europe,1999,0
+Bulgaria,Europe,Sweden,Europe,1999,0
+Bulgaria,Europe,Norway,Europe,1999,0
+Bulgaria,Europe,Denmark,Europe,1999,0
+Bulgaria,Europe,South Africa,Africa,1999,0
+Bulgaria,Europe,Turkey,Asia,1999,118786
+Bulgaria,Europe,Israel,Asia,1999,0
+Bulgaria,Europe,United Arab Emirates,Asia,1999,0
+Bulgaria,Europe,Taiwan,Asia,1999,0
+Bulgaria,Europe,South Korea,Asia,1999,0
+Bulgaria,Europe,Japan,Asia,1999,0
+Bulgaria,Europe,India,Asia,1999,0
+Bulgaria,Europe,Pakistan,Asia,1999,0
+Bulgaria,Europe,Thailand,Asia,1999,0
+Bulgaria,Europe,Malaysia,Asia,1999,0
+Bulgaria,Europe,Singapore,Asia,1999,0
+Bulgaria,Europe,Philippines,Asia,1999,0
+Bulgaria,Europe,Indonesia,Asia,1999,0
+Bulgaria,Europe,Australia,Oceania,1999,0
+Bulgaria,Europe,Cyprus,Europe,1999,0
+Bulgaria,Europe,China,Asia,1999,0
+Bulgaria,Europe,Ivory Coast,Africa,1999,0
+Bulgaria,Europe,Congo,Africa,1999,0
+Romania,Europe,United States,North America,1999,3655028
+Romania,Europe,Canada,North America,1999,0
+Romania,Europe,Mexico,North America,1999,0
+Romania,Europe,Brazil,South America,1999,0
+Romania,Europe,Argentina,South America,1999,0
+Romania,Europe,United Kingdom,Europe,1999,0
+Romania,Europe,Netherlands,Europe,1999,0
+Romania,Europe,Belgium,Europe,1999,0
+Romania,Europe,France,Europe,1999,0
+Romania,Europe,Switzerland,Europe,1999,0
+Romania,Europe,Spain,Europe,1999,0
+Romania,Europe,Portugal,Europe,1999,0
+Romania,Europe,Germany,Europe,1999,1420
+Romania,Europe,Poland,Europe,1999,0
+Romania,Europe,Austria,Europe,1999,4648
+Romania,Europe,Hungary,Europe,1999,0
+Romania,Europe,Czech Republic,Europe,1999,0
+Romania,Europe,Slovakia,Europe,1999,0
+Romania,Europe,Italy,Europe,1999,0
+Romania,Europe,Croatia,Europe,1999,0
+Romania,Europe,Serbia,Europe,1999,0
+Romania,Europe,Bosnia,Europe,1999,0
+Romania,Europe,Greece,Europe,1999,0
+Romania,Europe,Bulgaria,Europe,1999,0
+Romania,Europe,Romania,Europe,1999,0
+Romania,Europe,Russia,Asia,1999,0
+Romania,Europe,Ukraine,Europe,1999,0
+Romania,Europe,Finland,Europe,1999,0
+Romania,Europe,Sweden,Europe,1999,0
+Romania,Europe,Norway,Europe,1999,1050
+Romania,Europe,Denmark,Europe,1999,0
+Romania,Europe,South Africa,Africa,1999,0
+Romania,Europe,Turkey,Asia,1999,8072596
+Romania,Europe,Israel,Asia,1999,0
+Romania,Europe,United Arab Emirates,Asia,1999,0
+Romania,Europe,Taiwan,Asia,1999,0
+Romania,Europe,South Korea,Asia,1999,0
+Romania,Europe,Japan,Asia,1999,0
+Romania,Europe,India,Asia,1999,0
+Romania,Europe,Pakistan,Asia,1999,0
+Romania,Europe,Thailand,Asia,1999,0
+Romania,Europe,Malaysia,Asia,1999,0
+Romania,Europe,Singapore,Asia,1999,0
+Romania,Europe,Philippines,Asia,1999,0
+Romania,Europe,Indonesia,Asia,1999,0
+Romania,Europe,Australia,Oceania,1999,0
+Romania,Europe,Cyprus,Europe,1999,0
+Romania,Europe,China,Asia,1999,0
+Romania,Europe,Ivory Coast,Africa,1999,0
+Romania,Europe,Congo,Africa,1999,0
+Russia,Asia,United States,North America,1999,39291700
+Russia,Asia,Canada,North America,1999,18964
+Russia,Asia,Mexico,North America,1999,0
+Russia,Asia,Brazil,South America,1999,0
+Russia,Asia,Argentina,South America,1999,1669
+Russia,Asia,United Kingdom,Europe,1999,0
+Russia,Asia,Netherlands,Europe,1999,0
+Russia,Asia,Belgium,Europe,1999,110093
+Russia,Asia,France,Europe,1999,1132648
+Russia,Asia,Switzerland,Europe,1999,43729
+Russia,Asia,Spain,Europe,1999,0
+Russia,Asia,Portugal,Europe,1999,0
+Russia,Asia,Germany,Europe,1999,2042978
+Russia,Asia,Poland,Europe,1999,154874
+Russia,Asia,Austria,Europe,1999,103383
+Russia,Asia,Hungary,Europe,1999,75840
+Russia,Asia,Czech Republic,Europe,1999,233361
+Russia,Asia,Slovakia,Europe,1999,34825
+Russia,Asia,Italy,Europe,1999,182464
+Russia,Asia,Croatia,Europe,1999,92784
+Russia,Asia,Serbia,Europe,1999,14358
+Russia,Asia,Bosnia,Europe,1999,0
+Russia,Asia,Greece,Europe,1999,18828
+Russia,Asia,Bulgaria,Europe,1999,405594
+Russia,Asia,Romania,Europe,1999,0
+Russia,Asia,Russia,Asia,1999,0
+Russia,Asia,Ukraine,Europe,1999,673040
+Russia,Asia,Finland,Europe,1999,1022888
+Russia,Asia,Sweden,Europe,1999,2778
+Russia,Asia,Norway,Europe,1999,39857
+Russia,Asia,Denmark,Europe,1999,174784
+Russia,Asia,South Africa,Africa,1999,114425
+Russia,Asia,Turkey,Asia,1999,1174812
+Russia,Asia,Israel,Asia,1999,0
+Russia,Asia,United Arab Emirates,Asia,1999,5082243
+Russia,Asia,Taiwan,Asia,1999,0
+Russia,Asia,South Korea,Asia,1999,988105
+Russia,Asia,Japan,Asia,1999,0
+Russia,Asia,India,Asia,1999,28948
+Russia,Asia,Pakistan,Asia,1999,0
+Russia,Asia,Thailand,Asia,1999,6870
+Russia,Asia,Malaysia,Asia,1999,0
+Russia,Asia,Singapore,Asia,1999,0
+Russia,Asia,Philippines,Asia,1999,7571
+Russia,Asia,Indonesia,Asia,1999,0
+Russia,Asia,Australia,Oceania,1999,0
+Russia,Asia,Cyprus,Europe,1999,3333072
+Russia,Asia,China,Asia,1999,8082651
+Russia,Asia,Ivory Coast,Africa,1999,0
+Russia,Asia,Congo,Africa,1999,0
+Ukraine,Europe,United States,North America,1999,0
+Ukraine,Europe,Canada,North America,1999,0
+Ukraine,Europe,Mexico,North America,1999,0
+Ukraine,Europe,Brazil,South America,1999,0
+Ukraine,Europe,Argentina,South America,1999,0
+Ukraine,Europe,United Kingdom,Europe,1999,0
+Ukraine,Europe,Netherlands,Europe,1999,0
+Ukraine,Europe,Belgium,Europe,1999,0
+Ukraine,Europe,France,Europe,1999,0
+Ukraine,Europe,Switzerland,Europe,1999,0
+Ukraine,Europe,Spain,Europe,1999,0
+Ukraine,Europe,Portugal,Europe,1999,0
+Ukraine,Europe,Germany,Europe,1999,103741
+Ukraine,Europe,Poland,Europe,1999,0
+Ukraine,Europe,Austria,Europe,1999,0
+Ukraine,Europe,Hungary,Europe,1999,0
+Ukraine,Europe,Czech Republic,Europe,1999,670
+Ukraine,Europe,Slovakia,Europe,1999,0
+Ukraine,Europe,Italy,Europe,1999,0
+Ukraine,Europe,Croatia,Europe,1999,0
+Ukraine,Europe,Serbia,Europe,1999,0
+Ukraine,Europe,Bosnia,Europe,1999,0
+Ukraine,Europe,Greece,Europe,1999,0
+Ukraine,Europe,Bulgaria,Europe,1999,0
+Ukraine,Europe,Romania,Europe,1999,0
+Ukraine,Europe,Russia,Asia,1999,0
+Ukraine,Europe,Ukraine,Europe,1999,0
+Ukraine,Europe,Finland,Europe,1999,0
+Ukraine,Europe,Sweden,Europe,1999,0
+Ukraine,Europe,Norway,Europe,1999,0
+Ukraine,Europe,Denmark,Europe,1999,0
+Ukraine,Europe,South Africa,Africa,1999,0
+Ukraine,Europe,Turkey,Asia,1999,0
+Ukraine,Europe,Israel,Asia,1999,0
+Ukraine,Europe,United Arab Emirates,Asia,1999,0
+Ukraine,Europe,Taiwan,Asia,1999,0
+Ukraine,Europe,South Korea,Asia,1999,0
+Ukraine,Europe,Japan,Asia,1999,0
+Ukraine,Europe,India,Asia,1999,0
+Ukraine,Europe,Pakistan,Asia,1999,0
+Ukraine,Europe,Thailand,Asia,1999,0
+Ukraine,Europe,Malaysia,Asia,1999,0
+Ukraine,Europe,Singapore,Asia,1999,0
+Ukraine,Europe,Philippines,Asia,1999,0
+Ukraine,Europe,Indonesia,Asia,1999,0
+Ukraine,Europe,Australia,Oceania,1999,0
+Ukraine,Europe,Cyprus,Europe,1999,0
+Ukraine,Europe,China,Asia,1999,0
+Ukraine,Europe,Ivory Coast,Africa,1999,0
+Ukraine,Europe,Congo,Africa,1999,0
+Finland,Europe,United States,North America,1999,9884305
+Finland,Europe,Canada,North America,1999,1051004
+Finland,Europe,Mexico,North America,1999,0
+Finland,Europe,Brazil,South America,1999,62980
+Finland,Europe,Argentina,South America,1999,75072
+Finland,Europe,United Kingdom,Europe,1999,1573476
+Finland,Europe,Netherlands,Europe,1999,1473384
+Finland,Europe,Belgium,Europe,1999,276828
+Finland,Europe,France,Europe,1999,715948
+Finland,Europe,Switzerland,Europe,1999,252640
+Finland,Europe,Spain,Europe,1999,170710
+Finland,Europe,Portugal,Europe,1999,61464
+Finland,Europe,Germany,Europe,1999,2154044
+Finland,Europe,Poland,Europe,1999,361524
+Finland,Europe,Austria,Europe,1999,189835
+Finland,Europe,Hungary,Europe,1999,149278
+Finland,Europe,Czech Republic,Europe,1999,87444
+Finland,Europe,Slovakia,Europe,1999,43805
+Finland,Europe,Italy,Europe,1999,605014
+Finland,Europe,Croatia,Europe,1999,1246
+Finland,Europe,Serbia,Europe,1999,0
+Finland,Europe,Bosnia,Europe,1999,0
+Finland,Europe,Greece,Europe,1999,43439
+Finland,Europe,Bulgaria,Europe,1999,0
+Finland,Europe,Romania,Europe,1999,0
+Finland,Europe,Russia,Asia,1999,391950
+Finland,Europe,Ukraine,Europe,1999,0
+Finland,Europe,Finland,Europe,1999,0
+Finland,Europe,Sweden,Europe,1999,2888784
+Finland,Europe,Norway,Europe,1999,1681625
+Finland,Europe,Denmark,Europe,1999,1833831
+Finland,Europe,South Africa,Africa,1999,369302
+Finland,Europe,Turkey,Asia,1999,20247
+Finland,Europe,Israel,Asia,1999,0
+Finland,Europe,United Arab Emirates,Asia,1999,89980
+Finland,Europe,Taiwan,Asia,1999,3955
+Finland,Europe,South Korea,Asia,1999,250820
+Finland,Europe,Japan,Asia,1999,257540
+Finland,Europe,India,Asia,1999,8454
+Finland,Europe,Pakistan,Asia,1999,0
+Finland,Europe,Thailand,Asia,1999,2433
+Finland,Europe,Malaysia,Asia,1999,28410
+Finland,Europe,Singapore,Asia,1999,146158
+Finland,Europe,Philippines,Asia,1999,11619
+Finland,Europe,Indonesia,Asia,1999,0
+Finland,Europe,Australia,Oceania,1999,242330
+Finland,Europe,Cyprus,Europe,1999,0
+Finland,Europe,China,Asia,1999,22743
+Finland,Europe,Ivory Coast,Africa,1999,0
+Finland,Europe,Congo,Africa,1999,0
+Sweden,Europe,United States,North America,1999,4886995
+Sweden,Europe,Canada,North America,1999,497554
+Sweden,Europe,Mexico,North America,1999,0
+Sweden,Europe,Brazil,South America,1999,0
+Sweden,Europe,Argentina,South America,1999,2529
+Sweden,Europe,United Kingdom,Europe,1999,280145
+Sweden,Europe,Netherlands,Europe,1999,0
+Sweden,Europe,Belgium,Europe,1999,61249
+Sweden,Europe,France,Europe,1999,1555960
+Sweden,Europe,Switzerland,Europe,1999,658348
+Sweden,Europe,Spain,Europe,1999,390491
+Sweden,Europe,Portugal,Europe,1999,0
+Sweden,Europe,Germany,Europe,1999,2524004
+Sweden,Europe,Poland,Europe,1999,110053
+Sweden,Europe,Austria,Europe,1999,231223
+Sweden,Europe,Hungary,Europe,1999,1305
+Sweden,Europe,Czech Republic,Europe,1999,67952
+Sweden,Europe,Slovakia,Europe,1999,0
+Sweden,Europe,Italy,Europe,1999,67635
+Sweden,Europe,Croatia,Europe,1999,0
+Sweden,Europe,Serbia,Europe,1999,0
+Sweden,Europe,Bosnia,Europe,1999,0
+Sweden,Europe,Greece,Europe,1999,0
+Sweden,Europe,Bulgaria,Europe,1999,0
+Sweden,Europe,Romania,Europe,1999,0
+Sweden,Europe,Russia,Asia,1999,0
+Sweden,Europe,Ukraine,Europe,1999,0
+Sweden,Europe,Finland,Europe,1999,1228622
+Sweden,Europe,Sweden,Europe,1999,0
+Sweden,Europe,Norway,Europe,1999,7703372
+Sweden,Europe,Denmark,Europe,1999,1292103
+Sweden,Europe,South Africa,Africa,1999,21864
+Sweden,Europe,Turkey,Asia,1999,0
+Sweden,Europe,Israel,Asia,1999,0
+Sweden,Europe,United Arab Emirates,Asia,1999,0
+Sweden,Europe,Taiwan,Asia,1999,0
+Sweden,Europe,South Korea,Asia,1999,0
+Sweden,Europe,Japan,Asia,1999,232088
+Sweden,Europe,India,Asia,1999,0
+Sweden,Europe,Pakistan,Asia,1999,0
+Sweden,Europe,Thailand,Asia,1999,0
+Sweden,Europe,Malaysia,Asia,1999,0
+Sweden,Europe,Singapore,Asia,1999,0
+Sweden,Europe,Philippines,Asia,1999,0
+Sweden,Europe,Indonesia,Asia,1999,0
+Sweden,Europe,Australia,Oceania,1999,2412
+Sweden,Europe,Cyprus,Europe,1999,0
+Sweden,Europe,China,Asia,1999,0
+Sweden,Europe,Ivory Coast,Africa,1999,0
+Sweden,Europe,Congo,Africa,1999,0
+Norway,Europe,United States,North America,1999,884562
+Norway,Europe,Canada,North America,1999,4523426
+Norway,Europe,Mexico,North America,1999,0
+Norway,Europe,Brazil,South America,1999,0
+Norway,Europe,Argentina,South America,1999,0
+Norway,Europe,United Kingdom,Europe,1999,182874
+Norway,Europe,Netherlands,Europe,1999,27019
+Norway,Europe,Belgium,Europe,1999,14485
+Norway,Europe,France,Europe,1999,1489596
+Norway,Europe,Switzerland,Europe,1999,3822245
+Norway,Europe,Spain,Europe,1999,1686133
+Norway,Europe,Portugal,Europe,1999,0
+Norway,Europe,Germany,Europe,1999,29968
+Norway,Europe,Poland,Europe,1999,0
+Norway,Europe,Austria,Europe,1999,15057
+Norway,Europe,Hungary,Europe,1999,0
+Norway,Europe,Czech Republic,Europe,1999,59624
+Norway,Europe,Slovakia,Europe,1999,0
+Norway,Europe,Italy,Europe,1999,947530
+Norway,Europe,Croatia,Europe,1999,0
+Norway,Europe,Serbia,Europe,1999,0
+Norway,Europe,Bosnia,Europe,1999,0
+Norway,Europe,Greece,Europe,1999,0
+Norway,Europe,Bulgaria,Europe,1999,0
+Norway,Europe,Romania,Europe,1999,0
+Norway,Europe,Russia,Asia,1999,1370
+Norway,Europe,Ukraine,Europe,1999,0
+Norway,Europe,Finland,Europe,1999,52677
+Norway,Europe,Sweden,Europe,1999,1722190
+Norway,Europe,Norway,Europe,1999,0
+Norway,Europe,Denmark,Europe,1999,998031
+Norway,Europe,South Africa,Africa,1999,0
+Norway,Europe,Turkey,Asia,1999,0
+Norway,Europe,Israel,Asia,1999,0
+Norway,Europe,United Arab Emirates,Asia,1999,0
+Norway,Europe,Taiwan,Asia,1999,0
+Norway,Europe,South Korea,Asia,1999,0
+Norway,Europe,Japan,Asia,1999,0
+Norway,Europe,India,Asia,1999,0
+Norway,Europe,Pakistan,Asia,1999,0
+Norway,Europe,Thailand,Asia,1999,0
+Norway,Europe,Malaysia,Asia,1999,0
+Norway,Europe,Singapore,Asia,1999,11866
+Norway,Europe,Philippines,Asia,1999,0
+Norway,Europe,Indonesia,Asia,1999,0
+Norway,Europe,Australia,Oceania,1999,0
+Norway,Europe,Cyprus,Europe,1999,0
+Norway,Europe,China,Asia,1999,0
+Norway,Europe,Ivory Coast,Africa,1999,0
+Norway,Europe,Congo,Africa,1999,0
+Denmark,Europe,United States,North America,1999,101353
+Denmark,Europe,Canada,North America,1999,58579
+Denmark,Europe,Mexico,North America,1999,0
+Denmark,Europe,Brazil,South America,1999,0
+Denmark,Europe,Argentina,South America,1999,0
+Denmark,Europe,United Kingdom,Europe,1999,72607
+Denmark,Europe,Netherlands,Europe,1999,0
+Denmark,Europe,Belgium,Europe,1999,0
+Denmark,Europe,France,Europe,1999,0
+Denmark,Europe,Switzerland,Europe,1999,98285
+Denmark,Europe,Spain,Europe,1999,0
+Denmark,Europe,Portugal,Europe,1999,0
+Denmark,Europe,Germany,Europe,1999,28316
+Denmark,Europe,Poland,Europe,1999,0
+Denmark,Europe,Austria,Europe,1999,31530
+Denmark,Europe,Hungary,Europe,1999,0
+Denmark,Europe,Czech Republic,Europe,1999,0
+Denmark,Europe,Slovakia,Europe,1999,0
+Denmark,Europe,Italy,Europe,1999,19990
+Denmark,Europe,Croatia,Europe,1999,0
+Denmark,Europe,Serbia,Europe,1999,0
+Denmark,Europe,Bosnia,Europe,1999,0
+Denmark,Europe,Greece,Europe,1999,0
+Denmark,Europe,Bulgaria,Europe,1999,0
+Denmark,Europe,Romania,Europe,1999,0
+Denmark,Europe,Russia,Asia,1999,0
+Denmark,Europe,Ukraine,Europe,1999,0
+Denmark,Europe,Finland,Europe,1999,0
+Denmark,Europe,Sweden,Europe,1999,77527
+Denmark,Europe,Norway,Europe,1999,61797
+Denmark,Europe,Denmark,Europe,1999,0
+Denmark,Europe,South Africa,Africa,1999,0
+Denmark,Europe,Turkey,Asia,1999,0
+Denmark,Europe,Israel,Asia,1999,0
+Denmark,Europe,United Arab Emirates,Asia,1999,0
+Denmark,Europe,Taiwan,Asia,1999,0
+Denmark,Europe,South Korea,Asia,1999,18253
+Denmark,Europe,Japan,Asia,1999,0
+Denmark,Europe,India,Asia,1999,0
+Denmark,Europe,Pakistan,Asia,1999,0
+Denmark,Europe,Thailand,Asia,1999,0
+Denmark,Europe,Malaysia,Asia,1999,0
+Denmark,Europe,Singapore,Asia,1999,0
+Denmark,Europe,Philippines,Asia,1999,0
+Denmark,Europe,Indonesia,Asia,1999,0
+Denmark,Europe,Australia,Oceania,1999,0
+Denmark,Europe,Cyprus,Europe,1999,0
+Denmark,Europe,China,Asia,1999,0
+Denmark,Europe,Ivory Coast,Africa,1999,0
+Denmark,Europe,Congo,Africa,1999,0
+South Africa,Africa,United States,North America,1999,10433045
+South Africa,Africa,Canada,North America,1999,49825
+South Africa,Africa,Mexico,North America,1999,4079508
+South Africa,Africa,Brazil,South America,1999,307445
+South Africa,Africa,Argentina,South America,1999,93439
+South Africa,Africa,United Kingdom,Europe,1999,89474
+South Africa,Africa,Netherlands,Europe,1999,182428
+South Africa,Africa,Belgium,Europe,1999,5284
+South Africa,Africa,France,Europe,1999,152219
+South Africa,Africa,Switzerland,Europe,1999,735906
+South Africa,Africa,Spain,Europe,1999,13417
+South Africa,Africa,Portugal,Europe,1999,0
+South Africa,Africa,Germany,Europe,1999,2282482
+South Africa,Africa,Poland,Europe,1999,0
+South Africa,Africa,Austria,Europe,1999,335113
+South Africa,Africa,Hungary,Europe,1999,0
+South Africa,Africa,Czech Republic,Europe,1999,44628
+South Africa,Africa,Slovakia,Europe,1999,4701
+South Africa,Africa,Italy,Europe,1999,0
+South Africa,Africa,Croatia,Europe,1999,0
+South Africa,Africa,Serbia,Europe,1999,0
+South Africa,Africa,Bosnia,Europe,1999,0
+South Africa,Africa,Greece,Europe,1999,457917
+South Africa,Africa,Bulgaria,Europe,1999,0
+South Africa,Africa,Romania,Europe,1999,0
+South Africa,Africa,Russia,Asia,1999,0
+South Africa,Africa,Ukraine,Europe,1999,0
+South Africa,Africa,Finland,Europe,1999,2638
+South Africa,Africa,Sweden,Europe,1999,39404
+South Africa,Africa,Norway,Europe,1999,28440
+South Africa,Africa,Denmark,Europe,1999,0
+South Africa,Africa,South Africa,Africa,1999,0
+South Africa,Africa,Turkey,Asia,1999,3855
+South Africa,Africa,Israel,Asia,1999,677346
+South Africa,Africa,United Arab Emirates,Asia,1999,692037
+South Africa,Africa,Taiwan,Asia,1999,29961
+South Africa,Africa,South Korea,Asia,1999,2291
+South Africa,Africa,Japan,Asia,1999,3524
+South Africa,Africa,India,Asia,1999,3252
+South Africa,Africa,Pakistan,Asia,1999,1166956
+South Africa,Africa,Thailand,Asia,1999,361501
+South Africa,Africa,Malaysia,Asia,1999,129563
+South Africa,Africa,Singapore,Asia,1999,3550413
+South Africa,Africa,Philippines,Asia,1999,239862
+South Africa,Africa,Indonesia,Asia,1999,0
+South Africa,Africa,Australia,Oceania,1999,61099
+South Africa,Africa,Cyprus,Europe,1999,1830
+South Africa,Africa,China,Asia,1999,13151
+South Africa,Africa,Ivory Coast,Africa,1999,1170752
+South Africa,Africa,Congo,Africa,1999,19397
+Turkey,Asia,United States,North America,1999,2893204
+Turkey,Asia,Canada,North America,1999,0
+Turkey,Asia,Mexico,North America,1999,0
+Turkey,Asia,Brazil,South America,1999,0
+Turkey,Asia,Argentina,South America,1999,145009
+Turkey,Asia,United Kingdom,Europe,1999,6997
+Turkey,Asia,Netherlands,Europe,1999,18143
+Turkey,Asia,Belgium,Europe,1999,16077
+Turkey,Asia,France,Europe,1999,756830
+Turkey,Asia,Switzerland,Europe,1999,177140
+Turkey,Asia,Spain,Europe,1999,104691
+Turkey,Asia,Portugal,Europe,1999,583479
+Turkey,Asia,Germany,Europe,1999,559070
+Turkey,Asia,Poland,Europe,1999,0
+Turkey,Asia,Austria,Europe,1999,3542
+Turkey,Asia,Hungary,Europe,1999,16969
+Turkey,Asia,Czech Republic,Europe,1999,133650
+Turkey,Asia,Slovakia,Europe,1999,0
+Turkey,Asia,Italy,Europe,1999,414828
+Turkey,Asia,Croatia,Europe,1999,35288
+Turkey,Asia,Serbia,Europe,1999,0
+Turkey,Asia,Bosnia,Europe,1999,13368
+Turkey,Asia,Greece,Europe,1999,99280
+Turkey,Asia,Bulgaria,Europe,1999,1136
+Turkey,Asia,Romania,Europe,1999,2968616
+Turkey,Asia,Russia,Asia,1999,0
+Turkey,Asia,Ukraine,Europe,1999,47011
+Turkey,Asia,Finland,Europe,1999,23323
+Turkey,Asia,Sweden,Europe,1999,12811
+Turkey,Asia,Norway,Europe,1999,95394
+Turkey,Asia,Denmark,Europe,1999,7812
+Turkey,Asia,South Africa,Africa,1999,378157
+Turkey,Asia,Turkey,Asia,1999,0
+Turkey,Asia,Israel,Asia,1999,42833
+Turkey,Asia,United Arab Emirates,Asia,1999,140512
+Turkey,Asia,Taiwan,Asia,1999,0
+Turkey,Asia,South Korea,Asia,1999,0
+Turkey,Asia,Japan,Asia,1999,23336
+Turkey,Asia,India,Asia,1999,0
+Turkey,Asia,Pakistan,Asia,1999,0
+Turkey,Asia,Thailand,Asia,1999,43998
+Turkey,Asia,Malaysia,Asia,1999,22331
+Turkey,Asia,Singapore,Asia,1999,0
+Turkey,Asia,Philippines,Asia,1999,0
+Turkey,Asia,Indonesia,Asia,1999,3960
+Turkey,Asia,Australia,Oceania,1999,0
+Turkey,Asia,Cyprus,Europe,1999,95020
+Turkey,Asia,China,Asia,1999,0
+Turkey,Asia,Ivory Coast,Africa,1999,0
+Turkey,Asia,Congo,Africa,1999,0
+Israel,Asia,United States,North America,1999,14083988
+Israel,Asia,Canada,North America,1999,52446
+Israel,Asia,Mexico,North America,1999,3069
+Israel,Asia,Brazil,South America,1999,0
+Israel,Asia,Argentina,South America,1999,74082
+Israel,Asia,United Kingdom,Europe,1999,167406
+Israel,Asia,Netherlands,Europe,1999,0
+Israel,Asia,Belgium,Europe,1999,0
+Israel,Asia,France,Europe,1999,0
+Israel,Asia,Switzerland,Europe,1999,17616
+Israel,Asia,Spain,Europe,1999,0
+Israel,Asia,Portugal,Europe,1999,0
+Israel,Asia,Germany,Europe,1999,475366
+Israel,Asia,Poland,Europe,1999,0
+Israel,Asia,Austria,Europe,1999,0
+Israel,Asia,Hungary,Europe,1999,0
+Israel,Asia,Czech Republic,Europe,1999,1205496
+Israel,Asia,Slovakia,Europe,1999,0
+Israel,Asia,Italy,Europe,1999,63177
+Israel,Asia,Croatia,Europe,1999,4601
+Israel,Asia,Serbia,Europe,1999,0
+Israel,Asia,Bosnia,Europe,1999,0
+Israel,Asia,Greece,Europe,1999,0
+Israel,Asia,Bulgaria,Europe,1999,0
+Israel,Asia,Romania,Europe,1999,0
+Israel,Asia,Russia,Asia,1999,0
+Israel,Asia,Ukraine,Europe,1999,0
+Israel,Asia,Finland,Europe,1999,132534
+Israel,Asia,Sweden,Europe,1999,0
+Israel,Asia,Norway,Europe,1999,78409
+Israel,Asia,Denmark,Europe,1999,0
+Israel,Asia,South Africa,Africa,1999,21235
+Israel,Asia,Turkey,Asia,1999,575269
+Israel,Asia,Israel,Asia,1999,0
+Israel,Asia,United Arab Emirates,Asia,1999,0
+Israel,Asia,Taiwan,Asia,1999,0
+Israel,Asia,South Korea,Asia,1999,0
+Israel,Asia,Japan,Asia,1999,0
+Israel,Asia,India,Asia,1999,0
+Israel,Asia,Pakistan,Asia,1999,0
+Israel,Asia,Thailand,Asia,1999,234354
+Israel,Asia,Malaysia,Asia,1999,0
+Israel,Asia,Singapore,Asia,1999,0
+Israel,Asia,Philippines,Asia,1999,155643
+Israel,Asia,Indonesia,Asia,1999,0
+Israel,Asia,Australia,Oceania,1999,24433
+Israel,Asia,Cyprus,Europe,1999,0
+Israel,Asia,China,Asia,1999,0
+Israel,Asia,Ivory Coast,Africa,1999,0
+Israel,Asia,Congo,Africa,1999,0
+United Arab Emirates,Asia,United States,North America,1999,0
+United Arab Emirates,Asia,Canada,North America,1999,0
+United Arab Emirates,Asia,Mexico,North America,1999,0
+United Arab Emirates,Asia,Brazil,South America,1999,0
+United Arab Emirates,Asia,Argentina,South America,1999,0
+United Arab Emirates,Asia,United Kingdom,Europe,1999,0
+United Arab Emirates,Asia,Netherlands,Europe,1999,0
+United Arab Emirates,Asia,Belgium,Europe,1999,49268
+United Arab Emirates,Asia,France,Europe,1999,0
+United Arab Emirates,Asia,Switzerland,Europe,1999,0
+United Arab Emirates,Asia,Spain,Europe,1999,0
+United Arab Emirates,Asia,Portugal,Europe,1999,0
+United Arab Emirates,Asia,Germany,Europe,1999,363096
+United Arab Emirates,Asia,Poland,Europe,1999,0
+United Arab Emirates,Asia,Austria,Europe,1999,0
+United Arab Emirates,Asia,Hungary,Europe,1999,0
+United Arab Emirates,Asia,Czech Republic,Europe,1999,8895
+United Arab Emirates,Asia,Slovakia,Europe,1999,0
+United Arab Emirates,Asia,Italy,Europe,1999,43299
+United Arab Emirates,Asia,Croatia,Europe,1999,0
+United Arab Emirates,Asia,Serbia,Europe,1999,0
+United Arab Emirates,Asia,Bosnia,Europe,1999,0
+United Arab Emirates,Asia,Greece,Europe,1999,0
+United Arab Emirates,Asia,Bulgaria,Europe,1999,0
+United Arab Emirates,Asia,Romania,Europe,1999,0
+United Arab Emirates,Asia,Russia,Asia,1999,14957
+United Arab Emirates,Asia,Ukraine,Europe,1999,0
+United Arab Emirates,Asia,Finland,Europe,1999,0
+United Arab Emirates,Asia,Sweden,Europe,1999,0
+United Arab Emirates,Asia,Norway,Europe,1999,0
+United Arab Emirates,Asia,Denmark,Europe,1999,0
+United Arab Emirates,Asia,South Africa,Africa,1999,0
+United Arab Emirates,Asia,Turkey,Asia,1999,31247
+United Arab Emirates,Asia,Israel,Asia,1999,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,1999,0
+United Arab Emirates,Asia,Taiwan,Asia,1999,0
+United Arab Emirates,Asia,South Korea,Asia,1999,0
+United Arab Emirates,Asia,Japan,Asia,1999,0
+United Arab Emirates,Asia,India,Asia,1999,0
+United Arab Emirates,Asia,Pakistan,Asia,1999,0
+United Arab Emirates,Asia,Thailand,Asia,1999,0
+United Arab Emirates,Asia,Malaysia,Asia,1999,0
+United Arab Emirates,Asia,Singapore,Asia,1999,0
+United Arab Emirates,Asia,Philippines,Asia,1999,0
+United Arab Emirates,Asia,Indonesia,Asia,1999,0
+United Arab Emirates,Asia,Australia,Oceania,1999,0
+United Arab Emirates,Asia,Cyprus,Europe,1999,0
+United Arab Emirates,Asia,China,Asia,1999,0
+United Arab Emirates,Asia,Ivory Coast,Africa,1999,0
+United Arab Emirates,Asia,Congo,Africa,1999,0
+Taiwan,Asia,United States,North America,1999,174527
+Taiwan,Asia,Canada,North America,1999,5122
+Taiwan,Asia,Mexico,North America,1999,0
+Taiwan,Asia,Brazil,South America,1999,0
+Taiwan,Asia,Argentina,South America,1999,0
+Taiwan,Asia,United Kingdom,Europe,1999,4716
+Taiwan,Asia,Netherlands,Europe,1999,0
+Taiwan,Asia,Belgium,Europe,1999,0
+Taiwan,Asia,France,Europe,1999,0
+Taiwan,Asia,Switzerland,Europe,1999,0
+Taiwan,Asia,Spain,Europe,1999,0
+Taiwan,Asia,Portugal,Europe,1999,0
+Taiwan,Asia,Germany,Europe,1999,2841
+Taiwan,Asia,Poland,Europe,1999,0
+Taiwan,Asia,Austria,Europe,1999,0
+Taiwan,Asia,Hungary,Europe,1999,0
+Taiwan,Asia,Czech Republic,Europe,1999,0
+Taiwan,Asia,Slovakia,Europe,1999,0
+Taiwan,Asia,Italy,Europe,1999,0
+Taiwan,Asia,Croatia,Europe,1999,0
+Taiwan,Asia,Serbia,Europe,1999,0
+Taiwan,Asia,Bosnia,Europe,1999,0
+Taiwan,Asia,Greece,Europe,1999,0
+Taiwan,Asia,Bulgaria,Europe,1999,0
+Taiwan,Asia,Romania,Europe,1999,0
+Taiwan,Asia,Russia,Asia,1999,0
+Taiwan,Asia,Ukraine,Europe,1999,0
+Taiwan,Asia,Finland,Europe,1999,0
+Taiwan,Asia,Sweden,Europe,1999,0
+Taiwan,Asia,Norway,Europe,1999,0
+Taiwan,Asia,Denmark,Europe,1999,0
+Taiwan,Asia,South Africa,Africa,1999,0
+Taiwan,Asia,Turkey,Asia,1999,0
+Taiwan,Asia,Israel,Asia,1999,0
+Taiwan,Asia,United Arab Emirates,Asia,1999,0
+Taiwan,Asia,Taiwan,Asia,1999,0
+Taiwan,Asia,South Korea,Asia,1999,0
+Taiwan,Asia,Japan,Asia,1999,0
+Taiwan,Asia,India,Asia,1999,0
+Taiwan,Asia,Pakistan,Asia,1999,0
+Taiwan,Asia,Thailand,Asia,1999,0
+Taiwan,Asia,Malaysia,Asia,1999,2977
+Taiwan,Asia,Singapore,Asia,1999,0
+Taiwan,Asia,Philippines,Asia,1999,0
+Taiwan,Asia,Indonesia,Asia,1999,0
+Taiwan,Asia,Australia,Oceania,1999,763
+Taiwan,Asia,Cyprus,Europe,1999,0
+Taiwan,Asia,China,Asia,1999,0
+Taiwan,Asia,Ivory Coast,Africa,1999,0
+Taiwan,Asia,Congo,Africa,1999,0
+South Korea,Asia,United States,North America,1999,15516959
+South Korea,Asia,Canada,North America,1999,61769
+South Korea,Asia,Mexico,North America,1999,0
+South Korea,Asia,Brazil,South America,1999,0
+South Korea,Asia,Argentina,South America,1999,0
+South Korea,Asia,United Kingdom,Europe,1999,42961
+South Korea,Asia,Netherlands,Europe,1999,0
+South Korea,Asia,Belgium,Europe,1999,38375
+South Korea,Asia,France,Europe,1999,0
+South Korea,Asia,Switzerland,Europe,1999,26237
+South Korea,Asia,Spain,Europe,1999,0
+South Korea,Asia,Portugal,Europe,1999,0
+South Korea,Asia,Germany,Europe,1999,511155
+South Korea,Asia,Poland,Europe,1999,0
+South Korea,Asia,Austria,Europe,1999,26839
+South Korea,Asia,Hungary,Europe,1999,0
+South Korea,Asia,Czech Republic,Europe,1999,16871
+South Korea,Asia,Slovakia,Europe,1999,36615
+South Korea,Asia,Italy,Europe,1999,1268
+South Korea,Asia,Croatia,Europe,1999,0
+South Korea,Asia,Serbia,Europe,1999,0
+South Korea,Asia,Bosnia,Europe,1999,0
+South Korea,Asia,Greece,Europe,1999,0
+South Korea,Asia,Bulgaria,Europe,1999,0
+South Korea,Asia,Romania,Europe,1999,0
+South Korea,Asia,Russia,Asia,1999,0
+South Korea,Asia,Ukraine,Europe,1999,0
+South Korea,Asia,Finland,Europe,1999,0
+South Korea,Asia,Sweden,Europe,1999,0
+South Korea,Asia,Norway,Europe,1999,0
+South Korea,Asia,Denmark,Europe,1999,0
+South Korea,Asia,South Africa,Africa,1999,0
+South Korea,Asia,Turkey,Asia,1999,14405228
+South Korea,Asia,Israel,Asia,1999,770508
+South Korea,Asia,United Arab Emirates,Asia,1999,0
+South Korea,Asia,Taiwan,Asia,1999,0
+South Korea,Asia,South Korea,Asia,1999,0
+South Korea,Asia,Japan,Asia,1999,6144
+South Korea,Asia,India,Asia,1999,0
+South Korea,Asia,Pakistan,Asia,1999,0
+South Korea,Asia,Thailand,Asia,1999,42222
+South Korea,Asia,Malaysia,Asia,1999,0
+South Korea,Asia,Singapore,Asia,1999,0
+South Korea,Asia,Philippines,Asia,1999,82719
+South Korea,Asia,Indonesia,Asia,1999,77643
+South Korea,Asia,Australia,Oceania,1999,930769
+South Korea,Asia,Cyprus,Europe,1999,0
+South Korea,Asia,China,Asia,1999,0
+South Korea,Asia,Ivory Coast,Africa,1999,0
+South Korea,Asia,Congo,Africa,1999,0
+Japan,Asia,United States,North America,1999,22726171
+Japan,Asia,Canada,North America,1999,1322700
+Japan,Asia,Mexico,North America,1999,0
+Japan,Asia,Brazil,South America,1999,0
+Japan,Asia,Argentina,South America,1999,4960
+Japan,Asia,United Kingdom,Europe,1999,2920078
+Japan,Asia,Netherlands,Europe,1999,0
+Japan,Asia,Belgium,Europe,1999,10684670
+Japan,Asia,France,Europe,1999,208551
+Japan,Asia,Switzerland,Europe,1999,13023
+Japan,Asia,Spain,Europe,1999,0
+Japan,Asia,Portugal,Europe,1999,58332
+Japan,Asia,Germany,Europe,1999,270869
+Japan,Asia,Poland,Europe,1999,70747
+Japan,Asia,Austria,Europe,1999,83879
+Japan,Asia,Hungary,Europe,1999,61350
+Japan,Asia,Czech Republic,Europe,1999,10337
+Japan,Asia,Slovakia,Europe,1999,7354
+Japan,Asia,Italy,Europe,1999,51724
+Japan,Asia,Croatia,Europe,1999,0
+Japan,Asia,Serbia,Europe,1999,0
+Japan,Asia,Bosnia,Europe,1999,0
+Japan,Asia,Greece,Europe,1999,18618
+Japan,Asia,Bulgaria,Europe,1999,0
+Japan,Asia,Romania,Europe,1999,0
+Japan,Asia,Russia,Asia,1999,0
+Japan,Asia,Ukraine,Europe,1999,0
+Japan,Asia,Finland,Europe,1999,30737
+Japan,Asia,Sweden,Europe,1999,479734
+Japan,Asia,Norway,Europe,1999,114521
+Japan,Asia,Denmark,Europe,1999,902122
+Japan,Asia,South Africa,Africa,1999,0
+Japan,Asia,Turkey,Asia,1999,0
+Japan,Asia,Israel,Asia,1999,0
+Japan,Asia,United Arab Emirates,Asia,1999,0
+Japan,Asia,Taiwan,Asia,1999,0
+Japan,Asia,South Korea,Asia,1999,50003
+Japan,Asia,Japan,Asia,1999,0
+Japan,Asia,India,Asia,1999,22361
+Japan,Asia,Pakistan,Asia,1999,0
+Japan,Asia,Thailand,Asia,1999,27451
+Japan,Asia,Malaysia,Asia,1999,2692
+Japan,Asia,Singapore,Asia,1999,0
+Japan,Asia,Philippines,Asia,1999,0
+Japan,Asia,Indonesia,Asia,1999,4863
+Japan,Asia,Australia,Oceania,1999,320992
+Japan,Asia,Cyprus,Europe,1999,344713
+Japan,Asia,China,Asia,1999,0
+Japan,Asia,Ivory Coast,Africa,1999,0
+Japan,Asia,Congo,Africa,1999,0
+India,Asia,United States,North America,1999,151567
+India,Asia,Canada,North America,1999,9558
+India,Asia,Mexico,North America,1999,0
+India,Asia,Brazil,South America,1999,0
+India,Asia,Argentina,South America,1999,1865
+India,Asia,United Kingdom,Europe,1999,183085
+India,Asia,Netherlands,Europe,1999,0
+India,Asia,Belgium,Europe,1999,0
+India,Asia,France,Europe,1999,22245
+India,Asia,Switzerland,Europe,1999,0
+India,Asia,Spain,Europe,1999,0
+India,Asia,Portugal,Europe,1999,0
+India,Asia,Germany,Europe,1999,294600
+India,Asia,Poland,Europe,1999,0
+India,Asia,Austria,Europe,1999,0
+India,Asia,Hungary,Europe,1999,0
+India,Asia,Czech Republic,Europe,1999,0
+India,Asia,Slovakia,Europe,1999,0
+India,Asia,Italy,Europe,1999,0
+India,Asia,Croatia,Europe,1999,0
+India,Asia,Serbia,Europe,1999,0
+India,Asia,Bosnia,Europe,1999,0
+India,Asia,Greece,Europe,1999,0
+India,Asia,Bulgaria,Europe,1999,0
+India,Asia,Romania,Europe,1999,0
+India,Asia,Russia,Asia,1999,0
+India,Asia,Ukraine,Europe,1999,0
+India,Asia,Finland,Europe,1999,0
+India,Asia,Sweden,Europe,1999,0
+India,Asia,Norway,Europe,1999,0
+India,Asia,Denmark,Europe,1999,70009
+India,Asia,South Africa,Africa,1999,0
+India,Asia,Turkey,Asia,1999,0
+India,Asia,Israel,Asia,1999,0
+India,Asia,United Arab Emirates,Asia,1999,0
+India,Asia,Taiwan,Asia,1999,0
+India,Asia,South Korea,Asia,1999,2759
+India,Asia,Japan,Asia,1999,7035
+India,Asia,India,Asia,1999,0
+India,Asia,Pakistan,Asia,1999,0
+India,Asia,Thailand,Asia,1999,0
+India,Asia,Malaysia,Asia,1999,0
+India,Asia,Singapore,Asia,1999,0
+India,Asia,Philippines,Asia,1999,0
+India,Asia,Indonesia,Asia,1999,23814
+India,Asia,Australia,Oceania,1999,2224
+India,Asia,Cyprus,Europe,1999,0
+India,Asia,China,Asia,1999,0
+India,Asia,Ivory Coast,Africa,1999,0
+India,Asia,Congo,Africa,1999,0
+Pakistan,Asia,United States,North America,1999,0
+Pakistan,Asia,Canada,North America,1999,0
+Pakistan,Asia,Mexico,North America,1999,0
+Pakistan,Asia,Brazil,South America,1999,0
+Pakistan,Asia,Argentina,South America,1999,0
+Pakistan,Asia,United Kingdom,Europe,1999,0
+Pakistan,Asia,Netherlands,Europe,1999,0
+Pakistan,Asia,Belgium,Europe,1999,0
+Pakistan,Asia,France,Europe,1999,0
+Pakistan,Asia,Switzerland,Europe,1999,0
+Pakistan,Asia,Spain,Europe,1999,0
+Pakistan,Asia,Portugal,Europe,1999,0
+Pakistan,Asia,Germany,Europe,1999,0
+Pakistan,Asia,Poland,Europe,1999,0
+Pakistan,Asia,Austria,Europe,1999,0
+Pakistan,Asia,Hungary,Europe,1999,0
+Pakistan,Asia,Czech Republic,Europe,1999,0
+Pakistan,Asia,Slovakia,Europe,1999,0
+Pakistan,Asia,Italy,Europe,1999,0
+Pakistan,Asia,Croatia,Europe,1999,0
+Pakistan,Asia,Serbia,Europe,1999,0
+Pakistan,Asia,Bosnia,Europe,1999,0
+Pakistan,Asia,Greece,Europe,1999,0
+Pakistan,Asia,Bulgaria,Europe,1999,0
+Pakistan,Asia,Romania,Europe,1999,0
+Pakistan,Asia,Russia,Asia,1999,0
+Pakistan,Asia,Ukraine,Europe,1999,0
+Pakistan,Asia,Finland,Europe,1999,0
+Pakistan,Asia,Sweden,Europe,1999,0
+Pakistan,Asia,Norway,Europe,1999,0
+Pakistan,Asia,Denmark,Europe,1999,0
+Pakistan,Asia,South Africa,Africa,1999,774
+Pakistan,Asia,Turkey,Asia,1999,0
+Pakistan,Asia,Israel,Asia,1999,0
+Pakistan,Asia,United Arab Emirates,Asia,1999,0
+Pakistan,Asia,Taiwan,Asia,1999,0
+Pakistan,Asia,South Korea,Asia,1999,0
+Pakistan,Asia,Japan,Asia,1999,0
+Pakistan,Asia,India,Asia,1999,0
+Pakistan,Asia,Pakistan,Asia,1999,0
+Pakistan,Asia,Thailand,Asia,1999,0
+Pakistan,Asia,Malaysia,Asia,1999,0
+Pakistan,Asia,Singapore,Asia,1999,0
+Pakistan,Asia,Philippines,Asia,1999,706
+Pakistan,Asia,Indonesia,Asia,1999,0
+Pakistan,Asia,Australia,Oceania,1999,0
+Pakistan,Asia,Cyprus,Europe,1999,0
+Pakistan,Asia,China,Asia,1999,0
+Pakistan,Asia,Ivory Coast,Africa,1999,0
+Pakistan,Asia,Congo,Africa,1999,0
+Thailand,Asia,United States,North America,1999,0
+Thailand,Asia,Canada,North America,1999,0
+Thailand,Asia,Mexico,North America,1999,0
+Thailand,Asia,Brazil,South America,1999,0
+Thailand,Asia,Argentina,South America,1999,0
+Thailand,Asia,United Kingdom,Europe,1999,0
+Thailand,Asia,Netherlands,Europe,1999,0
+Thailand,Asia,Belgium,Europe,1999,0
+Thailand,Asia,France,Europe,1999,8897
+Thailand,Asia,Switzerland,Europe,1999,0
+Thailand,Asia,Spain,Europe,1999,0
+Thailand,Asia,Portugal,Europe,1999,0
+Thailand,Asia,Germany,Europe,1999,710
+Thailand,Asia,Poland,Europe,1999,0
+Thailand,Asia,Austria,Europe,1999,0
+Thailand,Asia,Hungary,Europe,1999,0
+Thailand,Asia,Czech Republic,Europe,1999,0
+Thailand,Asia,Slovakia,Europe,1999,0
+Thailand,Asia,Italy,Europe,1999,0
+Thailand,Asia,Croatia,Europe,1999,0
+Thailand,Asia,Serbia,Europe,1999,0
+Thailand,Asia,Bosnia,Europe,1999,0
+Thailand,Asia,Greece,Europe,1999,0
+Thailand,Asia,Bulgaria,Europe,1999,0
+Thailand,Asia,Romania,Europe,1999,0
+Thailand,Asia,Russia,Asia,1999,0
+Thailand,Asia,Ukraine,Europe,1999,0
+Thailand,Asia,Finland,Europe,1999,0
+Thailand,Asia,Sweden,Europe,1999,0
+Thailand,Asia,Norway,Europe,1999,0
+Thailand,Asia,Denmark,Europe,1999,0
+Thailand,Asia,South Africa,Africa,1999,0
+Thailand,Asia,Turkey,Asia,1999,0
+Thailand,Asia,Israel,Asia,1999,0
+Thailand,Asia,United Arab Emirates,Asia,1999,0
+Thailand,Asia,Taiwan,Asia,1999,0
+Thailand,Asia,South Korea,Asia,1999,0
+Thailand,Asia,Japan,Asia,1999,0
+Thailand,Asia,India,Asia,1999,0
+Thailand,Asia,Pakistan,Asia,1999,0
+Thailand,Asia,Thailand,Asia,1999,0
+Thailand,Asia,Malaysia,Asia,1999,0
+Thailand,Asia,Singapore,Asia,1999,11741
+Thailand,Asia,Philippines,Asia,1999,0
+Thailand,Asia,Indonesia,Asia,1999,0
+Thailand,Asia,Australia,Oceania,1999,0
+Thailand,Asia,Cyprus,Europe,1999,0
+Thailand,Asia,China,Asia,1999,0
+Thailand,Asia,Ivory Coast,Africa,1999,0
+Thailand,Asia,Congo,Africa,1999,0
+Malaysia,Asia,United States,North America,1999,1163361
+Malaysia,Asia,Canada,North America,1999,903
+Malaysia,Asia,Mexico,North America,1999,0
+Malaysia,Asia,Brazil,South America,1999,0
+Malaysia,Asia,Argentina,South America,1999,0
+Malaysia,Asia,United Kingdom,Europe,1999,7882
+Malaysia,Asia,Netherlands,Europe,1999,0
+Malaysia,Asia,Belgium,Europe,1999,0
+Malaysia,Asia,France,Europe,1999,0
+Malaysia,Asia,Switzerland,Europe,1999,0
+Malaysia,Asia,Spain,Europe,1999,0
+Malaysia,Asia,Portugal,Europe,1999,0
+Malaysia,Asia,Germany,Europe,1999,0
+Malaysia,Asia,Poland,Europe,1999,0
+Malaysia,Asia,Austria,Europe,1999,0
+Malaysia,Asia,Hungary,Europe,1999,0
+Malaysia,Asia,Czech Republic,Europe,1999,0
+Malaysia,Asia,Slovakia,Europe,1999,0
+Malaysia,Asia,Italy,Europe,1999,0
+Malaysia,Asia,Croatia,Europe,1999,0
+Malaysia,Asia,Serbia,Europe,1999,0
+Malaysia,Asia,Bosnia,Europe,1999,0
+Malaysia,Asia,Greece,Europe,1999,0
+Malaysia,Asia,Bulgaria,Europe,1999,0
+Malaysia,Asia,Romania,Europe,1999,0
+Malaysia,Asia,Russia,Asia,1999,0
+Malaysia,Asia,Ukraine,Europe,1999,0
+Malaysia,Asia,Finland,Europe,1999,0
+Malaysia,Asia,Sweden,Europe,1999,0
+Malaysia,Asia,Norway,Europe,1999,0
+Malaysia,Asia,Denmark,Europe,1999,0
+Malaysia,Asia,South Africa,Africa,1999,0
+Malaysia,Asia,Turkey,Asia,1999,0
+Malaysia,Asia,Israel,Asia,1999,0
+Malaysia,Asia,United Arab Emirates,Asia,1999,0
+Malaysia,Asia,Taiwan,Asia,1999,154570
+Malaysia,Asia,South Korea,Asia,1999,0
+Malaysia,Asia,Japan,Asia,1999,2021
+Malaysia,Asia,India,Asia,1999,0
+Malaysia,Asia,Pakistan,Asia,1999,0
+Malaysia,Asia,Thailand,Asia,1999,0
+Malaysia,Asia,Malaysia,Asia,1999,0
+Malaysia,Asia,Singapore,Asia,1999,20984
+Malaysia,Asia,Philippines,Asia,1999,0
+Malaysia,Asia,Indonesia,Asia,1999,0
+Malaysia,Asia,Australia,Oceania,1999,7480
+Malaysia,Asia,Cyprus,Europe,1999,0
+Malaysia,Asia,China,Asia,1999,0
+Malaysia,Asia,Ivory Coast,Africa,1999,0
+Malaysia,Asia,Congo,Africa,1999,0
+Singapore,Asia,United States,North America,1999,82482
+Singapore,Asia,Canada,North America,1999,0
+Singapore,Asia,Mexico,North America,1999,0
+Singapore,Asia,Brazil,South America,1999,0
+Singapore,Asia,Argentina,South America,1999,0
+Singapore,Asia,United Kingdom,Europe,1999,0
+Singapore,Asia,Netherlands,Europe,1999,0
+Singapore,Asia,Belgium,Europe,1999,0
+Singapore,Asia,France,Europe,1999,0
+Singapore,Asia,Switzerland,Europe,1999,85222
+Singapore,Asia,Spain,Europe,1999,0
+Singapore,Asia,Portugal,Europe,1999,0
+Singapore,Asia,Germany,Europe,1999,0
+Singapore,Asia,Poland,Europe,1999,0
+Singapore,Asia,Austria,Europe,1999,0
+Singapore,Asia,Hungary,Europe,1999,0
+Singapore,Asia,Czech Republic,Europe,1999,0
+Singapore,Asia,Slovakia,Europe,1999,0
+Singapore,Asia,Italy,Europe,1999,0
+Singapore,Asia,Croatia,Europe,1999,0
+Singapore,Asia,Serbia,Europe,1999,0
+Singapore,Asia,Bosnia,Europe,1999,0
+Singapore,Asia,Greece,Europe,1999,0
+Singapore,Asia,Bulgaria,Europe,1999,0
+Singapore,Asia,Romania,Europe,1999,0
+Singapore,Asia,Russia,Asia,1999,0
+Singapore,Asia,Ukraine,Europe,1999,0
+Singapore,Asia,Finland,Europe,1999,0
+Singapore,Asia,Sweden,Europe,1999,0
+Singapore,Asia,Norway,Europe,1999,0
+Singapore,Asia,Denmark,Europe,1999,0
+Singapore,Asia,South Africa,Africa,1999,664874
+Singapore,Asia,Turkey,Asia,1999,0
+Singapore,Asia,Israel,Asia,1999,0
+Singapore,Asia,United Arab Emirates,Asia,1999,0
+Singapore,Asia,Taiwan,Asia,1999,0
+Singapore,Asia,South Korea,Asia,1999,0
+Singapore,Asia,Japan,Asia,1999,0
+Singapore,Asia,India,Asia,1999,0
+Singapore,Asia,Pakistan,Asia,1999,0
+Singapore,Asia,Thailand,Asia,1999,19479
+Singapore,Asia,Malaysia,Asia,1999,6858
+Singapore,Asia,Singapore,Asia,1999,0
+Singapore,Asia,Philippines,Asia,1999,315743
+Singapore,Asia,Indonesia,Asia,1999,2530
+Singapore,Asia,Australia,Oceania,1999,0
+Singapore,Asia,Cyprus,Europe,1999,0
+Singapore,Asia,China,Asia,1999,0
+Singapore,Asia,Ivory Coast,Africa,1999,0
+Singapore,Asia,Congo,Africa,1999,0
+Philippines,Asia,United States,North America,1999,3682004
+Philippines,Asia,Canada,North America,1999,2583
+Philippines,Asia,Mexico,North America,1999,0
+Philippines,Asia,Brazil,South America,1999,0
+Philippines,Asia,Argentina,South America,1999,80521
+Philippines,Asia,United Kingdom,Europe,1999,17090
+Philippines,Asia,Netherlands,Europe,1999,0
+Philippines,Asia,Belgium,Europe,1999,0
+Philippines,Asia,France,Europe,1999,288748
+Philippines,Asia,Switzerland,Europe,1999,118881
+Philippines,Asia,Spain,Europe,1999,0
+Philippines,Asia,Portugal,Europe,1999,0
+Philippines,Asia,Germany,Europe,1999,130741
+Philippines,Asia,Poland,Europe,1999,0
+Philippines,Asia,Austria,Europe,1999,2626
+Philippines,Asia,Hungary,Europe,1999,0
+Philippines,Asia,Czech Republic,Europe,1999,1048
+Philippines,Asia,Slovakia,Europe,1999,0
+Philippines,Asia,Italy,Europe,1999,0
+Philippines,Asia,Croatia,Europe,1999,0
+Philippines,Asia,Serbia,Europe,1999,0
+Philippines,Asia,Bosnia,Europe,1999,0
+Philippines,Asia,Greece,Europe,1999,0
+Philippines,Asia,Bulgaria,Europe,1999,0
+Philippines,Asia,Romania,Europe,1999,0
+Philippines,Asia,Russia,Asia,1999,0
+Philippines,Asia,Ukraine,Europe,1999,0
+Philippines,Asia,Finland,Europe,1999,18888
+Philippines,Asia,Sweden,Europe,1999,0
+Philippines,Asia,Norway,Europe,1999,0
+Philippines,Asia,Denmark,Europe,1999,31312
+Philippines,Asia,South Africa,Africa,1999,68260
+Philippines,Asia,Turkey,Asia,1999,0
+Philippines,Asia,Israel,Asia,1999,0
+Philippines,Asia,United Arab Emirates,Asia,1999,0
+Philippines,Asia,Taiwan,Asia,1999,0
+Philippines,Asia,South Korea,Asia,1999,0
+Philippines,Asia,Japan,Asia,1999,0
+Philippines,Asia,India,Asia,1999,0
+Philippines,Asia,Pakistan,Asia,1999,6592
+Philippines,Asia,Thailand,Asia,1999,45776
+Philippines,Asia,Malaysia,Asia,1999,0
+Philippines,Asia,Singapore,Asia,1999,16017
+Philippines,Asia,Philippines,Asia,1999,0
+Philippines,Asia,Indonesia,Asia,1999,0
+Philippines,Asia,Australia,Oceania,1999,189157
+Philippines,Asia,Cyprus,Europe,1999,0
+Philippines,Asia,China,Asia,1999,0
+Philippines,Asia,Ivory Coast,Africa,1999,0
+Philippines,Asia,Congo,Africa,1999,0
+Indonesia,Asia,United States,North America,1999,0
+Indonesia,Asia,Canada,North America,1999,0
+Indonesia,Asia,Mexico,North America,1999,0
+Indonesia,Asia,Brazil,South America,1999,0
+Indonesia,Asia,Argentina,South America,1999,0
+Indonesia,Asia,United Kingdom,Europe,1999,0
+Indonesia,Asia,Netherlands,Europe,1999,0
+Indonesia,Asia,Belgium,Europe,1999,6580
+Indonesia,Asia,France,Europe,1999,30713
+Indonesia,Asia,Switzerland,Europe,1999,0
+Indonesia,Asia,Spain,Europe,1999,0
+Indonesia,Asia,Portugal,Europe,1999,0
+Indonesia,Asia,Germany,Europe,1999,0
+Indonesia,Asia,Poland,Europe,1999,0
+Indonesia,Asia,Austria,Europe,1999,0
+Indonesia,Asia,Hungary,Europe,1999,0
+Indonesia,Asia,Czech Republic,Europe,1999,0
+Indonesia,Asia,Slovakia,Europe,1999,0
+Indonesia,Asia,Italy,Europe,1999,11581
+Indonesia,Asia,Croatia,Europe,1999,0
+Indonesia,Asia,Serbia,Europe,1999,0
+Indonesia,Asia,Bosnia,Europe,1999,0
+Indonesia,Asia,Greece,Europe,1999,0
+Indonesia,Asia,Bulgaria,Europe,1999,0
+Indonesia,Asia,Romania,Europe,1999,0
+Indonesia,Asia,Russia,Asia,1999,0
+Indonesia,Asia,Ukraine,Europe,1999,0
+Indonesia,Asia,Finland,Europe,1999,0
+Indonesia,Asia,Sweden,Europe,1999,0
+Indonesia,Asia,Norway,Europe,1999,0
+Indonesia,Asia,Denmark,Europe,1999,0
+Indonesia,Asia,South Africa,Africa,1999,753
+Indonesia,Asia,Turkey,Asia,1999,0
+Indonesia,Asia,Israel,Asia,1999,0
+Indonesia,Asia,United Arab Emirates,Asia,1999,412607
+Indonesia,Asia,Taiwan,Asia,1999,0
+Indonesia,Asia,South Korea,Asia,1999,0
+Indonesia,Asia,Japan,Asia,1999,0
+Indonesia,Asia,India,Asia,1999,0
+Indonesia,Asia,Pakistan,Asia,1999,0
+Indonesia,Asia,Thailand,Asia,1999,0
+Indonesia,Asia,Malaysia,Asia,1999,0
+Indonesia,Asia,Singapore,Asia,1999,38899
+Indonesia,Asia,Philippines,Asia,1999,0
+Indonesia,Asia,Indonesia,Asia,1999,0
+Indonesia,Asia,Australia,Oceania,1999,0
+Indonesia,Asia,Cyprus,Europe,1999,0
+Indonesia,Asia,China,Asia,1999,0
+Indonesia,Asia,Ivory Coast,Africa,1999,0
+Indonesia,Asia,Congo,Africa,1999,0
+Australia,Oceania,United States,North America,1999,1128915
+Australia,Oceania,Canada,North America,1999,33340
+Australia,Oceania,Mexico,North America,1999,0
+Australia,Oceania,Brazil,South America,1999,0
+Australia,Oceania,Argentina,South America,1999,0
+Australia,Oceania,United Kingdom,Europe,1999,370156
+Australia,Oceania,Netherlands,Europe,1999,4371
+Australia,Oceania,Belgium,Europe,1999,1000351
+Australia,Oceania,France,Europe,1999,533482
+Australia,Oceania,Switzerland,Europe,1999,4647
+Australia,Oceania,Spain,Europe,1999,0
+Australia,Oceania,Portugal,Europe,1999,0
+Australia,Oceania,Germany,Europe,1999,28729
+Australia,Oceania,Poland,Europe,1999,0
+Australia,Oceania,Austria,Europe,1999,2020
+Australia,Oceania,Hungary,Europe,1999,0
+Australia,Oceania,Czech Republic,Europe,1999,21744
+Australia,Oceania,Slovakia,Europe,1999,0
+Australia,Oceania,Italy,Europe,1999,22074
+Australia,Oceania,Croatia,Europe,1999,0
+Australia,Oceania,Serbia,Europe,1999,0
+Australia,Oceania,Bosnia,Europe,1999,0
+Australia,Oceania,Greece,Europe,1999,1233
+Australia,Oceania,Bulgaria,Europe,1999,0
+Australia,Oceania,Romania,Europe,1999,0
+Australia,Oceania,Russia,Asia,1999,0
+Australia,Oceania,Ukraine,Europe,1999,0
+Australia,Oceania,Finland,Europe,1999,1157
+Australia,Oceania,Sweden,Europe,1999,2428
+Australia,Oceania,Norway,Europe,1999,9857
+Australia,Oceania,Denmark,Europe,1999,0
+Australia,Oceania,South Africa,Africa,1999,112003
+Australia,Oceania,Turkey,Asia,1999,0
+Australia,Oceania,Israel,Asia,1999,0
+Australia,Oceania,United Arab Emirates,Asia,1999,0
+Australia,Oceania,Taiwan,Asia,1999,0
+Australia,Oceania,South Korea,Asia,1999,222352
+Australia,Oceania,Japan,Asia,1999,1809351
+Australia,Oceania,India,Asia,1999,11046
+Australia,Oceania,Pakistan,Asia,1999,0
+Australia,Oceania,Thailand,Asia,1999,131724
+Australia,Oceania,Malaysia,Asia,1999,12116
+Australia,Oceania,Singapore,Asia,1999,69583
+Australia,Oceania,Philippines,Asia,1999,209206
+Australia,Oceania,Indonesia,Asia,1999,4464
+Australia,Oceania,Australia,Oceania,1999,0
+Australia,Oceania,Cyprus,Europe,1999,2331
+Australia,Oceania,China,Asia,1999,0
+Australia,Oceania,Ivory Coast,Africa,1999,0
+Australia,Oceania,Congo,Africa,1999,0
+Cyprus,Europe,United States,North America,1999,439183
+Cyprus,Europe,Canada,North America,1999,0
+Cyprus,Europe,Mexico,North America,1999,0
+Cyprus,Europe,Brazil,South America,1999,0
+Cyprus,Europe,Argentina,South America,1999,0
+Cyprus,Europe,United Kingdom,Europe,1999,1278685
+Cyprus,Europe,Netherlands,Europe,1999,0
+Cyprus,Europe,Belgium,Europe,1999,0
+Cyprus,Europe,France,Europe,1999,26835
+Cyprus,Europe,Switzerland,Europe,1999,0
+Cyprus,Europe,Spain,Europe,1999,4554
+Cyprus,Europe,Portugal,Europe,1999,0
+Cyprus,Europe,Germany,Europe,1999,2131
+Cyprus,Europe,Poland,Europe,1999,0
+Cyprus,Europe,Austria,Europe,1999,38155
+Cyprus,Europe,Hungary,Europe,1999,0
+Cyprus,Europe,Czech Republic,Europe,1999,3835
+Cyprus,Europe,Slovakia,Europe,1999,5998
+Cyprus,Europe,Italy,Europe,1999,20313
+Cyprus,Europe,Croatia,Europe,1999,44094
+Cyprus,Europe,Serbia,Europe,1999,0
+Cyprus,Europe,Bosnia,Europe,1999,139682
+Cyprus,Europe,Greece,Europe,1999,636285
+Cyprus,Europe,Bulgaria,Europe,1999,32391
+Cyprus,Europe,Romania,Europe,1999,780
+Cyprus,Europe,Russia,Asia,1999,20237
+Cyprus,Europe,Ukraine,Europe,1999,0
+Cyprus,Europe,Finland,Europe,1999,9184
+Cyprus,Europe,Sweden,Europe,1999,0
+Cyprus,Europe,Norway,Europe,1999,0
+Cyprus,Europe,Denmark,Europe,1999,0
+Cyprus,Europe,South Africa,Africa,1999,0
+Cyprus,Europe,Turkey,Asia,1999,0
+Cyprus,Europe,Israel,Asia,1999,0
+Cyprus,Europe,United Arab Emirates,Asia,1999,24997
+Cyprus,Europe,Taiwan,Asia,1999,0
+Cyprus,Europe,South Korea,Asia,1999,0
+Cyprus,Europe,Japan,Asia,1999,64867
+Cyprus,Europe,India,Asia,1999,8247
+Cyprus,Europe,Pakistan,Asia,1999,0
+Cyprus,Europe,Thailand,Asia,1999,0
+Cyprus,Europe,Malaysia,Asia,1999,0
+Cyprus,Europe,Singapore,Asia,1999,0
+Cyprus,Europe,Philippines,Asia,1999,0
+Cyprus,Europe,Indonesia,Asia,1999,0
+Cyprus,Europe,Australia,Oceania,1999,60098
+Cyprus,Europe,Cyprus,Europe,1999,0
+Cyprus,Europe,China,Asia,1999,0
+Cyprus,Europe,Ivory Coast,Africa,1999,0
+Cyprus,Europe,Congo,Africa,1999,0
+China,Asia,United States,North America,1999,2585441
+China,Asia,Canada,North America,1999,324299
+China,Asia,Mexico,North America,1999,765214
+China,Asia,Brazil,South America,1999,0
+China,Asia,Argentina,South America,1999,166567
+China,Asia,United Kingdom,Europe,1999,85043
+China,Asia,Netherlands,Europe,1999,4413
+China,Asia,Belgium,Europe,1999,68871
+China,Asia,France,Europe,1999,434329
+China,Asia,Switzerland,Europe,1999,36417
+China,Asia,Spain,Europe,1999,30654
+China,Asia,Portugal,Europe,1999,0
+China,Asia,Germany,Europe,1999,755328
+China,Asia,Poland,Europe,1999,0
+China,Asia,Austria,Europe,1999,144312
+China,Asia,Hungary,Europe,1999,0
+China,Asia,Czech Republic,Europe,1999,58522
+China,Asia,Slovakia,Europe,1999,2297
+China,Asia,Italy,Europe,1999,74852
+China,Asia,Croatia,Europe,1999,0
+China,Asia,Serbia,Europe,1999,0
+China,Asia,Bosnia,Europe,1999,0
+China,Asia,Greece,Europe,1999,255142
+China,Asia,Bulgaria,Europe,1999,0
+China,Asia,Romania,Europe,1999,0
+China,Asia,Russia,Asia,1999,0
+China,Asia,Ukraine,Europe,1999,0
+China,Asia,Finland,Europe,1999,2330
+China,Asia,Sweden,Europe,1999,0
+China,Asia,Norway,Europe,1999,0
+China,Asia,Denmark,Europe,1999,0
+China,Asia,South Africa,Africa,1999,1341057
+China,Asia,Turkey,Asia,1999,2488431
+China,Asia,Israel,Asia,1999,0
+China,Asia,United Arab Emirates,Asia,1999,0
+China,Asia,Taiwan,Asia,1999,0
+China,Asia,South Korea,Asia,1999,0
+China,Asia,Japan,Asia,1999,0
+China,Asia,India,Asia,1999,0
+China,Asia,Pakistan,Asia,1999,12373
+China,Asia,Thailand,Asia,1999,0
+China,Asia,Malaysia,Asia,1999,24380
+China,Asia,Singapore,Asia,1999,78617
+China,Asia,Philippines,Asia,1999,421068
+China,Asia,Indonesia,Asia,1999,672
+China,Asia,Australia,Oceania,1999,166980
+China,Asia,Cyprus,Europe,1999,2682
+China,Asia,China,Asia,1999,0
+China,Asia,Ivory Coast,Africa,1999,0
+China,Asia,Congo,Africa,1999,0
+Ivory Coast,Africa,United States,North America,1999,0
+Ivory Coast,Africa,Canada,North America,1999,0
+Ivory Coast,Africa,Mexico,North America,1999,0
+Ivory Coast,Africa,Brazil,South America,1999,0
+Ivory Coast,Africa,Argentina,South America,1999,0
+Ivory Coast,Africa,United Kingdom,Europe,1999,0
+Ivory Coast,Africa,Netherlands,Europe,1999,0
+Ivory Coast,Africa,Belgium,Europe,1999,0
+Ivory Coast,Africa,France,Europe,1999,1275
+Ivory Coast,Africa,Switzerland,Europe,1999,0
+Ivory Coast,Africa,Spain,Europe,1999,0
+Ivory Coast,Africa,Portugal,Europe,1999,0
+Ivory Coast,Africa,Germany,Europe,1999,0
+Ivory Coast,Africa,Poland,Europe,1999,0
+Ivory Coast,Africa,Austria,Europe,1999,0
+Ivory Coast,Africa,Hungary,Europe,1999,0
+Ivory Coast,Africa,Czech Republic,Europe,1999,0
+Ivory Coast,Africa,Slovakia,Europe,1999,0
+Ivory Coast,Africa,Italy,Europe,1999,0
+Ivory Coast,Africa,Croatia,Europe,1999,0
+Ivory Coast,Africa,Serbia,Europe,1999,0
+Ivory Coast,Africa,Bosnia,Europe,1999,0
+Ivory Coast,Africa,Greece,Europe,1999,0
+Ivory Coast,Africa,Bulgaria,Europe,1999,0
+Ivory Coast,Africa,Romania,Europe,1999,0
+Ivory Coast,Africa,Russia,Asia,1999,0
+Ivory Coast,Africa,Ukraine,Europe,1999,0
+Ivory Coast,Africa,Finland,Europe,1999,0
+Ivory Coast,Africa,Sweden,Europe,1999,0
+Ivory Coast,Africa,Norway,Europe,1999,0
+Ivory Coast,Africa,Denmark,Europe,1999,0
+Ivory Coast,Africa,South Africa,Africa,1999,0
+Ivory Coast,Africa,Turkey,Asia,1999,0
+Ivory Coast,Africa,Israel,Asia,1999,0
+Ivory Coast,Africa,United Arab Emirates,Asia,1999,0
+Ivory Coast,Africa,Taiwan,Asia,1999,0
+Ivory Coast,Africa,South Korea,Asia,1999,0
+Ivory Coast,Africa,Japan,Asia,1999,0
+Ivory Coast,Africa,India,Asia,1999,0
+Ivory Coast,Africa,Pakistan,Asia,1999,0
+Ivory Coast,Africa,Thailand,Asia,1999,0
+Ivory Coast,Africa,Malaysia,Asia,1999,0
+Ivory Coast,Africa,Singapore,Asia,1999,0
+Ivory Coast,Africa,Philippines,Asia,1999,0
+Ivory Coast,Africa,Indonesia,Asia,1999,0
+Ivory Coast,Africa,Australia,Oceania,1999,0
+Ivory Coast,Africa,Cyprus,Europe,1999,0
+Ivory Coast,Africa,China,Asia,1999,0
+Ivory Coast,Africa,Ivory Coast,Africa,1999,0
+Ivory Coast,Africa,Congo,Africa,1999,0
+Congo,Africa,United States,North America,1999,0
+Congo,Africa,Canada,North America,1999,0
+Congo,Africa,Mexico,North America,1999,0
+Congo,Africa,Brazil,South America,1999,0
+Congo,Africa,Argentina,South America,1999,0
+Congo,Africa,United Kingdom,Europe,1999,0
+Congo,Africa,Netherlands,Europe,1999,0
+Congo,Africa,Belgium,Europe,1999,0
+Congo,Africa,France,Europe,1999,0
+Congo,Africa,Switzerland,Europe,1999,0
+Congo,Africa,Spain,Europe,1999,0
+Congo,Africa,Portugal,Europe,1999,0
+Congo,Africa,Germany,Europe,1999,0
+Congo,Africa,Poland,Europe,1999,0
+Congo,Africa,Austria,Europe,1999,0
+Congo,Africa,Hungary,Europe,1999,0
+Congo,Africa,Czech Republic,Europe,1999,0
+Congo,Africa,Slovakia,Europe,1999,0
+Congo,Africa,Italy,Europe,1999,0
+Congo,Africa,Croatia,Europe,1999,0
+Congo,Africa,Serbia,Europe,1999,0
+Congo,Africa,Bosnia,Europe,1999,0
+Congo,Africa,Greece,Europe,1999,0
+Congo,Africa,Bulgaria,Europe,1999,0
+Congo,Africa,Romania,Europe,1999,0
+Congo,Africa,Russia,Asia,1999,0
+Congo,Africa,Ukraine,Europe,1999,0
+Congo,Africa,Finland,Europe,1999,0
+Congo,Africa,Sweden,Europe,1999,0
+Congo,Africa,Norway,Europe,1999,0
+Congo,Africa,Denmark,Europe,1999,0
+Congo,Africa,South Africa,Africa,1999,0
+Congo,Africa,Turkey,Asia,1999,0
+Congo,Africa,Israel,Asia,1999,0
+Congo,Africa,United Arab Emirates,Asia,1999,0
+Congo,Africa,Taiwan,Asia,1999,0
+Congo,Africa,South Korea,Asia,1999,0
+Congo,Africa,Japan,Asia,1999,0
+Congo,Africa,India,Asia,1999,0
+Congo,Africa,Pakistan,Asia,1999,0
+Congo,Africa,Thailand,Asia,1999,0
+Congo,Africa,Malaysia,Asia,1999,0
+Congo,Africa,Singapore,Asia,1999,0
+Congo,Africa,Philippines,Asia,1999,0
+Congo,Africa,Indonesia,Asia,1999,0
+Congo,Africa,Australia,Oceania,1999,0
+Congo,Africa,Cyprus,Europe,1999,0
+Congo,Africa,China,Asia,1999,0
+Congo,Africa,Ivory Coast,Africa,1999,0
+Congo,Africa,Congo,Africa,1999,0

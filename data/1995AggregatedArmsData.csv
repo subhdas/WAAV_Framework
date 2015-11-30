@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,1995,0
+United States,North America,Canada,North America,1995,61183521
+United States,North America,Mexico,North America,1995,5017025
+United States,North America,Brazil,South America,1995,1742867
+United States,North America,Argentina,South America,1995,2193665
+United States,North America,United Kingdom,Europe,1995,9788601
+United States,North America,Netherlands,Europe,1995,5847828
+United States,North America,Belgium,Europe,1995,15357252
+United States,North America,France,Europe,1995,12565523
+United States,North America,Switzerland,Europe,1995,2454209
+United States,North America,Spain,Europe,1995,10183009
+United States,North America,Portugal,Europe,1995,4557069
+United States,North America,Germany,Europe,1995,30424153
+United States,North America,Poland,Europe,1995,243654
+United States,North America,Austria,Europe,1995,2420956
+United States,North America,Hungary,Europe,1995,506632
+United States,North America,Czech Republic,Europe,1995,487583
+United States,North America,Slovakia,Europe,1995,189786
+United States,North America,Italy,Europe,1995,8631824
+United States,North America,Croatia,Europe,1995,0
+United States,North America,Serbia,Europe,1995,0
+United States,North America,Bosnia,Europe,1995,0
+United States,North America,Greece,Europe,1995,22890695
+United States,North America,Bulgaria,Europe,1995,284224
+United States,North America,Romania,Europe,1995,5556
+United States,North America,Russia,Asia,1995,554082
+United States,North America,Ukraine,Europe,1995,70189
+United States,North America,Finland,Europe,1995,2572600
+United States,North America,Sweden,Europe,1995,1293926
+United States,North America,Norway,Europe,1995,4150253
+United States,North America,Denmark,Europe,1995,2935968
+United States,North America,South Africa,Africa,1995,2416198
+United States,North America,Turkey,Asia,1995,9276346
+United States,North America,Israel,Asia,1995,4747784
+United States,North America,United Arab Emirates,Asia,1995,131363
+United States,North America,Taiwan,Asia,1995,24250714
+United States,North America,South Korea,Asia,1995,2622454
+United States,North America,Japan,Asia,1995,3386905
+United States,North America,India,Asia,1995,170502
+United States,North America,Pakistan,Asia,1995,394120
+United States,North America,Thailand,Asia,1995,32838053
+United States,North America,Malaysia,Asia,1995,8636580
+United States,North America,Singapore,Asia,1995,750825
+United States,North America,Philippines,Asia,1995,4742039
+United States,North America,Indonesia,Asia,1995,2074921
+United States,North America,Australia,Oceania,1995,20675599
+United States,North America,Cyprus,Europe,1995,66316
+United States,North America,China,Asia,1995,13521
+United States,North America,Ivory Coast,Africa,1995,139321
+United States,North America,Congo,Africa,1995,0
+Canada,North America,United States,North America,1995,20814480
+Canada,North America,Canada,North America,1995,0
+Canada,North America,Mexico,North America,1995,0
+Canada,North America,Brazil,South America,1995,0
+Canada,North America,Argentina,South America,1995,86812
+Canada,North America,United Kingdom,Europe,1995,472362
+Canada,North America,Netherlands,Europe,1995,2063343
+Canada,North America,Belgium,Europe,1995,59227
+Canada,North America,France,Europe,1995,381296
+Canada,North America,Switzerland,Europe,1995,380046
+Canada,North America,Spain,Europe,1995,50275
+Canada,North America,Portugal,Europe,1995,48976
+Canada,North America,Germany,Europe,1995,1410798
+Canada,North America,Poland,Europe,1995,0
+Canada,North America,Austria,Europe,1995,210132
+Canada,North America,Hungary,Europe,1995,0
+Canada,North America,Czech Republic,Europe,1995,45388
+Canada,North America,Slovakia,Europe,1995,0
+Canada,North America,Italy,Europe,1995,293775
+Canada,North America,Croatia,Europe,1995,0
+Canada,North America,Serbia,Europe,1995,0
+Canada,North America,Bosnia,Europe,1995,0
+Canada,North America,Greece,Europe,1995,34148
+Canada,North America,Bulgaria,Europe,1995,85348
+Canada,North America,Romania,Europe,1995,0
+Canada,North America,Russia,Asia,1995,16872
+Canada,North America,Ukraine,Europe,1995,23145
+Canada,North America,Finland,Europe,1995,91668
+Canada,North America,Sweden,Europe,1995,44054
+Canada,North America,Norway,Europe,1995,1767326
+Canada,North America,Denmark,Europe,1995,4545384
+Canada,North America,South Africa,Africa,1995,94034
+Canada,North America,Turkey,Asia,1995,18321
+Canada,North America,Israel,Asia,1995,30578
+Canada,North America,United Arab Emirates,Asia,1995,12309
+Canada,North America,Taiwan,Asia,1995,0
+Canada,North America,South Korea,Asia,1995,0
+Canada,North America,Japan,Asia,1995,10360
+Canada,North America,India,Asia,1995,9262
+Canada,North America,Pakistan,Asia,1995,0
+Canada,North America,Thailand,Asia,1995,52032
+Canada,North America,Malaysia,Asia,1995,0
+Canada,North America,Singapore,Asia,1995,92191
+Canada,North America,Philippines,Asia,1995,92804
+Canada,North America,Indonesia,Asia,1995,0
+Canada,North America,Australia,Oceania,1995,246391
+Canada,North America,Cyprus,Europe,1995,1882
+Canada,North America,China,Asia,1995,43210
+Canada,North America,Ivory Coast,Africa,1995,0
+Canada,North America,Congo,Africa,1995,0
+Mexico,North America,United States,North America,1995,1495948
+Mexico,North America,Canada,North America,1995,0
+Mexico,North America,Mexico,North America,1995,0
+Mexico,North America,Brazil,South America,1995,0
+Mexico,North America,Argentina,South America,1995,451700
+Mexico,North America,United Kingdom,Europe,1995,0
+Mexico,North America,Netherlands,Europe,1995,0
+Mexico,North America,Belgium,Europe,1995,0
+Mexico,North America,France,Europe,1995,192743
+Mexico,North America,Switzerland,Europe,1995,0
+Mexico,North America,Spain,Europe,1995,198842
+Mexico,North America,Portugal,Europe,1995,0
+Mexico,North America,Germany,Europe,1995,123630
+Mexico,North America,Poland,Europe,1995,0
+Mexico,North America,Austria,Europe,1995,619329
+Mexico,North America,Hungary,Europe,1995,0
+Mexico,North America,Czech Republic,Europe,1995,0
+Mexico,North America,Slovakia,Europe,1995,0
+Mexico,North America,Italy,Europe,1995,0
+Mexico,North America,Croatia,Europe,1995,0
+Mexico,North America,Serbia,Europe,1995,0
+Mexico,North America,Bosnia,Europe,1995,0
+Mexico,North America,Greece,Europe,1995,0
+Mexico,North America,Bulgaria,Europe,1995,0
+Mexico,North America,Romania,Europe,1995,0
+Mexico,North America,Russia,Asia,1995,0
+Mexico,North America,Ukraine,Europe,1995,0
+Mexico,North America,Finland,Europe,1995,412529
+Mexico,North America,Sweden,Europe,1995,0
+Mexico,North America,Norway,Europe,1995,0
+Mexico,North America,Denmark,Europe,1995,0
+Mexico,North America,South Africa,Africa,1995,0
+Mexico,North America,Turkey,Asia,1995,0
+Mexico,North America,Israel,Asia,1995,0
+Mexico,North America,United Arab Emirates,Asia,1995,0
+Mexico,North America,Taiwan,Asia,1995,0
+Mexico,North America,South Korea,Asia,1995,0
+Mexico,North America,Japan,Asia,1995,0
+Mexico,North America,India,Asia,1995,0
+Mexico,North America,Pakistan,Asia,1995,0
+Mexico,North America,Thailand,Asia,1995,0
+Mexico,North America,Malaysia,Asia,1995,0
+Mexico,North America,Singapore,Asia,1995,0
+Mexico,North America,Philippines,Asia,1995,0
+Mexico,North America,Indonesia,Asia,1995,0
+Mexico,North America,Australia,Oceania,1995,0
+Mexico,North America,Cyprus,Europe,1995,0
+Mexico,North America,China,Asia,1995,0
+Mexico,North America,Ivory Coast,Africa,1995,0
+Mexico,North America,Congo,Africa,1995,0
+Brazil,South America,United States,North America,1995,50470527
+Brazil,South America,Canada,North America,1995,371592
+Brazil,South America,Mexico,North America,1995,0
+Brazil,South America,Brazil,South America,1995,0
+Brazil,South America,Argentina,South America,1995,2399578
+Brazil,South America,United Kingdom,Europe,1995,800023
+Brazil,South America,Netherlands,Europe,1995,151858
+Brazil,South America,Belgium,Europe,1995,949736
+Brazil,South America,France,Europe,1995,1380692
+Brazil,South America,Switzerland,Europe,1995,667654
+Brazil,South America,Spain,Europe,1995,551140
+Brazil,South America,Portugal,Europe,1995,717152
+Brazil,South America,Germany,Europe,1995,4754056
+Brazil,South America,Poland,Europe,1995,28340
+Brazil,South America,Austria,Europe,1995,297933
+Brazil,South America,Hungary,Europe,1995,4743676
+Brazil,South America,Czech Republic,Europe,1995,3736
+Brazil,South America,Slovakia,Europe,1995,113565
+Brazil,South America,Italy,Europe,1995,56026
+Brazil,South America,Croatia,Europe,1995,73034
+Brazil,South America,Serbia,Europe,1995,0
+Brazil,South America,Bosnia,Europe,1995,0
+Brazil,South America,Greece,Europe,1995,988290
+Brazil,South America,Bulgaria,Europe,1995,16876
+Brazil,South America,Romania,Europe,1995,0
+Brazil,South America,Russia,Asia,1995,50610
+Brazil,South America,Ukraine,Europe,1995,0
+Brazil,South America,Finland,Europe,1995,277089
+Brazil,South America,Sweden,Europe,1995,88346
+Brazil,South America,Norway,Europe,1995,1087201
+Brazil,South America,Denmark,Europe,1995,38580
+Brazil,South America,South Africa,Africa,1995,2366022
+Brazil,South America,Turkey,Asia,1995,535492
+Brazil,South America,Israel,Asia,1995,87127
+Brazil,South America,United Arab Emirates,Asia,1995,0
+Brazil,South America,Taiwan,Asia,1995,0
+Brazil,South America,South Korea,Asia,1995,0
+Brazil,South America,Japan,Asia,1995,0
+Brazil,South America,India,Asia,1995,0
+Brazil,South America,Pakistan,Asia,1995,21911
+Brazil,South America,Thailand,Asia,1995,3069706
+Brazil,South America,Malaysia,Asia,1995,9668
+Brazil,South America,Singapore,Asia,1995,449561
+Brazil,South America,Philippines,Asia,1995,406170
+Brazil,South America,Indonesia,Asia,1995,46277
+Brazil,South America,Australia,Oceania,1995,399035
+Brazil,South America,Cyprus,Europe,1995,34162
+Brazil,South America,China,Asia,1995,0
+Brazil,South America,Ivory Coast,Africa,1995,0
+Brazil,South America,Congo,Africa,1995,0
+Argentina,South America,United States,North America,1995,2217162
+Argentina,South America,Canada,North America,1995,243995
+Argentina,South America,Mexico,North America,1995,0
+Argentina,South America,Brazil,South America,1995,1001042
+Argentina,South America,Argentina,South America,1995,0
+Argentina,South America,United Kingdom,Europe,1995,0
+Argentina,South America,Netherlands,Europe,1995,0
+Argentina,South America,Belgium,Europe,1995,0
+Argentina,South America,France,Europe,1995,27877
+Argentina,South America,Switzerland,Europe,1995,0
+Argentina,South America,Spain,Europe,1995,80915
+Argentina,South America,Portugal,Europe,1995,0
+Argentina,South America,Germany,Europe,1995,1389
+Argentina,South America,Poland,Europe,1995,8666
+Argentina,South America,Austria,Europe,1995,27653
+Argentina,South America,Hungary,Europe,1995,0
+Argentina,South America,Czech Republic,Europe,1995,0
+Argentina,South America,Slovakia,Europe,1995,0
+Argentina,South America,Italy,Europe,1995,0
+Argentina,South America,Croatia,Europe,1995,0
+Argentina,South America,Serbia,Europe,1995,0
+Argentina,South America,Bosnia,Europe,1995,0
+Argentina,South America,Greece,Europe,1995,28387
+Argentina,South America,Bulgaria,Europe,1995,0
+Argentina,South America,Romania,Europe,1995,0
+Argentina,South America,Russia,Asia,1995,0
+Argentina,South America,Ukraine,Europe,1995,0
+Argentina,South America,Finland,Europe,1995,77442
+Argentina,South America,Sweden,Europe,1995,0
+Argentina,South America,Norway,Europe,1995,0
+Argentina,South America,Denmark,Europe,1995,0
+Argentina,South America,South Africa,Africa,1995,166699
+Argentina,South America,Turkey,Asia,1995,13056
+Argentina,South America,Israel,Asia,1995,69455
+Argentina,South America,United Arab Emirates,Asia,1995,0
+Argentina,South America,Taiwan,Asia,1995,0
+Argentina,South America,South Korea,Asia,1995,0
+Argentina,South America,Japan,Asia,1995,0
+Argentina,South America,India,Asia,1995,0
+Argentina,South America,Pakistan,Asia,1995,0
+Argentina,South America,Thailand,Asia,1995,0
+Argentina,South America,Malaysia,Asia,1995,0
+Argentina,South America,Singapore,Asia,1995,0
+Argentina,South America,Philippines,Asia,1995,0
+Argentina,South America,Indonesia,Asia,1995,0
+Argentina,South America,Australia,Oceania,1995,0
+Argentina,South America,Cyprus,Europe,1995,0
+Argentina,South America,China,Asia,1995,0
+Argentina,South America,Ivory Coast,Africa,1995,0
+Argentina,South America,Congo,Africa,1995,0
+United Kingdom,Europe,United States,North America,1995,7776963
+United Kingdom,Europe,Canada,North America,1995,763858
+United Kingdom,Europe,Mexico,North America,1995,350179
+United Kingdom,Europe,Brazil,South America,1995,199649
+United Kingdom,Europe,Argentina,South America,1995,0
+United Kingdom,Europe,United Kingdom,Europe,1995,0
+United Kingdom,Europe,Netherlands,Europe,1995,1106125
+United Kingdom,Europe,Belgium,Europe,1995,1127904
+United Kingdom,Europe,France,Europe,1995,1700631
+United Kingdom,Europe,Switzerland,Europe,1995,3012228
+United Kingdom,Europe,Spain,Europe,1995,263099
+United Kingdom,Europe,Portugal,Europe,1995,275353
+United Kingdom,Europe,Germany,Europe,1995,3747058
+United Kingdom,Europe,Poland,Europe,1995,560839
+United Kingdom,Europe,Austria,Europe,1995,803102
+United Kingdom,Europe,Hungary,Europe,1995,0
+United Kingdom,Europe,Czech Republic,Europe,1995,256858
+United Kingdom,Europe,Slovakia,Europe,1995,63829
+United Kingdom,Europe,Italy,Europe,1995,615011
+United Kingdom,Europe,Croatia,Europe,1995,0
+United Kingdom,Europe,Serbia,Europe,1995,0
+United Kingdom,Europe,Bosnia,Europe,1995,0
+United Kingdom,Europe,Greece,Europe,1995,518943
+United Kingdom,Europe,Bulgaria,Europe,1995,0
+United Kingdom,Europe,Romania,Europe,1995,8807
+United Kingdom,Europe,Russia,Asia,1995,28890
+United Kingdom,Europe,Ukraine,Europe,1995,5042
+United Kingdom,Europe,Finland,Europe,1995,1094900
+United Kingdom,Europe,Sweden,Europe,1995,208212
+United Kingdom,Europe,Norway,Europe,1995,952617
+United Kingdom,Europe,Denmark,Europe,1995,3427432
+United Kingdom,Europe,South Africa,Africa,1995,269120
+United Kingdom,Europe,Turkey,Asia,1995,3374904
+United Kingdom,Europe,Israel,Asia,1995,28404
+United Kingdom,Europe,United Arab Emirates,Asia,1995,1035450
+United Kingdom,Europe,Taiwan,Asia,1995,162937
+United Kingdom,Europe,South Korea,Asia,1995,873430
+United Kingdom,Europe,Japan,Asia,1995,1585115
+United Kingdom,Europe,India,Asia,1995,162318
+United Kingdom,Europe,Pakistan,Asia,1995,28072
+United Kingdom,Europe,Thailand,Asia,1995,12622185
+United Kingdom,Europe,Malaysia,Asia,1995,96214
+United Kingdom,Europe,Singapore,Asia,1995,105600
+United Kingdom,Europe,Philippines,Asia,1995,103556
+United Kingdom,Europe,Indonesia,Asia,1995,293628
+United Kingdom,Europe,Australia,Oceania,1995,692925
+United Kingdom,Europe,Cyprus,Europe,1995,562645
+United Kingdom,Europe,China,Asia,1995,847630
+United Kingdom,Europe,Ivory Coast,Africa,1995,3788
+United Kingdom,Europe,Congo,Africa,1995,0
+Netherlands,Europe,United States,North America,1995,53940
+Netherlands,Europe,Canada,North America,1995,1663904
+Netherlands,Europe,Mexico,North America,1995,27782
+Netherlands,Europe,Brazil,South America,1995,0
+Netherlands,Europe,Argentina,South America,1995,0
+Netherlands,Europe,United Kingdom,Europe,1995,180612
+Netherlands,Europe,Netherlands,Europe,1995,0
+Netherlands,Europe,Belgium,Europe,1995,81177
+Netherlands,Europe,France,Europe,1995,70167
+Netherlands,Europe,Switzerland,Europe,1995,248919
+Netherlands,Europe,Spain,Europe,1995,78313
+Netherlands,Europe,Portugal,Europe,1995,0
+Netherlands,Europe,Germany,Europe,1995,1789104
+Netherlands,Europe,Poland,Europe,1995,0
+Netherlands,Europe,Austria,Europe,1995,2755
+Netherlands,Europe,Hungary,Europe,1995,0
+Netherlands,Europe,Czech Republic,Europe,1995,0
+Netherlands,Europe,Slovakia,Europe,1995,0
+Netherlands,Europe,Italy,Europe,1995,8572
+Netherlands,Europe,Croatia,Europe,1995,0
+Netherlands,Europe,Serbia,Europe,1995,0
+Netherlands,Europe,Bosnia,Europe,1995,2082
+Netherlands,Europe,Greece,Europe,1995,28229
+Netherlands,Europe,Bulgaria,Europe,1995,0
+Netherlands,Europe,Romania,Europe,1995,4590
+Netherlands,Europe,Russia,Asia,1995,0
+Netherlands,Europe,Ukraine,Europe,1995,0
+Netherlands,Europe,Finland,Europe,1995,0
+Netherlands,Europe,Sweden,Europe,1995,0
+Netherlands,Europe,Norway,Europe,1995,614445
+Netherlands,Europe,Denmark,Europe,1995,123628
+Netherlands,Europe,South Africa,Africa,1995,0
+Netherlands,Europe,Turkey,Asia,1995,80334
+Netherlands,Europe,Israel,Asia,1995,0
+Netherlands,Europe,United Arab Emirates,Asia,1995,0
+Netherlands,Europe,Taiwan,Asia,1995,0
+Netherlands,Europe,South Korea,Asia,1995,0
+Netherlands,Europe,Japan,Asia,1995,0
+Netherlands,Europe,India,Asia,1995,0
+Netherlands,Europe,Pakistan,Asia,1995,0
+Netherlands,Europe,Thailand,Asia,1995,181828
+Netherlands,Europe,Malaysia,Asia,1995,1616405
+Netherlands,Europe,Singapore,Asia,1995,436350
+Netherlands,Europe,Philippines,Asia,1995,0
+Netherlands,Europe,Indonesia,Asia,1995,1440956
+Netherlands,Europe,Australia,Oceania,1995,0
+Netherlands,Europe,Cyprus,Europe,1995,1202
+Netherlands,Europe,China,Asia,1995,0
+Netherlands,Europe,Ivory Coast,Africa,1995,0
+Netherlands,Europe,Congo,Africa,1995,0
+Belgium,Europe,United States,North America,1995,23704697
+Belgium,Europe,Canada,North America,1995,923442
+Belgium,Europe,Mexico,North America,1995,855686
+Belgium,Europe,Brazil,South America,1995,0
+Belgium,Europe,Argentina,South America,1995,0
+Belgium,Europe,United Kingdom,Europe,1995,1758523
+Belgium,Europe,Netherlands,Europe,1995,1838828
+Belgium,Europe,Belgium,Europe,1995,0
+Belgium,Europe,France,Europe,1995,11372037
+Belgium,Europe,Switzerland,Europe,1995,1125817
+Belgium,Europe,Spain,Europe,1995,3296605
+Belgium,Europe,Portugal,Europe,1995,817596
+Belgium,Europe,Germany,Europe,1995,12266666
+Belgium,Europe,Poland,Europe,1995,9047
+Belgium,Europe,Austria,Europe,1995,1701761
+Belgium,Europe,Hungary,Europe,1995,2062
+Belgium,Europe,Czech Republic,Europe,1995,68726
+Belgium,Europe,Slovakia,Europe,1995,10066
+Belgium,Europe,Italy,Europe,1995,1258875
+Belgium,Europe,Croatia,Europe,1995,3340
+Belgium,Europe,Serbia,Europe,1995,0
+Belgium,Europe,Bosnia,Europe,1995,0
+Belgium,Europe,Greece,Europe,1995,152517
+Belgium,Europe,Bulgaria,Europe,1995,6789
+Belgium,Europe,Romania,Europe,1995,3065
+Belgium,Europe,Russia,Asia,1995,278158
+Belgium,Europe,Ukraine,Europe,1995,0
+Belgium,Europe,Finland,Europe,1995,258176
+Belgium,Europe,Sweden,Europe,1995,521548
+Belgium,Europe,Norway,Europe,1995,967524
+Belgium,Europe,Denmark,Europe,1995,900702
+Belgium,Europe,South Africa,Africa,1995,21728
+Belgium,Europe,Turkey,Asia,1995,2369051
+Belgium,Europe,Israel,Asia,1995,18909
+Belgium,Europe,United Arab Emirates,Asia,1995,34639
+Belgium,Europe,Taiwan,Asia,1995,0
+Belgium,Europe,South Korea,Asia,1995,350776
+Belgium,Europe,Japan,Asia,1995,209493
+Belgium,Europe,India,Asia,1995,0
+Belgium,Europe,Pakistan,Asia,1995,0
+Belgium,Europe,Thailand,Asia,1995,853871
+Belgium,Europe,Malaysia,Asia,1995,0
+Belgium,Europe,Singapore,Asia,1995,55441
+Belgium,Europe,Philippines,Asia,1995,322224
+Belgium,Europe,Indonesia,Asia,1995,0
+Belgium,Europe,Australia,Oceania,1995,0
+Belgium,Europe,Cyprus,Europe,1995,309389
+Belgium,Europe,China,Asia,1995,0
+Belgium,Europe,Ivory Coast,Africa,1995,0
+Belgium,Europe,Congo,Africa,1995,8799
+France,Europe,United States,North America,1995,853499
+France,Europe,Canada,North America,1995,1388509
+France,Europe,Mexico,North America,1995,0
+France,Europe,Brazil,South America,1995,0
+France,Europe,Argentina,South America,1995,17317
+France,Europe,United Kingdom,Europe,1995,485142
+France,Europe,Netherlands,Europe,1995,119251
+France,Europe,Belgium,Europe,1995,1723346
+France,Europe,France,Europe,1995,0
+France,Europe,Switzerland,Europe,1995,1337162
+France,Europe,Spain,Europe,1995,2753815
+France,Europe,Portugal,Europe,1995,79799
+France,Europe,Germany,Europe,1995,1672290
+France,Europe,Poland,Europe,1995,16159
+France,Europe,Austria,Europe,1995,1449981
+France,Europe,Hungary,Europe,1995,0
+France,Europe,Czech Republic,Europe,1995,2346
+France,Europe,Slovakia,Europe,1995,0
+France,Europe,Italy,Europe,1995,326963
+France,Europe,Croatia,Europe,1995,31353
+France,Europe,Serbia,Europe,1995,0
+France,Europe,Bosnia,Europe,1995,0
+France,Europe,Greece,Europe,1995,507318
+France,Europe,Bulgaria,Europe,1995,91388
+France,Europe,Romania,Europe,1995,115349
+France,Europe,Russia,Asia,1995,736963
+France,Europe,Ukraine,Europe,1995,706037
+France,Europe,Finland,Europe,1995,298050
+France,Europe,Sweden,Europe,1995,133805
+France,Europe,Norway,Europe,1995,1260255
+France,Europe,Denmark,Europe,1995,3621
+France,Europe,South Africa,Africa,1995,71047
+France,Europe,Turkey,Asia,1995,178599
+France,Europe,Israel,Asia,1995,0
+France,Europe,United Arab Emirates,Asia,1995,6685
+France,Europe,Taiwan,Asia,1995,0
+France,Europe,South Korea,Asia,1995,226276
+France,Europe,Japan,Asia,1995,410864
+France,Europe,India,Asia,1995,0
+France,Europe,Pakistan,Asia,1995,163552
+France,Europe,Thailand,Asia,1995,117200
+France,Europe,Malaysia,Asia,1995,60962
+France,Europe,Singapore,Asia,1995,123709
+France,Europe,Philippines,Asia,1995,0
+France,Europe,Indonesia,Asia,1995,0
+France,Europe,Australia,Oceania,1995,47497
+France,Europe,Cyprus,Europe,1995,20894
+France,Europe,China,Asia,1995,16438
+France,Europe,Ivory Coast,Africa,1995,930830
+France,Europe,Congo,Africa,1995,511733
+Switzerland,Europe,United States,North America,1995,1500660
+Switzerland,Europe,Canada,North America,1995,78686
+Switzerland,Europe,Mexico,North America,1995,2592
+Switzerland,Europe,Brazil,South America,1995,64746
+Switzerland,Europe,Argentina,South America,1995,1305949
+Switzerland,Europe,United Kingdom,Europe,1995,1124791
+Switzerland,Europe,Netherlands,Europe,1995,204814
+Switzerland,Europe,Belgium,Europe,1995,563526
+Switzerland,Europe,France,Europe,1995,373380
+Switzerland,Europe,Switzerland,Europe,1995,0
+Switzerland,Europe,Spain,Europe,1995,207954
+Switzerland,Europe,Portugal,Europe,1995,27487
+Switzerland,Europe,Germany,Europe,1995,10115181
+Switzerland,Europe,Poland,Europe,1995,298501
+Switzerland,Europe,Austria,Europe,1995,437583
+Switzerland,Europe,Hungary,Europe,1995,16487
+Switzerland,Europe,Czech Republic,Europe,1995,129102
+Switzerland,Europe,Slovakia,Europe,1995,26663
+Switzerland,Europe,Italy,Europe,1995,201944
+Switzerland,Europe,Croatia,Europe,1995,53808
+Switzerland,Europe,Serbia,Europe,1995,0
+Switzerland,Europe,Bosnia,Europe,1995,0
+Switzerland,Europe,Greece,Europe,1995,113216
+Switzerland,Europe,Bulgaria,Europe,1995,238333
+Switzerland,Europe,Romania,Europe,1995,11990
+Switzerland,Europe,Russia,Asia,1995,94458
+Switzerland,Europe,Ukraine,Europe,1995,3426
+Switzerland,Europe,Finland,Europe,1995,134124
+Switzerland,Europe,Sweden,Europe,1995,244987
+Switzerland,Europe,Norway,Europe,1995,1159085
+Switzerland,Europe,Denmark,Europe,1995,221759
+Switzerland,Europe,South Africa,Africa,1995,304137
+Switzerland,Europe,Turkey,Asia,1995,10145
+Switzerland,Europe,Israel,Asia,1995,33644
+Switzerland,Europe,United Arab Emirates,Asia,1995,1323191
+Switzerland,Europe,Taiwan,Asia,1995,0
+Switzerland,Europe,South Korea,Asia,1995,113180
+Switzerland,Europe,Japan,Asia,1995,495512
+Switzerland,Europe,India,Asia,1995,31849
+Switzerland,Europe,Pakistan,Asia,1995,4407
+Switzerland,Europe,Thailand,Asia,1995,135672
+Switzerland,Europe,Malaysia,Asia,1995,6213146
+Switzerland,Europe,Singapore,Asia,1995,974779
+Switzerland,Europe,Philippines,Asia,1995,0
+Switzerland,Europe,Indonesia,Asia,1995,15355
+Switzerland,Europe,Australia,Oceania,1995,57146
+Switzerland,Europe,Cyprus,Europe,1995,0
+Switzerland,Europe,China,Asia,1995,139100
+Switzerland,Europe,Ivory Coast,Africa,1995,31906
+Switzerland,Europe,Congo,Africa,1995,0
+Spain,Europe,United States,North America,1995,14078737
+Spain,Europe,Canada,North America,1995,70319
+Spain,Europe,Mexico,North America,1995,17762
+Spain,Europe,Brazil,South America,1995,79793
+Spain,Europe,Argentina,South America,1995,1095991
+Spain,Europe,United Kingdom,Europe,1995,1526265
+Spain,Europe,Netherlands,Europe,1995,74456
+Spain,Europe,Belgium,Europe,1995,603347
+Spain,Europe,France,Europe,1995,5542621
+Spain,Europe,Switzerland,Europe,1995,162385
+Spain,Europe,Spain,Europe,1995,0
+Spain,Europe,Portugal,Europe,1995,2204288
+Spain,Europe,Germany,Europe,1995,3840664
+Spain,Europe,Poland,Europe,1995,2345374
+Spain,Europe,Austria,Europe,1995,527412
+Spain,Europe,Hungary,Europe,1995,8509
+Spain,Europe,Czech Republic,Europe,1995,432905
+Spain,Europe,Slovakia,Europe,1995,12669
+Spain,Europe,Italy,Europe,1995,471870
+Spain,Europe,Croatia,Europe,1995,8999
+Spain,Europe,Serbia,Europe,1995,0
+Spain,Europe,Bosnia,Europe,1995,0
+Spain,Europe,Greece,Europe,1995,485632
+Spain,Europe,Bulgaria,Europe,1995,3886
+Spain,Europe,Romania,Europe,1995,248406
+Spain,Europe,Russia,Asia,1995,9291
+Spain,Europe,Ukraine,Europe,1995,0
+Spain,Europe,Finland,Europe,1995,113107
+Spain,Europe,Sweden,Europe,1995,23654
+Spain,Europe,Norway,Europe,1995,495642
+Spain,Europe,Denmark,Europe,1995,346241
+Spain,Europe,South Africa,Africa,1995,641308
+Spain,Europe,Turkey,Asia,1995,1659015
+Spain,Europe,Israel,Asia,1995,138475
+Spain,Europe,United Arab Emirates,Asia,1995,1961
+Spain,Europe,Taiwan,Asia,1995,0
+Spain,Europe,South Korea,Asia,1995,47247
+Spain,Europe,Japan,Asia,1995,2062248
+Spain,Europe,India,Asia,1995,0
+Spain,Europe,Pakistan,Asia,1995,26998
+Spain,Europe,Thailand,Asia,1995,58723
+Spain,Europe,Malaysia,Asia,1995,54651
+Spain,Europe,Singapore,Asia,1995,31825
+Spain,Europe,Philippines,Asia,1995,272287
+Spain,Europe,Indonesia,Asia,1995,1129369
+Spain,Europe,Australia,Oceania,1995,211675
+Spain,Europe,Cyprus,Europe,1995,669868
+Spain,Europe,China,Asia,1995,18733
+Spain,Europe,Ivory Coast,Africa,1995,0
+Spain,Europe,Congo,Africa,1995,89110
+Portugal,Europe,United States,North America,1995,2452593
+Portugal,Europe,Canada,North America,1995,41863
+Portugal,Europe,Mexico,North America,1995,8334
+Portugal,Europe,Brazil,South America,1995,0
+Portugal,Europe,Argentina,South America,1995,1369
+Portugal,Europe,United Kingdom,Europe,1995,982644
+Portugal,Europe,Netherlands,Europe,1995,0
+Portugal,Europe,Belgium,Europe,1995,3722717
+Portugal,Europe,France,Europe,1995,3159680
+Portugal,Europe,Switzerland,Europe,1995,814
+Portugal,Europe,Spain,Europe,1995,3094096
+Portugal,Europe,Portugal,Europe,1995,0
+Portugal,Europe,Germany,Europe,1995,173559
+Portugal,Europe,Poland,Europe,1995,0
+Portugal,Europe,Austria,Europe,1995,103625
+Portugal,Europe,Hungary,Europe,1995,0
+Portugal,Europe,Czech Republic,Europe,1995,0
+Portugal,Europe,Slovakia,Europe,1995,0
+Portugal,Europe,Italy,Europe,1995,1446231
+Portugal,Europe,Croatia,Europe,1995,0
+Portugal,Europe,Serbia,Europe,1995,0
+Portugal,Europe,Bosnia,Europe,1995,0
+Portugal,Europe,Greece,Europe,1995,0
+Portugal,Europe,Bulgaria,Europe,1995,0
+Portugal,Europe,Romania,Europe,1995,0
+Portugal,Europe,Russia,Asia,1995,4996
+Portugal,Europe,Ukraine,Europe,1995,0
+Portugal,Europe,Finland,Europe,1995,101614
+Portugal,Europe,Sweden,Europe,1995,110359
+Portugal,Europe,Norway,Europe,1995,0
+Portugal,Europe,Denmark,Europe,1995,35827
+Portugal,Europe,South Africa,Africa,1995,0
+Portugal,Europe,Turkey,Asia,1995,0
+Portugal,Europe,Israel,Asia,1995,0
+Portugal,Europe,United Arab Emirates,Asia,1995,0
+Portugal,Europe,Taiwan,Asia,1995,0
+Portugal,Europe,South Korea,Asia,1995,0
+Portugal,Europe,Japan,Asia,1995,228204
+Portugal,Europe,India,Asia,1995,0
+Portugal,Europe,Pakistan,Asia,1995,0
+Portugal,Europe,Thailand,Asia,1995,0
+Portugal,Europe,Malaysia,Asia,1995,0
+Portugal,Europe,Singapore,Asia,1995,0
+Portugal,Europe,Philippines,Asia,1995,0
+Portugal,Europe,Indonesia,Asia,1995,0
+Portugal,Europe,Australia,Oceania,1995,0
+Portugal,Europe,Cyprus,Europe,1995,1139
+Portugal,Europe,China,Asia,1995,0
+Portugal,Europe,Ivory Coast,Africa,1995,0
+Portugal,Europe,Congo,Africa,1995,0
+Germany,Europe,United States,North America,1995,68945984
+Germany,Europe,Canada,North America,1995,351423
+Germany,Europe,Mexico,North America,1995,15279
+Germany,Europe,Brazil,South America,1995,152890
+Germany,Europe,Argentina,South America,1995,473109
+Germany,Europe,United Kingdom,Europe,1995,4759059
+Germany,Europe,Netherlands,Europe,1995,8862463
+Germany,Europe,Belgium,Europe,1995,4371499
+Germany,Europe,France,Europe,1995,21849172
+Germany,Europe,Switzerland,Europe,1995,14239675
+Germany,Europe,Spain,Europe,1995,3932594
+Germany,Europe,Portugal,Europe,1995,1277340
+Germany,Europe,Germany,Europe,1995,0
+Germany,Europe,Poland,Europe,1995,1147396
+Germany,Europe,Austria,Europe,1995,13289529
+Germany,Europe,Hungary,Europe,1995,694549
+Germany,Europe,Czech Republic,Europe,1995,750111
+Germany,Europe,Slovakia,Europe,1995,108788
+Germany,Europe,Italy,Europe,1995,4224669
+Germany,Europe,Croatia,Europe,1995,26516
+Germany,Europe,Serbia,Europe,1995,0
+Germany,Europe,Bosnia,Europe,1995,0
+Germany,Europe,Greece,Europe,1995,4011723
+Germany,Europe,Bulgaria,Europe,1995,200028
+Germany,Europe,Romania,Europe,1995,305600
+Germany,Europe,Russia,Asia,1995,955699
+Germany,Europe,Ukraine,Europe,1995,369499
+Germany,Europe,Finland,Europe,1995,2172941
+Germany,Europe,Sweden,Europe,1995,2711522
+Germany,Europe,Norway,Europe,1995,2440165
+Germany,Europe,Denmark,Europe,1995,3364401
+Germany,Europe,South Africa,Africa,1995,825124
+Germany,Europe,Turkey,Asia,1995,2973850
+Germany,Europe,Israel,Asia,1995,361165
+Germany,Europe,United Arab Emirates,Asia,1995,234755
+Germany,Europe,Taiwan,Asia,1995,113905
+Germany,Europe,South Korea,Asia,1995,812622
+Germany,Europe,Japan,Asia,1995,3805876
+Germany,Europe,India,Asia,1995,39564
+Germany,Europe,Pakistan,Asia,1995,534803
+Germany,Europe,Thailand,Asia,1995,1257225
+Germany,Europe,Malaysia,Asia,1995,511301
+Germany,Europe,Singapore,Asia,1995,60771
+Germany,Europe,Philippines,Asia,1995,5556
+Germany,Europe,Indonesia,Asia,1995,1059883
+Germany,Europe,Australia,Oceania,1995,334771
+Germany,Europe,Cyprus,Europe,1995,240674
+Germany,Europe,China,Asia,1995,825125
+Germany,Europe,Ivory Coast,Africa,1995,47182
+Germany,Europe,Congo,Africa,1995,0
+Poland,Europe,United States,North America,1995,359211
+Poland,Europe,Canada,North America,1995,69455
+Poland,Europe,Mexico,North America,1995,0
+Poland,Europe,Brazil,South America,1995,0
+Poland,Europe,Argentina,South America,1995,0
+Poland,Europe,United Kingdom,Europe,1995,8923
+Poland,Europe,Netherlands,Europe,1995,0
+Poland,Europe,Belgium,Europe,1995,246749
+Poland,Europe,France,Europe,1995,0
+Poland,Europe,Switzerland,Europe,1995,183408
+Poland,Europe,Spain,Europe,1995,0
+Poland,Europe,Portugal,Europe,1995,0
+Poland,Europe,Germany,Europe,1995,1159898
+Poland,Europe,Poland,Europe,1995,0
+Poland,Europe,Austria,Europe,1995,8681
+Poland,Europe,Hungary,Europe,1995,0
+Poland,Europe,Czech Republic,Europe,1995,0
+Poland,Europe,Slovakia,Europe,1995,24959
+Poland,Europe,Italy,Europe,1995,0
+Poland,Europe,Croatia,Europe,1995,0
+Poland,Europe,Serbia,Europe,1995,0
+Poland,Europe,Bosnia,Europe,1995,0
+Poland,Europe,Greece,Europe,1995,0
+Poland,Europe,Bulgaria,Europe,1995,0
+Poland,Europe,Romania,Europe,1995,0
+Poland,Europe,Russia,Asia,1995,0
+Poland,Europe,Ukraine,Europe,1995,0
+Poland,Europe,Finland,Europe,1995,150194
+Poland,Europe,Sweden,Europe,1995,0
+Poland,Europe,Norway,Europe,1995,0
+Poland,Europe,Denmark,Europe,1995,0
+Poland,Europe,South Africa,Africa,1995,0
+Poland,Europe,Turkey,Asia,1995,7938
+Poland,Europe,Israel,Asia,1995,147244
+Poland,Europe,United Arab Emirates,Asia,1995,0
+Poland,Europe,Taiwan,Asia,1995,0
+Poland,Europe,South Korea,Asia,1995,0
+Poland,Europe,Japan,Asia,1995,0
+Poland,Europe,India,Asia,1995,0
+Poland,Europe,Pakistan,Asia,1995,0
+Poland,Europe,Thailand,Asia,1995,0
+Poland,Europe,Malaysia,Asia,1995,0
+Poland,Europe,Singapore,Asia,1995,0
+Poland,Europe,Philippines,Asia,1995,0
+Poland,Europe,Indonesia,Asia,1995,0
+Poland,Europe,Australia,Oceania,1995,0
+Poland,Europe,Cyprus,Europe,1995,0
+Poland,Europe,China,Asia,1995,0
+Poland,Europe,Ivory Coast,Africa,1995,0
+Poland,Europe,Congo,Africa,1995,0
+Austria,Europe,United States,North America,1995,64671411
+Austria,Europe,Canada,North America,1995,1560406
+Austria,Europe,Mexico,North America,1995,4167
+Austria,Europe,Brazil,South America,1995,600672
+Austria,Europe,Argentina,South America,1995,322696
+Austria,Europe,United Kingdom,Europe,1995,69943
+Austria,Europe,Netherlands,Europe,1995,582225
+Austria,Europe,Belgium,Europe,1995,159462
+Austria,Europe,France,Europe,1995,1068569
+Austria,Europe,Switzerland,Europe,1995,1629917
+Austria,Europe,Spain,Europe,1995,273469
+Austria,Europe,Portugal,Europe,1995,207109
+Austria,Europe,Germany,Europe,1995,8244164
+Austria,Europe,Poland,Europe,1995,229275
+Austria,Europe,Austria,Europe,1995,0
+Austria,Europe,Hungary,Europe,1995,281258
+Austria,Europe,Czech Republic,Europe,1995,119341
+Austria,Europe,Slovakia,Europe,1995,133838
+Austria,Europe,Italy,Europe,1995,5411980
+Austria,Europe,Croatia,Europe,1995,35382
+Austria,Europe,Serbia,Europe,1995,0
+Austria,Europe,Bosnia,Europe,1995,0
+Austria,Europe,Greece,Europe,1995,254046
+Austria,Europe,Bulgaria,Europe,1995,87776
+Austria,Europe,Romania,Europe,1995,175500
+Austria,Europe,Russia,Asia,1995,271059
+Austria,Europe,Ukraine,Europe,1995,77441
+Austria,Europe,Finland,Europe,1995,2092037
+Austria,Europe,Sweden,Europe,1995,252680
+Austria,Europe,Norway,Europe,1995,169988
+Austria,Europe,Denmark,Europe,1995,200785
+Austria,Europe,South Africa,Africa,1995,437529
+Austria,Europe,Turkey,Asia,1995,7164
+Austria,Europe,Israel,Asia,1995,0
+Austria,Europe,United Arab Emirates,Asia,1995,137252
+Austria,Europe,Taiwan,Asia,1995,0
+Austria,Europe,South Korea,Asia,1995,24362
+Austria,Europe,Japan,Asia,1995,113000
+Austria,Europe,India,Asia,1995,1377
+Austria,Europe,Pakistan,Asia,1995,3204808
+Austria,Europe,Thailand,Asia,1995,275745
+Austria,Europe,Malaysia,Asia,1995,4821
+Austria,Europe,Singapore,Asia,1995,19338
+Austria,Europe,Philippines,Asia,1995,0
+Austria,Europe,Indonesia,Asia,1995,0
+Austria,Europe,Australia,Oceania,1995,226491
+Austria,Europe,Cyprus,Europe,1995,786
+Austria,Europe,China,Asia,1995,21635
+Austria,Europe,Ivory Coast,Africa,1995,0
+Austria,Europe,Congo,Africa,1995,0
+Hungary,Europe,United States,North America,1995,3335276
+Hungary,Europe,Canada,North America,1995,72894
+Hungary,Europe,Mexico,North America,1995,0
+Hungary,Europe,Brazil,South America,1995,0
+Hungary,Europe,Argentina,South America,1995,30696
+Hungary,Europe,United Kingdom,Europe,1995,4971
+Hungary,Europe,Netherlands,Europe,1995,0
+Hungary,Europe,Belgium,Europe,1995,0
+Hungary,Europe,France,Europe,1995,117500
+Hungary,Europe,Switzerland,Europe,1995,12864
+Hungary,Europe,Spain,Europe,1995,26126
+Hungary,Europe,Portugal,Europe,1995,0
+Hungary,Europe,Germany,Europe,1995,2225339
+Hungary,Europe,Poland,Europe,1995,105571
+Hungary,Europe,Austria,Europe,1995,124711
+Hungary,Europe,Hungary,Europe,1995,0
+Hungary,Europe,Czech Republic,Europe,1995,0
+Hungary,Europe,Slovakia,Europe,1995,545769
+Hungary,Europe,Italy,Europe,1995,3064
+Hungary,Europe,Croatia,Europe,1995,0
+Hungary,Europe,Serbia,Europe,1995,0
+Hungary,Europe,Bosnia,Europe,1995,0
+Hungary,Europe,Greece,Europe,1995,0
+Hungary,Europe,Bulgaria,Europe,1995,0
+Hungary,Europe,Romania,Europe,1995,181972
+Hungary,Europe,Russia,Asia,1995,0
+Hungary,Europe,Ukraine,Europe,1995,0
+Hungary,Europe,Finland,Europe,1995,262646
+Hungary,Europe,Sweden,Europe,1995,0
+Hungary,Europe,Norway,Europe,1995,158284
+Hungary,Europe,Denmark,Europe,1995,0
+Hungary,Europe,South Africa,Africa,1995,0
+Hungary,Europe,Turkey,Asia,1995,0
+Hungary,Europe,Israel,Asia,1995,0
+Hungary,Europe,United Arab Emirates,Asia,1995,0
+Hungary,Europe,Taiwan,Asia,1995,0
+Hungary,Europe,South Korea,Asia,1995,0
+Hungary,Europe,Japan,Asia,1995,299458
+Hungary,Europe,India,Asia,1995,0
+Hungary,Europe,Pakistan,Asia,1995,0
+Hungary,Europe,Thailand,Asia,1995,33280
+Hungary,Europe,Malaysia,Asia,1995,0
+Hungary,Europe,Singapore,Asia,1995,0
+Hungary,Europe,Philippines,Asia,1995,0
+Hungary,Europe,Indonesia,Asia,1995,0
+Hungary,Europe,Australia,Oceania,1995,57054
+Hungary,Europe,Cyprus,Europe,1995,712
+Hungary,Europe,China,Asia,1995,0
+Hungary,Europe,Ivory Coast,Africa,1995,0
+Hungary,Europe,Congo,Africa,1995,0
+Czech Republic,Europe,United States,North America,1995,9992057
+Czech Republic,Europe,Canada,North America,1995,246909
+Czech Republic,Europe,Mexico,North America,1995,0
+Czech Republic,Europe,Brazil,South America,1995,0
+Czech Republic,Europe,Argentina,South America,1995,228204
+Czech Republic,Europe,United Kingdom,Europe,1995,1060151
+Czech Republic,Europe,Netherlands,Europe,1995,159634
+Czech Republic,Europe,Belgium,Europe,1995,226764
+Czech Republic,Europe,France,Europe,1995,2812366
+Czech Republic,Europe,Switzerland,Europe,1995,372864
+Czech Republic,Europe,Spain,Europe,1995,224076
+Czech Republic,Europe,Portugal,Europe,1995,28778
+Czech Republic,Europe,Germany,Europe,1995,11979607
+Czech Republic,Europe,Poland,Europe,1995,1826114
+Czech Republic,Europe,Austria,Europe,1995,1576704
+Czech Republic,Europe,Hungary,Europe,1995,86117
+Czech Republic,Europe,Czech Republic,Europe,1995,0
+Czech Republic,Europe,Slovakia,Europe,1995,1593900
+Czech Republic,Europe,Italy,Europe,1995,112217
+Czech Republic,Europe,Croatia,Europe,1995,532878
+Czech Republic,Europe,Serbia,Europe,1995,0
+Czech Republic,Europe,Bosnia,Europe,1995,0
+Czech Republic,Europe,Greece,Europe,1995,27770
+Czech Republic,Europe,Bulgaria,Europe,1995,1397966
+Czech Republic,Europe,Romania,Europe,1995,89754
+Czech Republic,Europe,Russia,Asia,1995,14198
+Czech Republic,Europe,Ukraine,Europe,1995,45095
+Czech Republic,Europe,Finland,Europe,1995,1149183
+Czech Republic,Europe,Sweden,Europe,1995,219664
+Czech Republic,Europe,Norway,Europe,1995,396297
+Czech Republic,Europe,Denmark,Europe,1995,122826
+Czech Republic,Europe,South Africa,Africa,1995,123772
+Czech Republic,Europe,Turkey,Asia,1995,14060453
+Czech Republic,Europe,Israel,Asia,1995,14294
+Czech Republic,Europe,United Arab Emirates,Asia,1995,0
+Czech Republic,Europe,Taiwan,Asia,1995,0
+Czech Republic,Europe,South Korea,Asia,1995,0
+Czech Republic,Europe,Japan,Asia,1995,3817
+Czech Republic,Europe,India,Asia,1995,29379
+Czech Republic,Europe,Pakistan,Asia,1995,8073
+Czech Republic,Europe,Thailand,Asia,1995,1533535
+Czech Republic,Europe,Malaysia,Asia,1995,126547
+Czech Republic,Europe,Singapore,Asia,1995,0
+Czech Republic,Europe,Philippines,Asia,1995,11764
+Czech Republic,Europe,Indonesia,Asia,1995,0
+Czech Republic,Europe,Australia,Oceania,1995,349463
+Czech Republic,Europe,Cyprus,Europe,1995,1225
+Czech Republic,Europe,China,Asia,1995,0
+Czech Republic,Europe,Ivory Coast,Africa,1995,845
+Czech Republic,Europe,Congo,Africa,1995,0
+Slovakia,Europe,United States,North America,1995,0
+Slovakia,Europe,Canada,North America,1995,0
+Slovakia,Europe,Mexico,North America,1995,0
+Slovakia,Europe,Brazil,South America,1995,0
+Slovakia,Europe,Argentina,South America,1995,951
+Slovakia,Europe,United Kingdom,Europe,1995,0
+Slovakia,Europe,Netherlands,Europe,1995,0
+Slovakia,Europe,Belgium,Europe,1995,11941
+Slovakia,Europe,France,Europe,1995,506762
+Slovakia,Europe,Switzerland,Europe,1995,14671
+Slovakia,Europe,Spain,Europe,1995,0
+Slovakia,Europe,Portugal,Europe,1995,0
+Slovakia,Europe,Germany,Europe,1995,2778
+Slovakia,Europe,Poland,Europe,1995,0
+Slovakia,Europe,Austria,Europe,1995,50816
+Slovakia,Europe,Hungary,Europe,1995,30843
+Slovakia,Europe,Czech Republic,Europe,1995,299000
+Slovakia,Europe,Slovakia,Europe,1995,0
+Slovakia,Europe,Italy,Europe,1995,0
+Slovakia,Europe,Croatia,Europe,1995,0
+Slovakia,Europe,Serbia,Europe,1995,0
+Slovakia,Europe,Bosnia,Europe,1995,0
+Slovakia,Europe,Greece,Europe,1995,0
+Slovakia,Europe,Bulgaria,Europe,1995,0
+Slovakia,Europe,Romania,Europe,1995,0
+Slovakia,Europe,Russia,Asia,1995,0
+Slovakia,Europe,Ukraine,Europe,1995,57579
+Slovakia,Europe,Finland,Europe,1995,8681
+Slovakia,Europe,Sweden,Europe,1995,0
+Slovakia,Europe,Norway,Europe,1995,0
+Slovakia,Europe,Denmark,Europe,1995,0
+Slovakia,Europe,South Africa,Africa,1995,0
+Slovakia,Europe,Turkey,Asia,1995,0
+Slovakia,Europe,Israel,Asia,1995,0
+Slovakia,Europe,United Arab Emirates,Asia,1995,933
+Slovakia,Europe,Taiwan,Asia,1995,0
+Slovakia,Europe,South Korea,Asia,1995,0
+Slovakia,Europe,Japan,Asia,1995,0
+Slovakia,Europe,India,Asia,1995,2342
+Slovakia,Europe,Pakistan,Asia,1995,0
+Slovakia,Europe,Thailand,Asia,1995,0
+Slovakia,Europe,Malaysia,Asia,1995,0
+Slovakia,Europe,Singapore,Asia,1995,0
+Slovakia,Europe,Philippines,Asia,1995,0
+Slovakia,Europe,Indonesia,Asia,1995,0
+Slovakia,Europe,Australia,Oceania,1995,0
+Slovakia,Europe,Cyprus,Europe,1995,12952
+Slovakia,Europe,China,Asia,1995,0
+Slovakia,Europe,Ivory Coast,Africa,1995,0
+Slovakia,Europe,Congo,Africa,1995,0
+Italy,Europe,United States,North America,1995,84161498
+Italy,Europe,Canada,North America,1995,562996
+Italy,Europe,Mexico,North America,1995,15280
+Italy,Europe,Brazil,South America,1995,316063
+Italy,Europe,Argentina,South America,1995,3225916
+Italy,Europe,United Kingdom,Europe,1995,11312110
+Italy,Europe,Netherlands,Europe,1995,1612458
+Italy,Europe,Belgium,Europe,1995,11553171
+Italy,Europe,France,Europe,1995,39555280
+Italy,Europe,Switzerland,Europe,1995,3806902
+Italy,Europe,Spain,Europe,1995,13035951
+Italy,Europe,Portugal,Europe,1995,9607333
+Italy,Europe,Germany,Europe,1995,22302421
+Italy,Europe,Poland,Europe,1995,144714
+Italy,Europe,Austria,Europe,1995,5175500
+Italy,Europe,Hungary,Europe,1995,447759
+Italy,Europe,Czech Republic,Europe,1995,1063402
+Italy,Europe,Slovakia,Europe,1995,47061
+Italy,Europe,Italy,Europe,1995,0
+Italy,Europe,Croatia,Europe,1995,21713
+Italy,Europe,Serbia,Europe,1995,0
+Italy,Europe,Bosnia,Europe,1995,0
+Italy,Europe,Greece,Europe,1995,7738620
+Italy,Europe,Bulgaria,Europe,1995,580972
+Italy,Europe,Romania,Europe,1995,411755
+Italy,Europe,Russia,Asia,1995,503128
+Italy,Europe,Ukraine,Europe,1995,58354
+Italy,Europe,Finland,Europe,1995,4573554
+Italy,Europe,Sweden,Europe,1995,5702837
+Italy,Europe,Norway,Europe,1995,2842978
+Italy,Europe,Denmark,Europe,1995,2823860
+Italy,Europe,South Africa,Africa,1995,475931
+Italy,Europe,Turkey,Asia,1995,25446082
+Italy,Europe,Israel,Asia,1995,772087
+Italy,Europe,United Arab Emirates,Asia,1995,0
+Italy,Europe,Taiwan,Asia,1995,1155270
+Italy,Europe,South Korea,Asia,1995,527894
+Italy,Europe,Japan,Asia,1995,8648131
+Italy,Europe,India,Asia,1995,67270
+Italy,Europe,Pakistan,Asia,1995,257589
+Italy,Europe,Thailand,Asia,1995,5659675
+Italy,Europe,Malaysia,Asia,1995,630435
+Italy,Europe,Singapore,Asia,1995,469898
+Italy,Europe,Philippines,Asia,1995,282773
+Italy,Europe,Indonesia,Asia,1995,31254
+Italy,Europe,Australia,Oceania,1995,2085257
+Italy,Europe,Cyprus,Europe,1995,2746861
+Italy,Europe,China,Asia,1995,83728
+Italy,Europe,Ivory Coast,Africa,1995,145186
+Italy,Europe,Congo,Africa,1995,1044729
+Croatia,Europe,United States,North America,1995,0
+Croatia,Europe,Canada,North America,1995,0
+Croatia,Europe,Mexico,North America,1995,0
+Croatia,Europe,Brazil,South America,1995,0
+Croatia,Europe,Argentina,South America,1995,0
+Croatia,Europe,United Kingdom,Europe,1995,0
+Croatia,Europe,Netherlands,Europe,1995,0
+Croatia,Europe,Belgium,Europe,1995,0
+Croatia,Europe,France,Europe,1995,0
+Croatia,Europe,Switzerland,Europe,1995,0
+Croatia,Europe,Spain,Europe,1995,0
+Croatia,Europe,Portugal,Europe,1995,0
+Croatia,Europe,Germany,Europe,1995,0
+Croatia,Europe,Poland,Europe,1995,0
+Croatia,Europe,Austria,Europe,1995,0
+Croatia,Europe,Hungary,Europe,1995,0
+Croatia,Europe,Czech Republic,Europe,1995,0
+Croatia,Europe,Slovakia,Europe,1995,0
+Croatia,Europe,Italy,Europe,1995,0
+Croatia,Europe,Croatia,Europe,1995,0
+Croatia,Europe,Serbia,Europe,1995,0
+Croatia,Europe,Bosnia,Europe,1995,13702
+Croatia,Europe,Greece,Europe,1995,0
+Croatia,Europe,Bulgaria,Europe,1995,0
+Croatia,Europe,Romania,Europe,1995,0
+Croatia,Europe,Russia,Asia,1995,0
+Croatia,Europe,Ukraine,Europe,1995,0
+Croatia,Europe,Finland,Europe,1995,0
+Croatia,Europe,Sweden,Europe,1995,0
+Croatia,Europe,Norway,Europe,1995,0
+Croatia,Europe,Denmark,Europe,1995,0
+Croatia,Europe,South Africa,Africa,1995,0
+Croatia,Europe,Turkey,Asia,1995,0
+Croatia,Europe,Israel,Asia,1995,0
+Croatia,Europe,United Arab Emirates,Asia,1995,0
+Croatia,Europe,Taiwan,Asia,1995,0
+Croatia,Europe,South Korea,Asia,1995,0
+Croatia,Europe,Japan,Asia,1995,0
+Croatia,Europe,India,Asia,1995,0
+Croatia,Europe,Pakistan,Asia,1995,0
+Croatia,Europe,Thailand,Asia,1995,0
+Croatia,Europe,Malaysia,Asia,1995,0
+Croatia,Europe,Singapore,Asia,1995,0
+Croatia,Europe,Philippines,Asia,1995,0
+Croatia,Europe,Indonesia,Asia,1995,0
+Croatia,Europe,Australia,Oceania,1995,0
+Croatia,Europe,Cyprus,Europe,1995,0
+Croatia,Europe,China,Asia,1995,0
+Croatia,Europe,Ivory Coast,Africa,1995,0
+Croatia,Europe,Congo,Africa,1995,0
+Serbia,Europe,United States,North America,1995,0
+Serbia,Europe,Canada,North America,1995,3069
+Serbia,Europe,Mexico,North America,1995,0
+Serbia,Europe,Brazil,South America,1995,0
+Serbia,Europe,Argentina,South America,1995,0
+Serbia,Europe,United Kingdom,Europe,1995,0
+Serbia,Europe,Netherlands,Europe,1995,0
+Serbia,Europe,Belgium,Europe,1995,0
+Serbia,Europe,France,Europe,1995,0
+Serbia,Europe,Switzerland,Europe,1995,0
+Serbia,Europe,Spain,Europe,1995,0
+Serbia,Europe,Portugal,Europe,1995,0
+Serbia,Europe,Germany,Europe,1995,27782
+Serbia,Europe,Poland,Europe,1995,0
+Serbia,Europe,Austria,Europe,1995,19568
+Serbia,Europe,Hungary,Europe,1995,0
+Serbia,Europe,Czech Republic,Europe,1995,0
+Serbia,Europe,Slovakia,Europe,1995,0
+Serbia,Europe,Italy,Europe,1995,0
+Serbia,Europe,Croatia,Europe,1995,0
+Serbia,Europe,Serbia,Europe,1995,0
+Serbia,Europe,Bosnia,Europe,1995,0
+Serbia,Europe,Greece,Europe,1995,0
+Serbia,Europe,Bulgaria,Europe,1995,0
+Serbia,Europe,Romania,Europe,1995,0
+Serbia,Europe,Russia,Asia,1995,0
+Serbia,Europe,Ukraine,Europe,1995,0
+Serbia,Europe,Finland,Europe,1995,0
+Serbia,Europe,Sweden,Europe,1995,0
+Serbia,Europe,Norway,Europe,1995,0
+Serbia,Europe,Denmark,Europe,1995,0
+Serbia,Europe,South Africa,Africa,1995,0
+Serbia,Europe,Turkey,Asia,1995,0
+Serbia,Europe,Israel,Asia,1995,0
+Serbia,Europe,United Arab Emirates,Asia,1995,0
+Serbia,Europe,Taiwan,Asia,1995,0
+Serbia,Europe,South Korea,Asia,1995,0
+Serbia,Europe,Japan,Asia,1995,0
+Serbia,Europe,India,Asia,1995,0
+Serbia,Europe,Pakistan,Asia,1995,0
+Serbia,Europe,Thailand,Asia,1995,0
+Serbia,Europe,Malaysia,Asia,1995,0
+Serbia,Europe,Singapore,Asia,1995,0
+Serbia,Europe,Philippines,Asia,1995,0
+Serbia,Europe,Indonesia,Asia,1995,0
+Serbia,Europe,Australia,Oceania,1995,0
+Serbia,Europe,Cyprus,Europe,1995,0
+Serbia,Europe,China,Asia,1995,0
+Serbia,Europe,Ivory Coast,Africa,1995,0
+Serbia,Europe,Congo,Africa,1995,0
+Bosnia,Europe,United States,North America,1995,0
+Bosnia,Europe,Canada,North America,1995,0
+Bosnia,Europe,Mexico,North America,1995,0
+Bosnia,Europe,Brazil,South America,1995,0
+Bosnia,Europe,Argentina,South America,1995,0
+Bosnia,Europe,United Kingdom,Europe,1995,0
+Bosnia,Europe,Netherlands,Europe,1995,0
+Bosnia,Europe,Belgium,Europe,1995,0
+Bosnia,Europe,France,Europe,1995,0
+Bosnia,Europe,Switzerland,Europe,1995,0
+Bosnia,Europe,Spain,Europe,1995,0
+Bosnia,Europe,Portugal,Europe,1995,0
+Bosnia,Europe,Germany,Europe,1995,0
+Bosnia,Europe,Poland,Europe,1995,0
+Bosnia,Europe,Austria,Europe,1995,0
+Bosnia,Europe,Hungary,Europe,1995,0
+Bosnia,Europe,Czech Republic,Europe,1995,0
+Bosnia,Europe,Slovakia,Europe,1995,0
+Bosnia,Europe,Italy,Europe,1995,0
+Bosnia,Europe,Croatia,Europe,1995,0
+Bosnia,Europe,Serbia,Europe,1995,0
+Bosnia,Europe,Bosnia,Europe,1995,0
+Bosnia,Europe,Greece,Europe,1995,0
+Bosnia,Europe,Bulgaria,Europe,1995,0
+Bosnia,Europe,Romania,Europe,1995,0
+Bosnia,Europe,Russia,Asia,1995,0
+Bosnia,Europe,Ukraine,Europe,1995,0
+Bosnia,Europe,Finland,Europe,1995,0
+Bosnia,Europe,Sweden,Europe,1995,0
+Bosnia,Europe,Norway,Europe,1995,0
+Bosnia,Europe,Denmark,Europe,1995,0
+Bosnia,Europe,South Africa,Africa,1995,0
+Bosnia,Europe,Turkey,Asia,1995,0
+Bosnia,Europe,Israel,Asia,1995,0
+Bosnia,Europe,United Arab Emirates,Asia,1995,0
+Bosnia,Europe,Taiwan,Asia,1995,0
+Bosnia,Europe,South Korea,Asia,1995,0
+Bosnia,Europe,Japan,Asia,1995,0
+Bosnia,Europe,India,Asia,1995,0
+Bosnia,Europe,Pakistan,Asia,1995,0
+Bosnia,Europe,Thailand,Asia,1995,0
+Bosnia,Europe,Malaysia,Asia,1995,0
+Bosnia,Europe,Singapore,Asia,1995,0
+Bosnia,Europe,Philippines,Asia,1995,0
+Bosnia,Europe,Indonesia,Asia,1995,0
+Bosnia,Europe,Australia,Oceania,1995,0
+Bosnia,Europe,Cyprus,Europe,1995,0
+Bosnia,Europe,China,Asia,1995,0
+Bosnia,Europe,Ivory Coast,Africa,1995,0
+Bosnia,Europe,Congo,Africa,1995,0
+Greece,Europe,United States,North America,1995,0
+Greece,Europe,Canada,North America,1995,0
+Greece,Europe,Mexico,North America,1995,0
+Greece,Europe,Brazil,South America,1995,0
+Greece,Europe,Argentina,South America,1995,0
+Greece,Europe,United Kingdom,Europe,1995,0
+Greece,Europe,Netherlands,Europe,1995,0
+Greece,Europe,Belgium,Europe,1995,0
+Greece,Europe,France,Europe,1995,0
+Greece,Europe,Switzerland,Europe,1995,0
+Greece,Europe,Spain,Europe,1995,0
+Greece,Europe,Portugal,Europe,1995,0
+Greece,Europe,Germany,Europe,1995,0
+Greece,Europe,Poland,Europe,1995,0
+Greece,Europe,Austria,Europe,1995,0
+Greece,Europe,Hungary,Europe,1995,0
+Greece,Europe,Czech Republic,Europe,1995,0
+Greece,Europe,Slovakia,Europe,1995,0
+Greece,Europe,Italy,Europe,1995,44338
+Greece,Europe,Croatia,Europe,1995,0
+Greece,Europe,Serbia,Europe,1995,0
+Greece,Europe,Bosnia,Europe,1995,0
+Greece,Europe,Greece,Europe,1995,0
+Greece,Europe,Bulgaria,Europe,1995,0
+Greece,Europe,Romania,Europe,1995,0
+Greece,Europe,Russia,Asia,1995,0
+Greece,Europe,Ukraine,Europe,1995,0
+Greece,Europe,Finland,Europe,1995,0
+Greece,Europe,Sweden,Europe,1995,0
+Greece,Europe,Norway,Europe,1995,77335
+Greece,Europe,Denmark,Europe,1995,0
+Greece,Europe,South Africa,Africa,1995,0
+Greece,Europe,Turkey,Asia,1995,2712
+Greece,Europe,Israel,Asia,1995,0
+Greece,Europe,United Arab Emirates,Asia,1995,0
+Greece,Europe,Taiwan,Asia,1995,0
+Greece,Europe,South Korea,Asia,1995,0
+Greece,Europe,Japan,Asia,1995,0
+Greece,Europe,India,Asia,1995,0
+Greece,Europe,Pakistan,Asia,1995,0
+Greece,Europe,Thailand,Asia,1995,0
+Greece,Europe,Malaysia,Asia,1995,0
+Greece,Europe,Singapore,Asia,1995,0
+Greece,Europe,Philippines,Asia,1995,0
+Greece,Europe,Indonesia,Asia,1995,0
+Greece,Europe,Australia,Oceania,1995,0
+Greece,Europe,Cyprus,Europe,1995,36498
+Greece,Europe,China,Asia,1995,0
+Greece,Europe,Ivory Coast,Africa,1995,0
+Greece,Europe,Congo,Africa,1995,0
+Bulgaria,Europe,United States,North America,1995,1346461
+Bulgaria,Europe,Canada,North America,1995,0
+Bulgaria,Europe,Mexico,North America,1995,0
+Bulgaria,Europe,Brazil,South America,1995,0
+Bulgaria,Europe,Argentina,South America,1995,0
+Bulgaria,Europe,United Kingdom,Europe,1995,22745
+Bulgaria,Europe,Netherlands,Europe,1995,0
+Bulgaria,Europe,Belgium,Europe,1995,0
+Bulgaria,Europe,France,Europe,1995,3340
+Bulgaria,Europe,Switzerland,Europe,1995,0
+Bulgaria,Europe,Spain,Europe,1995,0
+Bulgaria,Europe,Portugal,Europe,1995,0
+Bulgaria,Europe,Germany,Europe,1995,16669
+Bulgaria,Europe,Poland,Europe,1995,0
+Bulgaria,Europe,Austria,Europe,1995,11987
+Bulgaria,Europe,Hungary,Europe,1995,0
+Bulgaria,Europe,Czech Republic,Europe,1995,0
+Bulgaria,Europe,Slovakia,Europe,1995,29133
+Bulgaria,Europe,Italy,Europe,1995,0
+Bulgaria,Europe,Croatia,Europe,1995,0
+Bulgaria,Europe,Serbia,Europe,1995,0
+Bulgaria,Europe,Bosnia,Europe,1995,0
+Bulgaria,Europe,Greece,Europe,1995,0
+Bulgaria,Europe,Bulgaria,Europe,1995,0
+Bulgaria,Europe,Romania,Europe,1995,0
+Bulgaria,Europe,Russia,Asia,1995,0
+Bulgaria,Europe,Ukraine,Europe,1995,0
+Bulgaria,Europe,Finland,Europe,1995,0
+Bulgaria,Europe,Sweden,Europe,1995,0
+Bulgaria,Europe,Norway,Europe,1995,0
+Bulgaria,Europe,Denmark,Europe,1995,0
+Bulgaria,Europe,South Africa,Africa,1995,0
+Bulgaria,Europe,Turkey,Asia,1995,256785
+Bulgaria,Europe,Israel,Asia,1995,0
+Bulgaria,Europe,United Arab Emirates,Asia,1995,0
+Bulgaria,Europe,Taiwan,Asia,1995,0
+Bulgaria,Europe,South Korea,Asia,1995,0
+Bulgaria,Europe,Japan,Asia,1995,0
+Bulgaria,Europe,India,Asia,1995,0
+Bulgaria,Europe,Pakistan,Asia,1995,0
+Bulgaria,Europe,Thailand,Asia,1995,0
+Bulgaria,Europe,Malaysia,Asia,1995,0
+Bulgaria,Europe,Singapore,Asia,1995,0
+Bulgaria,Europe,Philippines,Asia,1995,0
+Bulgaria,Europe,Indonesia,Asia,1995,0
+Bulgaria,Europe,Australia,Oceania,1995,0
+Bulgaria,Europe,Cyprus,Europe,1995,2054
+Bulgaria,Europe,China,Asia,1995,0
+Bulgaria,Europe,Ivory Coast,Africa,1995,0
+Bulgaria,Europe,Congo,Africa,1995,0
+Romania,Europe,United States,North America,1995,978977
+Romania,Europe,Canada,North America,1995,769562
+Romania,Europe,Mexico,North America,1995,0
+Romania,Europe,Brazil,South America,1995,0
+Romania,Europe,Argentina,South America,1995,0
+Romania,Europe,United Kingdom,Europe,1995,3999
+Romania,Europe,Netherlands,Europe,1995,0
+Romania,Europe,Belgium,Europe,1995,444798
+Romania,Europe,France,Europe,1995,0
+Romania,Europe,Switzerland,Europe,1995,2890
+Romania,Europe,Spain,Europe,1995,27702
+Romania,Europe,Portugal,Europe,1995,0
+Romania,Europe,Germany,Europe,1995,15280
+Romania,Europe,Poland,Europe,1995,0
+Romania,Europe,Austria,Europe,1995,0
+Romania,Europe,Hungary,Europe,1995,0
+Romania,Europe,Czech Republic,Europe,1995,0
+Romania,Europe,Slovakia,Europe,1995,0
+Romania,Europe,Italy,Europe,1995,32857
+Romania,Europe,Croatia,Europe,1995,0
+Romania,Europe,Serbia,Europe,1995,0
+Romania,Europe,Bosnia,Europe,1995,0
+Romania,Europe,Greece,Europe,1995,0
+Romania,Europe,Bulgaria,Europe,1995,26392
+Romania,Europe,Romania,Europe,1995,0
+Romania,Europe,Russia,Asia,1995,0
+Romania,Europe,Ukraine,Europe,1995,0
+Romania,Europe,Finland,Europe,1995,0
+Romania,Europe,Sweden,Europe,1995,0
+Romania,Europe,Norway,Europe,1995,0
+Romania,Europe,Denmark,Europe,1995,0
+Romania,Europe,South Africa,Africa,1995,0
+Romania,Europe,Turkey,Asia,1995,0
+Romania,Europe,Israel,Asia,1995,311158
+Romania,Europe,United Arab Emirates,Asia,1995,0
+Romania,Europe,Taiwan,Asia,1995,0
+Romania,Europe,South Korea,Asia,1995,0
+Romania,Europe,Japan,Asia,1995,0
+Romania,Europe,India,Asia,1995,0
+Romania,Europe,Pakistan,Asia,1995,0
+Romania,Europe,Thailand,Asia,1995,0
+Romania,Europe,Malaysia,Asia,1995,0
+Romania,Europe,Singapore,Asia,1995,0
+Romania,Europe,Philippines,Asia,1995,0
+Romania,Europe,Indonesia,Asia,1995,3478598
+Romania,Europe,Australia,Oceania,1995,0
+Romania,Europe,Cyprus,Europe,1995,0
+Romania,Europe,China,Asia,1995,0
+Romania,Europe,Ivory Coast,Africa,1995,0
+Romania,Europe,Congo,Africa,1995,126408
+Russia,Asia,United States,North America,1995,9509774
+Russia,Asia,Canada,North America,1995,384545
+Russia,Asia,Mexico,North America,1995,0
+Russia,Asia,Brazil,South America,1995,0
+Russia,Asia,Argentina,South America,1995,6188
+Russia,Asia,United Kingdom,Europe,1995,786281
+Russia,Asia,Netherlands,Europe,1995,0
+Russia,Asia,Belgium,Europe,1995,313654
+Russia,Asia,France,Europe,1995,1819610
+Russia,Asia,Switzerland,Europe,1995,252317
+Russia,Asia,Spain,Europe,1995,22750
+Russia,Asia,Portugal,Europe,1995,51328
+Russia,Asia,Germany,Europe,1995,2785146
+Russia,Asia,Poland,Europe,1995,243092
+Russia,Asia,Austria,Europe,1995,304273
+Russia,Asia,Hungary,Europe,1995,0
+Russia,Asia,Czech Republic,Europe,1995,0
+Russia,Asia,Slovakia,Europe,1995,4688
+Russia,Asia,Italy,Europe,1995,16701
+Russia,Asia,Croatia,Europe,1995,0
+Russia,Asia,Serbia,Europe,1995,0
+Russia,Asia,Bosnia,Europe,1995,0
+Russia,Asia,Greece,Europe,1995,825897
+Russia,Asia,Bulgaria,Europe,1995,0
+Russia,Asia,Romania,Europe,1995,0
+Russia,Asia,Russia,Asia,1995,0
+Russia,Asia,Ukraine,Europe,1995,0
+Russia,Asia,Finland,Europe,1995,227635
+Russia,Asia,Sweden,Europe,1995,0
+Russia,Asia,Norway,Europe,1995,318367
+Russia,Asia,Denmark,Europe,1995,193592
+Russia,Asia,South Africa,Africa,1995,0
+Russia,Asia,Turkey,Asia,1995,0
+Russia,Asia,Israel,Asia,1995,0
+Russia,Asia,United Arab Emirates,Asia,1995,0
+Russia,Asia,Taiwan,Asia,1995,0
+Russia,Asia,South Korea,Asia,1995,31315
+Russia,Asia,Japan,Asia,1995,39303
+Russia,Asia,India,Asia,1995,19286
+Russia,Asia,Pakistan,Asia,1995,0
+Russia,Asia,Thailand,Asia,1995,68135
+Russia,Asia,Malaysia,Asia,1995,0
+Russia,Asia,Singapore,Asia,1995,0
+Russia,Asia,Philippines,Asia,1995,0
+Russia,Asia,Indonesia,Asia,1995,0
+Russia,Asia,Australia,Oceania,1995,89867
+Russia,Asia,Cyprus,Europe,1995,3180203
+Russia,Asia,China,Asia,1995,0
+Russia,Asia,Ivory Coast,Africa,1995,0
+Russia,Asia,Congo,Africa,1995,0
+Ukraine,Europe,United States,North America,1995,0
+Ukraine,Europe,Canada,North America,1995,0
+Ukraine,Europe,Mexico,North America,1995,0
+Ukraine,Europe,Brazil,South America,1995,0
+Ukraine,Europe,Argentina,South America,1995,0
+Ukraine,Europe,United Kingdom,Europe,1995,0
+Ukraine,Europe,Netherlands,Europe,1995,0
+Ukraine,Europe,Belgium,Europe,1995,0
+Ukraine,Europe,France,Europe,1995,0
+Ukraine,Europe,Switzerland,Europe,1995,0
+Ukraine,Europe,Spain,Europe,1995,0
+Ukraine,Europe,Portugal,Europe,1995,0
+Ukraine,Europe,Germany,Europe,1995,1793329
+Ukraine,Europe,Poland,Europe,1995,83346
+Ukraine,Europe,Austria,Europe,1995,62563
+Ukraine,Europe,Hungary,Europe,1995,0
+Ukraine,Europe,Czech Republic,Europe,1995,0
+Ukraine,Europe,Slovakia,Europe,1995,0
+Ukraine,Europe,Italy,Europe,1995,0
+Ukraine,Europe,Croatia,Europe,1995,0
+Ukraine,Europe,Serbia,Europe,1995,0
+Ukraine,Europe,Bosnia,Europe,1995,0
+Ukraine,Europe,Greece,Europe,1995,0
+Ukraine,Europe,Bulgaria,Europe,1995,0
+Ukraine,Europe,Romania,Europe,1995,0
+Ukraine,Europe,Russia,Asia,1995,0
+Ukraine,Europe,Ukraine,Europe,1995,0
+Ukraine,Europe,Finland,Europe,1995,1839
+Ukraine,Europe,Sweden,Europe,1995,0
+Ukraine,Europe,Norway,Europe,1995,0
+Ukraine,Europe,Denmark,Europe,1995,0
+Ukraine,Europe,South Africa,Africa,1995,0
+Ukraine,Europe,Turkey,Asia,1995,0
+Ukraine,Europe,Israel,Asia,1995,0
+Ukraine,Europe,United Arab Emirates,Asia,1995,0
+Ukraine,Europe,Taiwan,Asia,1995,0
+Ukraine,Europe,South Korea,Asia,1995,0
+Ukraine,Europe,Japan,Asia,1995,0
+Ukraine,Europe,India,Asia,1995,0
+Ukraine,Europe,Pakistan,Asia,1995,0
+Ukraine,Europe,Thailand,Asia,1995,0
+Ukraine,Europe,Malaysia,Asia,1995,0
+Ukraine,Europe,Singapore,Asia,1995,0
+Ukraine,Europe,Philippines,Asia,1995,0
+Ukraine,Europe,Indonesia,Asia,1995,0
+Ukraine,Europe,Australia,Oceania,1995,0
+Ukraine,Europe,Cyprus,Europe,1995,0
+Ukraine,Europe,China,Asia,1995,0
+Ukraine,Europe,Ivory Coast,Africa,1995,0
+Ukraine,Europe,Congo,Africa,1995,0
+Finland,Europe,United States,North America,1995,4136451
+Finland,Europe,Canada,North America,1995,546945
+Finland,Europe,Mexico,North America,1995,0
+Finland,Europe,Brazil,South America,1995,472829
+Finland,Europe,Argentina,South America,1995,58786
+Finland,Europe,United Kingdom,Europe,1995,1338262
+Finland,Europe,Netherlands,Europe,1995,212144
+Finland,Europe,Belgium,Europe,1995,745524
+Finland,Europe,France,Europe,1995,1584649
+Finland,Europe,Switzerland,Europe,1995,466333
+Finland,Europe,Spain,Europe,1995,794995
+Finland,Europe,Portugal,Europe,1995,101634
+Finland,Europe,Germany,Europe,1995,2070387
+Finland,Europe,Poland,Europe,1995,243107
+Finland,Europe,Austria,Europe,1995,419999
+Finland,Europe,Hungary,Europe,1995,71745
+Finland,Europe,Czech Republic,Europe,1995,96102
+Finland,Europe,Slovakia,Europe,1995,97325
+Finland,Europe,Italy,Europe,1995,408620
+Finland,Europe,Croatia,Europe,1995,0
+Finland,Europe,Serbia,Europe,1995,0
+Finland,Europe,Bosnia,Europe,1995,0
+Finland,Europe,Greece,Europe,1995,33234
+Finland,Europe,Bulgaria,Europe,1995,0
+Finland,Europe,Romania,Europe,1995,0
+Finland,Europe,Russia,Asia,1995,121463
+Finland,Europe,Ukraine,Europe,1995,0
+Finland,Europe,Finland,Europe,1995,0
+Finland,Europe,Sweden,Europe,1995,2813244
+Finland,Europe,Norway,Europe,1995,3089166
+Finland,Europe,Denmark,Europe,1995,3647236
+Finland,Europe,South Africa,Africa,1995,1758822
+Finland,Europe,Turkey,Asia,1995,0
+Finland,Europe,Israel,Asia,1995,0
+Finland,Europe,United Arab Emirates,Asia,1995,98848
+Finland,Europe,Taiwan,Asia,1995,107002
+Finland,Europe,South Korea,Asia,1995,90412
+Finland,Europe,Japan,Asia,1995,350882
+Finland,Europe,India,Asia,1995,174976
+Finland,Europe,Pakistan,Asia,1995,8134
+Finland,Europe,Thailand,Asia,1995,236540
+Finland,Europe,Malaysia,Asia,1995,206734
+Finland,Europe,Singapore,Asia,1995,1140832
+Finland,Europe,Philippines,Asia,1995,0
+Finland,Europe,Indonesia,Asia,1995,17476
+Finland,Europe,Australia,Oceania,1995,910368
+Finland,Europe,Cyprus,Europe,1995,0
+Finland,Europe,China,Asia,1995,0
+Finland,Europe,Ivory Coast,Africa,1995,0
+Finland,Europe,Congo,Africa,1995,0
+Sweden,Europe,United States,North America,1995,11602468
+Sweden,Europe,Canada,North America,1995,925962
+Sweden,Europe,Mexico,North America,1995,0
+Sweden,Europe,Brazil,South America,1995,0
+Sweden,Europe,Argentina,South America,1995,25382
+Sweden,Europe,United Kingdom,Europe,1995,466390
+Sweden,Europe,Netherlands,Europe,1995,17832
+Sweden,Europe,Belgium,Europe,1995,427056
+Sweden,Europe,France,Europe,1995,1862026
+Sweden,Europe,Switzerland,Europe,1995,1314740
+Sweden,Europe,Spain,Europe,1995,1079806
+Sweden,Europe,Portugal,Europe,1995,0
+Sweden,Europe,Germany,Europe,1995,7679772
+Sweden,Europe,Poland,Europe,1995,2144772
+Sweden,Europe,Austria,Europe,1995,369310
+Sweden,Europe,Hungary,Europe,1995,9758
+Sweden,Europe,Czech Republic,Europe,1995,9560
+Sweden,Europe,Slovakia,Europe,1995,0
+Sweden,Europe,Italy,Europe,1995,783492
+Sweden,Europe,Croatia,Europe,1995,0
+Sweden,Europe,Serbia,Europe,1995,0
+Sweden,Europe,Bosnia,Europe,1995,0
+Sweden,Europe,Greece,Europe,1995,0
+Sweden,Europe,Bulgaria,Europe,1995,0
+Sweden,Europe,Romania,Europe,1995,0
+Sweden,Europe,Russia,Asia,1995,49986
+Sweden,Europe,Ukraine,Europe,1995,0
+Sweden,Europe,Finland,Europe,1995,974406
+Sweden,Europe,Sweden,Europe,1995,0
+Sweden,Europe,Norway,Europe,1995,4949436
+Sweden,Europe,Denmark,Europe,1995,1955956
+Sweden,Europe,South Africa,Africa,1995,0
+Sweden,Europe,Turkey,Asia,1995,0
+Sweden,Europe,Israel,Asia,1995,0
+Sweden,Europe,United Arab Emirates,Asia,1995,0
+Sweden,Europe,Taiwan,Asia,1995,0
+Sweden,Europe,South Korea,Asia,1995,0
+Sweden,Europe,Japan,Asia,1995,1446674
+Sweden,Europe,India,Asia,1995,0
+Sweden,Europe,Pakistan,Asia,1995,1950
+Sweden,Europe,Thailand,Asia,1995,1309950
+Sweden,Europe,Malaysia,Asia,1995,0
+Sweden,Europe,Singapore,Asia,1995,0
+Sweden,Europe,Philippines,Asia,1995,0
+Sweden,Europe,Indonesia,Asia,1995,0
+Sweden,Europe,Australia,Oceania,1995,28008
+Sweden,Europe,Cyprus,Europe,1995,2296
+Sweden,Europe,China,Asia,1995,0
+Sweden,Europe,Ivory Coast,Africa,1995,0
+Sweden,Europe,Congo,Africa,1995,0
+Norway,Europe,United States,North America,1995,10589696
+Norway,Europe,Canada,North America,1995,34826
+Norway,Europe,Mexico,North America,1995,0
+Norway,Europe,Brazil,South America,1995,0
+Norway,Europe,Argentina,South America,1995,0
+Norway,Europe,United Kingdom,Europe,1995,113818
+Norway,Europe,Netherlands,Europe,1995,0
+Norway,Europe,Belgium,Europe,1995,26844
+Norway,Europe,France,Europe,1995,23808
+Norway,Europe,Switzerland,Europe,1995,71240
+Norway,Europe,Spain,Europe,1995,4736
+Norway,Europe,Portugal,Europe,1995,0
+Norway,Europe,Germany,Europe,1995,1351920
+Norway,Europe,Poland,Europe,1995,0
+Norway,Europe,Austria,Europe,1995,23420
+Norway,Europe,Hungary,Europe,1995,0
+Norway,Europe,Czech Republic,Europe,1995,0
+Norway,Europe,Slovakia,Europe,1995,0
+Norway,Europe,Italy,Europe,1995,47588
+Norway,Europe,Croatia,Europe,1995,0
+Norway,Europe,Serbia,Europe,1995,0
+Norway,Europe,Bosnia,Europe,1995,0
+Norway,Europe,Greece,Europe,1995,0
+Norway,Europe,Bulgaria,Europe,1995,0
+Norway,Europe,Romania,Europe,1995,0
+Norway,Europe,Russia,Asia,1995,4906
+Norway,Europe,Ukraine,Europe,1995,0
+Norway,Europe,Finland,Europe,1995,34962
+Norway,Europe,Sweden,Europe,1995,1059136
+Norway,Europe,Norway,Europe,1995,0
+Norway,Europe,Denmark,Europe,1995,4341580
+Norway,Europe,South Africa,Africa,1995,0
+Norway,Europe,Turkey,Asia,1995,3574
+Norway,Europe,Israel,Asia,1995,0
+Norway,Europe,United Arab Emirates,Asia,1995,0
+Norway,Europe,Taiwan,Asia,1995,0
+Norway,Europe,South Korea,Asia,1995,0
+Norway,Europe,Japan,Asia,1995,4314
+Norway,Europe,India,Asia,1995,0
+Norway,Europe,Pakistan,Asia,1995,0
+Norway,Europe,Thailand,Asia,1995,12748
+Norway,Europe,Malaysia,Asia,1995,0
+Norway,Europe,Singapore,Asia,1995,5264
+Norway,Europe,Philippines,Asia,1995,0
+Norway,Europe,Indonesia,Asia,1995,0
+Norway,Europe,Australia,Oceania,1995,0
+Norway,Europe,Cyprus,Europe,1995,0
+Norway,Europe,China,Asia,1995,0
+Norway,Europe,Ivory Coast,Africa,1995,0
+Norway,Europe,Congo,Africa,1995,0
+Denmark,Europe,United States,North America,1995,2326074
+Denmark,Europe,Canada,North America,1995,36526
+Denmark,Europe,Mexico,North America,1995,0
+Denmark,Europe,Brazil,South America,1995,0
+Denmark,Europe,Argentina,South America,1995,0
+Denmark,Europe,United Kingdom,Europe,1995,0
+Denmark,Europe,Netherlands,Europe,1995,131744
+Denmark,Europe,Belgium,Europe,1995,178950
+Denmark,Europe,France,Europe,1995,2782
+Denmark,Europe,Switzerland,Europe,1995,3656010
+Denmark,Europe,Spain,Europe,1995,0
+Denmark,Europe,Portugal,Europe,1995,1988
+Denmark,Europe,Germany,Europe,1995,480942
+Denmark,Europe,Poland,Europe,1995,0
+Denmark,Europe,Austria,Europe,1995,10746
+Denmark,Europe,Hungary,Europe,1995,0
+Denmark,Europe,Czech Republic,Europe,1995,0
+Denmark,Europe,Slovakia,Europe,1995,0
+Denmark,Europe,Italy,Europe,1995,159428
+Denmark,Europe,Croatia,Europe,1995,0
+Denmark,Europe,Serbia,Europe,1995,0
+Denmark,Europe,Bosnia,Europe,1995,0
+Denmark,Europe,Greece,Europe,1995,0
+Denmark,Europe,Bulgaria,Europe,1995,0
+Denmark,Europe,Romania,Europe,1995,0
+Denmark,Europe,Russia,Asia,1995,0
+Denmark,Europe,Ukraine,Europe,1995,0
+Denmark,Europe,Finland,Europe,1995,0
+Denmark,Europe,Sweden,Europe,1995,11580
+Denmark,Europe,Norway,Europe,1995,124186
+Denmark,Europe,Denmark,Europe,1995,0
+Denmark,Europe,South Africa,Africa,1995,0
+Denmark,Europe,Turkey,Asia,1995,0
+Denmark,Europe,Israel,Asia,1995,0
+Denmark,Europe,United Arab Emirates,Asia,1995,0
+Denmark,Europe,Taiwan,Asia,1995,0
+Denmark,Europe,South Korea,Asia,1995,0
+Denmark,Europe,Japan,Asia,1995,0
+Denmark,Europe,India,Asia,1995,0
+Denmark,Europe,Pakistan,Asia,1995,0
+Denmark,Europe,Thailand,Asia,1995,0
+Denmark,Europe,Malaysia,Asia,1995,0
+Denmark,Europe,Singapore,Asia,1995,0
+Denmark,Europe,Philippines,Asia,1995,0
+Denmark,Europe,Indonesia,Asia,1995,0
+Denmark,Europe,Australia,Oceania,1995,0
+Denmark,Europe,Cyprus,Europe,1995,0
+Denmark,Europe,China,Asia,1995,0
+Denmark,Europe,Ivory Coast,Africa,1995,0
+Denmark,Europe,Congo,Africa,1995,0
+South Africa,Africa,United States,North America,1995,1628734
+South Africa,Africa,Canada,North America,1995,74840
+South Africa,Africa,Mexico,North America,1995,2778
+South Africa,Africa,Brazil,South America,1995,0
+South Africa,Africa,Argentina,South America,1995,196870
+South Africa,Africa,United Kingdom,Europe,1995,232872
+South Africa,Africa,Netherlands,Europe,1995,17112
+South Africa,Africa,Belgium,Europe,1995,0
+South Africa,Africa,France,Europe,1995,23386
+South Africa,Africa,Switzerland,Europe,1995,507926
+South Africa,Africa,Spain,Europe,1995,1566
+South Africa,Africa,Portugal,Europe,1995,13866
+South Africa,Africa,Germany,Europe,1995,5842556
+South Africa,Africa,Poland,Europe,1995,0
+South Africa,Africa,Austria,Europe,1995,323838
+South Africa,Africa,Hungary,Europe,1995,0
+South Africa,Africa,Czech Republic,Europe,1995,2992
+South Africa,Africa,Slovakia,Europe,1995,0
+South Africa,Africa,Italy,Europe,1995,0
+South Africa,Africa,Croatia,Europe,1995,0
+South Africa,Africa,Serbia,Europe,1995,0
+South Africa,Africa,Bosnia,Europe,1995,0
+South Africa,Africa,Greece,Europe,1995,2154
+South Africa,Africa,Bulgaria,Europe,1995,0
+South Africa,Africa,Romania,Europe,1995,0
+South Africa,Africa,Russia,Asia,1995,0
+South Africa,Africa,Ukraine,Europe,1995,0
+South Africa,Africa,Finland,Europe,1995,129858
+South Africa,Africa,Sweden,Europe,1995,82040
+South Africa,Africa,Norway,Europe,1995,0
+South Africa,Africa,Denmark,Europe,1995,91674
+South Africa,Africa,South Africa,Africa,1995,0
+South Africa,Africa,Turkey,Asia,1995,0
+South Africa,Africa,Israel,Asia,1995,0
+South Africa,Africa,United Arab Emirates,Asia,1995,0
+South Africa,Africa,Taiwan,Asia,1995,0
+South Africa,Africa,South Korea,Asia,1995,13604
+South Africa,Africa,Japan,Asia,1995,0
+South Africa,Africa,India,Asia,1995,0
+South Africa,Africa,Pakistan,Asia,1995,0
+South Africa,Africa,Thailand,Asia,1995,12538
+South Africa,Africa,Malaysia,Asia,1995,589176
+South Africa,Africa,Singapore,Asia,1995,0
+South Africa,Africa,Philippines,Asia,1995,0
+South Africa,Africa,Indonesia,Asia,1995,0
+South Africa,Africa,Australia,Oceania,1995,25156
+South Africa,Africa,Cyprus,Europe,1995,1840
+South Africa,Africa,China,Asia,1995,0
+South Africa,Africa,Ivory Coast,Africa,1995,16738
+South Africa,Africa,Congo,Africa,1995,0
+Turkey,Asia,United States,North America,1995,1462694
+Turkey,Asia,Canada,North America,1995,5492
+Turkey,Asia,Mexico,North America,1995,0
+Turkey,Asia,Brazil,South America,1995,0
+Turkey,Asia,Argentina,South America,1995,0
+Turkey,Asia,United Kingdom,Europe,1995,8886
+Turkey,Asia,Netherlands,Europe,1995,4132
+Turkey,Asia,Belgium,Europe,1995,0
+Turkey,Asia,France,Europe,1995,17932
+Turkey,Asia,Switzerland,Europe,1995,0
+Turkey,Asia,Spain,Europe,1995,0
+Turkey,Asia,Portugal,Europe,1995,0
+Turkey,Asia,Germany,Europe,1995,217588
+Turkey,Asia,Poland,Europe,1995,0
+Turkey,Asia,Austria,Europe,1995,27842
+Turkey,Asia,Hungary,Europe,1995,0
+Turkey,Asia,Czech Republic,Europe,1995,0
+Turkey,Asia,Slovakia,Europe,1995,0
+Turkey,Asia,Italy,Europe,1995,4838
+Turkey,Asia,Croatia,Europe,1995,0
+Turkey,Asia,Serbia,Europe,1995,0
+Turkey,Asia,Bosnia,Europe,1995,0
+Turkey,Asia,Greece,Europe,1995,1464
+Turkey,Asia,Bulgaria,Europe,1995,10676
+Turkey,Asia,Romania,Europe,1995,0
+Turkey,Asia,Russia,Asia,1995,0
+Turkey,Asia,Ukraine,Europe,1995,50006
+Turkey,Asia,Finland,Europe,1995,0
+Turkey,Asia,Sweden,Europe,1995,4294
+Turkey,Asia,Norway,Europe,1995,0
+Turkey,Asia,Denmark,Europe,1995,9234
+Turkey,Asia,South Africa,Africa,1995,0
+Turkey,Asia,Turkey,Asia,1995,0
+Turkey,Asia,Israel,Asia,1995,0
+Turkey,Asia,United Arab Emirates,Asia,1995,1133630
+Turkey,Asia,Taiwan,Asia,1995,0
+Turkey,Asia,South Korea,Asia,1995,0
+Turkey,Asia,Japan,Asia,1995,0
+Turkey,Asia,India,Asia,1995,0
+Turkey,Asia,Pakistan,Asia,1995,0
+Turkey,Asia,Thailand,Asia,1995,0
+Turkey,Asia,Malaysia,Asia,1995,0
+Turkey,Asia,Singapore,Asia,1995,0
+Turkey,Asia,Philippines,Asia,1995,0
+Turkey,Asia,Indonesia,Asia,1995,0
+Turkey,Asia,Australia,Oceania,1995,0
+Turkey,Asia,Cyprus,Europe,1995,634510
+Turkey,Asia,China,Asia,1995,0
+Turkey,Asia,Ivory Coast,Africa,1995,0
+Turkey,Asia,Congo,Africa,1995,0
+Israel,Asia,United States,North America,1995,24218562
+Israel,Asia,Canada,North America,1995,51744
+Israel,Asia,Mexico,North America,1995,0
+Israel,Asia,Brazil,South America,1995,0
+Israel,Asia,Argentina,South America,1995,543668
+Israel,Asia,United Kingdom,Europe,1995,50416
+Israel,Asia,Netherlands,Europe,1995,0
+Israel,Asia,Belgium,Europe,1995,27914
+Israel,Asia,France,Europe,1995,5008
+Israel,Asia,Switzerland,Europe,1995,145914
+Israel,Asia,Spain,Europe,1995,7030
+Israel,Asia,Portugal,Europe,1995,3282
+Israel,Asia,Germany,Europe,1995,636206
+Israel,Asia,Poland,Europe,1995,808456
+Israel,Asia,Austria,Europe,1995,0
+Israel,Asia,Hungary,Europe,1995,0
+Israel,Asia,Czech Republic,Europe,1995,0
+Israel,Asia,Slovakia,Europe,1995,32934
+Israel,Asia,Italy,Europe,1995,0
+Israel,Asia,Croatia,Europe,1995,0
+Israel,Asia,Serbia,Europe,1995,0
+Israel,Asia,Bosnia,Europe,1995,0
+Israel,Asia,Greece,Europe,1995,0
+Israel,Asia,Bulgaria,Europe,1995,0
+Israel,Asia,Romania,Europe,1995,9501452
+Israel,Asia,Russia,Asia,1995,0
+Israel,Asia,Ukraine,Europe,1995,0
+Israel,Asia,Finland,Europe,1995,88804
+Israel,Asia,Sweden,Europe,1995,0
+Israel,Asia,Norway,Europe,1995,243548
+Israel,Asia,Denmark,Europe,1995,4436
+Israel,Asia,South Africa,Africa,1995,0
+Israel,Asia,Turkey,Asia,1995,0
+Israel,Asia,Israel,Asia,1995,0
+Israel,Asia,United Arab Emirates,Asia,1995,0
+Israel,Asia,Taiwan,Asia,1995,0
+Israel,Asia,South Korea,Asia,1995,0
+Israel,Asia,Japan,Asia,1995,0
+Israel,Asia,India,Asia,1995,0
+Israel,Asia,Pakistan,Asia,1995,0
+Israel,Asia,Thailand,Asia,1995,3415342
+Israel,Asia,Malaysia,Asia,1995,0
+Israel,Asia,Singapore,Asia,1995,0
+Israel,Asia,Philippines,Asia,1995,0
+Israel,Asia,Indonesia,Asia,1995,0
+Israel,Asia,Australia,Oceania,1995,107792
+Israel,Asia,Cyprus,Europe,1995,34748
+Israel,Asia,China,Asia,1995,0
+Israel,Asia,Ivory Coast,Africa,1995,0
+Israel,Asia,Congo,Africa,1995,0
+United Arab Emirates,Asia,United States,North America,1995,0
+United Arab Emirates,Asia,Canada,North America,1995,0
+United Arab Emirates,Asia,Mexico,North America,1995,0
+United Arab Emirates,Asia,Brazil,South America,1995,0
+United Arab Emirates,Asia,Argentina,South America,1995,0
+United Arab Emirates,Asia,United Kingdom,Europe,1995,0
+United Arab Emirates,Asia,Netherlands,Europe,1995,0
+United Arab Emirates,Asia,Belgium,Europe,1995,0
+United Arab Emirates,Asia,France,Europe,1995,0
+United Arab Emirates,Asia,Switzerland,Europe,1995,0
+United Arab Emirates,Asia,Spain,Europe,1995,0
+United Arab Emirates,Asia,Portugal,Europe,1995,0
+United Arab Emirates,Asia,Germany,Europe,1995,0
+United Arab Emirates,Asia,Poland,Europe,1995,0
+United Arab Emirates,Asia,Austria,Europe,1995,0
+United Arab Emirates,Asia,Hungary,Europe,1995,0
+United Arab Emirates,Asia,Czech Republic,Europe,1995,0
+United Arab Emirates,Asia,Slovakia,Europe,1995,0
+United Arab Emirates,Asia,Italy,Europe,1995,0
+United Arab Emirates,Asia,Croatia,Europe,1995,0
+United Arab Emirates,Asia,Serbia,Europe,1995,0
+United Arab Emirates,Asia,Bosnia,Europe,1995,0
+United Arab Emirates,Asia,Greece,Europe,1995,0
+United Arab Emirates,Asia,Bulgaria,Europe,1995,0
+United Arab Emirates,Asia,Romania,Europe,1995,0
+United Arab Emirates,Asia,Russia,Asia,1995,0
+United Arab Emirates,Asia,Ukraine,Europe,1995,0
+United Arab Emirates,Asia,Finland,Europe,1995,0
+United Arab Emirates,Asia,Sweden,Europe,1995,0
+United Arab Emirates,Asia,Norway,Europe,1995,0
+United Arab Emirates,Asia,Denmark,Europe,1995,0
+United Arab Emirates,Asia,South Africa,Africa,1995,0
+United Arab Emirates,Asia,Turkey,Asia,1995,0
+United Arab Emirates,Asia,Israel,Asia,1995,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,1995,0
+United Arab Emirates,Asia,Taiwan,Asia,1995,0
+United Arab Emirates,Asia,South Korea,Asia,1995,0
+United Arab Emirates,Asia,Japan,Asia,1995,0
+United Arab Emirates,Asia,India,Asia,1995,0
+United Arab Emirates,Asia,Pakistan,Asia,1995,0
+United Arab Emirates,Asia,Thailand,Asia,1995,0
+United Arab Emirates,Asia,Malaysia,Asia,1995,0
+United Arab Emirates,Asia,Singapore,Asia,1995,0
+United Arab Emirates,Asia,Philippines,Asia,1995,0
+United Arab Emirates,Asia,Indonesia,Asia,1995,0
+United Arab Emirates,Asia,Australia,Oceania,1995,0
+United Arab Emirates,Asia,Cyprus,Europe,1995,0
+United Arab Emirates,Asia,China,Asia,1995,0
+United Arab Emirates,Asia,Ivory Coast,Africa,1995,0
+United Arab Emirates,Asia,Congo,Africa,1995,0
+Taiwan,Asia,United States,North America,1995,612216
+Taiwan,Asia,Canada,North America,1995,3344
+Taiwan,Asia,Mexico,North America,1995,0
+Taiwan,Asia,Brazil,South America,1995,0
+Taiwan,Asia,Argentina,South America,1995,0
+Taiwan,Asia,United Kingdom,Europe,1995,0
+Taiwan,Asia,Netherlands,Europe,1995,0
+Taiwan,Asia,Belgium,Europe,1995,0
+Taiwan,Asia,France,Europe,1995,1960776
+Taiwan,Asia,Switzerland,Europe,1995,0
+Taiwan,Asia,Spain,Europe,1995,0
+Taiwan,Asia,Portugal,Europe,1995,0
+Taiwan,Asia,Germany,Europe,1995,36114
+Taiwan,Asia,Poland,Europe,1995,0
+Taiwan,Asia,Austria,Europe,1995,0
+Taiwan,Asia,Hungary,Europe,1995,0
+Taiwan,Asia,Czech Republic,Europe,1995,0
+Taiwan,Asia,Slovakia,Europe,1995,0
+Taiwan,Asia,Italy,Europe,1995,0
+Taiwan,Asia,Croatia,Europe,1995,0
+Taiwan,Asia,Serbia,Europe,1995,0
+Taiwan,Asia,Bosnia,Europe,1995,0
+Taiwan,Asia,Greece,Europe,1995,0
+Taiwan,Asia,Bulgaria,Europe,1995,0
+Taiwan,Asia,Romania,Europe,1995,0
+Taiwan,Asia,Russia,Asia,1995,0
+Taiwan,Asia,Ukraine,Europe,1995,0
+Taiwan,Asia,Finland,Europe,1995,0
+Taiwan,Asia,Sweden,Europe,1995,0
+Taiwan,Asia,Norway,Europe,1995,0
+Taiwan,Asia,Denmark,Europe,1995,0
+Taiwan,Asia,South Africa,Africa,1995,0
+Taiwan,Asia,Turkey,Asia,1995,0
+Taiwan,Asia,Israel,Asia,1995,0
+Taiwan,Asia,United Arab Emirates,Asia,1995,0
+Taiwan,Asia,Taiwan,Asia,1995,0
+Taiwan,Asia,South Korea,Asia,1995,0
+Taiwan,Asia,Japan,Asia,1995,0
+Taiwan,Asia,India,Asia,1995,0
+Taiwan,Asia,Pakistan,Asia,1995,0
+Taiwan,Asia,Thailand,Asia,1995,0
+Taiwan,Asia,Malaysia,Asia,1995,67798
+Taiwan,Asia,Singapore,Asia,1995,0
+Taiwan,Asia,Philippines,Asia,1995,0
+Taiwan,Asia,Indonesia,Asia,1995,0
+Taiwan,Asia,Australia,Oceania,1995,0
+Taiwan,Asia,Cyprus,Europe,1995,4974
+Taiwan,Asia,China,Asia,1995,0
+Taiwan,Asia,Ivory Coast,Africa,1995,0
+Taiwan,Asia,Congo,Africa,1995,0
+South Korea,Asia,United States,North America,1995,26953970
+South Korea,Asia,Canada,North America,1995,185396
+South Korea,Asia,Mexico,North America,1995,0
+South Korea,Asia,Brazil,South America,1995,0
+South Korea,Asia,Argentina,South America,1995,0
+South Korea,Asia,United Kingdom,Europe,1995,28320
+South Korea,Asia,Netherlands,Europe,1995,0
+South Korea,Asia,Belgium,Europe,1995,0
+South Korea,Asia,France,Europe,1995,0
+South Korea,Asia,Switzerland,Europe,1995,131552
+South Korea,Asia,Spain,Europe,1995,135600
+South Korea,Asia,Portugal,Europe,1995,0
+South Korea,Asia,Germany,Europe,1995,6392642
+South Korea,Asia,Poland,Europe,1995,0
+South Korea,Asia,Austria,Europe,1995,172530
+South Korea,Asia,Hungary,Europe,1995,0
+South Korea,Asia,Czech Republic,Europe,1995,0
+South Korea,Asia,Slovakia,Europe,1995,110912
+South Korea,Asia,Italy,Europe,1995,0
+South Korea,Asia,Croatia,Europe,1995,0
+South Korea,Asia,Serbia,Europe,1995,0
+South Korea,Asia,Bosnia,Europe,1995,0
+South Korea,Asia,Greece,Europe,1995,0
+South Korea,Asia,Bulgaria,Europe,1995,0
+South Korea,Asia,Romania,Europe,1995,0
+South Korea,Asia,Russia,Asia,1995,0
+South Korea,Asia,Ukraine,Europe,1995,0
+South Korea,Asia,Finland,Europe,1995,454486
+South Korea,Asia,Sweden,Europe,1995,0
+South Korea,Asia,Norway,Europe,1995,44658
+South Korea,Asia,Denmark,Europe,1995,0
+South Korea,Asia,South Africa,Africa,1995,291710
+South Korea,Asia,Turkey,Asia,1995,403482
+South Korea,Asia,Israel,Asia,1995,213920
+South Korea,Asia,United Arab Emirates,Asia,1995,0
+South Korea,Asia,Taiwan,Asia,1995,0
+South Korea,Asia,South Korea,Asia,1995,0
+South Korea,Asia,Japan,Asia,1995,0
+South Korea,Asia,India,Asia,1995,0
+South Korea,Asia,Pakistan,Asia,1995,0
+South Korea,Asia,Thailand,Asia,1995,1996182
+South Korea,Asia,Malaysia,Asia,1995,2778
+South Korea,Asia,Singapore,Asia,1995,63772
+South Korea,Asia,Philippines,Asia,1995,651620
+South Korea,Asia,Indonesia,Asia,1995,0
+South Korea,Asia,Australia,Oceania,1995,208516
+South Korea,Asia,Cyprus,Europe,1995,0
+South Korea,Asia,China,Asia,1995,0
+South Korea,Asia,Ivory Coast,Africa,1995,0
+South Korea,Asia,Congo,Africa,1995,0
+Japan,Asia,United States,North America,1995,89508548
+Japan,Asia,Canada,North America,1995,4532228
+Japan,Asia,Mexico,North America,1995,0
+Japan,Asia,Brazil,South America,1995,0
+Japan,Asia,Argentina,South America,1995,0
+Japan,Asia,United Kingdom,Europe,1995,5566744
+Japan,Asia,Netherlands,Europe,1995,0
+Japan,Asia,Belgium,Europe,1995,18183294
+Japan,Asia,France,Europe,1995,6476128
+Japan,Asia,Switzerland,Europe,1995,16532
+Japan,Asia,Spain,Europe,1995,0
+Japan,Asia,Portugal,Europe,1995,109020
+Japan,Asia,Germany,Europe,1995,529096
+Japan,Asia,Poland,Europe,1995,0
+Japan,Asia,Austria,Europe,1995,522100
+Japan,Asia,Hungary,Europe,1995,0
+Japan,Asia,Czech Republic,Europe,1995,0
+Japan,Asia,Slovakia,Europe,1995,0
+Japan,Asia,Italy,Europe,1995,480490
+Japan,Asia,Croatia,Europe,1995,0
+Japan,Asia,Serbia,Europe,1995,0
+Japan,Asia,Bosnia,Europe,1995,0
+Japan,Asia,Greece,Europe,1995,0
+Japan,Asia,Bulgaria,Europe,1995,0
+Japan,Asia,Romania,Europe,1995,0
+Japan,Asia,Russia,Asia,1995,0
+Japan,Asia,Ukraine,Europe,1995,0
+Japan,Asia,Finland,Europe,1995,52256
+Japan,Asia,Sweden,Europe,1995,670084
+Japan,Asia,Norway,Europe,1995,635668
+Japan,Asia,Denmark,Europe,1995,776518
+Japan,Asia,South Africa,Africa,1995,0
+Japan,Asia,Turkey,Asia,1995,385820
+Japan,Asia,Israel,Asia,1995,0
+Japan,Asia,United Arab Emirates,Asia,1995,0
+Japan,Asia,Taiwan,Asia,1995,6192
+Japan,Asia,South Korea,Asia,1995,88738
+Japan,Asia,Japan,Asia,1995,0
+Japan,Asia,India,Asia,1995,0
+Japan,Asia,Pakistan,Asia,1995,0
+Japan,Asia,Thailand,Asia,1995,39500
+Japan,Asia,Malaysia,Asia,1995,143472
+Japan,Asia,Singapore,Asia,1995,0
+Japan,Asia,Philippines,Asia,1995,0
+Japan,Asia,Indonesia,Asia,1995,0
+Japan,Asia,Australia,Oceania,1995,794176
+Japan,Asia,Cyprus,Europe,1995,232032
+Japan,Asia,China,Asia,1995,0
+Japan,Asia,Ivory Coast,Africa,1995,0
+Japan,Asia,Congo,Africa,1995,0
+India,Asia,United States,North America,1995,487398
+India,Asia,Canada,North America,1995,0
+India,Asia,Mexico,North America,1995,0
+India,Asia,Brazil,South America,1995,0
+India,Asia,Argentina,South America,1995,0
+India,Asia,United Kingdom,Europe,1995,56874
+India,Asia,Netherlands,Europe,1995,0
+India,Asia,Belgium,Europe,1995,0
+India,Asia,France,Europe,1995,0
+India,Asia,Switzerland,Europe,1995,10308
+India,Asia,Spain,Europe,1995,0
+India,Asia,Portugal,Europe,1995,0
+India,Asia,Germany,Europe,1995,12480
+India,Asia,Poland,Europe,1995,0
+India,Asia,Austria,Europe,1995,0
+India,Asia,Hungary,Europe,1995,0
+India,Asia,Czech Republic,Europe,1995,0
+India,Asia,Slovakia,Europe,1995,0
+India,Asia,Italy,Europe,1995,0
+India,Asia,Croatia,Europe,1995,0
+India,Asia,Serbia,Europe,1995,0
+India,Asia,Bosnia,Europe,1995,0
+India,Asia,Greece,Europe,1995,0
+India,Asia,Bulgaria,Europe,1995,0
+India,Asia,Romania,Europe,1995,0
+India,Asia,Russia,Asia,1995,0
+India,Asia,Ukraine,Europe,1995,0
+India,Asia,Finland,Europe,1995,0
+India,Asia,Sweden,Europe,1995,0
+India,Asia,Norway,Europe,1995,0
+India,Asia,Denmark,Europe,1995,0
+India,Asia,South Africa,Africa,1995,0
+India,Asia,Turkey,Asia,1995,0
+India,Asia,Israel,Asia,1995,0
+India,Asia,United Arab Emirates,Asia,1995,0
+India,Asia,Taiwan,Asia,1995,0
+India,Asia,South Korea,Asia,1995,0
+India,Asia,Japan,Asia,1995,0
+India,Asia,India,Asia,1995,0
+India,Asia,Pakistan,Asia,1995,0
+India,Asia,Thailand,Asia,1995,5223698
+India,Asia,Malaysia,Asia,1995,0
+India,Asia,Singapore,Asia,1995,0
+India,Asia,Philippines,Asia,1995,0
+India,Asia,Indonesia,Asia,1995,0
+India,Asia,Australia,Oceania,1995,29242
+India,Asia,Cyprus,Europe,1995,0
+India,Asia,China,Asia,1995,0
+India,Asia,Ivory Coast,Africa,1995,0
+India,Asia,Congo,Africa,1995,0
+Pakistan,Asia,United States,North America,1995,9884
+Pakistan,Asia,Canada,North America,1995,0
+Pakistan,Asia,Mexico,North America,1995,0
+Pakistan,Asia,Brazil,South America,1995,0
+Pakistan,Asia,Argentina,South America,1995,0
+Pakistan,Asia,United Kingdom,Europe,1995,12642
+Pakistan,Asia,Netherlands,Europe,1995,0
+Pakistan,Asia,Belgium,Europe,1995,0
+Pakistan,Asia,France,Europe,1995,0
+Pakistan,Asia,Switzerland,Europe,1995,0
+Pakistan,Asia,Spain,Europe,1995,0
+Pakistan,Asia,Portugal,Europe,1995,0
+Pakistan,Asia,Germany,Europe,1995,0
+Pakistan,Asia,Poland,Europe,1995,0
+Pakistan,Asia,Austria,Europe,1995,0
+Pakistan,Asia,Hungary,Europe,1995,0
+Pakistan,Asia,Czech Republic,Europe,1995,0
+Pakistan,Asia,Slovakia,Europe,1995,0
+Pakistan,Asia,Italy,Europe,1995,0
+Pakistan,Asia,Croatia,Europe,1995,0
+Pakistan,Asia,Serbia,Europe,1995,0
+Pakistan,Asia,Bosnia,Europe,1995,0
+Pakistan,Asia,Greece,Europe,1995,0
+Pakistan,Asia,Bulgaria,Europe,1995,0
+Pakistan,Asia,Romania,Europe,1995,0
+Pakistan,Asia,Russia,Asia,1995,0
+Pakistan,Asia,Ukraine,Europe,1995,0
+Pakistan,Asia,Finland,Europe,1995,2324
+Pakistan,Asia,Sweden,Europe,1995,0
+Pakistan,Asia,Norway,Europe,1995,0
+Pakistan,Asia,Denmark,Europe,1995,0
+Pakistan,Asia,South Africa,Africa,1995,0
+Pakistan,Asia,Turkey,Asia,1995,0
+Pakistan,Asia,Israel,Asia,1995,0
+Pakistan,Asia,United Arab Emirates,Asia,1995,0
+Pakistan,Asia,Taiwan,Asia,1995,0
+Pakistan,Asia,South Korea,Asia,1995,0
+Pakistan,Asia,Japan,Asia,1995,0
+Pakistan,Asia,India,Asia,1995,0
+Pakistan,Asia,Pakistan,Asia,1995,0
+Pakistan,Asia,Thailand,Asia,1995,0
+Pakistan,Asia,Malaysia,Asia,1995,0
+Pakistan,Asia,Singapore,Asia,1995,0
+Pakistan,Asia,Philippines,Asia,1995,0
+Pakistan,Asia,Indonesia,Asia,1995,0
+Pakistan,Asia,Australia,Oceania,1995,0
+Pakistan,Asia,Cyprus,Europe,1995,0
+Pakistan,Asia,China,Asia,1995,0
+Pakistan,Asia,Ivory Coast,Africa,1995,0
+Pakistan,Asia,Congo,Africa,1995,0
+Thailand,Asia,United States,North America,1995,0
+Thailand,Asia,Canada,North America,1995,0
+Thailand,Asia,Mexico,North America,1995,0
+Thailand,Asia,Brazil,South America,1995,0
+Thailand,Asia,Argentina,South America,1995,0
+Thailand,Asia,United Kingdom,Europe,1995,0
+Thailand,Asia,Netherlands,Europe,1995,0
+Thailand,Asia,Belgium,Europe,1995,0
+Thailand,Asia,France,Europe,1995,0
+Thailand,Asia,Switzerland,Europe,1995,0
+Thailand,Asia,Spain,Europe,1995,0
+Thailand,Asia,Portugal,Europe,1995,0
+Thailand,Asia,Germany,Europe,1995,20518
+Thailand,Asia,Poland,Europe,1995,0
+Thailand,Asia,Austria,Europe,1995,0
+Thailand,Asia,Hungary,Europe,1995,0
+Thailand,Asia,Czech Republic,Europe,1995,0
+Thailand,Asia,Slovakia,Europe,1995,0
+Thailand,Asia,Italy,Europe,1995,0
+Thailand,Asia,Croatia,Europe,1995,0
+Thailand,Asia,Serbia,Europe,1995,0
+Thailand,Asia,Bosnia,Europe,1995,0
+Thailand,Asia,Greece,Europe,1995,0
+Thailand,Asia,Bulgaria,Europe,1995,0
+Thailand,Asia,Romania,Europe,1995,0
+Thailand,Asia,Russia,Asia,1995,0
+Thailand,Asia,Ukraine,Europe,1995,0
+Thailand,Asia,Finland,Europe,1995,0
+Thailand,Asia,Sweden,Europe,1995,0
+Thailand,Asia,Norway,Europe,1995,0
+Thailand,Asia,Denmark,Europe,1995,0
+Thailand,Asia,South Africa,Africa,1995,0
+Thailand,Asia,Turkey,Asia,1995,0
+Thailand,Asia,Israel,Asia,1995,0
+Thailand,Asia,United Arab Emirates,Asia,1995,0
+Thailand,Asia,Taiwan,Asia,1995,0
+Thailand,Asia,South Korea,Asia,1995,0
+Thailand,Asia,Japan,Asia,1995,0
+Thailand,Asia,India,Asia,1995,0
+Thailand,Asia,Pakistan,Asia,1995,0
+Thailand,Asia,Thailand,Asia,1995,0
+Thailand,Asia,Malaysia,Asia,1995,0
+Thailand,Asia,Singapore,Asia,1995,0
+Thailand,Asia,Philippines,Asia,1995,0
+Thailand,Asia,Indonesia,Asia,1995,0
+Thailand,Asia,Australia,Oceania,1995,0
+Thailand,Asia,Cyprus,Europe,1995,0
+Thailand,Asia,China,Asia,1995,0
+Thailand,Asia,Ivory Coast,Africa,1995,0
+Thailand,Asia,Congo,Africa,1995,0
+Malaysia,Asia,United States,North America,1995,3267842
+Malaysia,Asia,Canada,North America,1995,295770
+Malaysia,Asia,Mexico,North America,1995,0
+Malaysia,Asia,Brazil,South America,1995,0
+Malaysia,Asia,Argentina,South America,1995,0
+Malaysia,Asia,United Kingdom,Europe,1995,4016
+Malaysia,Asia,Netherlands,Europe,1995,0
+Malaysia,Asia,Belgium,Europe,1995,0
+Malaysia,Asia,France,Europe,1995,0
+Malaysia,Asia,Switzerland,Europe,1995,15670
+Malaysia,Asia,Spain,Europe,1995,0
+Malaysia,Asia,Portugal,Europe,1995,0
+Malaysia,Asia,Germany,Europe,1995,0
+Malaysia,Asia,Poland,Europe,1995,0
+Malaysia,Asia,Austria,Europe,1995,0
+Malaysia,Asia,Hungary,Europe,1995,0
+Malaysia,Asia,Czech Republic,Europe,1995,0
+Malaysia,Asia,Slovakia,Europe,1995,0
+Malaysia,Asia,Italy,Europe,1995,0
+Malaysia,Asia,Croatia,Europe,1995,0
+Malaysia,Asia,Serbia,Europe,1995,0
+Malaysia,Asia,Bosnia,Europe,1995,0
+Malaysia,Asia,Greece,Europe,1995,0
+Malaysia,Asia,Bulgaria,Europe,1995,0
+Malaysia,Asia,Romania,Europe,1995,0
+Malaysia,Asia,Russia,Asia,1995,0
+Malaysia,Asia,Ukraine,Europe,1995,0
+Malaysia,Asia,Finland,Europe,1995,0
+Malaysia,Asia,Sweden,Europe,1995,0
+Malaysia,Asia,Norway,Europe,1995,0
+Malaysia,Asia,Denmark,Europe,1995,0
+Malaysia,Asia,South Africa,Africa,1995,0
+Malaysia,Asia,Turkey,Asia,1995,0
+Malaysia,Asia,Israel,Asia,1995,0
+Malaysia,Asia,United Arab Emirates,Asia,1995,0
+Malaysia,Asia,Taiwan,Asia,1995,0
+Malaysia,Asia,South Korea,Asia,1995,3872
+Malaysia,Asia,Japan,Asia,1995,0
+Malaysia,Asia,India,Asia,1995,0
+Malaysia,Asia,Pakistan,Asia,1995,0
+Malaysia,Asia,Thailand,Asia,1995,0
+Malaysia,Asia,Malaysia,Asia,1995,0
+Malaysia,Asia,Singapore,Asia,1995,85710
+Malaysia,Asia,Philippines,Asia,1995,9700
+Malaysia,Asia,Indonesia,Asia,1995,0
+Malaysia,Asia,Australia,Oceania,1995,0
+Malaysia,Asia,Cyprus,Europe,1995,0
+Malaysia,Asia,China,Asia,1995,0
+Malaysia,Asia,Ivory Coast,Africa,1995,0
+Malaysia,Asia,Congo,Africa,1995,0
+Singapore,Asia,United States,North America,1995,897804
+Singapore,Asia,Canada,North America,1995,0
+Singapore,Asia,Mexico,North America,1995,2778
+Singapore,Asia,Brazil,South America,1995,50866
+Singapore,Asia,Argentina,South America,1995,0
+Singapore,Asia,United Kingdom,Europe,1995,1259950
+Singapore,Asia,Netherlands,Europe,1995,0
+Singapore,Asia,Belgium,Europe,1995,18936
+Singapore,Asia,France,Europe,1995,0
+Singapore,Asia,Switzerland,Europe,1995,0
+Singapore,Asia,Spain,Europe,1995,0
+Singapore,Asia,Portugal,Europe,1995,0
+Singapore,Asia,Germany,Europe,1995,0
+Singapore,Asia,Poland,Europe,1995,0
+Singapore,Asia,Austria,Europe,1995,0
+Singapore,Asia,Hungary,Europe,1995,0
+Singapore,Asia,Czech Republic,Europe,1995,0
+Singapore,Asia,Slovakia,Europe,1995,0
+Singapore,Asia,Italy,Europe,1995,0
+Singapore,Asia,Croatia,Europe,1995,0
+Singapore,Asia,Serbia,Europe,1995,0
+Singapore,Asia,Bosnia,Europe,1995,0
+Singapore,Asia,Greece,Europe,1995,0
+Singapore,Asia,Bulgaria,Europe,1995,0
+Singapore,Asia,Romania,Europe,1995,0
+Singapore,Asia,Russia,Asia,1995,0
+Singapore,Asia,Ukraine,Europe,1995,0
+Singapore,Asia,Finland,Europe,1995,0
+Singapore,Asia,Sweden,Europe,1995,0
+Singapore,Asia,Norway,Europe,1995,0
+Singapore,Asia,Denmark,Europe,1995,0
+Singapore,Asia,South Africa,Africa,1995,0
+Singapore,Asia,Turkey,Asia,1995,0
+Singapore,Asia,Israel,Asia,1995,0
+Singapore,Asia,United Arab Emirates,Asia,1995,10982
+Singapore,Asia,Taiwan,Asia,1995,251794
+Singapore,Asia,South Korea,Asia,1995,0
+Singapore,Asia,Japan,Asia,1995,43946
+Singapore,Asia,India,Asia,1995,7414
+Singapore,Asia,Pakistan,Asia,1995,0
+Singapore,Asia,Thailand,Asia,1995,2512150
+Singapore,Asia,Malaysia,Asia,1995,172448
+Singapore,Asia,Singapore,Asia,1995,0
+Singapore,Asia,Philippines,Asia,1995,109522
+Singapore,Asia,Indonesia,Asia,1995,6588
+Singapore,Asia,Australia,Oceania,1995,48032
+Singapore,Asia,Cyprus,Europe,1995,0
+Singapore,Asia,China,Asia,1995,0
+Singapore,Asia,Ivory Coast,Africa,1995,0
+Singapore,Asia,Congo,Africa,1995,0
+Philippines,Asia,United States,North America,1995,479622
+Philippines,Asia,Canada,North America,1995,18252
+Philippines,Asia,Mexico,North America,1995,0
+Philippines,Asia,Brazil,South America,1995,0
+Philippines,Asia,Argentina,South America,1995,129444
+Philippines,Asia,United Kingdom,Europe,1995,0
+Philippines,Asia,Netherlands,Europe,1995,0
+Philippines,Asia,Belgium,Europe,1995,0
+Philippines,Asia,France,Europe,1995,1790926
+Philippines,Asia,Switzerland,Europe,1995,22964
+Philippines,Asia,Spain,Europe,1995,0
+Philippines,Asia,Portugal,Europe,1995,0
+Philippines,Asia,Germany,Europe,1995,241700
+Philippines,Asia,Poland,Europe,1995,0
+Philippines,Asia,Austria,Europe,1995,0
+Philippines,Asia,Hungary,Europe,1995,0
+Philippines,Asia,Czech Republic,Europe,1995,0
+Philippines,Asia,Slovakia,Europe,1995,0
+Philippines,Asia,Italy,Europe,1995,0
+Philippines,Asia,Croatia,Europe,1995,0
+Philippines,Asia,Serbia,Europe,1995,0
+Philippines,Asia,Bosnia,Europe,1995,0
+Philippines,Asia,Greece,Europe,1995,365174
+Philippines,Asia,Bulgaria,Europe,1995,0
+Philippines,Asia,Romania,Europe,1995,0
+Philippines,Asia,Russia,Asia,1995,0
+Philippines,Asia,Ukraine,Europe,1995,0
+Philippines,Asia,Finland,Europe,1995,49404
+Philippines,Asia,Sweden,Europe,1995,30078
+Philippines,Asia,Norway,Europe,1995,0
+Philippines,Asia,Denmark,Europe,1995,0
+Philippines,Asia,South Africa,Africa,1995,0
+Philippines,Asia,Turkey,Asia,1995,0
+Philippines,Asia,Israel,Asia,1995,0
+Philippines,Asia,United Arab Emirates,Asia,1995,0
+Philippines,Asia,Taiwan,Asia,1995,0
+Philippines,Asia,South Korea,Asia,1995,0
+Philippines,Asia,Japan,Asia,1995,0
+Philippines,Asia,India,Asia,1995,0
+Philippines,Asia,Pakistan,Asia,1995,0
+Philippines,Asia,Thailand,Asia,1995,2045256
+Philippines,Asia,Malaysia,Asia,1995,0
+Philippines,Asia,Singapore,Asia,1995,0
+Philippines,Asia,Philippines,Asia,1995,0
+Philippines,Asia,Indonesia,Asia,1995,0
+Philippines,Asia,Australia,Oceania,1995,553358
+Philippines,Asia,Cyprus,Europe,1995,0
+Philippines,Asia,China,Asia,1995,0
+Philippines,Asia,Ivory Coast,Africa,1995,0
+Philippines,Asia,Congo,Africa,1995,0
+Indonesia,Asia,United States,North America,1995,250964
+Indonesia,Asia,Canada,North America,1995,111168
+Indonesia,Asia,Mexico,North America,1995,0
+Indonesia,Asia,Brazil,South America,1995,0
+Indonesia,Asia,Argentina,South America,1995,0
+Indonesia,Asia,United Kingdom,Europe,1995,0
+Indonesia,Asia,Netherlands,Europe,1995,0
+Indonesia,Asia,Belgium,Europe,1995,0
+Indonesia,Asia,France,Europe,1995,0
+Indonesia,Asia,Switzerland,Europe,1995,0
+Indonesia,Asia,Spain,Europe,1995,0
+Indonesia,Asia,Portugal,Europe,1995,0
+Indonesia,Asia,Germany,Europe,1995,93346
+Indonesia,Asia,Poland,Europe,1995,0
+Indonesia,Asia,Austria,Europe,1995,29764
+Indonesia,Asia,Hungary,Europe,1995,0
+Indonesia,Asia,Czech Republic,Europe,1995,0
+Indonesia,Asia,Slovakia,Europe,1995,0
+Indonesia,Asia,Italy,Europe,1995,83796
+Indonesia,Asia,Croatia,Europe,1995,0
+Indonesia,Asia,Serbia,Europe,1995,0
+Indonesia,Asia,Bosnia,Europe,1995,0
+Indonesia,Asia,Greece,Europe,1995,0
+Indonesia,Asia,Bulgaria,Europe,1995,0
+Indonesia,Asia,Romania,Europe,1995,0
+Indonesia,Asia,Russia,Asia,1995,0
+Indonesia,Asia,Ukraine,Europe,1995,0
+Indonesia,Asia,Finland,Europe,1995,0
+Indonesia,Asia,Sweden,Europe,1995,0
+Indonesia,Asia,Norway,Europe,1995,0
+Indonesia,Asia,Denmark,Europe,1995,0
+Indonesia,Asia,South Africa,Africa,1995,0
+Indonesia,Asia,Turkey,Asia,1995,0
+Indonesia,Asia,Israel,Asia,1995,0
+Indonesia,Asia,United Arab Emirates,Asia,1995,0
+Indonesia,Asia,Taiwan,Asia,1995,0
+Indonesia,Asia,South Korea,Asia,1995,0
+Indonesia,Asia,Japan,Asia,1995,0
+Indonesia,Asia,India,Asia,1995,0
+Indonesia,Asia,Pakistan,Asia,1995,0
+Indonesia,Asia,Thailand,Asia,1995,7631636
+Indonesia,Asia,Malaysia,Asia,1995,7522
+Indonesia,Asia,Singapore,Asia,1995,0
+Indonesia,Asia,Philippines,Asia,1995,0
+Indonesia,Asia,Indonesia,Asia,1995,0
+Indonesia,Asia,Australia,Oceania,1995,0
+Indonesia,Asia,Cyprus,Europe,1995,0
+Indonesia,Asia,China,Asia,1995,0
+Indonesia,Asia,Ivory Coast,Africa,1995,0
+Indonesia,Asia,Congo,Africa,1995,0
+Australia,Oceania,United States,North America,1995,568256
+Australia,Oceania,Canada,North America,1995,379904
+Australia,Oceania,Mexico,North America,1995,0
+Australia,Oceania,Brazil,South America,1995,0
+Australia,Oceania,Argentina,South America,1995,0
+Australia,Oceania,United Kingdom,Europe,1995,1881182
+Australia,Oceania,Netherlands,Europe,1995,66920
+Australia,Oceania,Belgium,Europe,1995,2973126
+Australia,Oceania,France,Europe,1995,1804914
+Australia,Oceania,Switzerland,Europe,1995,11110
+Australia,Oceania,Spain,Europe,1995,17408
+Australia,Oceania,Portugal,Europe,1995,0
+Australia,Oceania,Germany,Europe,1995,95990
+Australia,Oceania,Poland,Europe,1995,0
+Australia,Oceania,Austria,Europe,1995,0
+Australia,Oceania,Hungary,Europe,1995,0
+Australia,Oceania,Czech Republic,Europe,1995,0
+Australia,Oceania,Slovakia,Europe,1995,0
+Australia,Oceania,Italy,Europe,1995,135074
+Australia,Oceania,Croatia,Europe,1995,0
+Australia,Oceania,Serbia,Europe,1995,0
+Australia,Oceania,Bosnia,Europe,1995,0
+Australia,Oceania,Greece,Europe,1995,3594
+Australia,Oceania,Bulgaria,Europe,1995,0
+Australia,Oceania,Romania,Europe,1995,0
+Australia,Oceania,Russia,Asia,1995,0
+Australia,Oceania,Ukraine,Europe,1995,0
+Australia,Oceania,Finland,Europe,1995,20946
+Australia,Oceania,Sweden,Europe,1995,86270
+Australia,Oceania,Norway,Europe,1995,658494
+Australia,Oceania,Denmark,Europe,1995,0
+Australia,Oceania,South Africa,Africa,1995,117518
+Australia,Oceania,Turkey,Asia,1995,0
+Australia,Oceania,Israel,Asia,1995,0
+Australia,Oceania,United Arab Emirates,Asia,1995,12562
+Australia,Oceania,Taiwan,Asia,1995,125812
+Australia,Oceania,South Korea,Asia,1995,188228
+Australia,Oceania,Japan,Asia,1995,3115634
+Australia,Oceania,India,Asia,1995,0
+Australia,Oceania,Pakistan,Asia,1995,0
+Australia,Oceania,Thailand,Asia,1995,122460
+Australia,Oceania,Malaysia,Asia,1995,268106
+Australia,Oceania,Singapore,Asia,1995,135992
+Australia,Oceania,Philippines,Asia,1995,266454
+Australia,Oceania,Indonesia,Asia,1995,5660
+Australia,Oceania,Australia,Oceania,1995,0
+Australia,Oceania,Cyprus,Europe,1995,69338
+Australia,Oceania,China,Asia,1995,188638
+Australia,Oceania,Ivory Coast,Africa,1995,0
+Australia,Oceania,Congo,Africa,1995,0
+Cyprus,Europe,United States,North America,1995,853468
+Cyprus,Europe,Canada,North America,1995,1537
+Cyprus,Europe,Mexico,North America,1995,0
+Cyprus,Europe,Brazil,South America,1995,0
+Cyprus,Europe,Argentina,South America,1995,0
+Cyprus,Europe,United Kingdom,Europe,1995,1052686
+Cyprus,Europe,Netherlands,Europe,1995,0
+Cyprus,Europe,Belgium,Europe,1995,0
+Cyprus,Europe,France,Europe,1995,30124
+Cyprus,Europe,Switzerland,Europe,1995,0
+Cyprus,Europe,Spain,Europe,1995,4442
+Cyprus,Europe,Portugal,Europe,1995,79524
+Cyprus,Europe,Germany,Europe,1995,6945
+Cyprus,Europe,Poland,Europe,1995,0
+Cyprus,Europe,Austria,Europe,1995,0
+Cyprus,Europe,Hungary,Europe,1995,0
+Cyprus,Europe,Czech Republic,Europe,1995,0
+Cyprus,Europe,Slovakia,Europe,1995,0
+Cyprus,Europe,Italy,Europe,1995,26081
+Cyprus,Europe,Croatia,Europe,1995,0
+Cyprus,Europe,Serbia,Europe,1995,0
+Cyprus,Europe,Bosnia,Europe,1995,0
+Cyprus,Europe,Greece,Europe,1995,184971
+Cyprus,Europe,Bulgaria,Europe,1995,7845
+Cyprus,Europe,Romania,Europe,1995,14536
+Cyprus,Europe,Russia,Asia,1995,13835
+Cyprus,Europe,Ukraine,Europe,1995,581074
+Cyprus,Europe,Finland,Europe,1995,35401
+Cyprus,Europe,Sweden,Europe,1995,0
+Cyprus,Europe,Norway,Europe,1995,138926
+Cyprus,Europe,Denmark,Europe,1995,0
+Cyprus,Europe,South Africa,Africa,1995,1537
+Cyprus,Europe,Turkey,Asia,1995,0
+Cyprus,Europe,Israel,Asia,1995,7281
+Cyprus,Europe,United Arab Emirates,Asia,1995,0
+Cyprus,Europe,Taiwan,Asia,1995,0
+Cyprus,Europe,South Korea,Asia,1995,0
+Cyprus,Europe,Japan,Asia,1995,92569
+Cyprus,Europe,India,Asia,1995,3999
+Cyprus,Europe,Pakistan,Asia,1995,0
+Cyprus,Europe,Thailand,Asia,1995,20057
+Cyprus,Europe,Malaysia,Asia,1995,0
+Cyprus,Europe,Singapore,Asia,1995,0
+Cyprus,Europe,Philippines,Asia,1995,0
+Cyprus,Europe,Indonesia,Asia,1995,0
+Cyprus,Europe,Australia,Oceania,1995,82920
+Cyprus,Europe,Cyprus,Europe,1995,0
+Cyprus,Europe,China,Asia,1995,0
+Cyprus,Europe,Ivory Coast,Africa,1995,0
+Cyprus,Europe,Congo,Africa,1995,0
+China,Asia,United States,North America,1995,18891412
+China,Asia,Canada,North America,1995,2373190
+China,Asia,Mexico,North America,1995,0
+China,Asia,Brazil,South America,1995,30028
+China,Asia,Argentina,South America,1995,106350
+China,Asia,United Kingdom,Europe,1995,0
+China,Asia,Netherlands,Europe,1995,0
+China,Asia,Belgium,Europe,1995,455286
+China,Asia,France,Europe,1995,738418
+China,Asia,Switzerland,Europe,1995,318808
+China,Asia,Spain,Europe,1995,40702
+China,Asia,Portugal,Europe,1995,0
+China,Asia,Germany,Europe,1995,4734054
+China,Asia,Poland,Europe,1995,0
+China,Asia,Austria,Europe,1995,780938
+China,Asia,Hungary,Europe,1995,0
+China,Asia,Czech Republic,Europe,1995,31802
+China,Asia,Slovakia,Europe,1995,0
+China,Asia,Italy,Europe,1995,0
+China,Asia,Croatia,Europe,1995,0
+China,Asia,Serbia,Europe,1995,0
+China,Asia,Bosnia,Europe,1995,0
+China,Asia,Greece,Europe,1995,0
+China,Asia,Bulgaria,Europe,1995,0
+China,Asia,Romania,Europe,1995,0
+China,Asia,Russia,Asia,1995,81956
+China,Asia,Ukraine,Europe,1995,0
+China,Asia,Finland,Europe,1995,434912
+China,Asia,Sweden,Europe,1995,0
+China,Asia,Norway,Europe,1995,14124
+China,Asia,Denmark,Europe,1995,0
+China,Asia,South Africa,Africa,1995,444566
+China,Asia,Turkey,Asia,1995,0
+China,Asia,Israel,Asia,1995,0
+China,Asia,United Arab Emirates,Asia,1995,0
+China,Asia,Taiwan,Asia,1995,0
+China,Asia,South Korea,Asia,1995,0
+China,Asia,Japan,Asia,1995,0
+China,Asia,India,Asia,1995,0
+China,Asia,Pakistan,Asia,1995,63782
+China,Asia,Thailand,Asia,1995,1050124
+China,Asia,Malaysia,Asia,1995,0
+China,Asia,Singapore,Asia,1995,0
+China,Asia,Philippines,Asia,1995,366616
+China,Asia,Indonesia,Asia,1995,0
+China,Asia,Australia,Oceania,1995,656058
+China,Asia,Cyprus,Europe,1995,0
+China,Asia,China,Asia,1995,0
+China,Asia,Ivory Coast,Africa,1995,0
+China,Asia,Congo,Africa,1995,0
+Ivory Coast,Africa,United States,North America,1995,0
+Ivory Coast,Africa,Canada,North America,1995,0
+Ivory Coast,Africa,Mexico,North America,1995,0
+Ivory Coast,Africa,Brazil,South America,1995,0
+Ivory Coast,Africa,Argentina,South America,1995,0
+Ivory Coast,Africa,United Kingdom,Europe,1995,0
+Ivory Coast,Africa,Netherlands,Europe,1995,0
+Ivory Coast,Africa,Belgium,Europe,1995,0
+Ivory Coast,Africa,France,Europe,1995,0
+Ivory Coast,Africa,Switzerland,Europe,1995,0
+Ivory Coast,Africa,Spain,Europe,1995,0
+Ivory Coast,Africa,Portugal,Europe,1995,0
+Ivory Coast,Africa,Germany,Europe,1995,0
+Ivory Coast,Africa,Poland,Europe,1995,0
+Ivory Coast,Africa,Austria,Europe,1995,0
+Ivory Coast,Africa,Hungary,Europe,1995,0
+Ivory Coast,Africa,Czech Republic,Europe,1995,0
+Ivory Coast,Africa,Slovakia,Europe,1995,0
+Ivory Coast,Africa,Italy,Europe,1995,0
+Ivory Coast,Africa,Croatia,Europe,1995,0
+Ivory Coast,Africa,Serbia,Europe,1995,0
+Ivory Coast,Africa,Bosnia,Europe,1995,0
+Ivory Coast,Africa,Greece,Europe,1995,0
+Ivory Coast,Africa,Bulgaria,Europe,1995,0
+Ivory Coast,Africa,Romania,Europe,1995,0
+Ivory Coast,Africa,Russia,Asia,1995,0
+Ivory Coast,Africa,Ukraine,Europe,1995,0
+Ivory Coast,Africa,Finland,Europe,1995,0
+Ivory Coast,Africa,Sweden,Europe,1995,0
+Ivory Coast,Africa,Norway,Europe,1995,0
+Ivory Coast,Africa,Denmark,Europe,1995,0
+Ivory Coast,Africa,South Africa,Africa,1995,0
+Ivory Coast,Africa,Turkey,Asia,1995,0
+Ivory Coast,Africa,Israel,Asia,1995,0
+Ivory Coast,Africa,United Arab Emirates,Asia,1995,0
+Ivory Coast,Africa,Taiwan,Asia,1995,0
+Ivory Coast,Africa,South Korea,Asia,1995,0
+Ivory Coast,Africa,Japan,Asia,1995,0
+Ivory Coast,Africa,India,Asia,1995,0
+Ivory Coast,Africa,Pakistan,Asia,1995,0
+Ivory Coast,Africa,Thailand,Asia,1995,0
+Ivory Coast,Africa,Malaysia,Asia,1995,0
+Ivory Coast,Africa,Singapore,Asia,1995,0
+Ivory Coast,Africa,Philippines,Asia,1995,0
+Ivory Coast,Africa,Indonesia,Asia,1995,0
+Ivory Coast,Africa,Australia,Oceania,1995,0
+Ivory Coast,Africa,Cyprus,Europe,1995,0
+Ivory Coast,Africa,China,Asia,1995,0
+Ivory Coast,Africa,Ivory Coast,Africa,1995,0
+Ivory Coast,Africa,Congo,Africa,1995,0
+Congo,Africa,United States,North America,1995,0
+Congo,Africa,Canada,North America,1995,0
+Congo,Africa,Mexico,North America,1995,0
+Congo,Africa,Brazil,South America,1995,0
+Congo,Africa,Argentina,South America,1995,0
+Congo,Africa,United Kingdom,Europe,1995,0
+Congo,Africa,Netherlands,Europe,1995,0
+Congo,Africa,Belgium,Europe,1995,0
+Congo,Africa,France,Europe,1995,0
+Congo,Africa,Switzerland,Europe,1995,0
+Congo,Africa,Spain,Europe,1995,0
+Congo,Africa,Portugal,Europe,1995,0
+Congo,Africa,Germany,Europe,1995,0
+Congo,Africa,Poland,Europe,1995,0
+Congo,Africa,Austria,Europe,1995,0
+Congo,Africa,Hungary,Europe,1995,0
+Congo,Africa,Czech Republic,Europe,1995,0
+Congo,Africa,Slovakia,Europe,1995,0
+Congo,Africa,Italy,Europe,1995,0
+Congo,Africa,Croatia,Europe,1995,0
+Congo,Africa,Serbia,Europe,1995,0
+Congo,Africa,Bosnia,Europe,1995,0
+Congo,Africa,Greece,Europe,1995,0
+Congo,Africa,Bulgaria,Europe,1995,0
+Congo,Africa,Romania,Europe,1995,0
+Congo,Africa,Russia,Asia,1995,0
+Congo,Africa,Ukraine,Europe,1995,0
+Congo,Africa,Finland,Europe,1995,0
+Congo,Africa,Sweden,Europe,1995,0
+Congo,Africa,Norway,Europe,1995,0
+Congo,Africa,Denmark,Europe,1995,0
+Congo,Africa,South Africa,Africa,1995,0
+Congo,Africa,Turkey,Asia,1995,0
+Congo,Africa,Israel,Asia,1995,0
+Congo,Africa,United Arab Emirates,Asia,1995,0
+Congo,Africa,Taiwan,Asia,1995,0
+Congo,Africa,South Korea,Asia,1995,0
+Congo,Africa,Japan,Asia,1995,0
+Congo,Africa,India,Asia,1995,0
+Congo,Africa,Pakistan,Asia,1995,0
+Congo,Africa,Thailand,Asia,1995,0
+Congo,Africa,Malaysia,Asia,1995,0
+Congo,Africa,Singapore,Asia,1995,0
+Congo,Africa,Philippines,Asia,1995,0
+Congo,Africa,Indonesia,Asia,1995,0
+Congo,Africa,Australia,Oceania,1995,0
+Congo,Africa,Cyprus,Europe,1995,0
+Congo,Africa,China,Asia,1995,0
+Congo,Africa,Ivory Coast,Africa,1995,0
+Congo,Africa,Congo,Africa,1995,0

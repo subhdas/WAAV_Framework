@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,1998,0
+United States,North America,Canada,North America,1998,43799803
+United States,North America,Mexico,North America,1998,6301473
+United States,North America,Brazil,South America,1998,10910448
+United States,North America,Argentina,South America,1998,4660194
+United States,North America,United Kingdom,Europe,1998,8245937
+United States,North America,Netherlands,Europe,1998,1579831
+United States,North America,Belgium,Europe,1998,17427676
+United States,North America,France,Europe,1998,6923930
+United States,North America,Switzerland,Europe,1998,4430762
+United States,North America,Spain,Europe,1998,3532522
+United States,North America,Portugal,Europe,1998,1249817
+United States,North America,Germany,Europe,1998,22896106
+United States,North America,Poland,Europe,1998,221865
+United States,North America,Austria,Europe,1998,918443
+United States,North America,Hungary,Europe,1998,315616
+United States,North America,Czech Republic,Europe,1998,745391
+United States,North America,Slovakia,Europe,1998,91292
+United States,North America,Italy,Europe,1998,3614172
+United States,North America,Croatia,Europe,1998,7155
+United States,North America,Serbia,Europe,1998,0
+United States,North America,Bosnia,Europe,1998,0
+United States,North America,Greece,Europe,1998,2008324
+United States,North America,Bulgaria,Europe,1998,128045
+United States,North America,Romania,Europe,1998,27824
+United States,North America,Russia,Asia,1998,371930
+United States,North America,Ukraine,Europe,1998,224138
+United States,North America,Finland,Europe,1998,736864
+United States,North America,Sweden,Europe,1998,2555072
+United States,North America,Norway,Europe,1998,3201803
+United States,North America,Denmark,Europe,1998,2074558
+United States,North America,South Africa,Africa,1998,9493802
+United States,North America,Turkey,Asia,1998,4809146
+United States,North America,Israel,Asia,1998,24006528
+United States,North America,United Arab Emirates,Asia,1998,1564592
+United States,North America,Taiwan,Asia,1998,5134950
+United States,North America,South Korea,Asia,1998,1595024
+United States,North America,Japan,Asia,1998,2690200
+United States,North America,India,Asia,1998,831799
+United States,North America,Pakistan,Asia,1998,53603
+United States,North America,Thailand,Asia,1998,8908182
+United States,North America,Malaysia,Asia,1998,386800
+United States,North America,Singapore,Asia,1998,1118554
+United States,North America,Philippines,Asia,1998,6417979
+United States,North America,Indonesia,Asia,1998,62217
+United States,North America,Australia,Oceania,1998,13532651
+United States,North America,Cyprus,Europe,1998,65592
+United States,North America,China,Asia,1998,79432
+United States,North America,Ivory Coast,Africa,1998,0
+United States,North America,Congo,Africa,1998,0
+Canada,North America,United States,North America,1998,23136425
+Canada,North America,Canada,North America,1998,0
+Canada,North America,Mexico,North America,1998,1203489
+Canada,North America,Brazil,South America,1998,1340542
+Canada,North America,Argentina,South America,1998,170790
+Canada,North America,United Kingdom,Europe,1998,858515
+Canada,North America,Netherlands,Europe,1998,1836812
+Canada,North America,Belgium,Europe,1998,105834
+Canada,North America,France,Europe,1998,1375076
+Canada,North America,Switzerland,Europe,1998,866558
+Canada,North America,Spain,Europe,1998,42126
+Canada,North America,Portugal,Europe,1998,50484
+Canada,North America,Germany,Europe,1998,827490
+Canada,North America,Poland,Europe,1998,5568
+Canada,North America,Austria,Europe,1998,7399
+Canada,North America,Hungary,Europe,1998,31927
+Canada,North America,Czech Republic,Europe,1998,50694
+Canada,North America,Slovakia,Europe,1998,4356
+Canada,North America,Italy,Europe,1998,373141
+Canada,North America,Croatia,Europe,1998,1283
+Canada,North America,Serbia,Europe,1998,0
+Canada,North America,Bosnia,Europe,1998,0
+Canada,North America,Greece,Europe,1998,14571
+Canada,North America,Bulgaria,Europe,1998,0
+Canada,North America,Romania,Europe,1998,0
+Canada,North America,Russia,Asia,1998,0
+Canada,North America,Ukraine,Europe,1998,0
+Canada,North America,Finland,Europe,1998,55995
+Canada,North America,Sweden,Europe,1998,41224
+Canada,North America,Norway,Europe,1998,593736
+Canada,North America,Denmark,Europe,1998,5673145
+Canada,North America,South Africa,Africa,1998,13112
+Canada,North America,Turkey,Asia,1998,0
+Canada,North America,Israel,Asia,1998,16417
+Canada,North America,United Arab Emirates,Asia,1998,168250
+Canada,North America,Taiwan,Asia,1998,0
+Canada,North America,South Korea,Asia,1998,0
+Canada,North America,Japan,Asia,1998,14693
+Canada,North America,India,Asia,1998,21926
+Canada,North America,Pakistan,Asia,1998,0
+Canada,North America,Thailand,Asia,1998,108906
+Canada,North America,Malaysia,Asia,1998,0
+Canada,North America,Singapore,Asia,1998,110709
+Canada,North America,Philippines,Asia,1998,1270
+Canada,North America,Indonesia,Asia,1998,0
+Canada,North America,Australia,Oceania,1998,853714
+Canada,North America,Cyprus,Europe,1998,794
+Canada,North America,China,Asia,1998,146229
+Canada,North America,Ivory Coast,Africa,1998,0
+Canada,North America,Congo,Africa,1998,0
+Mexico,North America,United States,North America,1998,6474014
+Mexico,North America,Canada,North America,1998,37738
+Mexico,North America,Mexico,North America,1998,0
+Mexico,North America,Brazil,South America,1998,0
+Mexico,North America,Argentina,South America,1998,668037
+Mexico,North America,United Kingdom,Europe,1998,14122
+Mexico,North America,Netherlands,Europe,1998,0
+Mexico,North America,Belgium,Europe,1998,221001
+Mexico,North America,France,Europe,1998,463241
+Mexico,North America,Switzerland,Europe,1998,0
+Mexico,North America,Spain,Europe,1998,404910
+Mexico,North America,Portugal,Europe,1998,0
+Mexico,North America,Germany,Europe,1998,166563
+Mexico,North America,Poland,Europe,1998,0
+Mexico,North America,Austria,Europe,1998,226495
+Mexico,North America,Hungary,Europe,1998,0
+Mexico,North America,Czech Republic,Europe,1998,140790
+Mexico,North America,Slovakia,Europe,1998,0
+Mexico,North America,Italy,Europe,1998,0
+Mexico,North America,Croatia,Europe,1998,0
+Mexico,North America,Serbia,Europe,1998,0
+Mexico,North America,Bosnia,Europe,1998,0
+Mexico,North America,Greece,Europe,1998,0
+Mexico,North America,Bulgaria,Europe,1998,0
+Mexico,North America,Romania,Europe,1998,0
+Mexico,North America,Russia,Asia,1998,0
+Mexico,North America,Ukraine,Europe,1998,0
+Mexico,North America,Finland,Europe,1998,0
+Mexico,North America,Sweden,Europe,1998,0
+Mexico,North America,Norway,Europe,1998,0
+Mexico,North America,Denmark,Europe,1998,0
+Mexico,North America,South Africa,Africa,1998,0
+Mexico,North America,Turkey,Asia,1998,0
+Mexico,North America,Israel,Asia,1998,0
+Mexico,North America,United Arab Emirates,Asia,1998,0
+Mexico,North America,Taiwan,Asia,1998,0
+Mexico,North America,South Korea,Asia,1998,0
+Mexico,North America,Japan,Asia,1998,0
+Mexico,North America,India,Asia,1998,0
+Mexico,North America,Pakistan,Asia,1998,0
+Mexico,North America,Thailand,Asia,1998,0
+Mexico,North America,Malaysia,Asia,1998,0
+Mexico,North America,Singapore,Asia,1998,0
+Mexico,North America,Philippines,Asia,1998,0
+Mexico,North America,Indonesia,Asia,1998,0
+Mexico,North America,Australia,Oceania,1998,0
+Mexico,North America,Cyprus,Europe,1998,0
+Mexico,North America,China,Asia,1998,85184
+Mexico,North America,Ivory Coast,Africa,1998,0
+Mexico,North America,Congo,Africa,1998,0
+Brazil,South America,United States,North America,1998,37300212
+Brazil,South America,Canada,North America,1998,44131
+Brazil,South America,Mexico,North America,1998,630101
+Brazil,South America,Brazil,South America,1998,0
+Brazil,South America,Argentina,South America,1998,6163791
+Brazil,South America,United Kingdom,Europe,1998,516715
+Brazil,South America,Netherlands,Europe,1998,156029
+Brazil,South America,Belgium,Europe,1998,3736652
+Brazil,South America,France,Europe,1998,196845
+Brazil,South America,Switzerland,Europe,1998,543351
+Brazil,South America,Spain,Europe,1998,100832
+Brazil,South America,Portugal,Europe,1998,243781
+Brazil,South America,Germany,Europe,1998,3198002
+Brazil,South America,Poland,Europe,1998,76263
+Brazil,South America,Austria,Europe,1998,19109
+Brazil,South America,Hungary,Europe,1998,5298
+Brazil,South America,Czech Republic,Europe,1998,179917
+Brazil,South America,Slovakia,Europe,1998,18564
+Brazil,South America,Italy,Europe,1998,22542
+Brazil,South America,Croatia,Europe,1998,44311
+Brazil,South America,Serbia,Europe,1998,0
+Brazil,South America,Bosnia,Europe,1998,0
+Brazil,South America,Greece,Europe,1998,125880
+Brazil,South America,Bulgaria,Europe,1998,20927
+Brazil,South America,Romania,Europe,1998,0
+Brazil,South America,Russia,Asia,1998,0
+Brazil,South America,Ukraine,Europe,1998,0
+Brazil,South America,Finland,Europe,1998,168200
+Brazil,South America,Sweden,Europe,1998,186859
+Brazil,South America,Norway,Europe,1998,710110
+Brazil,South America,Denmark,Europe,1998,8939
+Brazil,South America,South Africa,Africa,1998,2117451
+Brazil,South America,Turkey,Asia,1998,31640
+Brazil,South America,Israel,Asia,1998,2284
+Brazil,South America,United Arab Emirates,Asia,1998,53042
+Brazil,South America,Taiwan,Asia,1998,0
+Brazil,South America,South Korea,Asia,1998,0
+Brazil,South America,Japan,Asia,1998,0
+Brazil,South America,India,Asia,1998,0
+Brazil,South America,Pakistan,Asia,1998,6148
+Brazil,South America,Thailand,Asia,1998,447548
+Brazil,South America,Malaysia,Asia,1998,5409
+Brazil,South America,Singapore,Asia,1998,150800
+Brazil,South America,Philippines,Asia,1998,2043598
+Brazil,South America,Indonesia,Asia,1998,32632
+Brazil,South America,Australia,Oceania,1998,69423
+Brazil,South America,Cyprus,Europe,1998,143072
+Brazil,South America,China,Asia,1998,0
+Brazil,South America,Ivory Coast,Africa,1998,0
+Brazil,South America,Congo,Africa,1998,0
+Argentina,South America,United States,North America,1998,2750625
+Argentina,South America,Canada,North America,1998,0
+Argentina,South America,Mexico,North America,1998,0
+Argentina,South America,Brazil,South America,1998,209045
+Argentina,South America,Argentina,South America,1998,0
+Argentina,South America,United Kingdom,Europe,1998,0
+Argentina,South America,Netherlands,Europe,1998,0
+Argentina,South America,Belgium,Europe,1998,0
+Argentina,South America,France,Europe,1998,14415
+Argentina,South America,Switzerland,Europe,1998,0
+Argentina,South America,Spain,Europe,1998,0
+Argentina,South America,Portugal,Europe,1998,0
+Argentina,South America,Germany,Europe,1998,1324
+Argentina,South America,Poland,Europe,1998,27396
+Argentina,South America,Austria,Europe,1998,0
+Argentina,South America,Hungary,Europe,1998,0
+Argentina,South America,Czech Republic,Europe,1998,43775
+Argentina,South America,Slovakia,Europe,1998,0
+Argentina,South America,Italy,Europe,1998,0
+Argentina,South America,Croatia,Europe,1998,0
+Argentina,South America,Serbia,Europe,1998,0
+Argentina,South America,Bosnia,Europe,1998,0
+Argentina,South America,Greece,Europe,1998,1250
+Argentina,South America,Bulgaria,Europe,1998,0
+Argentina,South America,Romania,Europe,1998,0
+Argentina,South America,Russia,Asia,1998,0
+Argentina,South America,Ukraine,Europe,1998,0
+Argentina,South America,Finland,Europe,1998,0
+Argentina,South America,Sweden,Europe,1998,0
+Argentina,South America,Norway,Europe,1998,0
+Argentina,South America,Denmark,Europe,1998,0
+Argentina,South America,South Africa,Africa,1998,0
+Argentina,South America,Turkey,Asia,1998,0
+Argentina,South America,Israel,Asia,1998,0
+Argentina,South America,United Arab Emirates,Asia,1998,0
+Argentina,South America,Taiwan,Asia,1998,0
+Argentina,South America,South Korea,Asia,1998,0
+Argentina,South America,Japan,Asia,1998,0
+Argentina,South America,India,Asia,1998,0
+Argentina,South America,Pakistan,Asia,1998,0
+Argentina,South America,Thailand,Asia,1998,0
+Argentina,South America,Malaysia,Asia,1998,0
+Argentina,South America,Singapore,Asia,1998,0
+Argentina,South America,Philippines,Asia,1998,20861
+Argentina,South America,Indonesia,Asia,1998,0
+Argentina,South America,Australia,Oceania,1998,0
+Argentina,South America,Cyprus,Europe,1998,0
+Argentina,South America,China,Asia,1998,0
+Argentina,South America,Ivory Coast,Africa,1998,0
+Argentina,South America,Congo,Africa,1998,0
+United Kingdom,Europe,United States,North America,1998,10693869
+United Kingdom,Europe,Canada,North America,1998,652629
+United Kingdom,Europe,Mexico,North America,1998,0
+United Kingdom,Europe,Brazil,South America,1998,358371
+United Kingdom,Europe,Argentina,South America,1998,118519
+United Kingdom,Europe,United Kingdom,Europe,1998,0
+United Kingdom,Europe,Netherlands,Europe,1998,785085
+United Kingdom,Europe,Belgium,Europe,1998,1879364
+United Kingdom,Europe,France,Europe,1998,1734774
+United Kingdom,Europe,Switzerland,Europe,1998,1951991
+United Kingdom,Europe,Spain,Europe,1998,302227
+United Kingdom,Europe,Portugal,Europe,1998,53766
+United Kingdom,Europe,Germany,Europe,1998,3332261
+United Kingdom,Europe,Poland,Europe,1998,185165
+United Kingdom,Europe,Austria,Europe,1998,258996
+United Kingdom,Europe,Hungary,Europe,1998,0
+United Kingdom,Europe,Czech Republic,Europe,1998,69904
+United Kingdom,Europe,Slovakia,Europe,1998,0
+United Kingdom,Europe,Italy,Europe,1998,1903788
+United Kingdom,Europe,Croatia,Europe,1998,0
+United Kingdom,Europe,Serbia,Europe,1998,0
+United Kingdom,Europe,Bosnia,Europe,1998,0
+United Kingdom,Europe,Greece,Europe,1998,43381
+United Kingdom,Europe,Bulgaria,Europe,1998,0
+United Kingdom,Europe,Romania,Europe,1998,0
+United Kingdom,Europe,Russia,Asia,1998,363525
+United Kingdom,Europe,Ukraine,Europe,1998,110487
+United Kingdom,Europe,Finland,Europe,1998,332716
+United Kingdom,Europe,Sweden,Europe,1998,1815276
+United Kingdom,Europe,Norway,Europe,1998,725517
+United Kingdom,Europe,Denmark,Europe,1998,4245907
+United Kingdom,Europe,South Africa,Africa,1998,322534
+United Kingdom,Europe,Turkey,Asia,1998,189961
+United Kingdom,Europe,Israel,Asia,1998,115098
+United Kingdom,Europe,United Arab Emirates,Asia,1998,2719300
+United Kingdom,Europe,Taiwan,Asia,1998,10327
+United Kingdom,Europe,South Korea,Asia,1998,266241
+United Kingdom,Europe,Japan,Asia,1998,945671
+United Kingdom,Europe,India,Asia,1998,375997
+United Kingdom,Europe,Pakistan,Asia,1998,24358
+United Kingdom,Europe,Thailand,Asia,1998,221370
+United Kingdom,Europe,Malaysia,Asia,1998,173568
+United Kingdom,Europe,Singapore,Asia,1998,253837
+United Kingdom,Europe,Philippines,Asia,1998,279243
+United Kingdom,Europe,Indonesia,Asia,1998,190374
+United Kingdom,Europe,Australia,Oceania,1998,186778
+United Kingdom,Europe,Cyprus,Europe,1998,4338351
+United Kingdom,Europe,China,Asia,1998,3302
+United Kingdom,Europe,Ivory Coast,Africa,1998,0
+United Kingdom,Europe,Congo,Africa,1998,0
+Netherlands,Europe,United States,North America,1998,0
+Netherlands,Europe,Canada,North America,1998,0
+Netherlands,Europe,Mexico,North America,1998,0
+Netherlands,Europe,Brazil,South America,1998,0
+Netherlands,Europe,Argentina,South America,1998,0
+Netherlands,Europe,United Kingdom,Europe,1998,0
+Netherlands,Europe,Netherlands,Europe,1998,2219
+Netherlands,Europe,Belgium,Europe,1998,47812
+Netherlands,Europe,France,Europe,1998,6522
+Netherlands,Europe,Switzerland,Europe,1998,356398
+Netherlands,Europe,Spain,Europe,1998,26072
+Netherlands,Europe,Portugal,Europe,1998,409728
+Netherlands,Europe,Germany,Europe,1998,3161677
+Netherlands,Europe,Poland,Europe,1998,0
+Netherlands,Europe,Austria,Europe,1998,5361
+Netherlands,Europe,Hungary,Europe,1998,25416
+Netherlands,Europe,Czech Republic,Europe,1998,0
+Netherlands,Europe,Slovakia,Europe,1998,0
+Netherlands,Europe,Italy,Europe,1998,45709
+Netherlands,Europe,Croatia,Europe,1998,0
+Netherlands,Europe,Serbia,Europe,1998,0
+Netherlands,Europe,Bosnia,Europe,1998,0
+Netherlands,Europe,Greece,Europe,1998,13611
+Netherlands,Europe,Bulgaria,Europe,1998,0
+Netherlands,Europe,Romania,Europe,1998,0
+Netherlands,Europe,Russia,Asia,1998,0
+Netherlands,Europe,Ukraine,Europe,1998,0
+Netherlands,Europe,Finland,Europe,1998,0
+Netherlands,Europe,Sweden,Europe,1998,6018
+Netherlands,Europe,Norway,Europe,1998,1511271
+Netherlands,Europe,Denmark,Europe,1998,156206
+Netherlands,Europe,South Africa,Africa,1998,0
+Netherlands,Europe,Turkey,Asia,1998,0
+Netherlands,Europe,Israel,Asia,1998,0
+Netherlands,Europe,United Arab Emirates,Asia,1998,0
+Netherlands,Europe,Taiwan,Asia,1998,12707
+Netherlands,Europe,South Korea,Asia,1998,0
+Netherlands,Europe,Japan,Asia,1998,0
+Netherlands,Europe,India,Asia,1998,2683
+Netherlands,Europe,Pakistan,Asia,1998,0
+Netherlands,Europe,Thailand,Asia,1998,0
+Netherlands,Europe,Malaysia,Asia,1998,0
+Netherlands,Europe,Singapore,Asia,1998,0
+Netherlands,Europe,Philippines,Asia,1998,0
+Netherlands,Europe,Indonesia,Asia,1998,0
+Netherlands,Europe,Australia,Oceania,1998,0
+Netherlands,Europe,Cyprus,Europe,1998,1025
+Netherlands,Europe,China,Asia,1998,0
+Netherlands,Europe,Ivory Coast,Africa,1998,0
+Netherlands,Europe,Congo,Africa,1998,0
+Belgium,Europe,United States,North America,1998,7726485
+Belgium,Europe,Canada,North America,1998,422656
+Belgium,Europe,Mexico,North America,1998,585478
+Belgium,Europe,Brazil,South America,1998,0
+Belgium,Europe,Argentina,South America,1998,2123
+Belgium,Europe,United Kingdom,Europe,1998,7081423
+Belgium,Europe,Netherlands,Europe,1998,1538015
+Belgium,Europe,Belgium,Europe,1998,0
+Belgium,Europe,France,Europe,1998,19384854
+Belgium,Europe,Switzerland,Europe,1998,992641
+Belgium,Europe,Spain,Europe,1998,2784836
+Belgium,Europe,Portugal,Europe,1998,1103392
+Belgium,Europe,Germany,Europe,1998,8694437
+Belgium,Europe,Poland,Europe,1998,0
+Belgium,Europe,Austria,Europe,1998,1549687
+Belgium,Europe,Hungary,Europe,1998,121762
+Belgium,Europe,Czech Republic,Europe,1998,105301
+Belgium,Europe,Slovakia,Europe,1998,11247
+Belgium,Europe,Italy,Europe,1998,3076525
+Belgium,Europe,Croatia,Europe,1998,0
+Belgium,Europe,Serbia,Europe,1998,0
+Belgium,Europe,Bosnia,Europe,1998,0
+Belgium,Europe,Greece,Europe,1998,737819
+Belgium,Europe,Bulgaria,Europe,1998,0
+Belgium,Europe,Romania,Europe,1998,6830
+Belgium,Europe,Russia,Asia,1998,620921
+Belgium,Europe,Ukraine,Europe,1998,5698
+Belgium,Europe,Finland,Europe,1998,908508
+Belgium,Europe,Sweden,Europe,1998,691228
+Belgium,Europe,Norway,Europe,1998,5763711
+Belgium,Europe,Denmark,Europe,1998,1535626
+Belgium,Europe,South Africa,Africa,1998,0
+Belgium,Europe,Turkey,Asia,1998,865680
+Belgium,Europe,Israel,Asia,1998,0
+Belgium,Europe,United Arab Emirates,Asia,1998,19232
+Belgium,Europe,Taiwan,Asia,1998,76038
+Belgium,Europe,South Korea,Asia,1998,38589
+Belgium,Europe,Japan,Asia,1998,442052
+Belgium,Europe,India,Asia,1998,0
+Belgium,Europe,Pakistan,Asia,1998,0
+Belgium,Europe,Thailand,Asia,1998,723970
+Belgium,Europe,Malaysia,Asia,1998,8095
+Belgium,Europe,Singapore,Asia,1998,0
+Belgium,Europe,Philippines,Asia,1998,517317
+Belgium,Europe,Indonesia,Asia,1998,0
+Belgium,Europe,Australia,Oceania,1998,219173
+Belgium,Europe,Cyprus,Europe,1998,37531
+Belgium,Europe,China,Asia,1998,0
+Belgium,Europe,Ivory Coast,Africa,1998,0
+Belgium,Europe,Congo,Africa,1998,0
+France,Europe,United States,North America,1998,6577753
+France,Europe,Canada,North America,1998,650365
+France,Europe,Mexico,North America,1998,0
+France,Europe,Brazil,South America,1998,549015
+France,Europe,Argentina,South America,1998,786
+France,Europe,United Kingdom,Europe,1998,481016
+France,Europe,Netherlands,Europe,1998,8757
+France,Europe,Belgium,Europe,1998,656683
+France,Europe,France,Europe,1998,0
+France,Europe,Switzerland,Europe,1998,561692
+France,Europe,Spain,Europe,1998,449572
+France,Europe,Portugal,Europe,1998,56008
+France,Europe,Germany,Europe,1998,915646
+France,Europe,Poland,Europe,1998,0
+France,Europe,Austria,Europe,1998,984182
+France,Europe,Hungary,Europe,1998,2649
+France,Europe,Czech Republic,Europe,1998,34369
+France,Europe,Slovakia,Europe,1998,18221
+France,Europe,Italy,Europe,1998,263734
+France,Europe,Croatia,Europe,1998,7198
+France,Europe,Serbia,Europe,1998,0
+France,Europe,Bosnia,Europe,1998,0
+France,Europe,Greece,Europe,1998,513535
+France,Europe,Bulgaria,Europe,1998,23170
+France,Europe,Romania,Europe,1998,0
+France,Europe,Russia,Asia,1998,886138
+France,Europe,Ukraine,Europe,1998,906645
+France,Europe,Finland,Europe,1998,30292
+France,Europe,Sweden,Europe,1998,70698
+France,Europe,Norway,Europe,1998,1179188
+France,Europe,Denmark,Europe,1998,14819
+France,Europe,South Africa,Africa,1998,13047
+France,Europe,Turkey,Asia,1998,3218393
+France,Europe,Israel,Asia,1998,0
+France,Europe,United Arab Emirates,Asia,1998,105510
+France,Europe,Taiwan,Asia,1998,0
+France,Europe,South Korea,Asia,1998,153883
+France,Europe,Japan,Asia,1998,157768
+France,Europe,India,Asia,1998,220948
+France,Europe,Pakistan,Asia,1998,0
+France,Europe,Thailand,Asia,1998,50701
+France,Europe,Malaysia,Asia,1998,33394
+France,Europe,Singapore,Asia,1998,0
+France,Europe,Philippines,Asia,1998,0
+France,Europe,Indonesia,Asia,1998,72769
+France,Europe,Australia,Oceania,1998,37555
+France,Europe,Cyprus,Europe,1998,72663
+France,Europe,China,Asia,1998,0
+France,Europe,Ivory Coast,Africa,1998,2508692
+France,Europe,Congo,Africa,1998,7873
+Switzerland,Europe,United States,North America,1998,2997358
+Switzerland,Europe,Canada,North America,1998,279182
+Switzerland,Europe,Mexico,North America,1998,0
+Switzerland,Europe,Brazil,South America,1998,3925
+Switzerland,Europe,Argentina,South America,1998,21529
+Switzerland,Europe,United Kingdom,Europe,1998,267450
+Switzerland,Europe,Netherlands,Europe,1998,919236
+Switzerland,Europe,Belgium,Europe,1998,184845
+Switzerland,Europe,France,Europe,1998,260474
+Switzerland,Europe,Switzerland,Europe,1998,0
+Switzerland,Europe,Spain,Europe,1998,272591
+Switzerland,Europe,Portugal,Europe,1998,469442
+Switzerland,Europe,Germany,Europe,1998,5933914
+Switzerland,Europe,Poland,Europe,1998,153825
+Switzerland,Europe,Austria,Europe,1998,1628614
+Switzerland,Europe,Hungary,Europe,1998,0
+Switzerland,Europe,Czech Republic,Europe,1998,238328
+Switzerland,Europe,Slovakia,Europe,1998,37683
+Switzerland,Europe,Italy,Europe,1998,686343
+Switzerland,Europe,Croatia,Europe,1998,0
+Switzerland,Europe,Serbia,Europe,1998,6283
+Switzerland,Europe,Bosnia,Europe,1998,0
+Switzerland,Europe,Greece,Europe,1998,28128
+Switzerland,Europe,Bulgaria,Europe,1998,1299
+Switzerland,Europe,Romania,Europe,1998,2360622
+Switzerland,Europe,Russia,Asia,1998,12299
+Switzerland,Europe,Ukraine,Europe,1998,165924
+Switzerland,Europe,Finland,Europe,1998,57302
+Switzerland,Europe,Sweden,Europe,1998,277560
+Switzerland,Europe,Norway,Europe,1998,197780
+Switzerland,Europe,Denmark,Europe,1998,1027394
+Switzerland,Europe,South Africa,Africa,1998,421017
+Switzerland,Europe,Turkey,Asia,1998,259235
+Switzerland,Europe,Israel,Asia,1998,83455
+Switzerland,Europe,United Arab Emirates,Asia,1998,1153292
+Switzerland,Europe,Taiwan,Asia,1998,3282
+Switzerland,Europe,South Korea,Asia,1998,9568
+Switzerland,Europe,Japan,Asia,1998,93541
+Switzerland,Europe,India,Asia,1998,13996
+Switzerland,Europe,Pakistan,Asia,1998,0
+Switzerland,Europe,Thailand,Asia,1998,30497
+Switzerland,Europe,Malaysia,Asia,1998,3362358
+Switzerland,Europe,Singapore,Asia,1998,2071958
+Switzerland,Europe,Philippines,Asia,1998,0
+Switzerland,Europe,Indonesia,Asia,1998,0
+Switzerland,Europe,Australia,Oceania,1998,95026
+Switzerland,Europe,Cyprus,Europe,1998,3817
+Switzerland,Europe,China,Asia,1998,71525
+Switzerland,Europe,Ivory Coast,Africa,1998,3442
+Switzerland,Europe,Congo,Africa,1998,0
+Spain,Europe,United States,North America,1998,8229370
+Spain,Europe,Canada,North America,1998,107196
+Spain,Europe,Mexico,North America,1998,79578
+Spain,Europe,Brazil,South America,1998,6276
+Spain,Europe,Argentina,South America,1998,1747449
+Spain,Europe,United Kingdom,Europe,1998,1726056
+Spain,Europe,Netherlands,Europe,1998,122829
+Spain,Europe,Belgium,Europe,1998,456466
+Spain,Europe,France,Europe,1998,4899855
+Spain,Europe,Switzerland,Europe,1998,184843
+Spain,Europe,Spain,Europe,1998,0
+Spain,Europe,Portugal,Europe,1998,1869370
+Spain,Europe,Germany,Europe,1998,700793
+Spain,Europe,Poland,Europe,1998,4490
+Spain,Europe,Austria,Europe,1998,1035332
+Spain,Europe,Hungary,Europe,1998,18322
+Spain,Europe,Czech Republic,Europe,1998,123641
+Spain,Europe,Slovakia,Europe,1998,23008
+Spain,Europe,Italy,Europe,1998,516594
+Spain,Europe,Croatia,Europe,1998,15889
+Spain,Europe,Serbia,Europe,1998,0
+Spain,Europe,Bosnia,Europe,1998,0
+Spain,Europe,Greece,Europe,1998,494241
+Spain,Europe,Bulgaria,Europe,1998,490080
+Spain,Europe,Romania,Europe,1998,0
+Spain,Europe,Russia,Asia,1998,772028
+Spain,Europe,Ukraine,Europe,1998,184703
+Spain,Europe,Finland,Europe,1998,301549
+Spain,Europe,Sweden,Europe,1998,149443
+Spain,Europe,Norway,Europe,1998,453205
+Spain,Europe,Denmark,Europe,1998,1860803
+Spain,Europe,South Africa,Africa,1998,306046
+Spain,Europe,Turkey,Asia,1998,5753499
+Spain,Europe,Israel,Asia,1998,62034
+Spain,Europe,United Arab Emirates,Asia,1998,0
+Spain,Europe,Taiwan,Asia,1998,0
+Spain,Europe,South Korea,Asia,1998,129846
+Spain,Europe,Japan,Asia,1998,3568569
+Spain,Europe,India,Asia,1998,0
+Spain,Europe,Pakistan,Asia,1998,0
+Spain,Europe,Thailand,Asia,1998,30150
+Spain,Europe,Malaysia,Asia,1998,1960
+Spain,Europe,Singapore,Asia,1998,0
+Spain,Europe,Philippines,Asia,1998,889689
+Spain,Europe,Indonesia,Asia,1998,18057
+Spain,Europe,Australia,Oceania,1998,625009
+Spain,Europe,Cyprus,Europe,1998,320175
+Spain,Europe,China,Asia,1998,73715
+Spain,Europe,Ivory Coast,Africa,1998,0
+Spain,Europe,Congo,Africa,1998,0
+Portugal,Europe,United States,North America,1998,4415662
+Portugal,Europe,Canada,North America,1998,2488
+Portugal,Europe,Mexico,North America,1998,704705
+Portugal,Europe,Brazil,South America,1998,0
+Portugal,Europe,Argentina,South America,1998,0
+Portugal,Europe,United Kingdom,Europe,1998,49308
+Portugal,Europe,Netherlands,Europe,1998,0
+Portugal,Europe,Belgium,Europe,1998,10190577
+Portugal,Europe,France,Europe,1998,22717
+Portugal,Europe,Switzerland,Europe,1998,0
+Portugal,Europe,Spain,Europe,1998,821596
+Portugal,Europe,Portugal,Europe,1998,0
+Portugal,Europe,Germany,Europe,1998,18362
+Portugal,Europe,Poland,Europe,1998,0
+Portugal,Europe,Austria,Europe,1998,3646
+Portugal,Europe,Hungary,Europe,1998,0
+Portugal,Europe,Czech Republic,Europe,1998,0
+Portugal,Europe,Slovakia,Europe,1998,1614
+Portugal,Europe,Italy,Europe,1998,1106151
+Portugal,Europe,Croatia,Europe,1998,0
+Portugal,Europe,Serbia,Europe,1998,0
+Portugal,Europe,Bosnia,Europe,1998,0
+Portugal,Europe,Greece,Europe,1998,411764
+Portugal,Europe,Bulgaria,Europe,1998,0
+Portugal,Europe,Romania,Europe,1998,0
+Portugal,Europe,Russia,Asia,1998,17518
+Portugal,Europe,Ukraine,Europe,1998,27530
+Portugal,Europe,Finland,Europe,1998,142160
+Portugal,Europe,Sweden,Europe,1998,68254
+Portugal,Europe,Norway,Europe,1998,1467
+Portugal,Europe,Denmark,Europe,1998,324904
+Portugal,Europe,South Africa,Africa,1998,0
+Portugal,Europe,Turkey,Asia,1998,0
+Portugal,Europe,Israel,Asia,1998,0
+Portugal,Europe,United Arab Emirates,Asia,1998,0
+Portugal,Europe,Taiwan,Asia,1998,0
+Portugal,Europe,South Korea,Asia,1998,0
+Portugal,Europe,Japan,Asia,1998,96279
+Portugal,Europe,India,Asia,1998,0
+Portugal,Europe,Pakistan,Asia,1998,0
+Portugal,Europe,Thailand,Asia,1998,35837
+Portugal,Europe,Malaysia,Asia,1998,0
+Portugal,Europe,Singapore,Asia,1998,0
+Portugal,Europe,Philippines,Asia,1998,0
+Portugal,Europe,Indonesia,Asia,1998,0
+Portugal,Europe,Australia,Oceania,1998,0
+Portugal,Europe,Cyprus,Europe,1998,0
+Portugal,Europe,China,Asia,1998,0
+Portugal,Europe,Ivory Coast,Africa,1998,0
+Portugal,Europe,Congo,Africa,1998,0
+Germany,Europe,United States,North America,1998,38949204
+Germany,Europe,Canada,North America,1998,171897
+Germany,Europe,Mexico,North America,1998,119712
+Germany,Europe,Brazil,South America,1998,30489
+Germany,Europe,Argentina,South America,1998,680150
+Germany,Europe,United Kingdom,Europe,1998,3482201
+Germany,Europe,Netherlands,Europe,1998,4639842
+Germany,Europe,Belgium,Europe,1998,3176232
+Germany,Europe,France,Europe,1998,18911708
+Germany,Europe,Switzerland,Europe,1998,11798955
+Germany,Europe,Spain,Europe,1998,5123052
+Germany,Europe,Portugal,Europe,1998,1075186
+Germany,Europe,Germany,Europe,1998,0
+Germany,Europe,Poland,Europe,1998,858296
+Germany,Europe,Austria,Europe,1998,10575084
+Germany,Europe,Hungary,Europe,1998,1287446
+Germany,Europe,Czech Republic,Europe,1998,1630500
+Germany,Europe,Slovakia,Europe,1998,355081
+Germany,Europe,Italy,Europe,1998,6290689
+Germany,Europe,Croatia,Europe,1998,30761
+Germany,Europe,Serbia,Europe,1998,7946
+Germany,Europe,Bosnia,Europe,1998,0
+Germany,Europe,Greece,Europe,1998,1120554
+Germany,Europe,Bulgaria,Europe,1998,630476
+Germany,Europe,Romania,Europe,1998,213248
+Germany,Europe,Russia,Asia,1998,868759
+Germany,Europe,Ukraine,Europe,1998,633125
+Germany,Europe,Finland,Europe,1998,1224096
+Germany,Europe,Sweden,Europe,1998,2755031
+Germany,Europe,Norway,Europe,1998,2964490
+Germany,Europe,Denmark,Europe,1998,2455685
+Germany,Europe,South Africa,Africa,1998,932469
+Germany,Europe,Turkey,Asia,1998,2879146
+Germany,Europe,Israel,Asia,1998,409280
+Germany,Europe,United Arab Emirates,Asia,1998,687430
+Germany,Europe,Taiwan,Asia,1998,6622
+Germany,Europe,South Korea,Asia,1998,1109617
+Germany,Europe,Japan,Asia,1998,2296131
+Germany,Europe,India,Asia,1998,59603
+Germany,Europe,Pakistan,Asia,1998,62251
+Germany,Europe,Thailand,Asia,1998,997641
+Germany,Europe,Malaysia,Asia,1998,129196
+Germany,Europe,Singapore,Asia,1998,377148
+Germany,Europe,Philippines,Asia,1998,94041
+Germany,Europe,Indonesia,Asia,1998,132643
+Germany,Europe,Australia,Oceania,1998,392060
+Germany,Europe,Cyprus,Europe,1998,92318
+Germany,Europe,China,Asia,1998,144701
+Germany,Europe,Ivory Coast,Africa,1998,0
+Germany,Europe,Congo,Africa,1998,0
+Poland,Europe,United States,North America,1998,20401
+Poland,Europe,Canada,North America,1998,3058
+Poland,Europe,Mexico,North America,1998,0
+Poland,Europe,Brazil,South America,1998,0
+Poland,Europe,Argentina,South America,1998,0
+Poland,Europe,United Kingdom,Europe,1998,0
+Poland,Europe,Netherlands,Europe,1998,0
+Poland,Europe,Belgium,Europe,1998,0
+Poland,Europe,France,Europe,1998,674
+Poland,Europe,Switzerland,Europe,1998,0
+Poland,Europe,Spain,Europe,1998,0
+Poland,Europe,Portugal,Europe,1998,0
+Poland,Europe,Germany,Europe,1998,42384
+Poland,Europe,Poland,Europe,1998,0
+Poland,Europe,Austria,Europe,1998,0
+Poland,Europe,Hungary,Europe,1998,0
+Poland,Europe,Czech Republic,Europe,1998,5535
+Poland,Europe,Slovakia,Europe,1998,0
+Poland,Europe,Italy,Europe,1998,0
+Poland,Europe,Croatia,Europe,1998,0
+Poland,Europe,Serbia,Europe,1998,0
+Poland,Europe,Bosnia,Europe,1998,0
+Poland,Europe,Greece,Europe,1998,0
+Poland,Europe,Bulgaria,Europe,1998,0
+Poland,Europe,Romania,Europe,1998,0
+Poland,Europe,Russia,Asia,1998,7441
+Poland,Europe,Ukraine,Europe,1998,0
+Poland,Europe,Finland,Europe,1998,104638
+Poland,Europe,Sweden,Europe,1998,20342
+Poland,Europe,Norway,Europe,1998,0
+Poland,Europe,Denmark,Europe,1998,0
+Poland,Europe,South Africa,Africa,1998,0
+Poland,Europe,Turkey,Asia,1998,0
+Poland,Europe,Israel,Asia,1998,0
+Poland,Europe,United Arab Emirates,Asia,1998,0
+Poland,Europe,Taiwan,Asia,1998,0
+Poland,Europe,South Korea,Asia,1998,0
+Poland,Europe,Japan,Asia,1998,0
+Poland,Europe,India,Asia,1998,100083
+Poland,Europe,Pakistan,Asia,1998,0
+Poland,Europe,Thailand,Asia,1998,0
+Poland,Europe,Malaysia,Asia,1998,0
+Poland,Europe,Singapore,Asia,1998,0
+Poland,Europe,Philippines,Asia,1998,0
+Poland,Europe,Indonesia,Asia,1998,0
+Poland,Europe,Australia,Oceania,1998,0
+Poland,Europe,Cyprus,Europe,1998,0
+Poland,Europe,China,Asia,1998,0
+Poland,Europe,Ivory Coast,Africa,1998,0
+Poland,Europe,Congo,Africa,1998,0
+Austria,Europe,United States,North America,1998,52179335
+Austria,Europe,Canada,North America,1998,1005054
+Austria,Europe,Mexico,North America,1998,91011
+Austria,Europe,Brazil,South America,1998,488598
+Austria,Europe,Argentina,South America,1998,360841
+Austria,Europe,United Kingdom,Europe,1998,151833
+Austria,Europe,Netherlands,Europe,1998,97928
+Austria,Europe,Belgium,Europe,1998,110115
+Austria,Europe,France,Europe,1998,1732186
+Austria,Europe,Switzerland,Europe,1998,1968337
+Austria,Europe,Spain,Europe,1998,749507
+Austria,Europe,Portugal,Europe,1998,108165
+Austria,Europe,Germany,Europe,1998,12157901
+Austria,Europe,Poland,Europe,1998,600637
+Austria,Europe,Austria,Europe,1998,0
+Austria,Europe,Hungary,Europe,1998,286282
+Austria,Europe,Czech Republic,Europe,1998,413552
+Austria,Europe,Slovakia,Europe,1998,387461
+Austria,Europe,Italy,Europe,1998,1203378
+Austria,Europe,Croatia,Europe,1998,721911
+Austria,Europe,Serbia,Europe,1998,102740
+Austria,Europe,Bosnia,Europe,1998,136114
+Austria,Europe,Greece,Europe,1998,192806
+Austria,Europe,Bulgaria,Europe,1998,124959
+Austria,Europe,Romania,Europe,1998,34426
+Austria,Europe,Russia,Asia,1998,282753
+Austria,Europe,Ukraine,Europe,1998,65104
+Austria,Europe,Finland,Europe,1998,440381
+Austria,Europe,Sweden,Europe,1998,159834
+Austria,Europe,Norway,Europe,1998,303549
+Austria,Europe,Denmark,Europe,1998,262080
+Austria,Europe,South Africa,Africa,1998,428084
+Austria,Europe,Turkey,Asia,1998,0
+Austria,Europe,Israel,Asia,1998,0
+Austria,Europe,United Arab Emirates,Asia,1998,1086898
+Austria,Europe,Taiwan,Asia,1998,0
+Austria,Europe,South Korea,Asia,1998,3396
+Austria,Europe,Japan,Asia,1998,68109
+Austria,Europe,India,Asia,1998,246252
+Austria,Europe,Pakistan,Asia,1998,13192
+Austria,Europe,Thailand,Asia,1998,464860
+Austria,Europe,Malaysia,Asia,1998,48449
+Austria,Europe,Singapore,Asia,1998,199722
+Austria,Europe,Philippines,Asia,1998,356122
+Austria,Europe,Indonesia,Asia,1998,4075
+Austria,Europe,Australia,Oceania,1998,3020419
+Austria,Europe,Cyprus,Europe,1998,2094
+Austria,Europe,China,Asia,1998,34215
+Austria,Europe,Ivory Coast,Africa,1998,0
+Austria,Europe,Congo,Africa,1998,0
+Hungary,Europe,United States,North America,1998,2825692
+Hungary,Europe,Canada,North America,1998,28342
+Hungary,Europe,Mexico,North America,1998,0
+Hungary,Europe,Brazil,South America,1998,0
+Hungary,Europe,Argentina,South America,1998,1139
+Hungary,Europe,United Kingdom,Europe,1998,51621
+Hungary,Europe,Netherlands,Europe,1998,0
+Hungary,Europe,Belgium,Europe,1998,19328
+Hungary,Europe,France,Europe,1998,83894
+Hungary,Europe,Switzerland,Europe,1998,0
+Hungary,Europe,Spain,Europe,1998,0
+Hungary,Europe,Portugal,Europe,1998,0
+Hungary,Europe,Germany,Europe,1998,2931194
+Hungary,Europe,Poland,Europe,1998,305967
+Hungary,Europe,Austria,Europe,1998,436937
+Hungary,Europe,Hungary,Europe,1998,0
+Hungary,Europe,Czech Republic,Europe,1998,73424
+Hungary,Europe,Slovakia,Europe,1998,45595
+Hungary,Europe,Italy,Europe,1998,5298
+Hungary,Europe,Croatia,Europe,1998,0
+Hungary,Europe,Serbia,Europe,1998,2649
+Hungary,Europe,Bosnia,Europe,1998,0
+Hungary,Europe,Greece,Europe,1998,0
+Hungary,Europe,Bulgaria,Europe,1998,0
+Hungary,Europe,Romania,Europe,1998,222521
+Hungary,Europe,Russia,Asia,1998,0
+Hungary,Europe,Ukraine,Europe,1998,37086
+Hungary,Europe,Finland,Europe,1998,324688
+Hungary,Europe,Sweden,Europe,1998,0
+Hungary,Europe,Norway,Europe,1998,243714
+Hungary,Europe,Denmark,Europe,1998,0
+Hungary,Europe,South Africa,Africa,1998,0
+Hungary,Europe,Turkey,Asia,1998,0
+Hungary,Europe,Israel,Asia,1998,0
+Hungary,Europe,United Arab Emirates,Asia,1998,0
+Hungary,Europe,Taiwan,Asia,1998,0
+Hungary,Europe,South Korea,Asia,1998,0
+Hungary,Europe,Japan,Asia,1998,289093
+Hungary,Europe,India,Asia,1998,0
+Hungary,Europe,Pakistan,Asia,1998,0
+Hungary,Europe,Thailand,Asia,1998,1112
+Hungary,Europe,Malaysia,Asia,1998,0
+Hungary,Europe,Singapore,Asia,1998,0
+Hungary,Europe,Philippines,Asia,1998,171516
+Hungary,Europe,Indonesia,Asia,1998,0
+Hungary,Europe,Australia,Oceania,1998,50648
+Hungary,Europe,Cyprus,Europe,1998,0
+Hungary,Europe,China,Asia,1998,0
+Hungary,Europe,Ivory Coast,Africa,1998,0
+Hungary,Europe,Congo,Africa,1998,0
+Czech Republic,Europe,United States,North America,1998,12910050
+Czech Republic,Europe,Canada,North America,1998,45552
+Czech Republic,Europe,Mexico,North America,1998,657257
+Czech Republic,Europe,Brazil,South America,1998,46157
+Czech Republic,Europe,Argentina,South America,1998,386297
+Czech Republic,Europe,United Kingdom,Europe,1998,392841
+Czech Republic,Europe,Netherlands,Europe,1998,96348
+Czech Republic,Europe,Belgium,Europe,1998,408256
+Czech Republic,Europe,France,Europe,1998,2352448
+Czech Republic,Europe,Switzerland,Europe,1998,478034
+Czech Republic,Europe,Spain,Europe,1998,305074
+Czech Republic,Europe,Portugal,Europe,1998,241403
+Czech Republic,Europe,Germany,Europe,1998,8352892
+Czech Republic,Europe,Poland,Europe,1998,1758884
+Czech Republic,Europe,Austria,Europe,1998,479867
+Czech Republic,Europe,Hungary,Europe,1998,494514
+Czech Republic,Europe,Czech Republic,Europe,1998,0
+Czech Republic,Europe,Slovakia,Europe,1998,1838723
+Czech Republic,Europe,Italy,Europe,1998,436896
+Czech Republic,Europe,Croatia,Europe,1998,1346362
+Czech Republic,Europe,Serbia,Europe,1998,11920
+Czech Republic,Europe,Bosnia,Europe,1998,693900
+Czech Republic,Europe,Greece,Europe,1998,109951
+Czech Republic,Europe,Bulgaria,Europe,1998,2306323
+Czech Republic,Europe,Romania,Europe,1998,139722
+Czech Republic,Europe,Russia,Asia,1998,50892
+Czech Republic,Europe,Ukraine,Europe,1998,260359
+Czech Republic,Europe,Finland,Europe,1998,1567638
+Czech Republic,Europe,Sweden,Europe,1998,195673
+Czech Republic,Europe,Norway,Europe,1998,450316
+Czech Republic,Europe,Denmark,Europe,1998,138679
+Czech Republic,Europe,South Africa,Africa,1998,2211043
+Czech Republic,Europe,Turkey,Asia,1998,764717
+Czech Republic,Europe,Israel,Asia,1998,24189
+Czech Republic,Europe,United Arab Emirates,Asia,1998,0
+Czech Republic,Europe,Taiwan,Asia,1998,0
+Czech Republic,Europe,South Korea,Asia,1998,0
+Czech Republic,Europe,Japan,Asia,1998,0
+Czech Republic,Europe,India,Asia,1998,31613
+Czech Republic,Europe,Pakistan,Asia,1998,84510
+Czech Republic,Europe,Thailand,Asia,1998,2117148
+Czech Republic,Europe,Malaysia,Asia,1998,25206
+Czech Republic,Europe,Singapore,Asia,1998,0
+Czech Republic,Europe,Philippines,Asia,1998,754134
+Czech Republic,Europe,Indonesia,Asia,1998,9822
+Czech Republic,Europe,Australia,Oceania,1998,365171
+Czech Republic,Europe,Cyprus,Europe,1998,111095
+Czech Republic,Europe,China,Asia,1998,0
+Czech Republic,Europe,Ivory Coast,Africa,1998,0
+Czech Republic,Europe,Congo,Africa,1998,0
+Slovakia,Europe,United States,North America,1998,59258
+Slovakia,Europe,Canada,North America,1998,0
+Slovakia,Europe,Mexico,North America,1998,0
+Slovakia,Europe,Brazil,South America,1998,0
+Slovakia,Europe,Argentina,South America,1998,0
+Slovakia,Europe,United Kingdom,Europe,1998,0
+Slovakia,Europe,Netherlands,Europe,1998,0
+Slovakia,Europe,Belgium,Europe,1998,0
+Slovakia,Europe,France,Europe,1998,275528
+Slovakia,Europe,Switzerland,Europe,1998,0
+Slovakia,Europe,Spain,Europe,1998,0
+Slovakia,Europe,Portugal,Europe,1998,0
+Slovakia,Europe,Germany,Europe,1998,2649
+Slovakia,Europe,Poland,Europe,1998,0
+Slovakia,Europe,Austria,Europe,1998,1597
+Slovakia,Europe,Hungary,Europe,1998,119162
+Slovakia,Europe,Czech Republic,Europe,1998,180679
+Slovakia,Europe,Slovakia,Europe,1998,0
+Slovakia,Europe,Italy,Europe,1998,4023
+Slovakia,Europe,Croatia,Europe,1998,0
+Slovakia,Europe,Serbia,Europe,1998,0
+Slovakia,Europe,Bosnia,Europe,1998,0
+Slovakia,Europe,Greece,Europe,1998,0
+Slovakia,Europe,Bulgaria,Europe,1998,6376
+Slovakia,Europe,Romania,Europe,1998,0
+Slovakia,Europe,Russia,Asia,1998,0
+Slovakia,Europe,Ukraine,Europe,1998,0
+Slovakia,Europe,Finland,Europe,1998,0
+Slovakia,Europe,Sweden,Europe,1998,0
+Slovakia,Europe,Norway,Europe,1998,0
+Slovakia,Europe,Denmark,Europe,1998,0
+Slovakia,Europe,South Africa,Africa,1998,0
+Slovakia,Europe,Turkey,Asia,1998,0
+Slovakia,Europe,Israel,Asia,1998,0
+Slovakia,Europe,United Arab Emirates,Asia,1998,0
+Slovakia,Europe,Taiwan,Asia,1998,0
+Slovakia,Europe,South Korea,Asia,1998,0
+Slovakia,Europe,Japan,Asia,1998,0
+Slovakia,Europe,India,Asia,1998,0
+Slovakia,Europe,Pakistan,Asia,1998,0
+Slovakia,Europe,Thailand,Asia,1998,0
+Slovakia,Europe,Malaysia,Asia,1998,0
+Slovakia,Europe,Singapore,Asia,1998,0
+Slovakia,Europe,Philippines,Asia,1998,0
+Slovakia,Europe,Indonesia,Asia,1998,12009
+Slovakia,Europe,Australia,Oceania,1998,0
+Slovakia,Europe,Cyprus,Europe,1998,0
+Slovakia,Europe,China,Asia,1998,0
+Slovakia,Europe,Ivory Coast,Africa,1998,0
+Slovakia,Europe,Congo,Africa,1998,0
+Italy,Europe,United States,North America,1998,107242345
+Italy,Europe,Canada,North America,1998,506718
+Italy,Europe,Mexico,North America,1998,129356
+Italy,Europe,Brazil,South America,1998,53644
+Italy,Europe,Argentina,South America,1998,3973558
+Italy,Europe,United Kingdom,Europe,1998,13334259
+Italy,Europe,Netherlands,Europe,1998,790318
+Italy,Europe,Belgium,Europe,1998,13411430
+Italy,Europe,France,Europe,1998,36939143
+Italy,Europe,Switzerland,Europe,1998,2956149
+Italy,Europe,Spain,Europe,1998,14584770
+Italy,Europe,Portugal,Europe,1998,9014211
+Italy,Europe,Germany,Europe,1998,20971119
+Italy,Europe,Poland,Europe,1998,803519
+Italy,Europe,Austria,Europe,1998,3405413
+Italy,Europe,Hungary,Europe,1998,800319
+Italy,Europe,Czech Republic,Europe,1998,1248544
+Italy,Europe,Slovakia,Europe,1998,331384
+Italy,Europe,Italy,Europe,1998,0
+Italy,Europe,Croatia,Europe,1998,359770
+Italy,Europe,Serbia,Europe,1998,35761
+Italy,Europe,Bosnia,Europe,1998,42416
+Italy,Europe,Greece,Europe,1998,10520204
+Italy,Europe,Bulgaria,Europe,1998,1079107
+Italy,Europe,Romania,Europe,1998,251756
+Italy,Europe,Russia,Asia,1998,1293349
+Italy,Europe,Ukraine,Europe,1998,221244
+Italy,Europe,Finland,Europe,1998,3871360
+Italy,Europe,Sweden,Europe,1998,4693685
+Italy,Europe,Norway,Europe,1998,7254453
+Italy,Europe,Denmark,Europe,1998,1736165
+Italy,Europe,South Africa,Africa,1998,367187
+Italy,Europe,Turkey,Asia,1998,29845951
+Italy,Europe,Israel,Asia,1998,236635
+Italy,Europe,United Arab Emirates,Asia,1998,511962
+Italy,Europe,Taiwan,Asia,1998,114586
+Italy,Europe,South Korea,Asia,1998,235711
+Italy,Europe,Japan,Asia,1998,11269225
+Italy,Europe,India,Asia,1998,84442
+Italy,Europe,Pakistan,Asia,1998,146943
+Italy,Europe,Thailand,Asia,1998,1781431
+Italy,Europe,Malaysia,Asia,1998,184661
+Italy,Europe,Singapore,Asia,1998,74545
+Italy,Europe,Philippines,Asia,1998,10329761
+Italy,Europe,Indonesia,Asia,1998,27032
+Italy,Europe,Australia,Oceania,1998,2427022
+Italy,Europe,Cyprus,Europe,1998,1776302
+Italy,Europe,China,Asia,1998,122569
+Italy,Europe,Ivory Coast,Africa,1998,34542
+Italy,Europe,Congo,Africa,1998,6752
+Croatia,Europe,United States,North America,1998,167800
+Croatia,Europe,Canada,North America,1998,0
+Croatia,Europe,Mexico,North America,1998,0
+Croatia,Europe,Brazil,South America,1998,0
+Croatia,Europe,Argentina,South America,1998,1608
+Croatia,Europe,United Kingdom,Europe,1998,4967
+Croatia,Europe,Netherlands,Europe,1998,5079
+Croatia,Europe,Belgium,Europe,1998,0
+Croatia,Europe,France,Europe,1998,1124
+Croatia,Europe,Switzerland,Europe,1998,0
+Croatia,Europe,Spain,Europe,1998,0
+Croatia,Europe,Portugal,Europe,1998,0
+Croatia,Europe,Germany,Europe,1998,1317
+Croatia,Europe,Poland,Europe,1998,0
+Croatia,Europe,Austria,Europe,1998,0
+Croatia,Europe,Hungary,Europe,1998,0
+Croatia,Europe,Czech Republic,Europe,1998,0
+Croatia,Europe,Slovakia,Europe,1998,0
+Croatia,Europe,Italy,Europe,1998,0
+Croatia,Europe,Croatia,Europe,1998,0
+Croatia,Europe,Serbia,Europe,1998,0
+Croatia,Europe,Bosnia,Europe,1998,5854
+Croatia,Europe,Greece,Europe,1998,0
+Croatia,Europe,Bulgaria,Europe,1998,0
+Croatia,Europe,Romania,Europe,1998,0
+Croatia,Europe,Russia,Asia,1998,0
+Croatia,Europe,Ukraine,Europe,1998,0
+Croatia,Europe,Finland,Europe,1998,0
+Croatia,Europe,Sweden,Europe,1998,0
+Croatia,Europe,Norway,Europe,1998,0
+Croatia,Europe,Denmark,Europe,1998,0
+Croatia,Europe,South Africa,Africa,1998,0
+Croatia,Europe,Turkey,Asia,1998,0
+Croatia,Europe,Israel,Asia,1998,0
+Croatia,Europe,United Arab Emirates,Asia,1998,0
+Croatia,Europe,Taiwan,Asia,1998,0
+Croatia,Europe,South Korea,Asia,1998,0
+Croatia,Europe,Japan,Asia,1998,0
+Croatia,Europe,India,Asia,1998,0
+Croatia,Europe,Pakistan,Asia,1998,0
+Croatia,Europe,Thailand,Asia,1998,0
+Croatia,Europe,Malaysia,Asia,1998,0
+Croatia,Europe,Singapore,Asia,1998,0
+Croatia,Europe,Philippines,Asia,1998,0
+Croatia,Europe,Indonesia,Asia,1998,0
+Croatia,Europe,Australia,Oceania,1998,0
+Croatia,Europe,Cyprus,Europe,1998,0
+Croatia,Europe,China,Asia,1998,0
+Croatia,Europe,Ivory Coast,Africa,1998,0
+Croatia,Europe,Congo,Africa,1998,0
+Serbia,Europe,United States,North America,1998,0
+Serbia,Europe,Canada,North America,1998,18772
+Serbia,Europe,Mexico,North America,1998,3252990
+Serbia,Europe,Brazil,South America,1998,76823
+Serbia,Europe,Argentina,South America,1998,0
+Serbia,Europe,United Kingdom,Europe,1998,27814
+Serbia,Europe,Netherlands,Europe,1998,0
+Serbia,Europe,Belgium,Europe,1998,0
+Serbia,Europe,France,Europe,1998,190057
+Serbia,Europe,Switzerland,Europe,1998,0
+Serbia,Europe,Spain,Europe,1998,0
+Serbia,Europe,Portugal,Europe,1998,0
+Serbia,Europe,Germany,Europe,1998,1320559
+Serbia,Europe,Poland,Europe,1998,0
+Serbia,Europe,Austria,Europe,1998,51375
+Serbia,Europe,Hungary,Europe,1998,10595
+Serbia,Europe,Czech Republic,Europe,1998,0
+Serbia,Europe,Slovakia,Europe,1998,0
+Serbia,Europe,Italy,Europe,1998,37086
+Serbia,Europe,Croatia,Europe,1998,0
+Serbia,Europe,Serbia,Europe,1998,0
+Serbia,Europe,Bosnia,Europe,1998,227820
+Serbia,Europe,Greece,Europe,1998,133592
+Serbia,Europe,Bulgaria,Europe,1998,17218
+Serbia,Europe,Romania,Europe,1998,0
+Serbia,Europe,Russia,Asia,1998,0
+Serbia,Europe,Ukraine,Europe,1998,0
+Serbia,Europe,Finland,Europe,1998,0
+Serbia,Europe,Sweden,Europe,1998,0
+Serbia,Europe,Norway,Europe,1998,0
+Serbia,Europe,Denmark,Europe,1998,0
+Serbia,Europe,South Africa,Africa,1998,0
+Serbia,Europe,Turkey,Asia,1998,0
+Serbia,Europe,Israel,Asia,1998,0
+Serbia,Europe,United Arab Emirates,Asia,1998,0
+Serbia,Europe,Taiwan,Asia,1998,0
+Serbia,Europe,South Korea,Asia,1998,0
+Serbia,Europe,Japan,Asia,1998,0
+Serbia,Europe,India,Asia,1998,0
+Serbia,Europe,Pakistan,Asia,1998,0
+Serbia,Europe,Thailand,Asia,1998,0
+Serbia,Europe,Malaysia,Asia,1998,0
+Serbia,Europe,Singapore,Asia,1998,0
+Serbia,Europe,Philippines,Asia,1998,0
+Serbia,Europe,Indonesia,Asia,1998,0
+Serbia,Europe,Australia,Oceania,1998,0
+Serbia,Europe,Cyprus,Europe,1998,0
+Serbia,Europe,China,Asia,1998,0
+Serbia,Europe,Ivory Coast,Africa,1998,0
+Serbia,Europe,Congo,Africa,1998,0
+Bosnia,Europe,United States,North America,1998,0
+Bosnia,Europe,Canada,North America,1998,0
+Bosnia,Europe,Mexico,North America,1998,0
+Bosnia,Europe,Brazil,South America,1998,0
+Bosnia,Europe,Argentina,South America,1998,0
+Bosnia,Europe,United Kingdom,Europe,1998,0
+Bosnia,Europe,Netherlands,Europe,1998,0
+Bosnia,Europe,Belgium,Europe,1998,0
+Bosnia,Europe,France,Europe,1998,899
+Bosnia,Europe,Switzerland,Europe,1998,0
+Bosnia,Europe,Spain,Europe,1998,0
+Bosnia,Europe,Portugal,Europe,1998,0
+Bosnia,Europe,Germany,Europe,1998,1147047
+Bosnia,Europe,Poland,Europe,1998,0
+Bosnia,Europe,Austria,Europe,1998,431606
+Bosnia,Europe,Hungary,Europe,1998,0
+Bosnia,Europe,Czech Republic,Europe,1998,0
+Bosnia,Europe,Slovakia,Europe,1998,0
+Bosnia,Europe,Italy,Europe,1998,0
+Bosnia,Europe,Croatia,Europe,1998,9941
+Bosnia,Europe,Serbia,Europe,1998,74173
+Bosnia,Europe,Bosnia,Europe,1998,0
+Bosnia,Europe,Greece,Europe,1998,0
+Bosnia,Europe,Bulgaria,Europe,1998,0
+Bosnia,Europe,Romania,Europe,1998,0
+Bosnia,Europe,Russia,Asia,1998,0
+Bosnia,Europe,Ukraine,Europe,1998,0
+Bosnia,Europe,Finland,Europe,1998,0
+Bosnia,Europe,Sweden,Europe,1998,0
+Bosnia,Europe,Norway,Europe,1998,0
+Bosnia,Europe,Denmark,Europe,1998,0
+Bosnia,Europe,South Africa,Africa,1998,0
+Bosnia,Europe,Turkey,Asia,1998,665578
+Bosnia,Europe,Israel,Asia,1998,0
+Bosnia,Europe,United Arab Emirates,Asia,1998,0
+Bosnia,Europe,Taiwan,Asia,1998,0
+Bosnia,Europe,South Korea,Asia,1998,0
+Bosnia,Europe,Japan,Asia,1998,0
+Bosnia,Europe,India,Asia,1998,0
+Bosnia,Europe,Pakistan,Asia,1998,0
+Bosnia,Europe,Thailand,Asia,1998,0
+Bosnia,Europe,Malaysia,Asia,1998,0
+Bosnia,Europe,Singapore,Asia,1998,0
+Bosnia,Europe,Philippines,Asia,1998,0
+Bosnia,Europe,Indonesia,Asia,1998,0
+Bosnia,Europe,Australia,Oceania,1998,0
+Bosnia,Europe,Cyprus,Europe,1998,0
+Bosnia,Europe,China,Asia,1998,0
+Bosnia,Europe,Ivory Coast,Africa,1998,0
+Bosnia,Europe,Congo,Africa,1998,0
+Greece,Europe,United States,North America,1998,1079053
+Greece,Europe,Canada,North America,1998,34324
+Greece,Europe,Mexico,North America,1998,0
+Greece,Europe,Brazil,South America,1998,0
+Greece,Europe,Argentina,South America,1998,0
+Greece,Europe,United Kingdom,Europe,1998,0
+Greece,Europe,Netherlands,Europe,1998,0
+Greece,Europe,Belgium,Europe,1998,0
+Greece,Europe,France,Europe,1998,0
+Greece,Europe,Switzerland,Europe,1998,0
+Greece,Europe,Spain,Europe,1998,0
+Greece,Europe,Portugal,Europe,1998,0
+Greece,Europe,Germany,Europe,1998,0
+Greece,Europe,Poland,Europe,1998,0
+Greece,Europe,Austria,Europe,1998,0
+Greece,Europe,Hungary,Europe,1998,0
+Greece,Europe,Czech Republic,Europe,1998,0
+Greece,Europe,Slovakia,Europe,1998,0
+Greece,Europe,Italy,Europe,1998,0
+Greece,Europe,Croatia,Europe,1998,0
+Greece,Europe,Serbia,Europe,1998,0
+Greece,Europe,Bosnia,Europe,1998,0
+Greece,Europe,Greece,Europe,1998,0
+Greece,Europe,Bulgaria,Europe,1998,31372
+Greece,Europe,Romania,Europe,1998,71017
+Greece,Europe,Russia,Asia,1998,0
+Greece,Europe,Ukraine,Europe,1998,0
+Greece,Europe,Finland,Europe,1998,0
+Greece,Europe,Sweden,Europe,1998,0
+Greece,Europe,Norway,Europe,1998,103817
+Greece,Europe,Denmark,Europe,1998,0
+Greece,Europe,South Africa,Africa,1998,0
+Greece,Europe,Turkey,Asia,1998,197848
+Greece,Europe,Israel,Asia,1998,0
+Greece,Europe,United Arab Emirates,Asia,1998,0
+Greece,Europe,Taiwan,Asia,1998,0
+Greece,Europe,South Korea,Asia,1998,0
+Greece,Europe,Japan,Asia,1998,0
+Greece,Europe,India,Asia,1998,0
+Greece,Europe,Pakistan,Asia,1998,0
+Greece,Europe,Thailand,Asia,1998,0
+Greece,Europe,Malaysia,Asia,1998,0
+Greece,Europe,Singapore,Asia,1998,0
+Greece,Europe,Philippines,Asia,1998,0
+Greece,Europe,Indonesia,Asia,1998,0
+Greece,Europe,Australia,Oceania,1998,0
+Greece,Europe,Cyprus,Europe,1998,885840
+Greece,Europe,China,Asia,1998,0
+Greece,Europe,Ivory Coast,Africa,1998,0
+Greece,Europe,Congo,Africa,1998,0
+Bulgaria,Europe,United States,North America,1998,574703
+Bulgaria,Europe,Canada,North America,1998,39201
+Bulgaria,Europe,Mexico,North America,1998,0
+Bulgaria,Europe,Brazil,South America,1998,0
+Bulgaria,Europe,Argentina,South America,1998,0
+Bulgaria,Europe,United Kingdom,Europe,1998,10948
+Bulgaria,Europe,Netherlands,Europe,1998,0
+Bulgaria,Europe,Belgium,Europe,1998,0
+Bulgaria,Europe,France,Europe,1998,0
+Bulgaria,Europe,Switzerland,Europe,1998,13334
+Bulgaria,Europe,Spain,Europe,1998,0
+Bulgaria,Europe,Portugal,Europe,1998,0
+Bulgaria,Europe,Germany,Europe,1998,30463
+Bulgaria,Europe,Poland,Europe,1998,0
+Bulgaria,Europe,Austria,Europe,1998,0
+Bulgaria,Europe,Hungary,Europe,1998,0
+Bulgaria,Europe,Czech Republic,Europe,1998,0
+Bulgaria,Europe,Slovakia,Europe,1998,0
+Bulgaria,Europe,Italy,Europe,1998,0
+Bulgaria,Europe,Croatia,Europe,1998,0
+Bulgaria,Europe,Serbia,Europe,1998,0
+Bulgaria,Europe,Bosnia,Europe,1998,0
+Bulgaria,Europe,Greece,Europe,1998,0
+Bulgaria,Europe,Bulgaria,Europe,1998,0
+Bulgaria,Europe,Romania,Europe,1998,0
+Bulgaria,Europe,Russia,Asia,1998,0
+Bulgaria,Europe,Ukraine,Europe,1998,0
+Bulgaria,Europe,Finland,Europe,1998,0
+Bulgaria,Europe,Sweden,Europe,1998,0
+Bulgaria,Europe,Norway,Europe,1998,0
+Bulgaria,Europe,Denmark,Europe,1998,0
+Bulgaria,Europe,South Africa,Africa,1998,0
+Bulgaria,Europe,Turkey,Asia,1998,1741515
+Bulgaria,Europe,Israel,Asia,1998,0
+Bulgaria,Europe,United Arab Emirates,Asia,1998,0
+Bulgaria,Europe,Taiwan,Asia,1998,0
+Bulgaria,Europe,South Korea,Asia,1998,0
+Bulgaria,Europe,Japan,Asia,1998,0
+Bulgaria,Europe,India,Asia,1998,0
+Bulgaria,Europe,Pakistan,Asia,1998,0
+Bulgaria,Europe,Thailand,Asia,1998,0
+Bulgaria,Europe,Malaysia,Asia,1998,0
+Bulgaria,Europe,Singapore,Asia,1998,0
+Bulgaria,Europe,Philippines,Asia,1998,0
+Bulgaria,Europe,Indonesia,Asia,1998,0
+Bulgaria,Europe,Australia,Oceania,1998,0
+Bulgaria,Europe,Cyprus,Europe,1998,0
+Bulgaria,Europe,China,Asia,1998,0
+Bulgaria,Europe,Ivory Coast,Africa,1998,0
+Bulgaria,Europe,Congo,Africa,1998,0
+Romania,Europe,United States,North America,1998,890171
+Romania,Europe,Canada,North America,1998,0
+Romania,Europe,Mexico,North America,1998,0
+Romania,Europe,Brazil,South America,1998,0
+Romania,Europe,Argentina,South America,1998,2565
+Romania,Europe,United Kingdom,Europe,1998,0
+Romania,Europe,Netherlands,Europe,1998,0
+Romania,Europe,Belgium,Europe,1998,0
+Romania,Europe,France,Europe,1998,0
+Romania,Europe,Switzerland,Europe,1998,0
+Romania,Europe,Spain,Europe,1998,0
+Romania,Europe,Portugal,Europe,1998,0
+Romania,Europe,Germany,Europe,1998,92717
+Romania,Europe,Poland,Europe,1998,0
+Romania,Europe,Austria,Europe,1998,3539
+Romania,Europe,Hungary,Europe,1998,0
+Romania,Europe,Czech Republic,Europe,1998,11768
+Romania,Europe,Slovakia,Europe,1998,0
+Romania,Europe,Italy,Europe,1998,7196
+Romania,Europe,Croatia,Europe,1998,0
+Romania,Europe,Serbia,Europe,1998,0
+Romania,Europe,Bosnia,Europe,1998,0
+Romania,Europe,Greece,Europe,1998,0
+Romania,Europe,Bulgaria,Europe,1998,0
+Romania,Europe,Romania,Europe,1998,0
+Romania,Europe,Russia,Asia,1998,0
+Romania,Europe,Ukraine,Europe,1998,0
+Romania,Europe,Finland,Europe,1998,0
+Romania,Europe,Sweden,Europe,1998,0
+Romania,Europe,Norway,Europe,1998,0
+Romania,Europe,Denmark,Europe,1998,0
+Romania,Europe,South Africa,Africa,1998,0
+Romania,Europe,Turkey,Asia,1998,487990
+Romania,Europe,Israel,Asia,1998,0
+Romania,Europe,United Arab Emirates,Asia,1998,0
+Romania,Europe,Taiwan,Asia,1998,0
+Romania,Europe,South Korea,Asia,1998,0
+Romania,Europe,Japan,Asia,1998,0
+Romania,Europe,India,Asia,1998,0
+Romania,Europe,Pakistan,Asia,1998,0
+Romania,Europe,Thailand,Asia,1998,0
+Romania,Europe,Malaysia,Asia,1998,0
+Romania,Europe,Singapore,Asia,1998,0
+Romania,Europe,Philippines,Asia,1998,0
+Romania,Europe,Indonesia,Asia,1998,0
+Romania,Europe,Australia,Oceania,1998,0
+Romania,Europe,Cyprus,Europe,1998,0
+Romania,Europe,China,Asia,1998,0
+Romania,Europe,Ivory Coast,Africa,1998,0
+Romania,Europe,Congo,Africa,1998,0
+Russia,Asia,United States,North America,1998,13810377
+Russia,Asia,Canada,North America,1998,0
+Russia,Asia,Mexico,North America,1998,0
+Russia,Asia,Brazil,South America,1998,0
+Russia,Asia,Argentina,South America,1998,25724
+Russia,Asia,United Kingdom,Europe,1998,0
+Russia,Asia,Netherlands,Europe,1998,0
+Russia,Asia,Belgium,Europe,1998,170944
+Russia,Asia,France,Europe,1998,1968064
+Russia,Asia,Switzerland,Europe,1998,1446
+Russia,Asia,Spain,Europe,1998,0
+Russia,Asia,Portugal,Europe,1998,141925
+Russia,Asia,Germany,Europe,1998,2722441
+Russia,Asia,Poland,Europe,1998,361411
+Russia,Asia,Austria,Europe,1998,228669
+Russia,Asia,Hungary,Europe,1998,59604
+Russia,Asia,Czech Republic,Europe,1998,229124
+Russia,Asia,Slovakia,Europe,1998,9624
+Russia,Asia,Italy,Europe,1998,202399
+Russia,Asia,Croatia,Europe,1998,95161
+Russia,Asia,Serbia,Europe,1998,35902
+Russia,Asia,Bosnia,Europe,1998,0
+Russia,Asia,Greece,Europe,1998,451610
+Russia,Asia,Bulgaria,Europe,1998,386051
+Russia,Asia,Romania,Europe,1998,0
+Russia,Asia,Russia,Asia,1998,0
+Russia,Asia,Ukraine,Europe,1998,871945
+Russia,Asia,Finland,Europe,1998,4660715
+Russia,Asia,Sweden,Europe,1998,1417
+Russia,Asia,Norway,Europe,1998,303747
+Russia,Asia,Denmark,Europe,1998,93385
+Russia,Asia,South Africa,Africa,1998,0
+Russia,Asia,Turkey,Asia,1998,0
+Russia,Asia,Israel,Asia,1998,3700
+Russia,Asia,United Arab Emirates,Asia,1998,0
+Russia,Asia,Taiwan,Asia,1998,0
+Russia,Asia,South Korea,Asia,1998,0
+Russia,Asia,Japan,Asia,1998,0
+Russia,Asia,India,Asia,1998,0
+Russia,Asia,Pakistan,Asia,1998,0
+Russia,Asia,Thailand,Asia,1998,41585
+Russia,Asia,Malaysia,Asia,1998,0
+Russia,Asia,Singapore,Asia,1998,0
+Russia,Asia,Philippines,Asia,1998,0
+Russia,Asia,Indonesia,Asia,1998,0
+Russia,Asia,Australia,Oceania,1998,3374
+Russia,Asia,Cyprus,Europe,1998,3668668
+Russia,Asia,China,Asia,1998,0
+Russia,Asia,Ivory Coast,Africa,1998,0
+Russia,Asia,Congo,Africa,1998,0
+Ukraine,Europe,United States,North America,1998,0
+Ukraine,Europe,Canada,North America,1998,0
+Ukraine,Europe,Mexico,North America,1998,0
+Ukraine,Europe,Brazil,South America,1998,0
+Ukraine,Europe,Argentina,South America,1998,0
+Ukraine,Europe,United Kingdom,Europe,1998,0
+Ukraine,Europe,Netherlands,Europe,1998,0
+Ukraine,Europe,Belgium,Europe,1998,0
+Ukraine,Europe,France,Europe,1998,0
+Ukraine,Europe,Switzerland,Europe,1998,0
+Ukraine,Europe,Spain,Europe,1998,0
+Ukraine,Europe,Portugal,Europe,1998,0
+Ukraine,Europe,Germany,Europe,1998,430473
+Ukraine,Europe,Poland,Europe,1998,0
+Ukraine,Europe,Austria,Europe,1998,0
+Ukraine,Europe,Hungary,Europe,1998,0
+Ukraine,Europe,Czech Republic,Europe,1998,0
+Ukraine,Europe,Slovakia,Europe,1998,136550
+Ukraine,Europe,Italy,Europe,1998,0
+Ukraine,Europe,Croatia,Europe,1998,0
+Ukraine,Europe,Serbia,Europe,1998,0
+Ukraine,Europe,Bosnia,Europe,1998,0
+Ukraine,Europe,Greece,Europe,1998,0
+Ukraine,Europe,Bulgaria,Europe,1998,0
+Ukraine,Europe,Romania,Europe,1998,0
+Ukraine,Europe,Russia,Asia,1998,166891
+Ukraine,Europe,Ukraine,Europe,1998,0
+Ukraine,Europe,Finland,Europe,1998,0
+Ukraine,Europe,Sweden,Europe,1998,0
+Ukraine,Europe,Norway,Europe,1998,0
+Ukraine,Europe,Denmark,Europe,1998,0
+Ukraine,Europe,South Africa,Africa,1998,0
+Ukraine,Europe,Turkey,Asia,1998,0
+Ukraine,Europe,Israel,Asia,1998,0
+Ukraine,Europe,United Arab Emirates,Asia,1998,0
+Ukraine,Europe,Taiwan,Asia,1998,0
+Ukraine,Europe,South Korea,Asia,1998,0
+Ukraine,Europe,Japan,Asia,1998,0
+Ukraine,Europe,India,Asia,1998,0
+Ukraine,Europe,Pakistan,Asia,1998,0
+Ukraine,Europe,Thailand,Asia,1998,0
+Ukraine,Europe,Malaysia,Asia,1998,0
+Ukraine,Europe,Singapore,Asia,1998,0
+Ukraine,Europe,Philippines,Asia,1998,0
+Ukraine,Europe,Indonesia,Asia,1998,0
+Ukraine,Europe,Australia,Oceania,1998,0
+Ukraine,Europe,Cyprus,Europe,1998,0
+Ukraine,Europe,China,Asia,1998,0
+Ukraine,Europe,Ivory Coast,Africa,1998,0
+Ukraine,Europe,Congo,Africa,1998,0
+Finland,Europe,United States,North America,1998,4482011
+Finland,Europe,Canada,North America,1998,676572
+Finland,Europe,Mexico,North America,1998,0
+Finland,Europe,Brazil,South America,1998,43148
+Finland,Europe,Argentina,South America,1998,49054
+Finland,Europe,United Kingdom,Europe,1998,1942251
+Finland,Europe,Netherlands,Europe,1998,15374
+Finland,Europe,Belgium,Europe,1998,508759
+Finland,Europe,France,Europe,1998,559358
+Finland,Europe,Switzerland,Europe,1998,252338
+Finland,Europe,Spain,Europe,1998,128298
+Finland,Europe,Portugal,Europe,1998,56852
+Finland,Europe,Germany,Europe,1998,1675297
+Finland,Europe,Poland,Europe,1998,473540
+Finland,Europe,Austria,Europe,1998,191399
+Finland,Europe,Hungary,Europe,1998,126228
+Finland,Europe,Czech Republic,Europe,1998,93884
+Finland,Europe,Slovakia,Europe,1998,27270
+Finland,Europe,Italy,Europe,1998,661874
+Finland,Europe,Croatia,Europe,1998,2691
+Finland,Europe,Serbia,Europe,1998,0
+Finland,Europe,Bosnia,Europe,1998,835192
+Finland,Europe,Greece,Europe,1998,26269
+Finland,Europe,Bulgaria,Europe,1998,0
+Finland,Europe,Romania,Europe,1998,0
+Finland,Europe,Russia,Asia,1998,174701
+Finland,Europe,Ukraine,Europe,1998,0
+Finland,Europe,Finland,Europe,1998,0
+Finland,Europe,Sweden,Europe,1998,2907931
+Finland,Europe,Norway,Europe,1998,1464823
+Finland,Europe,Denmark,Europe,1998,1280130
+Finland,Europe,South Africa,Africa,1998,396204
+Finland,Europe,Turkey,Asia,1998,29084
+Finland,Europe,Israel,Asia,1998,0
+Finland,Europe,United Arab Emirates,Asia,1998,103140
+Finland,Europe,Taiwan,Asia,1998,0
+Finland,Europe,South Korea,Asia,1998,66081
+Finland,Europe,Japan,Asia,1998,273850
+Finland,Europe,India,Asia,1998,37464
+Finland,Europe,Pakistan,Asia,1998,0
+Finland,Europe,Thailand,Asia,1998,52231
+Finland,Europe,Malaysia,Asia,1998,155826
+Finland,Europe,Singapore,Asia,1998,110894
+Finland,Europe,Philippines,Asia,1998,3720
+Finland,Europe,Indonesia,Asia,1998,0
+Finland,Europe,Australia,Oceania,1998,838743
+Finland,Europe,Cyprus,Europe,1998,0
+Finland,Europe,China,Asia,1998,0
+Finland,Europe,Ivory Coast,Africa,1998,0
+Finland,Europe,Congo,Africa,1998,0
+Sweden,Europe,United States,North America,1998,5386856
+Sweden,Europe,Canada,North America,1998,321856
+Sweden,Europe,Mexico,North America,1998,0
+Sweden,Europe,Brazil,South America,1998,0
+Sweden,Europe,Argentina,South America,1998,23684
+Sweden,Europe,United Kingdom,Europe,1998,160515
+Sweden,Europe,Netherlands,Europe,1998,0
+Sweden,Europe,Belgium,Europe,1998,159848
+Sweden,Europe,France,Europe,1998,1228297
+Sweden,Europe,Switzerland,Europe,1998,1158116
+Sweden,Europe,Spain,Europe,1998,426251
+Sweden,Europe,Portugal,Europe,1998,0
+Sweden,Europe,Germany,Europe,1998,3336465
+Sweden,Europe,Poland,Europe,1998,41844
+Sweden,Europe,Austria,Europe,1998,4315747
+Sweden,Europe,Hungary,Europe,1998,6622
+Sweden,Europe,Czech Republic,Europe,1998,35374
+Sweden,Europe,Slovakia,Europe,1998,0
+Sweden,Europe,Italy,Europe,1998,322746
+Sweden,Europe,Croatia,Europe,1998,0
+Sweden,Europe,Serbia,Europe,1998,0
+Sweden,Europe,Bosnia,Europe,1998,0
+Sweden,Europe,Greece,Europe,1998,0
+Sweden,Europe,Bulgaria,Europe,1998,0
+Sweden,Europe,Romania,Europe,1998,0
+Sweden,Europe,Russia,Asia,1998,5159
+Sweden,Europe,Ukraine,Europe,1998,0
+Sweden,Europe,Finland,Europe,1998,285192
+Sweden,Europe,Sweden,Europe,1998,0
+Sweden,Europe,Norway,Europe,1998,2658722
+Sweden,Europe,Denmark,Europe,1998,6389456
+Sweden,Europe,South Africa,Africa,1998,0
+Sweden,Europe,Turkey,Asia,1998,1000
+Sweden,Europe,Israel,Asia,1998,0
+Sweden,Europe,United Arab Emirates,Asia,1998,0
+Sweden,Europe,Taiwan,Asia,1998,0
+Sweden,Europe,South Korea,Asia,1998,0
+Sweden,Europe,Japan,Asia,1998,120296
+Sweden,Europe,India,Asia,1998,0
+Sweden,Europe,Pakistan,Asia,1998,0
+Sweden,Europe,Thailand,Asia,1998,0
+Sweden,Europe,Malaysia,Asia,1998,0
+Sweden,Europe,Singapore,Asia,1998,0
+Sweden,Europe,Philippines,Asia,1998,0
+Sweden,Europe,Indonesia,Asia,1998,167936
+Sweden,Europe,Australia,Oceania,1998,11229
+Sweden,Europe,Cyprus,Europe,1998,768
+Sweden,Europe,China,Asia,1998,0
+Sweden,Europe,Ivory Coast,Africa,1998,0
+Sweden,Europe,Congo,Africa,1998,0
+Norway,Europe,United States,North America,1998,2441747
+Norway,Europe,Canada,North America,1998,0
+Norway,Europe,Mexico,North America,1998,0
+Norway,Europe,Brazil,South America,1998,0
+Norway,Europe,Argentina,South America,1998,0
+Norway,Europe,United Kingdom,Europe,1998,38208
+Norway,Europe,Netherlands,Europe,1998,878
+Norway,Europe,Belgium,Europe,1998,7331
+Norway,Europe,France,Europe,1998,3343935
+Norway,Europe,Switzerland,Europe,1998,8572195
+Norway,Europe,Spain,Europe,1998,80627
+Norway,Europe,Portugal,Europe,1998,0
+Norway,Europe,Germany,Europe,1998,181429
+Norway,Europe,Poland,Europe,1998,0
+Norway,Europe,Austria,Europe,1998,1607
+Norway,Europe,Hungary,Europe,1998,3806
+Norway,Europe,Czech Republic,Europe,1998,49741
+Norway,Europe,Slovakia,Europe,1998,0
+Norway,Europe,Italy,Europe,1998,161693
+Norway,Europe,Croatia,Europe,1998,0
+Norway,Europe,Serbia,Europe,1998,0
+Norway,Europe,Bosnia,Europe,1998,2141
+Norway,Europe,Greece,Europe,1998,2809
+Norway,Europe,Bulgaria,Europe,1998,0
+Norway,Europe,Romania,Europe,1998,0
+Norway,Europe,Russia,Asia,1998,0
+Norway,Europe,Ukraine,Europe,1998,0
+Norway,Europe,Finland,Europe,1998,28028
+Norway,Europe,Sweden,Europe,1998,2645496
+Norway,Europe,Norway,Europe,1998,0
+Norway,Europe,Denmark,Europe,1998,635727
+Norway,Europe,South Africa,Africa,1998,0
+Norway,Europe,Turkey,Asia,1998,0
+Norway,Europe,Israel,Asia,1998,0
+Norway,Europe,United Arab Emirates,Asia,1998,0
+Norway,Europe,Taiwan,Asia,1998,0
+Norway,Europe,South Korea,Asia,1998,0
+Norway,Europe,Japan,Asia,1998,0
+Norway,Europe,India,Asia,1998,0
+Norway,Europe,Pakistan,Asia,1998,2904
+Norway,Europe,Thailand,Asia,1998,0
+Norway,Europe,Malaysia,Asia,1998,0
+Norway,Europe,Singapore,Asia,1998,0
+Norway,Europe,Philippines,Asia,1998,0
+Norway,Europe,Indonesia,Asia,1998,0
+Norway,Europe,Australia,Oceania,1998,0
+Norway,Europe,Cyprus,Europe,1998,0
+Norway,Europe,China,Asia,1998,0
+Norway,Europe,Ivory Coast,Africa,1998,0
+Norway,Europe,Congo,Africa,1998,0
+Denmark,Europe,United States,North America,1998,7653
+Denmark,Europe,Canada,North America,1998,220519
+Denmark,Europe,Mexico,North America,1998,0
+Denmark,Europe,Brazil,South America,1998,0
+Denmark,Europe,Argentina,South America,1998,0
+Denmark,Europe,United Kingdom,Europe,1998,3140
+Denmark,Europe,Netherlands,Europe,1998,0
+Denmark,Europe,Belgium,Europe,1998,14037
+Denmark,Europe,France,Europe,1998,1573
+Denmark,Europe,Switzerland,Europe,1998,4365
+Denmark,Europe,Spain,Europe,1998,0
+Denmark,Europe,Portugal,Europe,1998,0
+Denmark,Europe,Germany,Europe,1998,82119
+Denmark,Europe,Poland,Europe,1998,5827
+Denmark,Europe,Austria,Europe,1998,60707
+Denmark,Europe,Hungary,Europe,1998,0
+Denmark,Europe,Czech Republic,Europe,1998,0
+Denmark,Europe,Slovakia,Europe,1998,0
+Denmark,Europe,Italy,Europe,1998,15423
+Denmark,Europe,Croatia,Europe,1998,0
+Denmark,Europe,Serbia,Europe,1998,0
+Denmark,Europe,Bosnia,Europe,1998,0
+Denmark,Europe,Greece,Europe,1998,7269
+Denmark,Europe,Bulgaria,Europe,1998,0
+Denmark,Europe,Romania,Europe,1998,0
+Denmark,Europe,Russia,Asia,1998,1484
+Denmark,Europe,Ukraine,Europe,1998,0
+Denmark,Europe,Finland,Europe,1998,0
+Denmark,Europe,Sweden,Europe,1998,20312
+Denmark,Europe,Norway,Europe,1998,176163
+Denmark,Europe,Denmark,Europe,1998,0
+Denmark,Europe,South Africa,Africa,1998,0
+Denmark,Europe,Turkey,Asia,1998,0
+Denmark,Europe,Israel,Asia,1998,0
+Denmark,Europe,United Arab Emirates,Asia,1998,0
+Denmark,Europe,Taiwan,Asia,1998,0
+Denmark,Europe,South Korea,Asia,1998,0
+Denmark,Europe,Japan,Asia,1998,0
+Denmark,Europe,India,Asia,1998,0
+Denmark,Europe,Pakistan,Asia,1998,0
+Denmark,Europe,Thailand,Asia,1998,0
+Denmark,Europe,Malaysia,Asia,1998,0
+Denmark,Europe,Singapore,Asia,1998,0
+Denmark,Europe,Philippines,Asia,1998,0
+Denmark,Europe,Indonesia,Asia,1998,0
+Denmark,Europe,Australia,Oceania,1998,0
+Denmark,Europe,Cyprus,Europe,1998,0
+Denmark,Europe,China,Asia,1998,0
+Denmark,Europe,Ivory Coast,Africa,1998,0
+Denmark,Europe,Congo,Africa,1998,0
+South Africa,Africa,United States,North America,1998,1593903
+South Africa,Africa,Canada,North America,1998,29820
+South Africa,Africa,Mexico,North America,1998,0
+South Africa,Africa,Brazil,South America,1998,3314811
+South Africa,Africa,Argentina,South America,1998,0
+South Africa,Africa,United Kingdom,Europe,1998,296306
+South Africa,Africa,Netherlands,Europe,1998,2003
+South Africa,Africa,Belgium,Europe,1998,3842
+South Africa,Africa,France,Europe,1998,0
+South Africa,Africa,Switzerland,Europe,1998,2618828
+South Africa,Africa,Spain,Europe,1998,0
+South Africa,Africa,Portugal,Europe,1998,969
+South Africa,Africa,Germany,Europe,1998,2752381
+South Africa,Africa,Poland,Europe,1998,0
+South Africa,Africa,Austria,Europe,1998,405863
+South Africa,Africa,Hungary,Europe,1998,2649
+South Africa,Africa,Czech Republic,Europe,1998,63765
+South Africa,Africa,Slovakia,Europe,1998,1268
+South Africa,Africa,Italy,Europe,1998,2450
+South Africa,Africa,Croatia,Europe,1998,0
+South Africa,Africa,Serbia,Europe,1998,0
+South Africa,Africa,Bosnia,Europe,1998,0
+South Africa,Africa,Greece,Europe,1998,780279
+South Africa,Africa,Bulgaria,Europe,1998,0
+South Africa,Africa,Romania,Europe,1998,0
+South Africa,Africa,Russia,Asia,1998,707
+South Africa,Africa,Ukraine,Europe,1998,0
+South Africa,Africa,Finland,Europe,1998,0
+South Africa,Africa,Sweden,Europe,1998,6668
+South Africa,Africa,Norway,Europe,1998,4204
+South Africa,Africa,Denmark,Europe,1998,0
+South Africa,Africa,South Africa,Africa,1998,0
+South Africa,Africa,Turkey,Asia,1998,0
+South Africa,Africa,Israel,Asia,1998,0
+South Africa,Africa,United Arab Emirates,Asia,1998,0
+South Africa,Africa,Taiwan,Asia,1998,0
+South Africa,Africa,South Korea,Asia,1998,0
+South Africa,Africa,Japan,Asia,1998,0
+South Africa,Africa,India,Asia,1998,29407
+South Africa,Africa,Pakistan,Asia,1998,0
+South Africa,Africa,Thailand,Asia,1998,0
+South Africa,Africa,Malaysia,Asia,1998,0
+South Africa,Africa,Singapore,Asia,1998,208611
+South Africa,Africa,Philippines,Asia,1998,32962
+South Africa,Africa,Indonesia,Asia,1998,0
+South Africa,Africa,Australia,Oceania,1998,764
+South Africa,Africa,Cyprus,Europe,1998,0
+South Africa,Africa,China,Asia,1998,0
+South Africa,Africa,Ivory Coast,Africa,1998,0
+South Africa,Africa,Congo,Africa,1998,0
+Turkey,Asia,United States,North America,1998,491799
+Turkey,Asia,Canada,North America,1998,0
+Turkey,Asia,Mexico,North America,1998,0
+Turkey,Asia,Brazil,South America,1998,0
+Turkey,Asia,Argentina,South America,1998,189791
+Turkey,Asia,United Kingdom,Europe,1998,2413
+Turkey,Asia,Netherlands,Europe,1998,183779
+Turkey,Asia,Belgium,Europe,1998,15894
+Turkey,Asia,France,Europe,1998,261545
+Turkey,Asia,Switzerland,Europe,1998,58343
+Turkey,Asia,Spain,Europe,1998,40047
+Turkey,Asia,Portugal,Europe,1998,141175
+Turkey,Asia,Germany,Europe,1998,466235
+Turkey,Asia,Poland,Europe,1998,0
+Turkey,Asia,Austria,Europe,1998,0
+Turkey,Asia,Hungary,Europe,1998,1324
+Turkey,Asia,Czech Republic,Europe,1998,152436
+Turkey,Asia,Slovakia,Europe,1998,0
+Turkey,Asia,Italy,Europe,1998,675919
+Turkey,Asia,Croatia,Europe,1998,17512
+Turkey,Asia,Serbia,Europe,1998,0
+Turkey,Asia,Bosnia,Europe,1998,1926177
+Turkey,Asia,Greece,Europe,1998,152824
+Turkey,Asia,Bulgaria,Europe,1998,20046
+Turkey,Asia,Romania,Europe,1998,67551
+Turkey,Asia,Russia,Asia,1998,10099
+Turkey,Asia,Ukraine,Europe,1998,1508
+Turkey,Asia,Finland,Europe,1998,85162
+Turkey,Asia,Sweden,Europe,1998,1076
+Turkey,Asia,Norway,Europe,1998,25629
+Turkey,Asia,Denmark,Europe,1998,31976
+Turkey,Asia,South Africa,Africa,1998,0
+Turkey,Asia,Turkey,Asia,1998,0
+Turkey,Asia,Israel,Asia,1998,0
+Turkey,Asia,United Arab Emirates,Asia,1998,0
+Turkey,Asia,Taiwan,Asia,1998,0
+Turkey,Asia,South Korea,Asia,1998,0
+Turkey,Asia,Japan,Asia,1998,13822
+Turkey,Asia,India,Asia,1998,0
+Turkey,Asia,Pakistan,Asia,1998,561433
+Turkey,Asia,Thailand,Asia,1998,130364
+Turkey,Asia,Malaysia,Asia,1998,22277
+Turkey,Asia,Singapore,Asia,1998,0
+Turkey,Asia,Philippines,Asia,1998,25828
+Turkey,Asia,Indonesia,Asia,1998,14265
+Turkey,Asia,Australia,Oceania,1998,0
+Turkey,Asia,Cyprus,Europe,1998,134148
+Turkey,Asia,China,Asia,1998,0
+Turkey,Asia,Ivory Coast,Africa,1998,0
+Turkey,Asia,Congo,Africa,1998,0
+Israel,Asia,United States,North America,1998,7849234
+Israel,Asia,Canada,North America,1998,1479
+Israel,Asia,Mexico,North America,1998,5019
+Israel,Asia,Brazil,South America,1998,0
+Israel,Asia,Argentina,South America,1998,100402
+Israel,Asia,United Kingdom,Europe,1998,0
+Israel,Asia,Netherlands,Europe,1998,0
+Israel,Asia,Belgium,Europe,1998,33627
+Israel,Asia,France,Europe,1998,0
+Israel,Asia,Switzerland,Europe,1998,425048
+Israel,Asia,Spain,Europe,1998,0
+Israel,Asia,Portugal,Europe,1998,0
+Israel,Asia,Germany,Europe,1998,576171
+Israel,Asia,Poland,Europe,1998,0
+Israel,Asia,Austria,Europe,1998,215587
+Israel,Asia,Hungary,Europe,1998,0
+Israel,Asia,Czech Republic,Europe,1998,2964
+Israel,Asia,Slovakia,Europe,1998,2474
+Israel,Asia,Italy,Europe,1998,53018
+Israel,Asia,Croatia,Europe,1998,0
+Israel,Asia,Serbia,Europe,1998,0
+Israel,Asia,Bosnia,Europe,1998,0
+Israel,Asia,Greece,Europe,1998,0
+Israel,Asia,Bulgaria,Europe,1998,0
+Israel,Asia,Romania,Europe,1998,0
+Israel,Asia,Russia,Asia,1998,0
+Israel,Asia,Ukraine,Europe,1998,0
+Israel,Asia,Finland,Europe,1998,0
+Israel,Asia,Sweden,Europe,1998,3333
+Israel,Asia,Norway,Europe,1998,46399
+Israel,Asia,Denmark,Europe,1998,2804
+Israel,Asia,South Africa,Africa,1998,0
+Israel,Asia,Turkey,Asia,1998,472394
+Israel,Asia,Israel,Asia,1998,0
+Israel,Asia,United Arab Emirates,Asia,1998,0
+Israel,Asia,Taiwan,Asia,1998,0
+Israel,Asia,South Korea,Asia,1998,2128
+Israel,Asia,Japan,Asia,1998,0
+Israel,Asia,India,Asia,1998,0
+Israel,Asia,Pakistan,Asia,1998,0
+Israel,Asia,Thailand,Asia,1998,12866
+Israel,Asia,Malaysia,Asia,1998,0
+Israel,Asia,Singapore,Asia,1998,0
+Israel,Asia,Philippines,Asia,1998,155693
+Israel,Asia,Indonesia,Asia,1998,0
+Israel,Asia,Australia,Oceania,1998,20641
+Israel,Asia,Cyprus,Europe,1998,0
+Israel,Asia,China,Asia,1998,0
+Israel,Asia,Ivory Coast,Africa,1998,0
+Israel,Asia,Congo,Africa,1998,0
+United Arab Emirates,Asia,United States,North America,1998,0
+United Arab Emirates,Asia,Canada,North America,1998,0
+United Arab Emirates,Asia,Mexico,North America,1998,0
+United Arab Emirates,Asia,Brazil,South America,1998,0
+United Arab Emirates,Asia,Argentina,South America,1998,0
+United Arab Emirates,Asia,United Kingdom,Europe,1998,564041
+United Arab Emirates,Asia,Netherlands,Europe,1998,0
+United Arab Emirates,Asia,Belgium,Europe,1998,0
+United Arab Emirates,Asia,France,Europe,1998,0
+United Arab Emirates,Asia,Switzerland,Europe,1998,0
+United Arab Emirates,Asia,Spain,Europe,1998,0
+United Arab Emirates,Asia,Portugal,Europe,1998,0
+United Arab Emirates,Asia,Germany,Europe,1998,37086
+United Arab Emirates,Asia,Poland,Europe,1998,0
+United Arab Emirates,Asia,Austria,Europe,1998,0
+United Arab Emirates,Asia,Hungary,Europe,1998,0
+United Arab Emirates,Asia,Czech Republic,Europe,1998,0
+United Arab Emirates,Asia,Slovakia,Europe,1998,0
+United Arab Emirates,Asia,Italy,Europe,1998,0
+United Arab Emirates,Asia,Croatia,Europe,1998,0
+United Arab Emirates,Asia,Serbia,Europe,1998,0
+United Arab Emirates,Asia,Bosnia,Europe,1998,0
+United Arab Emirates,Asia,Greece,Europe,1998,0
+United Arab Emirates,Asia,Bulgaria,Europe,1998,0
+United Arab Emirates,Asia,Romania,Europe,1998,0
+United Arab Emirates,Asia,Russia,Asia,1998,0
+United Arab Emirates,Asia,Ukraine,Europe,1998,0
+United Arab Emirates,Asia,Finland,Europe,1998,0
+United Arab Emirates,Asia,Sweden,Europe,1998,0
+United Arab Emirates,Asia,Norway,Europe,1998,0
+United Arab Emirates,Asia,Denmark,Europe,1998,0
+United Arab Emirates,Asia,South Africa,Africa,1998,0
+United Arab Emirates,Asia,Turkey,Asia,1998,0
+United Arab Emirates,Asia,Israel,Asia,1998,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,1998,0
+United Arab Emirates,Asia,Taiwan,Asia,1998,0
+United Arab Emirates,Asia,South Korea,Asia,1998,0
+United Arab Emirates,Asia,Japan,Asia,1998,0
+United Arab Emirates,Asia,India,Asia,1998,0
+United Arab Emirates,Asia,Pakistan,Asia,1998,0
+United Arab Emirates,Asia,Thailand,Asia,1998,0
+United Arab Emirates,Asia,Malaysia,Asia,1998,0
+United Arab Emirates,Asia,Singapore,Asia,1998,0
+United Arab Emirates,Asia,Philippines,Asia,1998,0
+United Arab Emirates,Asia,Indonesia,Asia,1998,0
+United Arab Emirates,Asia,Australia,Oceania,1998,0
+United Arab Emirates,Asia,Cyprus,Europe,1998,0
+United Arab Emirates,Asia,China,Asia,1998,0
+United Arab Emirates,Asia,Ivory Coast,Africa,1998,0
+United Arab Emirates,Asia,Congo,Africa,1998,0
+Taiwan,Asia,United States,North America,1998,36839
+Taiwan,Asia,Canada,North America,1998,13869
+Taiwan,Asia,Mexico,North America,1998,0
+Taiwan,Asia,Brazil,South America,1998,0
+Taiwan,Asia,Argentina,South America,1998,0
+Taiwan,Asia,United Kingdom,Europe,1998,0
+Taiwan,Asia,Netherlands,Europe,1998,0
+Taiwan,Asia,Belgium,Europe,1998,0
+Taiwan,Asia,France,Europe,1998,0
+Taiwan,Asia,Switzerland,Europe,1998,0
+Taiwan,Asia,Spain,Europe,1998,1819
+Taiwan,Asia,Portugal,Europe,1998,0
+Taiwan,Asia,Germany,Europe,1998,34436
+Taiwan,Asia,Poland,Europe,1998,0
+Taiwan,Asia,Austria,Europe,1998,856
+Taiwan,Asia,Hungary,Europe,1998,0
+Taiwan,Asia,Czech Republic,Europe,1998,965
+Taiwan,Asia,Slovakia,Europe,1998,0
+Taiwan,Asia,Italy,Europe,1998,0
+Taiwan,Asia,Croatia,Europe,1998,0
+Taiwan,Asia,Serbia,Europe,1998,0
+Taiwan,Asia,Bosnia,Europe,1998,0
+Taiwan,Asia,Greece,Europe,1998,0
+Taiwan,Asia,Bulgaria,Europe,1998,0
+Taiwan,Asia,Romania,Europe,1998,0
+Taiwan,Asia,Russia,Asia,1998,0
+Taiwan,Asia,Ukraine,Europe,1998,0
+Taiwan,Asia,Finland,Europe,1998,0
+Taiwan,Asia,Sweden,Europe,1998,0
+Taiwan,Asia,Norway,Europe,1998,0
+Taiwan,Asia,Denmark,Europe,1998,0
+Taiwan,Asia,South Africa,Africa,1998,0
+Taiwan,Asia,Turkey,Asia,1998,0
+Taiwan,Asia,Israel,Asia,1998,0
+Taiwan,Asia,United Arab Emirates,Asia,1998,0
+Taiwan,Asia,Taiwan,Asia,1998,0
+Taiwan,Asia,South Korea,Asia,1998,0
+Taiwan,Asia,Japan,Asia,1998,0
+Taiwan,Asia,India,Asia,1998,0
+Taiwan,Asia,Pakistan,Asia,1998,0
+Taiwan,Asia,Thailand,Asia,1998,0
+Taiwan,Asia,Malaysia,Asia,1998,0
+Taiwan,Asia,Singapore,Asia,1998,0
+Taiwan,Asia,Philippines,Asia,1998,0
+Taiwan,Asia,Indonesia,Asia,1998,0
+Taiwan,Asia,Australia,Oceania,1998,0
+Taiwan,Asia,Cyprus,Europe,1998,0
+Taiwan,Asia,China,Asia,1998,0
+Taiwan,Asia,Ivory Coast,Africa,1998,0
+Taiwan,Asia,Congo,Africa,1998,0
+South Korea,Asia,United States,North America,1998,250054
+South Korea,Asia,Canada,North America,1998,69595
+South Korea,Asia,Mexico,North America,1998,0
+South Korea,Asia,Brazil,South America,1998,0
+South Korea,Asia,Argentina,South America,1998,115147
+South Korea,Asia,United Kingdom,Europe,1998,55100
+South Korea,Asia,Netherlands,Europe,1998,0
+South Korea,Asia,Belgium,Europe,1998,2781
+South Korea,Asia,France,Europe,1998,0
+South Korea,Asia,Switzerland,Europe,1998,0
+South Korea,Asia,Spain,Europe,1998,0
+South Korea,Asia,Portugal,Europe,1998,0
+South Korea,Asia,Germany,Europe,1998,676605
+South Korea,Asia,Poland,Europe,1998,0
+South Korea,Asia,Austria,Europe,1998,0
+South Korea,Asia,Hungary,Europe,1998,0
+South Korea,Asia,Czech Republic,Europe,1998,8174
+South Korea,Asia,Slovakia,Europe,1998,16161
+South Korea,Asia,Italy,Europe,1998,4441
+South Korea,Asia,Croatia,Europe,1998,1698
+South Korea,Asia,Serbia,Europe,1998,0
+South Korea,Asia,Bosnia,Europe,1998,0
+South Korea,Asia,Greece,Europe,1998,0
+South Korea,Asia,Bulgaria,Europe,1998,0
+South Korea,Asia,Romania,Europe,1998,0
+South Korea,Asia,Russia,Asia,1998,15212
+South Korea,Asia,Ukraine,Europe,1998,0
+South Korea,Asia,Finland,Europe,1998,0
+South Korea,Asia,Sweden,Europe,1998,0
+South Korea,Asia,Norway,Europe,1998,0
+South Korea,Asia,Denmark,Europe,1998,0
+South Korea,Asia,South Africa,Africa,1998,0
+South Korea,Asia,Turkey,Asia,1998,48694808
+South Korea,Asia,Israel,Asia,1998,1332344
+South Korea,Asia,United Arab Emirates,Asia,1998,21211
+South Korea,Asia,Taiwan,Asia,1998,1269439
+South Korea,Asia,South Korea,Asia,1998,0
+South Korea,Asia,Japan,Asia,1998,0
+South Korea,Asia,India,Asia,1998,20548
+South Korea,Asia,Pakistan,Asia,1998,0
+South Korea,Asia,Thailand,Asia,1998,265655
+South Korea,Asia,Malaysia,Asia,1998,0
+South Korea,Asia,Singapore,Asia,1998,0
+South Korea,Asia,Philippines,Asia,1998,566409
+South Korea,Asia,Indonesia,Asia,1998,32649
+South Korea,Asia,Australia,Oceania,1998,879960
+South Korea,Asia,Cyprus,Europe,1998,0
+South Korea,Asia,China,Asia,1998,0
+South Korea,Asia,Ivory Coast,Africa,1998,0
+South Korea,Asia,Congo,Africa,1998,0
+Japan,Asia,United States,North America,1998,22567629
+Japan,Asia,Canada,North America,1998,1321747
+Japan,Asia,Mexico,North America,1998,57943
+Japan,Asia,Brazil,South America,1998,0
+Japan,Asia,Argentina,South America,1998,990
+Japan,Asia,United Kingdom,Europe,1998,506261
+Japan,Asia,Netherlands,Europe,1998,0
+Japan,Asia,Belgium,Europe,1998,9951611
+Japan,Asia,France,Europe,1998,3210352
+Japan,Asia,Switzerland,Europe,1998,0
+Japan,Asia,Spain,Europe,1998,1459
+Japan,Asia,Portugal,Europe,1998,74650
+Japan,Asia,Germany,Europe,1998,92545
+Japan,Asia,Poland,Europe,1998,0
+Japan,Asia,Austria,Europe,1998,62926
+Japan,Asia,Hungary,Europe,1998,70199
+Japan,Asia,Czech Republic,Europe,1998,5256
+Japan,Asia,Slovakia,Europe,1998,18083
+Japan,Asia,Italy,Europe,1998,10219
+Japan,Asia,Croatia,Europe,1998,0
+Japan,Asia,Serbia,Europe,1998,0
+Japan,Asia,Bosnia,Europe,1998,0
+Japan,Asia,Greece,Europe,1998,12992
+Japan,Asia,Bulgaria,Europe,1998,0
+Japan,Asia,Romania,Europe,1998,0
+Japan,Asia,Russia,Asia,1998,0
+Japan,Asia,Ukraine,Europe,1998,0
+Japan,Asia,Finland,Europe,1998,41587
+Japan,Asia,Sweden,Europe,1998,120948
+Japan,Asia,Norway,Europe,1998,93529
+Japan,Asia,Denmark,Europe,1998,340932
+Japan,Asia,South Africa,Africa,1998,23041
+Japan,Asia,Turkey,Asia,1998,961
+Japan,Asia,Israel,Asia,1998,0
+Japan,Asia,United Arab Emirates,Asia,1998,0
+Japan,Asia,Taiwan,Asia,1998,0
+Japan,Asia,South Korea,Asia,1998,10049
+Japan,Asia,Japan,Asia,1998,0
+Japan,Asia,India,Asia,1998,0
+Japan,Asia,Pakistan,Asia,1998,0
+Japan,Asia,Thailand,Asia,1998,90432
+Japan,Asia,Malaysia,Asia,1998,21789
+Japan,Asia,Singapore,Asia,1998,0
+Japan,Asia,Philippines,Asia,1998,341853
+Japan,Asia,Indonesia,Asia,1998,0
+Japan,Asia,Australia,Oceania,1998,410416
+Japan,Asia,Cyprus,Europe,1998,376388
+Japan,Asia,China,Asia,1998,0
+Japan,Asia,Ivory Coast,Africa,1998,0
+Japan,Asia,Congo,Africa,1998,0
+India,Asia,United States,North America,1998,137664
+India,Asia,Canada,North America,1998,4568
+India,Asia,Mexico,North America,1998,0
+India,Asia,Brazil,South America,1998,0
+India,Asia,Argentina,South America,1998,0
+India,Asia,United Kingdom,Europe,1998,185950
+India,Asia,Netherlands,Europe,1998,0
+India,Asia,Belgium,Europe,1998,0
+India,Asia,France,Europe,1998,33331
+India,Asia,Switzerland,Europe,1998,9610
+India,Asia,Spain,Europe,1998,0
+India,Asia,Portugal,Europe,1998,0
+India,Asia,Germany,Europe,1998,90075
+India,Asia,Poland,Europe,1998,0
+India,Asia,Austria,Europe,1998,856
+India,Asia,Hungary,Europe,1998,0
+India,Asia,Czech Republic,Europe,1998,0
+India,Asia,Slovakia,Europe,1998,0
+India,Asia,Italy,Europe,1998,0
+India,Asia,Croatia,Europe,1998,0
+India,Asia,Serbia,Europe,1998,0
+India,Asia,Bosnia,Europe,1998,0
+India,Asia,Greece,Europe,1998,0
+India,Asia,Bulgaria,Europe,1998,0
+India,Asia,Romania,Europe,1998,0
+India,Asia,Russia,Asia,1998,0
+India,Asia,Ukraine,Europe,1998,0
+India,Asia,Finland,Europe,1998,0
+India,Asia,Sweden,Europe,1998,0
+India,Asia,Norway,Europe,1998,0
+India,Asia,Denmark,Europe,1998,0
+India,Asia,South Africa,Africa,1998,0
+India,Asia,Turkey,Asia,1998,0
+India,Asia,Israel,Asia,1998,0
+India,Asia,United Arab Emirates,Asia,1998,0
+India,Asia,Taiwan,Asia,1998,0
+India,Asia,South Korea,Asia,1998,0
+India,Asia,Japan,Asia,1998,0
+India,Asia,India,Asia,1998,0
+India,Asia,Pakistan,Asia,1998,0
+India,Asia,Thailand,Asia,1998,0
+India,Asia,Malaysia,Asia,1998,0
+India,Asia,Singapore,Asia,1998,0
+India,Asia,Philippines,Asia,1998,0
+India,Asia,Indonesia,Asia,1998,56269
+India,Asia,Australia,Oceania,1998,0
+India,Asia,Cyprus,Europe,1998,0
+India,Asia,China,Asia,1998,0
+India,Asia,Ivory Coast,Africa,1998,0
+India,Asia,Congo,Africa,1998,0
+Pakistan,Asia,United States,North America,1998,0
+Pakistan,Asia,Canada,North America,1998,0
+Pakistan,Asia,Mexico,North America,1998,0
+Pakistan,Asia,Brazil,South America,1998,0
+Pakistan,Asia,Argentina,South America,1998,0
+Pakistan,Asia,United Kingdom,Europe,1998,10972
+Pakistan,Asia,Netherlands,Europe,1998,0
+Pakistan,Asia,Belgium,Europe,1998,0
+Pakistan,Asia,France,Europe,1998,0
+Pakistan,Asia,Switzerland,Europe,1998,0
+Pakistan,Asia,Spain,Europe,1998,0
+Pakistan,Asia,Portugal,Europe,1998,0
+Pakistan,Asia,Germany,Europe,1998,0
+Pakistan,Asia,Poland,Europe,1998,0
+Pakistan,Asia,Austria,Europe,1998,0
+Pakistan,Asia,Hungary,Europe,1998,0
+Pakistan,Asia,Czech Republic,Europe,1998,0
+Pakistan,Asia,Slovakia,Europe,1998,0
+Pakistan,Asia,Italy,Europe,1998,0
+Pakistan,Asia,Croatia,Europe,1998,0
+Pakistan,Asia,Serbia,Europe,1998,0
+Pakistan,Asia,Bosnia,Europe,1998,0
+Pakistan,Asia,Greece,Europe,1998,0
+Pakistan,Asia,Bulgaria,Europe,1998,0
+Pakistan,Asia,Romania,Europe,1998,0
+Pakistan,Asia,Russia,Asia,1998,0
+Pakistan,Asia,Ukraine,Europe,1998,0
+Pakistan,Asia,Finland,Europe,1998,0
+Pakistan,Asia,Sweden,Europe,1998,0
+Pakistan,Asia,Norway,Europe,1998,0
+Pakistan,Asia,Denmark,Europe,1998,0
+Pakistan,Asia,South Africa,Africa,1998,0
+Pakistan,Asia,Turkey,Asia,1998,0
+Pakistan,Asia,Israel,Asia,1998,0
+Pakistan,Asia,United Arab Emirates,Asia,1998,0
+Pakistan,Asia,Taiwan,Asia,1998,0
+Pakistan,Asia,South Korea,Asia,1998,0
+Pakistan,Asia,Japan,Asia,1998,0
+Pakistan,Asia,India,Asia,1998,0
+Pakistan,Asia,Pakistan,Asia,1998,0
+Pakistan,Asia,Thailand,Asia,1998,17547
+Pakistan,Asia,Malaysia,Asia,1998,0
+Pakistan,Asia,Singapore,Asia,1998,0
+Pakistan,Asia,Philippines,Asia,1998,0
+Pakistan,Asia,Indonesia,Asia,1998,0
+Pakistan,Asia,Australia,Oceania,1998,0
+Pakistan,Asia,Cyprus,Europe,1998,0
+Pakistan,Asia,China,Asia,1998,0
+Pakistan,Asia,Ivory Coast,Africa,1998,0
+Pakistan,Asia,Congo,Africa,1998,0
+Thailand,Asia,United States,North America,1998,0
+Thailand,Asia,Canada,North America,1998,0
+Thailand,Asia,Mexico,North America,1998,0
+Thailand,Asia,Brazil,South America,1998,0
+Thailand,Asia,Argentina,South America,1998,0
+Thailand,Asia,United Kingdom,Europe,1998,797
+Thailand,Asia,Netherlands,Europe,1998,0
+Thailand,Asia,Belgium,Europe,1998,0
+Thailand,Asia,France,Europe,1998,6296
+Thailand,Asia,Switzerland,Europe,1998,0
+Thailand,Asia,Spain,Europe,1998,0
+Thailand,Asia,Portugal,Europe,1998,0
+Thailand,Asia,Germany,Europe,1998,3973
+Thailand,Asia,Poland,Europe,1998,0
+Thailand,Asia,Austria,Europe,1998,0
+Thailand,Asia,Hungary,Europe,1998,0
+Thailand,Asia,Czech Republic,Europe,1998,0
+Thailand,Asia,Slovakia,Europe,1998,0
+Thailand,Asia,Italy,Europe,1998,0
+Thailand,Asia,Croatia,Europe,1998,0
+Thailand,Asia,Serbia,Europe,1998,0
+Thailand,Asia,Bosnia,Europe,1998,0
+Thailand,Asia,Greece,Europe,1998,0
+Thailand,Asia,Bulgaria,Europe,1998,0
+Thailand,Asia,Romania,Europe,1998,0
+Thailand,Asia,Russia,Asia,1998,0
+Thailand,Asia,Ukraine,Europe,1998,0
+Thailand,Asia,Finland,Europe,1998,0
+Thailand,Asia,Sweden,Europe,1998,0
+Thailand,Asia,Norway,Europe,1998,0
+Thailand,Asia,Denmark,Europe,1998,0
+Thailand,Asia,South Africa,Africa,1998,0
+Thailand,Asia,Turkey,Asia,1998,0
+Thailand,Asia,Israel,Asia,1998,0
+Thailand,Asia,United Arab Emirates,Asia,1998,0
+Thailand,Asia,Taiwan,Asia,1998,0
+Thailand,Asia,South Korea,Asia,1998,0
+Thailand,Asia,Japan,Asia,1998,0
+Thailand,Asia,India,Asia,1998,0
+Thailand,Asia,Pakistan,Asia,1998,0
+Thailand,Asia,Thailand,Asia,1998,0
+Thailand,Asia,Malaysia,Asia,1998,0
+Thailand,Asia,Singapore,Asia,1998,0
+Thailand,Asia,Philippines,Asia,1998,0
+Thailand,Asia,Indonesia,Asia,1998,0
+Thailand,Asia,Australia,Oceania,1998,0
+Thailand,Asia,Cyprus,Europe,1998,0
+Thailand,Asia,China,Asia,1998,0
+Thailand,Asia,Ivory Coast,Africa,1998,0
+Thailand,Asia,Congo,Africa,1998,0
+Malaysia,Asia,United States,North America,1998,0
+Malaysia,Asia,Canada,North America,1998,0
+Malaysia,Asia,Mexico,North America,1998,0
+Malaysia,Asia,Brazil,South America,1998,0
+Malaysia,Asia,Argentina,South America,1998,0
+Malaysia,Asia,United Kingdom,Europe,1998,0
+Malaysia,Asia,Netherlands,Europe,1998,0
+Malaysia,Asia,Belgium,Europe,1998,0
+Malaysia,Asia,France,Europe,1998,0
+Malaysia,Asia,Switzerland,Europe,1998,0
+Malaysia,Asia,Spain,Europe,1998,0
+Malaysia,Asia,Portugal,Europe,1998,0
+Malaysia,Asia,Germany,Europe,1998,0
+Malaysia,Asia,Poland,Europe,1998,0
+Malaysia,Asia,Austria,Europe,1998,0
+Malaysia,Asia,Hungary,Europe,1998,0
+Malaysia,Asia,Czech Republic,Europe,1998,0
+Malaysia,Asia,Slovakia,Europe,1998,0
+Malaysia,Asia,Italy,Europe,1998,0
+Malaysia,Asia,Croatia,Europe,1998,0
+Malaysia,Asia,Serbia,Europe,1998,0
+Malaysia,Asia,Bosnia,Europe,1998,0
+Malaysia,Asia,Greece,Europe,1998,0
+Malaysia,Asia,Bulgaria,Europe,1998,0
+Malaysia,Asia,Romania,Europe,1998,0
+Malaysia,Asia,Russia,Asia,1998,0
+Malaysia,Asia,Ukraine,Europe,1998,0
+Malaysia,Asia,Finland,Europe,1998,0
+Malaysia,Asia,Sweden,Europe,1998,0
+Malaysia,Asia,Norway,Europe,1998,0
+Malaysia,Asia,Denmark,Europe,1998,0
+Malaysia,Asia,South Africa,Africa,1998,0
+Malaysia,Asia,Turkey,Asia,1998,370869
+Malaysia,Asia,Israel,Asia,1998,0
+Malaysia,Asia,United Arab Emirates,Asia,1998,0
+Malaysia,Asia,Taiwan,Asia,1998,0
+Malaysia,Asia,South Korea,Asia,1998,0
+Malaysia,Asia,Japan,Asia,1998,0
+Malaysia,Asia,India,Asia,1998,0
+Malaysia,Asia,Pakistan,Asia,1998,0
+Malaysia,Asia,Thailand,Asia,1998,0
+Malaysia,Asia,Malaysia,Asia,1998,0
+Malaysia,Asia,Singapore,Asia,1998,14951
+Malaysia,Asia,Philippines,Asia,1998,0
+Malaysia,Asia,Indonesia,Asia,1998,0
+Malaysia,Asia,Australia,Oceania,1998,0
+Malaysia,Asia,Cyprus,Europe,1998,11086
+Malaysia,Asia,China,Asia,1998,0
+Malaysia,Asia,Ivory Coast,Africa,1998,0
+Malaysia,Asia,Congo,Africa,1998,0
+Singapore,Asia,United States,North America,1998,4675
+Singapore,Asia,Canada,North America,1998,0
+Singapore,Asia,Mexico,North America,1998,0
+Singapore,Asia,Brazil,South America,1998,0
+Singapore,Asia,Argentina,South America,1998,0
+Singapore,Asia,United Kingdom,Europe,1998,0
+Singapore,Asia,Netherlands,Europe,1998,0
+Singapore,Asia,Belgium,Europe,1998,0
+Singapore,Asia,France,Europe,1998,0
+Singapore,Asia,Switzerland,Europe,1998,13155
+Singapore,Asia,Spain,Europe,1998,0
+Singapore,Asia,Portugal,Europe,1998,0
+Singapore,Asia,Germany,Europe,1998,0
+Singapore,Asia,Poland,Europe,1998,0
+Singapore,Asia,Austria,Europe,1998,0
+Singapore,Asia,Hungary,Europe,1998,0
+Singapore,Asia,Czech Republic,Europe,1998,0
+Singapore,Asia,Slovakia,Europe,1998,0
+Singapore,Asia,Italy,Europe,1998,0
+Singapore,Asia,Croatia,Europe,1998,0
+Singapore,Asia,Serbia,Europe,1998,0
+Singapore,Asia,Bosnia,Europe,1998,0
+Singapore,Asia,Greece,Europe,1998,0
+Singapore,Asia,Bulgaria,Europe,1998,0
+Singapore,Asia,Romania,Europe,1998,0
+Singapore,Asia,Russia,Asia,1998,0
+Singapore,Asia,Ukraine,Europe,1998,0
+Singapore,Asia,Finland,Europe,1998,0
+Singapore,Asia,Sweden,Europe,1998,0
+Singapore,Asia,Norway,Europe,1998,0
+Singapore,Asia,Denmark,Europe,1998,0
+Singapore,Asia,South Africa,Africa,1998,0
+Singapore,Asia,Turkey,Asia,1998,0
+Singapore,Asia,Israel,Asia,1998,0
+Singapore,Asia,United Arab Emirates,Asia,1998,0
+Singapore,Asia,Taiwan,Asia,1998,0
+Singapore,Asia,South Korea,Asia,1998,0
+Singapore,Asia,Japan,Asia,1998,0
+Singapore,Asia,India,Asia,1998,2467
+Singapore,Asia,Pakistan,Asia,1998,0
+Singapore,Asia,Thailand,Asia,1998,16748
+Singapore,Asia,Malaysia,Asia,1998,156313
+Singapore,Asia,Singapore,Asia,1998,0
+Singapore,Asia,Philippines,Asia,1998,3544
+Singapore,Asia,Indonesia,Asia,1998,6693
+Singapore,Asia,Australia,Oceania,1998,0
+Singapore,Asia,Cyprus,Europe,1998,0
+Singapore,Asia,China,Asia,1998,0
+Singapore,Asia,Ivory Coast,Africa,1998,0
+Singapore,Asia,Congo,Africa,1998,0
+Philippines,Asia,United States,North America,1998,1602749
+Philippines,Asia,Canada,North America,1998,1899
+Philippines,Asia,Mexico,North America,1998,0
+Philippines,Asia,Brazil,South America,1998,0
+Philippines,Asia,Argentina,South America,1998,320599
+Philippines,Asia,United Kingdom,Europe,1998,0
+Philippines,Asia,Netherlands,Europe,1998,0
+Philippines,Asia,Belgium,Europe,1998,0
+Philippines,Asia,France,Europe,1998,241299
+Philippines,Asia,Switzerland,Europe,1998,0
+Philippines,Asia,Spain,Europe,1998,0
+Philippines,Asia,Portugal,Europe,1998,0
+Philippines,Asia,Germany,Europe,1998,42385
+Philippines,Asia,Poland,Europe,1998,0
+Philippines,Asia,Austria,Europe,1998,0
+Philippines,Asia,Hungary,Europe,1998,0
+Philippines,Asia,Czech Republic,Europe,1998,0
+Philippines,Asia,Slovakia,Europe,1998,0
+Philippines,Asia,Italy,Europe,1998,0
+Philippines,Asia,Croatia,Europe,1998,0
+Philippines,Asia,Serbia,Europe,1998,0
+Philippines,Asia,Bosnia,Europe,1998,0
+Philippines,Asia,Greece,Europe,1998,0
+Philippines,Asia,Bulgaria,Europe,1998,0
+Philippines,Asia,Romania,Europe,1998,0
+Philippines,Asia,Russia,Asia,1998,0
+Philippines,Asia,Ukraine,Europe,1998,0
+Philippines,Asia,Finland,Europe,1998,17355
+Philippines,Asia,Sweden,Europe,1998,25011
+Philippines,Asia,Norway,Europe,1998,0
+Philippines,Asia,Denmark,Europe,1998,0
+Philippines,Asia,South Africa,Africa,1998,0
+Philippines,Asia,Turkey,Asia,1998,0
+Philippines,Asia,Israel,Asia,1998,0
+Philippines,Asia,United Arab Emirates,Asia,1998,0
+Philippines,Asia,Taiwan,Asia,1998,16257
+Philippines,Asia,South Korea,Asia,1998,0
+Philippines,Asia,Japan,Asia,1998,0
+Philippines,Asia,India,Asia,1998,0
+Philippines,Asia,Pakistan,Asia,1998,0
+Philippines,Asia,Thailand,Asia,1998,156062
+Philippines,Asia,Malaysia,Asia,1998,0
+Philippines,Asia,Singapore,Asia,1998,0
+Philippines,Asia,Philippines,Asia,1998,0
+Philippines,Asia,Indonesia,Asia,1998,0
+Philippines,Asia,Australia,Oceania,1998,57021
+Philippines,Asia,Cyprus,Europe,1998,0
+Philippines,Asia,China,Asia,1998,0
+Philippines,Asia,Ivory Coast,Africa,1998,0
+Philippines,Asia,Congo,Africa,1998,0
+Indonesia,Asia,United States,North America,1998,0
+Indonesia,Asia,Canada,North America,1998,0
+Indonesia,Asia,Mexico,North America,1998,0
+Indonesia,Asia,Brazil,South America,1998,0
+Indonesia,Asia,Argentina,South America,1998,0
+Indonesia,Asia,United Kingdom,Europe,1998,0
+Indonesia,Asia,Netherlands,Europe,1998,0
+Indonesia,Asia,Belgium,Europe,1998,0
+Indonesia,Asia,France,Europe,1998,0
+Indonesia,Asia,Switzerland,Europe,1998,0
+Indonesia,Asia,Spain,Europe,1998,0
+Indonesia,Asia,Portugal,Europe,1998,0
+Indonesia,Asia,Germany,Europe,1998,0
+Indonesia,Asia,Poland,Europe,1998,0
+Indonesia,Asia,Austria,Europe,1998,0
+Indonesia,Asia,Hungary,Europe,1998,0
+Indonesia,Asia,Czech Republic,Europe,1998,0
+Indonesia,Asia,Slovakia,Europe,1998,0
+Indonesia,Asia,Italy,Europe,1998,50569
+Indonesia,Asia,Croatia,Europe,1998,0
+Indonesia,Asia,Serbia,Europe,1998,0
+Indonesia,Asia,Bosnia,Europe,1998,0
+Indonesia,Asia,Greece,Europe,1998,0
+Indonesia,Asia,Bulgaria,Europe,1998,0
+Indonesia,Asia,Romania,Europe,1998,0
+Indonesia,Asia,Russia,Asia,1998,0
+Indonesia,Asia,Ukraine,Europe,1998,0
+Indonesia,Asia,Finland,Europe,1998,0
+Indonesia,Asia,Sweden,Europe,1998,0
+Indonesia,Asia,Norway,Europe,1998,0
+Indonesia,Asia,Denmark,Europe,1998,0
+Indonesia,Asia,South Africa,Africa,1998,0
+Indonesia,Asia,Turkey,Asia,1998,0
+Indonesia,Asia,Israel,Asia,1998,0
+Indonesia,Asia,United Arab Emirates,Asia,1998,0
+Indonesia,Asia,Taiwan,Asia,1998,0
+Indonesia,Asia,South Korea,Asia,1998,0
+Indonesia,Asia,Japan,Asia,1998,0
+Indonesia,Asia,India,Asia,1998,0
+Indonesia,Asia,Pakistan,Asia,1998,0
+Indonesia,Asia,Thailand,Asia,1998,0
+Indonesia,Asia,Malaysia,Asia,1998,0
+Indonesia,Asia,Singapore,Asia,1998,0
+Indonesia,Asia,Philippines,Asia,1998,0
+Indonesia,Asia,Indonesia,Asia,1998,0
+Indonesia,Asia,Australia,Oceania,1998,0
+Indonesia,Asia,Cyprus,Europe,1998,0
+Indonesia,Asia,China,Asia,1998,0
+Indonesia,Asia,Ivory Coast,Africa,1998,0
+Indonesia,Asia,Congo,Africa,1998,0
+Australia,Oceania,United States,North America,1998,1566008
+Australia,Oceania,Canada,North America,1998,121042
+Australia,Oceania,Mexico,North America,1998,0
+Australia,Oceania,Brazil,South America,1998,0
+Australia,Oceania,Argentina,South America,1998,0
+Australia,Oceania,United Kingdom,Europe,1998,600885
+Australia,Oceania,Netherlands,Europe,1998,0
+Australia,Oceania,Belgium,Europe,1998,427906
+Australia,Oceania,France,Europe,1998,731893
+Australia,Oceania,Switzerland,Europe,1998,21503
+Australia,Oceania,Spain,Europe,1998,3386
+Australia,Oceania,Portugal,Europe,1998,0
+Australia,Oceania,Germany,Europe,1998,29138
+Australia,Oceania,Poland,Europe,1998,0
+Australia,Oceania,Austria,Europe,1998,5812
+Australia,Oceania,Hungary,Europe,1998,0
+Australia,Oceania,Czech Republic,Europe,1998,65891
+Australia,Oceania,Slovakia,Europe,1998,0
+Australia,Oceania,Italy,Europe,1998,13684
+Australia,Oceania,Croatia,Europe,1998,2876
+Australia,Oceania,Serbia,Europe,1998,0
+Australia,Oceania,Bosnia,Europe,1998,0
+Australia,Oceania,Greece,Europe,1998,1524
+Australia,Oceania,Bulgaria,Europe,1998,0
+Australia,Oceania,Romania,Europe,1998,1663
+Australia,Oceania,Russia,Asia,1998,0
+Australia,Oceania,Ukraine,Europe,1998,0
+Australia,Oceania,Finland,Europe,1998,864
+Australia,Oceania,Sweden,Europe,1998,2246
+Australia,Oceania,Norway,Europe,1998,0
+Australia,Oceania,Denmark,Europe,1998,2495
+Australia,Oceania,South Africa,Africa,1998,316244
+Australia,Oceania,Turkey,Asia,1998,0
+Australia,Oceania,Israel,Asia,1998,0
+Australia,Oceania,United Arab Emirates,Asia,1998,0
+Australia,Oceania,Taiwan,Asia,1998,0
+Australia,Oceania,South Korea,Asia,1998,57116
+Australia,Oceania,Japan,Asia,1998,1496113
+Australia,Oceania,India,Asia,1998,0
+Australia,Oceania,Pakistan,Asia,1998,0
+Australia,Oceania,Thailand,Asia,1998,48923
+Australia,Oceania,Malaysia,Asia,1998,16204
+Australia,Oceania,Singapore,Asia,1998,183727
+Australia,Oceania,Philippines,Asia,1998,235022
+Australia,Oceania,Indonesia,Asia,1998,0
+Australia,Oceania,Australia,Oceania,1998,0
+Australia,Oceania,Cyprus,Europe,1998,18039
+Australia,Oceania,China,Asia,1998,0
+Australia,Oceania,Ivory Coast,Africa,1998,0
+Australia,Oceania,Congo,Africa,1998,0
+Cyprus,Europe,United States,North America,1998,650126
+Cyprus,Europe,Canada,North America,1998,0
+Cyprus,Europe,Mexico,North America,1998,0
+Cyprus,Europe,Brazil,South America,1998,0
+Cyprus,Europe,Argentina,South America,1998,0
+Cyprus,Europe,United Kingdom,Europe,1998,1202927
+Cyprus,Europe,Netherlands,Europe,1998,2552
+Cyprus,Europe,Belgium,Europe,1998,3062
+Cyprus,Europe,France,Europe,1998,1575352
+Cyprus,Europe,Switzerland,Europe,1998,0
+Cyprus,Europe,Spain,Europe,1998,15961
+Cyprus,Europe,Portugal,Europe,1998,141602
+Cyprus,Europe,Germany,Europe,1998,6622
+Cyprus,Europe,Poland,Europe,1998,0
+Cyprus,Europe,Austria,Europe,1998,0
+Cyprus,Europe,Hungary,Europe,1998,0
+Cyprus,Europe,Czech Republic,Europe,1998,47294
+Cyprus,Europe,Slovakia,Europe,1998,0
+Cyprus,Europe,Italy,Europe,1998,138383
+Cyprus,Europe,Croatia,Europe,1998,90350
+Cyprus,Europe,Serbia,Europe,1998,126253
+Cyprus,Europe,Bosnia,Europe,1998,160780
+Cyprus,Europe,Greece,Europe,1998,108237
+Cyprus,Europe,Bulgaria,Europe,1998,16240
+Cyprus,Europe,Romania,Europe,1998,11969
+Cyprus,Europe,Russia,Asia,1998,411544
+Cyprus,Europe,Ukraine,Europe,1998,32023
+Cyprus,Europe,Finland,Europe,1998,0
+Cyprus,Europe,Sweden,Europe,1998,0
+Cyprus,Europe,Norway,Europe,1998,0
+Cyprus,Europe,Denmark,Europe,1998,0
+Cyprus,Europe,South Africa,Africa,1998,17969
+Cyprus,Europe,Turkey,Asia,1998,0
+Cyprus,Europe,Israel,Asia,1998,0
+Cyprus,Europe,United Arab Emirates,Asia,1998,21808
+Cyprus,Europe,Taiwan,Asia,1998,0
+Cyprus,Europe,South Korea,Asia,1998,0
+Cyprus,Europe,Japan,Asia,1998,54611
+Cyprus,Europe,India,Asia,1998,3759
+Cyprus,Europe,Pakistan,Asia,1998,0
+Cyprus,Europe,Thailand,Asia,1998,27766
+Cyprus,Europe,Malaysia,Asia,1998,6635
+Cyprus,Europe,Singapore,Asia,1998,0
+Cyprus,Europe,Philippines,Asia,1998,0
+Cyprus,Europe,Indonesia,Asia,1998,0
+Cyprus,Europe,Australia,Oceania,1998,112578
+Cyprus,Europe,Cyprus,Europe,1998,0
+Cyprus,Europe,China,Asia,1998,0
+Cyprus,Europe,Ivory Coast,Africa,1998,0
+Cyprus,Europe,Congo,Africa,1998,0
+China,Asia,United States,North America,1998,796047
+China,Asia,Canada,North America,1998,263218
+China,Asia,Mexico,North America,1998,645197
+China,Asia,Brazil,South America,1998,0
+China,Asia,Argentina,South America,1998,262031
+China,Asia,United Kingdom,Europe,1998,2342604
+China,Asia,Netherlands,Europe,1998,0
+China,Asia,Belgium,Europe,1998,107864
+China,Asia,France,Europe,1998,2149118
+China,Asia,Switzerland,Europe,1998,21913
+China,Asia,Spain,Europe,1998,41545
+China,Asia,Portugal,Europe,1998,0
+China,Asia,Germany,Europe,1998,807964
+China,Asia,Poland,Europe,1998,0
+China,Asia,Austria,Europe,1998,101251
+China,Asia,Hungary,Europe,1998,0
+China,Asia,Czech Republic,Europe,1998,139520
+China,Asia,Slovakia,Europe,1998,6212
+China,Asia,Italy,Europe,1998,35726
+China,Asia,Croatia,Europe,1998,0
+China,Asia,Serbia,Europe,1998,0
+China,Asia,Bosnia,Europe,1998,0
+China,Asia,Greece,Europe,1998,0
+China,Asia,Bulgaria,Europe,1998,0
+China,Asia,Romania,Europe,1998,0
+China,Asia,Russia,Asia,1998,0
+China,Asia,Ukraine,Europe,1998,0
+China,Asia,Finland,Europe,1998,17050
+China,Asia,Sweden,Europe,1998,0
+China,Asia,Norway,Europe,1998,0
+China,Asia,Denmark,Europe,1998,0
+China,Asia,South Africa,Africa,1998,911569
+China,Asia,Turkey,Asia,1998,4391556
+China,Asia,Israel,Asia,1998,2468
+China,Asia,United Arab Emirates,Asia,1998,0
+China,Asia,Taiwan,Asia,1998,0
+China,Asia,South Korea,Asia,1998,0
+China,Asia,Japan,Asia,1998,5826
+China,Asia,India,Asia,1998,0
+China,Asia,Pakistan,Asia,1998,2764584
+China,Asia,Thailand,Asia,1998,121587
+China,Asia,Malaysia,Asia,1998,0
+China,Asia,Singapore,Asia,1998,780
+China,Asia,Philippines,Asia,1998,360217
+China,Asia,Indonesia,Asia,1998,0
+China,Asia,Australia,Oceania,1998,223224
+China,Asia,Cyprus,Europe,1998,0
+China,Asia,China,Asia,1998,0
+China,Asia,Ivory Coast,Africa,1998,0
+China,Asia,Congo,Africa,1998,8341259
+Ivory Coast,Africa,United States,North America,1998,0
+Ivory Coast,Africa,Canada,North America,1998,0
+Ivory Coast,Africa,Mexico,North America,1998,0
+Ivory Coast,Africa,Brazil,South America,1998,0
+Ivory Coast,Africa,Argentina,South America,1998,0
+Ivory Coast,Africa,United Kingdom,Europe,1998,0
+Ivory Coast,Africa,Netherlands,Europe,1998,0
+Ivory Coast,Africa,Belgium,Europe,1998,0
+Ivory Coast,Africa,France,Europe,1998,0
+Ivory Coast,Africa,Switzerland,Europe,1998,0
+Ivory Coast,Africa,Spain,Europe,1998,0
+Ivory Coast,Africa,Portugal,Europe,1998,0
+Ivory Coast,Africa,Germany,Europe,1998,0
+Ivory Coast,Africa,Poland,Europe,1998,0
+Ivory Coast,Africa,Austria,Europe,1998,0
+Ivory Coast,Africa,Hungary,Europe,1998,0
+Ivory Coast,Africa,Czech Republic,Europe,1998,0
+Ivory Coast,Africa,Slovakia,Europe,1998,0
+Ivory Coast,Africa,Italy,Europe,1998,0
+Ivory Coast,Africa,Croatia,Europe,1998,0
+Ivory Coast,Africa,Serbia,Europe,1998,0
+Ivory Coast,Africa,Bosnia,Europe,1998,0
+Ivory Coast,Africa,Greece,Europe,1998,0
+Ivory Coast,Africa,Bulgaria,Europe,1998,0
+Ivory Coast,Africa,Romania,Europe,1998,0
+Ivory Coast,Africa,Russia,Asia,1998,0
+Ivory Coast,Africa,Ukraine,Europe,1998,0
+Ivory Coast,Africa,Finland,Europe,1998,0
+Ivory Coast,Africa,Sweden,Europe,1998,0
+Ivory Coast,Africa,Norway,Europe,1998,0
+Ivory Coast,Africa,Denmark,Europe,1998,0
+Ivory Coast,Africa,South Africa,Africa,1998,0
+Ivory Coast,Africa,Turkey,Asia,1998,0
+Ivory Coast,Africa,Israel,Asia,1998,0
+Ivory Coast,Africa,United Arab Emirates,Asia,1998,0
+Ivory Coast,Africa,Taiwan,Asia,1998,0
+Ivory Coast,Africa,South Korea,Asia,1998,0
+Ivory Coast,Africa,Japan,Asia,1998,0
+Ivory Coast,Africa,India,Asia,1998,0
+Ivory Coast,Africa,Pakistan,Asia,1998,0
+Ivory Coast,Africa,Thailand,Asia,1998,0
+Ivory Coast,Africa,Malaysia,Asia,1998,0
+Ivory Coast,Africa,Singapore,Asia,1998,0
+Ivory Coast,Africa,Philippines,Asia,1998,0
+Ivory Coast,Africa,Indonesia,Asia,1998,0
+Ivory Coast,Africa,Australia,Oceania,1998,0
+Ivory Coast,Africa,Cyprus,Europe,1998,0
+Ivory Coast,Africa,China,Asia,1998,0
+Ivory Coast,Africa,Ivory Coast,Africa,1998,0
+Ivory Coast,Africa,Congo,Africa,1998,0
+Congo,Africa,United States,North America,1998,0
+Congo,Africa,Canada,North America,1998,0
+Congo,Africa,Mexico,North America,1998,0
+Congo,Africa,Brazil,South America,1998,0
+Congo,Africa,Argentina,South America,1998,0
+Congo,Africa,United Kingdom,Europe,1998,0
+Congo,Africa,Netherlands,Europe,1998,0
+Congo,Africa,Belgium,Europe,1998,0
+Congo,Africa,France,Europe,1998,0
+Congo,Africa,Switzerland,Europe,1998,0
+Congo,Africa,Spain,Europe,1998,0
+Congo,Africa,Portugal,Europe,1998,0
+Congo,Africa,Germany,Europe,1998,0
+Congo,Africa,Poland,Europe,1998,0
+Congo,Africa,Austria,Europe,1998,0
+Congo,Africa,Hungary,Europe,1998,0
+Congo,Africa,Czech Republic,Europe,1998,0
+Congo,Africa,Slovakia,Europe,1998,0
+Congo,Africa,Italy,Europe,1998,0
+Congo,Africa,Croatia,Europe,1998,0
+Congo,Africa,Serbia,Europe,1998,0
+Congo,Africa,Bosnia,Europe,1998,0
+Congo,Africa,Greece,Europe,1998,0
+Congo,Africa,Bulgaria,Europe,1998,0
+Congo,Africa,Romania,Europe,1998,0
+Congo,Africa,Russia,Asia,1998,0
+Congo,Africa,Ukraine,Europe,1998,0
+Congo,Africa,Finland,Europe,1998,0
+Congo,Africa,Sweden,Europe,1998,0
+Congo,Africa,Norway,Europe,1998,0
+Congo,Africa,Denmark,Europe,1998,0
+Congo,Africa,South Africa,Africa,1998,0
+Congo,Africa,Turkey,Asia,1998,0
+Congo,Africa,Israel,Asia,1998,0
+Congo,Africa,United Arab Emirates,Asia,1998,0
+Congo,Africa,Taiwan,Asia,1998,0
+Congo,Africa,South Korea,Asia,1998,0
+Congo,Africa,Japan,Asia,1998,0
+Congo,Africa,India,Asia,1998,0
+Congo,Africa,Pakistan,Asia,1998,0
+Congo,Africa,Thailand,Asia,1998,0
+Congo,Africa,Malaysia,Asia,1998,0
+Congo,Africa,Singapore,Asia,1998,0
+Congo,Africa,Philippines,Asia,1998,0
+Congo,Africa,Indonesia,Asia,1998,0
+Congo,Africa,Australia,Oceania,1998,0
+Congo,Africa,Cyprus,Europe,1998,0
+Congo,Africa,China,Asia,1998,0
+Congo,Africa,Ivory Coast,Africa,1998,0
+Congo,Africa,Congo,Africa,1998,0

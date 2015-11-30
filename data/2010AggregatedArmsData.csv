@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,2010,0
+United States,North America,Canada,North America,2010,119712306
+United States,North America,Mexico,North America,2010,24500852
+United States,North America,Brazil,South America,2010,4858491
+United States,North America,Argentina,South America,2010,3472105
+United States,North America,United Kingdom,Europe,2010,26130559
+United States,North America,Netherlands,Europe,2010,791967
+United States,North America,Belgium,Europe,2010,12285013
+United States,North America,France,Europe,2010,11246712
+United States,North America,Switzerland,Europe,2010,1841371
+United States,North America,Spain,Europe,2010,19654140
+United States,North America,Portugal,Europe,2010,563448
+United States,North America,Germany,Europe,2010,21914015
+United States,North America,Poland,Europe,2010,1185312
+United States,North America,Austria,Europe,2010,1410222
+United States,North America,Hungary,Europe,2010,272748
+United States,North America,Czech Republic,Europe,2010,1331125
+United States,North America,Slovakia,Europe,2010,308841
+United States,North America,Italy,Europe,2010,8985023
+United States,North America,Croatia,Europe,2010,65263
+United States,North America,Serbia,Europe,2010,982074
+United States,North America,Bosnia,Europe,2010,1961608
+United States,North America,Greece,Europe,2010,1148951
+United States,North America,Bulgaria,Europe,2010,334133
+United States,North America,Romania,Europe,2010,29209
+United States,North America,Russia,Asia,2010,2700833
+United States,North America,Ukraine,Europe,2010,878116
+United States,North America,Finland,Europe,2010,2257586
+United States,North America,Sweden,Europe,2010,3369284
+United States,North America,Norway,Europe,2010,4724745
+United States,North America,Denmark,Europe,2010,2665079
+United States,North America,South Africa,Africa,2010,2894197
+United States,North America,Turkey,Asia,2010,1279967
+United States,North America,Israel,Asia,2010,42399536
+United States,North America,United Arab Emirates,Asia,2010,3691776
+United States,North America,Taiwan,Asia,2010,6043941
+United States,North America,South Korea,Asia,2010,6026720
+United States,North America,Japan,Asia,2010,5884906
+United States,North America,India,Asia,2010,705087
+United States,North America,Pakistan,Asia,2010,2661048
+United States,North America,Thailand,Asia,2010,33160679
+United States,North America,Malaysia,Asia,2010,7946556
+United States,North America,Singapore,Asia,2010,1897753
+United States,North America,Philippines,Asia,2010,7198415
+United States,North America,Indonesia,Asia,2010,624881
+United States,North America,Australia,Oceania,2010,44328730
+United States,North America,Cyprus,Europe,2010,73182
+United States,North America,China,Asia,2010,408329
+United States,North America,Ivory Coast,Africa,2010,7798
+United States,North America,Congo,Africa,2010,498096
+Canada,North America,United States,North America,2010,34944565
+Canada,North America,Canada,North America,2010,1061572
+Canada,North America,Mexico,North America,2010,8688
+Canada,North America,Brazil,South America,2010,153122
+Canada,North America,Argentina,South America,2010,104969
+Canada,North America,United Kingdom,Europe,2010,26415553
+Canada,North America,Netherlands,Europe,2010,636524
+Canada,North America,Belgium,Europe,2010,1483101
+Canada,North America,France,Europe,2010,1314587
+Canada,North America,Switzerland,Europe,2010,308332
+Canada,North America,Spain,Europe,2010,88557
+Canada,North America,Portugal,Europe,2010,13412
+Canada,North America,Germany,Europe,2010,836084
+Canada,North America,Poland,Europe,2010,133514
+Canada,North America,Austria,Europe,2010,347333
+Canada,North America,Hungary,Europe,2010,16874
+Canada,North America,Czech Republic,Europe,2010,161968
+Canada,North America,Slovakia,Europe,2010,9504
+Canada,North America,Italy,Europe,2010,311760
+Canada,North America,Croatia,Europe,2010,10994
+Canada,North America,Serbia,Europe,2010,17243
+Canada,North America,Bosnia,Europe,2010,3299
+Canada,North America,Greece,Europe,2010,14009
+Canada,North America,Bulgaria,Europe,2010,7162
+Canada,North America,Romania,Europe,2010,85715
+Canada,North America,Russia,Asia,2010,45528
+Canada,North America,Ukraine,Europe,2010,7061
+Canada,North America,Finland,Europe,2010,16626
+Canada,North America,Sweden,Europe,2010,140856
+Canada,North America,Norway,Europe,2010,1231264
+Canada,North America,Denmark,Europe,2010,6991237
+Canada,North America,South Africa,Africa,2010,0
+Canada,North America,Turkey,Asia,2010,142404
+Canada,North America,Israel,Asia,2010,253991
+Canada,North America,United Arab Emirates,Asia,2010,58257
+Canada,North America,Taiwan,Asia,2010,56994
+Canada,North America,South Korea,Asia,2010,249411
+Canada,North America,Japan,Asia,2010,269111
+Canada,North America,India,Asia,2010,128956
+Canada,North America,Pakistan,Asia,2010,0
+Canada,North America,Thailand,Asia,2010,34925
+Canada,North America,Malaysia,Asia,2010,0
+Canada,North America,Singapore,Asia,2010,323987
+Canada,North America,Philippines,Asia,2010,0
+Canada,North America,Indonesia,Asia,2010,0
+Canada,North America,Australia,Oceania,2010,468213
+Canada,North America,Cyprus,Europe,2010,0
+Canada,North America,China,Asia,2010,25412
+Canada,North America,Ivory Coast,Africa,2010,0
+Canada,North America,Congo,Africa,2010,0
+Mexico,North America,United States,North America,2010,7040654
+Mexico,North America,Canada,North America,2010,38567
+Mexico,North America,Mexico,North America,2010,0
+Mexico,North America,Brazil,South America,2010,0
+Mexico,North America,Argentina,South America,2010,195770
+Mexico,North America,United Kingdom,Europe,2010,0
+Mexico,North America,Netherlands,Europe,2010,0
+Mexico,North America,Belgium,Europe,2010,0
+Mexico,North America,France,Europe,2010,97813
+Mexico,North America,Switzerland,Europe,2010,0
+Mexico,North America,Spain,Europe,2010,0
+Mexico,North America,Portugal,Europe,2010,0
+Mexico,North America,Germany,Europe,2010,874425
+Mexico,North America,Poland,Europe,2010,0
+Mexico,North America,Austria,Europe,2010,0
+Mexico,North America,Hungary,Europe,2010,0
+Mexico,North America,Czech Republic,Europe,2010,0
+Mexico,North America,Slovakia,Europe,2010,0
+Mexico,North America,Italy,Europe,2010,0
+Mexico,North America,Croatia,Europe,2010,0
+Mexico,North America,Serbia,Europe,2010,0
+Mexico,North America,Bosnia,Europe,2010,0
+Mexico,North America,Greece,Europe,2010,0
+Mexico,North America,Bulgaria,Europe,2010,0
+Mexico,North America,Romania,Europe,2010,0
+Mexico,North America,Russia,Asia,2010,0
+Mexico,North America,Ukraine,Europe,2010,0
+Mexico,North America,Finland,Europe,2010,0
+Mexico,North America,Sweden,Europe,2010,0
+Mexico,North America,Norway,Europe,2010,0
+Mexico,North America,Denmark,Europe,2010,0
+Mexico,North America,South Africa,Africa,2010,0
+Mexico,North America,Turkey,Asia,2010,0
+Mexico,North America,Israel,Asia,2010,0
+Mexico,North America,United Arab Emirates,Asia,2010,0
+Mexico,North America,Taiwan,Asia,2010,0
+Mexico,North America,South Korea,Asia,2010,0
+Mexico,North America,Japan,Asia,2010,0
+Mexico,North America,India,Asia,2010,0
+Mexico,North America,Pakistan,Asia,2010,0
+Mexico,North America,Thailand,Asia,2010,0
+Mexico,North America,Malaysia,Asia,2010,0
+Mexico,North America,Singapore,Asia,2010,0
+Mexico,North America,Philippines,Asia,2010,0
+Mexico,North America,Indonesia,Asia,2010,0
+Mexico,North America,Australia,Oceania,2010,49203
+Mexico,North America,Cyprus,Europe,2010,0
+Mexico,North America,China,Asia,2010,0
+Mexico,North America,Ivory Coast,Africa,2010,0
+Mexico,North America,Congo,Africa,2010,0
+Brazil,South America,United States,North America,2010,184079104
+Brazil,South America,Canada,North America,2010,1458212
+Brazil,South America,Mexico,North America,2010,544665
+Brazil,South America,Brazil,South America,2010,0
+Brazil,South America,Argentina,South America,2010,10478839
+Brazil,South America,United Kingdom,Europe,2010,36582408
+Brazil,South America,Netherlands,Europe,2010,818753
+Brazil,South America,Belgium,Europe,2010,2314971
+Brazil,South America,France,Europe,2010,958346
+Brazil,South America,Switzerland,Europe,2010,220363
+Brazil,South America,Spain,Europe,2010,1272129
+Brazil,South America,Portugal,Europe,2010,80031
+Brazil,South America,Germany,Europe,2010,25014918
+Brazil,South America,Poland,Europe,2010,1833675
+Brazil,South America,Austria,Europe,2010,13069
+Brazil,South America,Hungary,Europe,2010,0
+Brazil,South America,Czech Republic,Europe,2010,532255
+Brazil,South America,Slovakia,Europe,2010,17574
+Brazil,South America,Italy,Europe,2010,1451111
+Brazil,South America,Croatia,Europe,2010,766
+Brazil,South America,Serbia,Europe,2010,82
+Brazil,South America,Bosnia,Europe,2010,60717
+Brazil,South America,Greece,Europe,2010,73490
+Brazil,South America,Bulgaria,Europe,2010,0
+Brazil,South America,Romania,Europe,2010,0
+Brazil,South America,Russia,Asia,2010,53294
+Brazil,South America,Ukraine,Europe,2010,0
+Brazil,South America,Finland,Europe,2010,868578
+Brazil,South America,Sweden,Europe,2010,4712461
+Brazil,South America,Norway,Europe,2010,27486
+Brazil,South America,Denmark,Europe,2010,281266
+Brazil,South America,South Africa,Africa,2010,302177
+Brazil,South America,Turkey,Asia,2010,541002
+Brazil,South America,Israel,Asia,2010,2417176
+Brazil,South America,United Arab Emirates,Asia,2010,1101174
+Brazil,South America,Taiwan,Asia,2010,0
+Brazil,South America,South Korea,Asia,2010,0
+Brazil,South America,Japan,Asia,2010,37491
+Brazil,South America,India,Asia,2010,10806
+Brazil,South America,Pakistan,Asia,2010,1423984
+Brazil,South America,Thailand,Asia,2010,3526154
+Brazil,South America,Malaysia,Asia,2010,27198449
+Brazil,South America,Singapore,Asia,2010,15584346
+Brazil,South America,Philippines,Asia,2010,5571483
+Brazil,South America,Indonesia,Asia,2010,1202
+Brazil,South America,Australia,Oceania,2010,1076252
+Brazil,South America,Cyprus,Europe,2010,23939
+Brazil,South America,China,Asia,2010,0
+Brazil,South America,Ivory Coast,Africa,2010,0
+Brazil,South America,Congo,Africa,2010,20886
+Argentina,South America,United States,North America,2010,9972809
+Argentina,South America,Canada,North America,2010,0
+Argentina,South America,Mexico,North America,2010,0
+Argentina,South America,Brazil,South America,2010,0
+Argentina,South America,Argentina,South America,2010,0
+Argentina,South America,United Kingdom,Europe,2010,0
+Argentina,South America,Netherlands,Europe,2010,0
+Argentina,South America,Belgium,Europe,2010,0
+Argentina,South America,France,Europe,2010,6920
+Argentina,South America,Switzerland,Europe,2010,0
+Argentina,South America,Spain,Europe,2010,0
+Argentina,South America,Portugal,Europe,2010,0
+Argentina,South America,Germany,Europe,2010,0
+Argentina,South America,Poland,Europe,2010,0
+Argentina,South America,Austria,Europe,2010,0
+Argentina,South America,Hungary,Europe,2010,0
+Argentina,South America,Czech Republic,Europe,2010,2132
+Argentina,South America,Slovakia,Europe,2010,0
+Argentina,South America,Italy,Europe,2010,0
+Argentina,South America,Croatia,Europe,2010,0
+Argentina,South America,Serbia,Europe,2010,0
+Argentina,South America,Bosnia,Europe,2010,0
+Argentina,South America,Greece,Europe,2010,0
+Argentina,South America,Bulgaria,Europe,2010,0
+Argentina,South America,Romania,Europe,2010,0
+Argentina,South America,Russia,Asia,2010,0
+Argentina,South America,Ukraine,Europe,2010,0
+Argentina,South America,Finland,Europe,2010,0
+Argentina,South America,Sweden,Europe,2010,0
+Argentina,South America,Norway,Europe,2010,0
+Argentina,South America,Denmark,Europe,2010,0
+Argentina,South America,South Africa,Africa,2010,0
+Argentina,South America,Turkey,Asia,2010,0
+Argentina,South America,Israel,Asia,2010,0
+Argentina,South America,United Arab Emirates,Asia,2010,0
+Argentina,South America,Taiwan,Asia,2010,0
+Argentina,South America,South Korea,Asia,2010,0
+Argentina,South America,Japan,Asia,2010,0
+Argentina,South America,India,Asia,2010,0
+Argentina,South America,Pakistan,Asia,2010,0
+Argentina,South America,Thailand,Asia,2010,0
+Argentina,South America,Malaysia,Asia,2010,0
+Argentina,South America,Singapore,Asia,2010,0
+Argentina,South America,Philippines,Asia,2010,552072
+Argentina,South America,Indonesia,Asia,2010,0
+Argentina,South America,Australia,Oceania,2010,0
+Argentina,South America,Cyprus,Europe,2010,0
+Argentina,South America,China,Asia,2010,0
+Argentina,South America,Ivory Coast,Africa,2010,0
+Argentina,South America,Congo,Africa,2010,0
+United Kingdom,Europe,United States,North America,2010,20481759
+United Kingdom,Europe,Canada,North America,2010,2799957
+United Kingdom,Europe,Mexico,North America,2010,95923
+United Kingdom,Europe,Brazil,South America,2010,111427
+United Kingdom,Europe,Argentina,South America,2010,7894
+United Kingdom,Europe,United Kingdom,Europe,2010,4854413
+United Kingdom,Europe,Netherlands,Europe,2010,1561045
+United Kingdom,Europe,Belgium,Europe,2010,2973511
+United Kingdom,Europe,France,Europe,2010,997741
+United Kingdom,Europe,Switzerland,Europe,2010,1707305
+United Kingdom,Europe,Spain,Europe,2010,1274555
+United Kingdom,Europe,Portugal,Europe,2010,55586
+United Kingdom,Europe,Germany,Europe,2010,2445839
+United Kingdom,Europe,Poland,Europe,2010,470658
+United Kingdom,Europe,Austria,Europe,2010,230156
+United Kingdom,Europe,Hungary,Europe,2010,10136
+United Kingdom,Europe,Czech Republic,Europe,2010,422719
+United Kingdom,Europe,Slovakia,Europe,2010,22667
+United Kingdom,Europe,Italy,Europe,2010,978711
+United Kingdom,Europe,Croatia,Europe,2010,0
+United Kingdom,Europe,Serbia,Europe,2010,97337
+United Kingdom,Europe,Bosnia,Europe,2010,0
+United Kingdom,Europe,Greece,Europe,2010,201724
+United Kingdom,Europe,Bulgaria,Europe,2010,13260
+United Kingdom,Europe,Romania,Europe,2010,147302
+United Kingdom,Europe,Russia,Asia,2010,2197942
+United Kingdom,Europe,Ukraine,Europe,2010,178063
+United Kingdom,Europe,Finland,Europe,2010,332983
+United Kingdom,Europe,Sweden,Europe,2010,1217256
+United Kingdom,Europe,Norway,Europe,2010,1840502
+United Kingdom,Europe,Denmark,Europe,2010,5312023
+United Kingdom,Europe,South Africa,Africa,2010,689902
+United Kingdom,Europe,Turkey,Asia,2010,190584
+United Kingdom,Europe,Israel,Asia,2010,57473
+United Kingdom,Europe,United Arab Emirates,Asia,2010,122100
+United Kingdom,Europe,Taiwan,Asia,2010,13170
+United Kingdom,Europe,South Korea,Asia,2010,1282683
+United Kingdom,Europe,Japan,Asia,2010,2929800
+United Kingdom,Europe,India,Asia,2010,259841
+United Kingdom,Europe,Pakistan,Asia,2010,278332
+United Kingdom,Europe,Thailand,Asia,2010,299028
+United Kingdom,Europe,Malaysia,Asia,2010,89808
+United Kingdom,Europe,Singapore,Asia,2010,227218
+United Kingdom,Europe,Philippines,Asia,2010,2725
+United Kingdom,Europe,Indonesia,Asia,2010,1096545
+United Kingdom,Europe,Australia,Oceania,2010,3010579
+United Kingdom,Europe,Cyprus,Europe,2010,536687
+United Kingdom,Europe,China,Asia,2010,59011
+United Kingdom,Europe,Ivory Coast,Africa,2010,0
+United Kingdom,Europe,Congo,Africa,2010,0
+Netherlands,Europe,United States,North America,2010,166490
+Netherlands,Europe,Canada,North America,2010,67134
+Netherlands,Europe,Mexico,North America,2010,0
+Netherlands,Europe,Brazil,South America,2010,2709
+Netherlands,Europe,Argentina,South America,2010,0
+Netherlands,Europe,United Kingdom,Europe,2010,21963
+Netherlands,Europe,Netherlands,Europe,2010,0
+Netherlands,Europe,Belgium,Europe,2010,196009
+Netherlands,Europe,France,Europe,2010,13544
+Netherlands,Europe,Switzerland,Europe,2010,480049
+Netherlands,Europe,Spain,Europe,2010,4713
+Netherlands,Europe,Portugal,Europe,2010,0
+Netherlands,Europe,Germany,Europe,2010,25708
+Netherlands,Europe,Poland,Europe,2010,0
+Netherlands,Europe,Austria,Europe,2010,0
+Netherlands,Europe,Hungary,Europe,2010,1021
+Netherlands,Europe,Czech Republic,Europe,2010,0
+Netherlands,Europe,Slovakia,Europe,2010,0
+Netherlands,Europe,Italy,Europe,2010,42411
+Netherlands,Europe,Croatia,Europe,2010,0
+Netherlands,Europe,Serbia,Europe,2010,0
+Netherlands,Europe,Bosnia,Europe,2010,0
+Netherlands,Europe,Greece,Europe,2010,236
+Netherlands,Europe,Bulgaria,Europe,2010,0
+Netherlands,Europe,Romania,Europe,2010,0
+Netherlands,Europe,Russia,Asia,2010,0
+Netherlands,Europe,Ukraine,Europe,2010,0
+Netherlands,Europe,Finland,Europe,2010,1160
+Netherlands,Europe,Sweden,Europe,2010,7389
+Netherlands,Europe,Norway,Europe,2010,11498
+Netherlands,Europe,Denmark,Europe,2010,26612
+Netherlands,Europe,South Africa,Africa,2010,4063
+Netherlands,Europe,Turkey,Asia,2010,23027
+Netherlands,Europe,Israel,Asia,2010,0
+Netherlands,Europe,United Arab Emirates,Asia,2010,0
+Netherlands,Europe,Taiwan,Asia,2010,9481
+Netherlands,Europe,South Korea,Asia,2010,2709
+Netherlands,Europe,Japan,Asia,2010,4063
+Netherlands,Europe,India,Asia,2010,1354
+Netherlands,Europe,Pakistan,Asia,2010,0
+Netherlands,Europe,Thailand,Asia,2010,0
+Netherlands,Europe,Malaysia,Asia,2010,0
+Netherlands,Europe,Singapore,Asia,2010,0
+Netherlands,Europe,Philippines,Asia,2010,0
+Netherlands,Europe,Indonesia,Asia,2010,0
+Netherlands,Europe,Australia,Oceania,2010,6773
+Netherlands,Europe,Cyprus,Europe,2010,0
+Netherlands,Europe,China,Asia,2010,0
+Netherlands,Europe,Ivory Coast,Africa,2010,0
+Netherlands,Europe,Congo,Africa,2010,0
+Belgium,Europe,United States,North America,2010,27404932
+Belgium,Europe,Canada,North America,2010,2535722
+Belgium,Europe,Mexico,North America,2010,2675881
+Belgium,Europe,Brazil,South America,2010,1683032
+Belgium,Europe,Argentina,South America,2010,21982
+Belgium,Europe,United Kingdom,Europe,2010,4623102
+Belgium,Europe,Netherlands,Europe,2010,3321043
+Belgium,Europe,Belgium,Europe,2010,1083414
+Belgium,Europe,France,Europe,2010,22649191
+Belgium,Europe,Switzerland,Europe,2010,7270426
+Belgium,Europe,Spain,Europe,2010,2923691
+Belgium,Europe,Portugal,Europe,2010,627479
+Belgium,Europe,Germany,Europe,2010,4701717
+Belgium,Europe,Poland,Europe,2010,1072941
+Belgium,Europe,Austria,Europe,2010,1786187
+Belgium,Europe,Hungary,Europe,2010,90383
+Belgium,Europe,Czech Republic,Europe,2010,287805
+Belgium,Europe,Slovakia,Europe,2010,6126
+Belgium,Europe,Italy,Europe,2010,8656873
+Belgium,Europe,Croatia,Europe,2010,188424
+Belgium,Europe,Serbia,Europe,2010,92840
+Belgium,Europe,Bosnia,Europe,2010,47755
+Belgium,Europe,Greece,Europe,2010,644924
+Belgium,Europe,Bulgaria,Europe,2010,287507
+Belgium,Europe,Romania,Europe,2010,486944
+Belgium,Europe,Russia,Asia,2010,2323872
+Belgium,Europe,Ukraine,Europe,2010,0
+Belgium,Europe,Finland,Europe,2010,490604
+Belgium,Europe,Sweden,Europe,2010,508903
+Belgium,Europe,Norway,Europe,2010,1412194
+Belgium,Europe,Denmark,Europe,2010,1922186
+Belgium,Europe,South Africa,Africa,2010,3044
+Belgium,Europe,Turkey,Asia,2010,185722
+Belgium,Europe,Israel,Asia,2010,0
+Belgium,Europe,United Arab Emirates,Asia,2010,0
+Belgium,Europe,Taiwan,Asia,2010,14956
+Belgium,Europe,South Korea,Asia,2010,2659327
+Belgium,Europe,Japan,Asia,2010,287391
+Belgium,Europe,India,Asia,2010,10373
+Belgium,Europe,Pakistan,Asia,2010,2519
+Belgium,Europe,Thailand,Asia,2010,231435
+Belgium,Europe,Malaysia,Asia,2010,0
+Belgium,Europe,Singapore,Asia,2010,0
+Belgium,Europe,Philippines,Asia,2010,0
+Belgium,Europe,Indonesia,Asia,2010,187652
+Belgium,Europe,Australia,Oceania,2010,2896689
+Belgium,Europe,Cyprus,Europe,2010,191030
+Belgium,Europe,China,Asia,2010,0
+Belgium,Europe,Ivory Coast,Africa,2010,0
+Belgium,Europe,Congo,Africa,2010,0
+France,Europe,United States,North America,2010,2453519
+France,Europe,Canada,North America,2010,258068
+France,Europe,Mexico,North America,2010,51516
+France,Europe,Brazil,South America,2010,37022
+France,Europe,Argentina,South America,2010,0
+France,Europe,United Kingdom,Europe,2010,1387447
+France,Europe,Netherlands,Europe,2010,544301
+France,Europe,Belgium,Europe,2010,761119
+France,Europe,France,Europe,2010,10827
+France,Europe,Switzerland,Europe,2010,334465
+France,Europe,Spain,Europe,2010,3443078
+France,Europe,Portugal,Europe,2010,326227
+France,Europe,Germany,Europe,2010,3950347
+France,Europe,Poland,Europe,2010,91752
+France,Europe,Austria,Europe,2010,299232
+France,Europe,Hungary,Europe,2010,54009
+France,Europe,Czech Republic,Europe,2010,27547
+France,Europe,Slovakia,Europe,2010,14891
+France,Europe,Italy,Europe,2010,332078
+France,Europe,Croatia,Europe,2010,15230
+France,Europe,Serbia,Europe,2010,0
+France,Europe,Bosnia,Europe,2010,0
+France,Europe,Greece,Europe,2010,146238
+France,Europe,Bulgaria,Europe,2010,43321
+France,Europe,Romania,Europe,2010,44676
+France,Europe,Russia,Asia,2010,349522
+France,Europe,Ukraine,Europe,2010,32490
+France,Europe,Finland,Europe,2010,163844
+France,Europe,Sweden,Europe,2010,56518
+France,Europe,Norway,Europe,2010,82942
+France,Europe,Denmark,Europe,2010,63122
+France,Europe,South Africa,Africa,2010,2707
+France,Europe,Turkey,Asia,2010,60921
+France,Europe,Israel,Asia,2010,1354
+France,Europe,United Arab Emirates,Asia,2010,17598
+France,Europe,Taiwan,Asia,2010,0
+France,Europe,South Korea,Asia,2010,0
+France,Europe,Japan,Asia,2010,1462947
+France,Europe,India,Asia,2010,0
+France,Europe,Pakistan,Asia,2010,0
+France,Europe,Thailand,Asia,2010,52798
+France,Europe,Malaysia,Asia,2010,9122
+France,Europe,Singapore,Asia,2010,0
+France,Europe,Philippines,Asia,2010,0
+France,Europe,Indonesia,Asia,2010,0
+France,Europe,Australia,Oceania,2010,262434
+France,Europe,Cyprus,Europe,2010,217965
+France,Europe,China,Asia,2010,0
+France,Europe,Ivory Coast,Africa,2010,5225408
+France,Europe,Congo,Africa,2010,1354
+Switzerland,Europe,United States,North America,2010,7105578
+Switzerland,Europe,Canada,North America,2010,803939
+Switzerland,Europe,Mexico,North America,2010,1564
+Switzerland,Europe,Brazil,South America,2010,332501
+Switzerland,Europe,Argentina,South America,2010,0
+Switzerland,Europe,United Kingdom,Europe,2010,5853453
+Switzerland,Europe,Netherlands,Europe,2010,3954544
+Switzerland,Europe,Belgium,Europe,2010,659622
+Switzerland,Europe,France,Europe,2010,1848181
+Switzerland,Europe,Switzerland,Europe,2010,0
+Switzerland,Europe,Spain,Europe,2010,15954779
+Switzerland,Europe,Portugal,Europe,2010,79805
+Switzerland,Europe,Germany,Europe,2010,15828284
+Switzerland,Europe,Poland,Europe,2010,131750
+Switzerland,Europe,Austria,Europe,2010,688601
+Switzerland,Europe,Hungary,Europe,2010,122558
+Switzerland,Europe,Czech Republic,Europe,2010,59820
+Switzerland,Europe,Slovakia,Europe,2010,11596
+Switzerland,Europe,Italy,Europe,2010,16829177
+Switzerland,Europe,Croatia,Europe,2010,18841
+Switzerland,Europe,Serbia,Europe,2010,12378
+Switzerland,Europe,Bosnia,Europe,2010,49198
+Switzerland,Europe,Greece,Europe,2010,188914
+Switzerland,Europe,Bulgaria,Europe,2010,16651
+Switzerland,Europe,Romania,Europe,2010,127799
+Switzerland,Europe,Russia,Asia,2010,752695
+Switzerland,Europe,Ukraine,Europe,2010,323888
+Switzerland,Europe,Finland,Europe,2010,34563
+Switzerland,Europe,Sweden,Europe,2010,105943
+Switzerland,Europe,Norway,Europe,2010,1132093
+Switzerland,Europe,Denmark,Europe,2010,301456
+Switzerland,Europe,South Africa,Africa,2010,2887053
+Switzerland,Europe,Turkey,Asia,2010,7973873
+Switzerland,Europe,Israel,Asia,2010,6891
+Switzerland,Europe,United Arab Emirates,Asia,2010,441566
+Switzerland,Europe,Taiwan,Asia,2010,0
+Switzerland,Europe,South Korea,Asia,2010,267695
+Switzerland,Europe,Japan,Asia,2010,565870
+Switzerland,Europe,India,Asia,2010,2676125
+Switzerland,Europe,Pakistan,Asia,2010,13349432
+Switzerland,Europe,Thailand,Asia,2010,268950
+Switzerland,Europe,Malaysia,Asia,2010,101178
+Switzerland,Europe,Singapore,Asia,2010,6274472
+Switzerland,Europe,Philippines,Asia,2010,183364
+Switzerland,Europe,Indonesia,Asia,2010,3077
+Switzerland,Europe,Australia,Oceania,2010,4906745
+Switzerland,Europe,Cyprus,Europe,2010,41928
+Switzerland,Europe,China,Asia,2010,213271
+Switzerland,Europe,Ivory Coast,Africa,2010,0
+Switzerland,Europe,Congo,Africa,2010,0
+Spain,Europe,United States,North America,2010,57783571
+Spain,Europe,Canada,North America,2010,238088
+Spain,Europe,Mexico,North America,2010,1739578
+Spain,Europe,Brazil,South America,2010,487920
+Spain,Europe,Argentina,South America,2010,776977
+Spain,Europe,United Kingdom,Europe,2010,2577332
+Spain,Europe,Netherlands,Europe,2010,65773
+Spain,Europe,Belgium,Europe,2010,179997
+Spain,Europe,France,Europe,2010,5168134
+Spain,Europe,Switzerland,Europe,2010,240644
+Spain,Europe,Spain,Europe,2010,0
+Spain,Europe,Portugal,Europe,2010,5666826
+Spain,Europe,Germany,Europe,2010,2083634
+Spain,Europe,Poland,Europe,2010,1348915
+Spain,Europe,Austria,Europe,2010,547224
+Spain,Europe,Hungary,Europe,2010,381343
+Spain,Europe,Czech Republic,Europe,2010,296039
+Spain,Europe,Slovakia,Europe,2010,52089
+Spain,Europe,Italy,Europe,2010,4864200
+Spain,Europe,Croatia,Europe,2010,15135
+Spain,Europe,Serbia,Europe,2010,60067
+Spain,Europe,Bosnia,Europe,2010,1429999
+Spain,Europe,Greece,Europe,2010,152633
+Spain,Europe,Bulgaria,Europe,2010,304501
+Spain,Europe,Romania,Europe,2010,352902
+Spain,Europe,Russia,Asia,2010,574811
+Spain,Europe,Ukraine,Europe,2010,448770
+Spain,Europe,Finland,Europe,2010,723910
+Spain,Europe,Sweden,Europe,2010,759158
+Spain,Europe,Norway,Europe,2010,2381764
+Spain,Europe,Denmark,Europe,2010,816152
+Spain,Europe,South Africa,Africa,2010,1736195
+Spain,Europe,Turkey,Asia,2010,1779933
+Spain,Europe,Israel,Asia,2010,114168
+Spain,Europe,United Arab Emirates,Asia,2010,0
+Spain,Europe,Taiwan,Asia,2010,164442
+Spain,Europe,South Korea,Asia,2010,84939
+Spain,Europe,Japan,Asia,2010,1150027
+Spain,Europe,India,Asia,2010,0
+Spain,Europe,Pakistan,Asia,2010,240944
+Spain,Europe,Thailand,Asia,2010,684296
+Spain,Europe,Malaysia,Asia,2010,4561
+Spain,Europe,Singapore,Asia,2010,0
+Spain,Europe,Philippines,Asia,2010,59846
+Spain,Europe,Indonesia,Asia,2010,0
+Spain,Europe,Australia,Oceania,2010,2080342
+Spain,Europe,Cyprus,Europe,2010,347578
+Spain,Europe,China,Asia,2010,0
+Spain,Europe,Ivory Coast,Africa,2010,0
+Spain,Europe,Congo,Africa,2010,2
+Portugal,Europe,United States,North America,2010,5830339
+Portugal,Europe,Canada,North America,2010,15278
+Portugal,Europe,Mexico,North America,2010,482171
+Portugal,Europe,Brazil,South America,2010,1
+Portugal,Europe,Argentina,South America,2010,1460
+Portugal,Europe,United Kingdom,Europe,2010,0
+Portugal,Europe,Netherlands,Europe,2010,0
+Portugal,Europe,Belgium,Europe,2010,13500731
+Portugal,Europe,France,Europe,2010,1513765
+Portugal,Europe,Switzerland,Europe,2010,39376
+Portugal,Europe,Spain,Europe,2010,2396270
+Portugal,Europe,Portugal,Europe,2010,0
+Portugal,Europe,Germany,Europe,2010,1609216
+Portugal,Europe,Poland,Europe,2010,89406
+Portugal,Europe,Austria,Europe,2010,1254335
+Portugal,Europe,Hungary,Europe,2010,0
+Portugal,Europe,Czech Republic,Europe,2010,100735
+Portugal,Europe,Slovakia,Europe,2010,2371
+Portugal,Europe,Italy,Europe,2010,1661862
+Portugal,Europe,Croatia,Europe,2010,26324
+Portugal,Europe,Serbia,Europe,2010,115499
+Portugal,Europe,Bosnia,Europe,2010,0
+Portugal,Europe,Greece,Europe,2010,382850
+Portugal,Europe,Bulgaria,Europe,2010,102656
+Portugal,Europe,Romania,Europe,2010,0
+Portugal,Europe,Russia,Asia,2010,449293
+Portugal,Europe,Ukraine,Europe,2010,0
+Portugal,Europe,Finland,Europe,2010,77702
+Portugal,Europe,Sweden,Europe,2010,26892
+Portugal,Europe,Norway,Europe,2010,273297
+Portugal,Europe,Denmark,Europe,2010,0
+Portugal,Europe,South Africa,Africa,2010,0
+Portugal,Europe,Turkey,Asia,2010,16748
+Portugal,Europe,Israel,Asia,2010,0
+Portugal,Europe,United Arab Emirates,Asia,2010,0
+Portugal,Europe,Taiwan,Asia,2010,0
+Portugal,Europe,South Korea,Asia,2010,35458
+Portugal,Europe,Japan,Asia,2010,64070
+Portugal,Europe,India,Asia,2010,0
+Portugal,Europe,Pakistan,Asia,2010,0
+Portugal,Europe,Thailand,Asia,2010,12462
+Portugal,Europe,Malaysia,Asia,2010,0
+Portugal,Europe,Singapore,Asia,2010,0
+Portugal,Europe,Philippines,Asia,2010,0
+Portugal,Europe,Indonesia,Asia,2010,0
+Portugal,Europe,Australia,Oceania,2010,0
+Portugal,Europe,Cyprus,Europe,2010,77301
+Portugal,Europe,China,Asia,2010,0
+Portugal,Europe,Ivory Coast,Africa,2010,0
+Portugal,Europe,Congo,Africa,2010,16
+Germany,Europe,United States,North America,2010,81957356
+Germany,Europe,Canada,North America,2010,2348267
+Germany,Europe,Mexico,North America,2010,1171040
+Germany,Europe,Brazil,South America,2010,931774
+Germany,Europe,Argentina,South America,2010,150415
+Germany,Europe,United Kingdom,Europe,2010,13457919
+Germany,Europe,Netherlands,Europe,2010,10274106
+Germany,Europe,Belgium,Europe,2010,5069314
+Germany,Europe,France,Europe,2010,24789043
+Germany,Europe,Switzerland,Europe,2010,16220164
+Germany,Europe,Spain,Europe,2010,13945024
+Germany,Europe,Portugal,Europe,2010,1898069
+Germany,Europe,Germany,Europe,2010,0
+Germany,Europe,Poland,Europe,2010,4761952
+Germany,Europe,Austria,Europe,2010,15401468
+Germany,Europe,Hungary,Europe,2010,3417341
+Germany,Europe,Czech Republic,Europe,2010,2749970
+Germany,Europe,Slovakia,Europe,2010,2181454
+Germany,Europe,Italy,Europe,2010,8363201
+Germany,Europe,Croatia,Europe,2010,103799
+Germany,Europe,Serbia,Europe,2010,1027064
+Germany,Europe,Bosnia,Europe,2010,113299
+Germany,Europe,Greece,Europe,2010,1310160
+Germany,Europe,Bulgaria,Europe,2010,1061574
+Germany,Europe,Romania,Europe,2010,1695632
+Germany,Europe,Russia,Asia,2010,13869576
+Germany,Europe,Ukraine,Europe,2010,2419630
+Germany,Europe,Finland,Europe,2010,2656046
+Germany,Europe,Sweden,Europe,2010,5600626
+Germany,Europe,Norway,Europe,2010,17377301
+Germany,Europe,Denmark,Europe,2010,7942293
+Germany,Europe,South Africa,Africa,2010,706400
+Germany,Europe,Turkey,Asia,2010,1195881
+Germany,Europe,Israel,Asia,2010,75781
+Germany,Europe,United Arab Emirates,Asia,2010,4483352
+Germany,Europe,Taiwan,Asia,2010,58190
+Germany,Europe,South Korea,Asia,2010,74732428
+Germany,Europe,Japan,Asia,2010,2599820
+Germany,Europe,India,Asia,2010,396503
+Germany,Europe,Pakistan,Asia,2010,82194
+Germany,Europe,Thailand,Asia,2010,1257236
+Germany,Europe,Malaysia,Asia,2010,425382
+Germany,Europe,Singapore,Asia,2010,6950348
+Germany,Europe,Philippines,Asia,2010,354418
+Germany,Europe,Indonesia,Asia,2010,194874
+Germany,Europe,Australia,Oceania,2010,2395774
+Germany,Europe,Cyprus,Europe,2010,303488
+Germany,Europe,China,Asia,2010,825489
+Germany,Europe,Ivory Coast,Africa,2010,191241
+Germany,Europe,Congo,Africa,2010,288
+Poland,Europe,United States,North America,2010,2081636
+Poland,Europe,Canada,North America,2010,9753
+Poland,Europe,Mexico,North America,2010,0
+Poland,Europe,Brazil,South America,2010,0
+Poland,Europe,Argentina,South America,2010,0
+Poland,Europe,United Kingdom,Europe,2010,3568
+Poland,Europe,Netherlands,Europe,2010,0
+Poland,Europe,Belgium,Europe,2010,0
+Poland,Europe,France,Europe,2010,7418
+Poland,Europe,Switzerland,Europe,2010,16753
+Poland,Europe,Spain,Europe,2010,8756
+Poland,Europe,Portugal,Europe,2010,28
+Poland,Europe,Germany,Europe,2010,1597
+Poland,Europe,Poland,Europe,2010,0
+Poland,Europe,Austria,Europe,2010,29227
+Poland,Europe,Hungary,Europe,2010,64434
+Poland,Europe,Czech Republic,Europe,2010,48794
+Poland,Europe,Slovakia,Europe,2010,715
+Poland,Europe,Italy,Europe,2010,15977
+Poland,Europe,Croatia,Europe,2010,6526
+Poland,Europe,Serbia,Europe,2010,0
+Poland,Europe,Bosnia,Europe,2010,0
+Poland,Europe,Greece,Europe,2010,0
+Poland,Europe,Bulgaria,Europe,2010,1771557
+Poland,Europe,Romania,Europe,2010,663
+Poland,Europe,Russia,Asia,2010,12089
+Poland,Europe,Ukraine,Europe,2010,5800
+Poland,Europe,Finland,Europe,2010,1942
+Poland,Europe,Sweden,Europe,2010,102
+Poland,Europe,Norway,Europe,2010,441901
+Poland,Europe,Denmark,Europe,2010,0
+Poland,Europe,South Africa,Africa,2010,0
+Poland,Europe,Turkey,Asia,2010,0
+Poland,Europe,Israel,Asia,2010,0
+Poland,Europe,United Arab Emirates,Asia,2010,0
+Poland,Europe,Taiwan,Asia,2010,0
+Poland,Europe,South Korea,Asia,2010,0
+Poland,Europe,Japan,Asia,2010,0
+Poland,Europe,India,Asia,2010,0
+Poland,Europe,Pakistan,Asia,2010,91494
+Poland,Europe,Thailand,Asia,2010,0
+Poland,Europe,Malaysia,Asia,2010,141186
+Poland,Europe,Singapore,Asia,2010,125965
+Poland,Europe,Philippines,Asia,2010,0
+Poland,Europe,Indonesia,Asia,2010,0
+Poland,Europe,Australia,Oceania,2010,0
+Poland,Europe,Cyprus,Europe,2010,0
+Poland,Europe,China,Asia,2010,0
+Poland,Europe,Ivory Coast,Africa,2010,0
+Poland,Europe,Congo,Africa,2010,0
+Austria,Europe,United States,North America,2010,116623371
+Austria,Europe,Canada,North America,2010,1277845
+Austria,Europe,Mexico,North America,2010,4338205
+Austria,Europe,Brazil,South America,2010,1192865
+Austria,Europe,Argentina,South America,2010,994104
+Austria,Europe,United Kingdom,Europe,2010,418316
+Austria,Europe,Netherlands,Europe,2010,93849
+Austria,Europe,Belgium,Europe,2010,49462
+Austria,Europe,France,Europe,2010,1241444
+Austria,Europe,Switzerland,Europe,2010,2489663
+Austria,Europe,Spain,Europe,2010,989675
+Austria,Europe,Portugal,Europe,2010,2930414
+Austria,Europe,Germany,Europe,2010,2821746
+Austria,Europe,Poland,Europe,2010,1218431
+Austria,Europe,Austria,Europe,2010,0
+Austria,Europe,Hungary,Europe,2010,630292
+Austria,Europe,Czech Republic,Europe,2010,882241
+Austria,Europe,Slovakia,Europe,2010,390407
+Austria,Europe,Italy,Europe,2010,2428509
+Austria,Europe,Croatia,Europe,2010,534081
+Austria,Europe,Serbia,Europe,2010,156953
+Austria,Europe,Bosnia,Europe,2010,620094
+Austria,Europe,Greece,Europe,2010,4137
+Austria,Europe,Bulgaria,Europe,2010,499988
+Austria,Europe,Romania,Europe,2010,545367
+Austria,Europe,Russia,Asia,2010,3112661
+Austria,Europe,Ukraine,Europe,2010,1371381
+Austria,Europe,Finland,Europe,2010,251802
+Austria,Europe,Sweden,Europe,2010,52031
+Austria,Europe,Norway,Europe,2010,156647
+Austria,Europe,Denmark,Europe,2010,115846
+Austria,Europe,South Africa,Africa,2010,1525125
+Austria,Europe,Turkey,Asia,2010,750986
+Austria,Europe,Israel,Asia,2010,0
+Austria,Europe,United Arab Emirates,Asia,2010,176582
+Austria,Europe,Taiwan,Asia,2010,138
+Austria,Europe,South Korea,Asia,2010,58644
+Austria,Europe,Japan,Asia,2010,1633205
+Austria,Europe,India,Asia,2010,611082
+Austria,Europe,Pakistan,Asia,2010,416880
+Austria,Europe,Thailand,Asia,2010,2655194
+Austria,Europe,Malaysia,Asia,2010,30807
+Austria,Europe,Singapore,Asia,2010,88677
+Austria,Europe,Philippines,Asia,2010,0
+Austria,Europe,Indonesia,Asia,2010,348676
+Austria,Europe,Australia,Oceania,2010,720386
+Austria,Europe,Cyprus,Europe,2010,0
+Austria,Europe,China,Asia,2010,0
+Austria,Europe,Ivory Coast,Africa,2010,0
+Austria,Europe,Congo,Africa,2010,0
+Hungary,Europe,United States,North America,2010,10150894
+Hungary,Europe,Canada,North America,2010,28867
+Hungary,Europe,Mexico,North America,2010,0
+Hungary,Europe,Brazil,South America,2010,0
+Hungary,Europe,Argentina,South America,2010,0
+Hungary,Europe,United Kingdom,Europe,2010,0
+Hungary,Europe,Netherlands,Europe,2010,0
+Hungary,Europe,Belgium,Europe,2010,0
+Hungary,Europe,France,Europe,2010,0
+Hungary,Europe,Switzerland,Europe,2010,67590
+Hungary,Europe,Spain,Europe,2010,0
+Hungary,Europe,Portugal,Europe,2010,0
+Hungary,Europe,Germany,Europe,2010,1713027
+Hungary,Europe,Poland,Europe,2010,0
+Hungary,Europe,Austria,Europe,2010,417237
+Hungary,Europe,Hungary,Europe,2010,0
+Hungary,Europe,Czech Republic,Europe,2010,64698
+Hungary,Europe,Slovakia,Europe,2010,892447
+Hungary,Europe,Italy,Europe,2010,73761
+Hungary,Europe,Croatia,Europe,2010,3676
+Hungary,Europe,Serbia,Europe,2010,4406
+Hungary,Europe,Bosnia,Europe,2010,0
+Hungary,Europe,Greece,Europe,2010,1513
+Hungary,Europe,Bulgaria,Europe,2010,0
+Hungary,Europe,Romania,Europe,2010,42241
+Hungary,Europe,Russia,Asia,2010,0
+Hungary,Europe,Ukraine,Europe,2010,0
+Hungary,Europe,Finland,Europe,2010,0
+Hungary,Europe,Sweden,Europe,2010,0
+Hungary,Europe,Norway,Europe,2010,701
+Hungary,Europe,Denmark,Europe,2010,0
+Hungary,Europe,South Africa,Africa,2010,9089
+Hungary,Europe,Turkey,Asia,2010,0
+Hungary,Europe,Israel,Asia,2010,38675
+Hungary,Europe,United Arab Emirates,Asia,2010,0
+Hungary,Europe,Taiwan,Asia,2010,0
+Hungary,Europe,South Korea,Asia,2010,0
+Hungary,Europe,Japan,Asia,2010,91725
+Hungary,Europe,India,Asia,2010,0
+Hungary,Europe,Pakistan,Asia,2010,0
+Hungary,Europe,Thailand,Asia,2010,0
+Hungary,Europe,Malaysia,Asia,2010,0
+Hungary,Europe,Singapore,Asia,2010,0
+Hungary,Europe,Philippines,Asia,2010,70278
+Hungary,Europe,Indonesia,Asia,2010,0
+Hungary,Europe,Australia,Oceania,2010,4440
+Hungary,Europe,Cyprus,Europe,2010,0
+Hungary,Europe,China,Asia,2010,0
+Hungary,Europe,Ivory Coast,Africa,2010,0
+Hungary,Europe,Congo,Africa,2010,0
+Czech Republic,Europe,United States,North America,2010,16204523
+Czech Republic,Europe,Canada,North America,2010,2746593
+Czech Republic,Europe,Mexico,North America,2010,4544807
+Czech Republic,Europe,Brazil,South America,2010,275459
+Czech Republic,Europe,Argentina,South America,2010,774986
+Czech Republic,Europe,United Kingdom,Europe,2010,2546542
+Czech Republic,Europe,Netherlands,Europe,2010,369106
+Czech Republic,Europe,Belgium,Europe,2010,394766
+Czech Republic,Europe,France,Europe,2010,2923579
+Czech Republic,Europe,Switzerland,Europe,2010,197361
+Czech Republic,Europe,Spain,Europe,2010,701388
+Czech Republic,Europe,Portugal,Europe,2010,123793
+Czech Republic,Europe,Germany,Europe,2010,8625018
+Czech Republic,Europe,Poland,Europe,2010,2584054
+Czech Republic,Europe,Austria,Europe,2010,715097
+Czech Republic,Europe,Hungary,Europe,2010,549132
+Czech Republic,Europe,Czech Republic,Europe,2010,0
+Czech Republic,Europe,Slovakia,Europe,2010,2190225
+Czech Republic,Europe,Italy,Europe,2010,2162930
+Czech Republic,Europe,Croatia,Europe,2010,188774
+Czech Republic,Europe,Serbia,Europe,2010,129632
+Czech Republic,Europe,Bosnia,Europe,2010,2522467
+Czech Republic,Europe,Greece,Europe,2010,273428
+Czech Republic,Europe,Bulgaria,Europe,2010,405153
+Czech Republic,Europe,Romania,Europe,2010,844838
+Czech Republic,Europe,Russia,Asia,2010,3245229
+Czech Republic,Europe,Ukraine,Europe,2010,1228923
+Czech Republic,Europe,Finland,Europe,2010,1376597
+Czech Republic,Europe,Sweden,Europe,2010,495870
+Czech Republic,Europe,Norway,Europe,2010,841820
+Czech Republic,Europe,Denmark,Europe,2010,348653
+Czech Republic,Europe,South Africa,Africa,2010,669165
+Czech Republic,Europe,Turkey,Asia,2010,77519
+Czech Republic,Europe,Israel,Asia,2010,393669
+Czech Republic,Europe,United Arab Emirates,Asia,2010,99419
+Czech Republic,Europe,Taiwan,Asia,2010,0
+Czech Republic,Europe,South Korea,Asia,2010,0
+Czech Republic,Europe,Japan,Asia,2010,140023
+Czech Republic,Europe,India,Asia,2010,133951
+Czech Republic,Europe,Pakistan,Asia,2010,420118
+Czech Republic,Europe,Thailand,Asia,2010,9781393
+Czech Republic,Europe,Malaysia,Asia,2010,157236
+Czech Republic,Europe,Singapore,Asia,2010,3055
+Czech Republic,Europe,Philippines,Asia,2010,962990
+Czech Republic,Europe,Indonesia,Asia,2010,91051
+Czech Republic,Europe,Australia,Oceania,2010,1641151
+Czech Republic,Europe,Cyprus,Europe,2010,25881
+Czech Republic,Europe,China,Asia,2010,0
+Czech Republic,Europe,Ivory Coast,Africa,2010,0
+Czech Republic,Europe,Congo,Africa,2010,0
+Slovakia,Europe,United States,North America,2010,474703
+Slovakia,Europe,Canada,North America,2010,0
+Slovakia,Europe,Mexico,North America,2010,0
+Slovakia,Europe,Brazil,South America,2010,0
+Slovakia,Europe,Argentina,South America,2010,0
+Slovakia,Europe,United Kingdom,Europe,2010,0
+Slovakia,Europe,Netherlands,Europe,2010,0
+Slovakia,Europe,Belgium,Europe,2010,16225
+Slovakia,Europe,France,Europe,2010,55788
+Slovakia,Europe,Switzerland,Europe,2010,5249
+Slovakia,Europe,Spain,Europe,2010,14700
+Slovakia,Europe,Portugal,Europe,2010,0
+Slovakia,Europe,Germany,Europe,2010,179
+Slovakia,Europe,Poland,Europe,2010,688
+Slovakia,Europe,Austria,Europe,2010,29440
+Slovakia,Europe,Hungary,Europe,2010,0
+Slovakia,Europe,Czech Republic,Europe,2010,2521124
+Slovakia,Europe,Slovakia,Europe,2010,0
+Slovakia,Europe,Italy,Europe,2010,15624
+Slovakia,Europe,Croatia,Europe,2010,0
+Slovakia,Europe,Serbia,Europe,2010,0
+Slovakia,Europe,Bosnia,Europe,2010,0
+Slovakia,Europe,Greece,Europe,2010,5936
+Slovakia,Europe,Bulgaria,Europe,2010,0
+Slovakia,Europe,Romania,Europe,2010,89762
+Slovakia,Europe,Russia,Asia,2010,698332
+Slovakia,Europe,Ukraine,Europe,2010,0
+Slovakia,Europe,Finland,Europe,2010,0
+Slovakia,Europe,Sweden,Europe,2010,0
+Slovakia,Europe,Norway,Europe,2010,0
+Slovakia,Europe,Denmark,Europe,2010,0
+Slovakia,Europe,South Africa,Africa,2010,0
+Slovakia,Europe,Turkey,Asia,2010,0
+Slovakia,Europe,Israel,Asia,2010,0
+Slovakia,Europe,United Arab Emirates,Asia,2010,0
+Slovakia,Europe,Taiwan,Asia,2010,0
+Slovakia,Europe,South Korea,Asia,2010,0
+Slovakia,Europe,Japan,Asia,2010,0
+Slovakia,Europe,India,Asia,2010,682
+Slovakia,Europe,Pakistan,Asia,2010,0
+Slovakia,Europe,Thailand,Asia,2010,151579
+Slovakia,Europe,Malaysia,Asia,2010,542165
+Slovakia,Europe,Singapore,Asia,2010,0
+Slovakia,Europe,Philippines,Asia,2010,0
+Slovakia,Europe,Indonesia,Asia,2010,0
+Slovakia,Europe,Australia,Oceania,2010,0
+Slovakia,Europe,Cyprus,Europe,2010,0
+Slovakia,Europe,China,Asia,2010,0
+Slovakia,Europe,Ivory Coast,Africa,2010,0
+Slovakia,Europe,Congo,Africa,2010,0
+Italy,Europe,United States,North America,2010,151364645
+Italy,Europe,Canada,North America,2010,7347252
+Italy,Europe,Mexico,North America,2010,8870479
+Italy,Europe,Brazil,South America,2010,360826
+Italy,Europe,Argentina,South America,2010,4045327
+Italy,Europe,United Kingdom,Europe,2010,28280008
+Italy,Europe,Netherlands,Europe,2010,2212643
+Italy,Europe,Belgium,Europe,2010,10051615
+Italy,Europe,France,Europe,2010,31771622
+Italy,Europe,Switzerland,Europe,2010,3888355
+Italy,Europe,Spain,Europe,2010,20681346
+Italy,Europe,Portugal,Europe,2010,2719481
+Italy,Europe,Germany,Europe,2010,19545178
+Italy,Europe,Poland,Europe,2010,3313658
+Italy,Europe,Austria,Europe,2010,3778329
+Italy,Europe,Hungary,Europe,2010,663478
+Italy,Europe,Czech Republic,Europe,2010,2211098
+Italy,Europe,Slovakia,Europe,2010,685777
+Italy,Europe,Italy,Europe,2010,0
+Italy,Europe,Croatia,Europe,2010,957643
+Italy,Europe,Serbia,Europe,2010,508249
+Italy,Europe,Bosnia,Europe,2010,76546
+Italy,Europe,Greece,Europe,2010,7814647
+Italy,Europe,Bulgaria,Europe,2010,1537821
+Italy,Europe,Romania,Europe,2010,3559478
+Italy,Europe,Russia,Asia,2010,20125142
+Italy,Europe,Ukraine,Europe,2010,4147553
+Italy,Europe,Finland,Europe,2010,3844123
+Italy,Europe,Sweden,Europe,2010,2783893
+Italy,Europe,Norway,Europe,2010,4051095
+Italy,Europe,Denmark,Europe,2010,4320310
+Italy,Europe,South Africa,Africa,2010,2502870
+Italy,Europe,Turkey,Asia,2010,15567841
+Italy,Europe,Israel,Asia,2010,15977
+Italy,Europe,United Arab Emirates,Asia,2010,4639980
+Italy,Europe,Taiwan,Asia,2010,102395
+Italy,Europe,South Korea,Asia,2010,2728598
+Italy,Europe,Japan,Asia,2010,5006908
+Italy,Europe,India,Asia,2010,939004
+Italy,Europe,Pakistan,Asia,2010,256622
+Italy,Europe,Thailand,Asia,2010,3152830
+Italy,Europe,Malaysia,Asia,2010,1662919
+Italy,Europe,Singapore,Asia,2010,355157
+Italy,Europe,Philippines,Asia,2010,277408
+Italy,Europe,Indonesia,Asia,2010,535119
+Italy,Europe,Australia,Oceania,2010,3883434
+Italy,Europe,Cyprus,Europe,2010,2756666
+Italy,Europe,China,Asia,2010,1872280
+Italy,Europe,Ivory Coast,Africa,2010,0
+Italy,Europe,Congo,Africa,2010,102519
+Croatia,Europe,United States,North America,2010,48608616
+Croatia,Europe,Canada,North America,2010,110860
+Croatia,Europe,Mexico,North America,2010,0
+Croatia,Europe,Brazil,South America,2010,0
+Croatia,Europe,Argentina,South America,2010,39663
+Croatia,Europe,United Kingdom,Europe,2010,0
+Croatia,Europe,Netherlands,Europe,2010,0
+Croatia,Europe,Belgium,Europe,2010,0
+Croatia,Europe,France,Europe,2010,0
+Croatia,Europe,Switzerland,Europe,2010,2557
+Croatia,Europe,Spain,Europe,2010,0
+Croatia,Europe,Portugal,Europe,2010,0
+Croatia,Europe,Germany,Europe,2010,298
+Croatia,Europe,Poland,Europe,2010,0
+Croatia,Europe,Austria,Europe,2010,11154
+Croatia,Europe,Hungary,Europe,2010,11968
+Croatia,Europe,Czech Republic,Europe,2010,0
+Croatia,Europe,Slovakia,Europe,2010,12388
+Croatia,Europe,Italy,Europe,2010,0
+Croatia,Europe,Croatia,Europe,2010,0
+Croatia,Europe,Serbia,Europe,2010,263594
+Croatia,Europe,Bosnia,Europe,2010,130107
+Croatia,Europe,Greece,Europe,2010,49227
+Croatia,Europe,Bulgaria,Europe,2010,0
+Croatia,Europe,Romania,Europe,2010,0
+Croatia,Europe,Russia,Asia,2010,0
+Croatia,Europe,Ukraine,Europe,2010,0
+Croatia,Europe,Finland,Europe,2010,0
+Croatia,Europe,Sweden,Europe,2010,0
+Croatia,Europe,Norway,Europe,2010,0
+Croatia,Europe,Denmark,Europe,2010,0
+Croatia,Europe,South Africa,Africa,2010,0
+Croatia,Europe,Turkey,Asia,2010,0
+Croatia,Europe,Israel,Asia,2010,0
+Croatia,Europe,United Arab Emirates,Asia,2010,0
+Croatia,Europe,Taiwan,Asia,2010,0
+Croatia,Europe,South Korea,Asia,2010,0
+Croatia,Europe,Japan,Asia,2010,0
+Croatia,Europe,India,Asia,2010,0
+Croatia,Europe,Pakistan,Asia,2010,0
+Croatia,Europe,Thailand,Asia,2010,0
+Croatia,Europe,Malaysia,Asia,2010,0
+Croatia,Europe,Singapore,Asia,2010,0
+Croatia,Europe,Philippines,Asia,2010,0
+Croatia,Europe,Indonesia,Asia,2010,0
+Croatia,Europe,Australia,Oceania,2010,0
+Croatia,Europe,Cyprus,Europe,2010,0
+Croatia,Europe,China,Asia,2010,0
+Croatia,Europe,Ivory Coast,Africa,2010,0
+Croatia,Europe,Congo,Africa,2010,0
+Serbia,Europe,United States,North America,2010,22617216
+Serbia,Europe,Canada,North America,2010,673945
+Serbia,Europe,Mexico,North America,2010,0
+Serbia,Europe,Brazil,South America,2010,0
+Serbia,Europe,Argentina,South America,2010,113004
+Serbia,Europe,United Kingdom,Europe,2010,540309
+Serbia,Europe,Netherlands,Europe,2010,230534
+Serbia,Europe,Belgium,Europe,2010,489064
+Serbia,Europe,France,Europe,2010,177666
+Serbia,Europe,Switzerland,Europe,2010,172895
+Serbia,Europe,Spain,Europe,2010,170974
+Serbia,Europe,Portugal,Europe,2010,2810
+Serbia,Europe,Germany,Europe,2010,2773859
+Serbia,Europe,Poland,Europe,2010,0
+Serbia,Europe,Austria,Europe,2010,4293621
+Serbia,Europe,Hungary,Europe,2010,0
+Serbia,Europe,Czech Republic,Europe,2010,8876
+Serbia,Europe,Slovakia,Europe,2010,44662
+Serbia,Europe,Italy,Europe,2010,393951
+Serbia,Europe,Croatia,Europe,2010,122831
+Serbia,Europe,Serbia,Europe,2010,0
+Serbia,Europe,Bosnia,Europe,2010,830294
+Serbia,Europe,Greece,Europe,2010,0
+Serbia,Europe,Bulgaria,Europe,2010,12678
+Serbia,Europe,Romania,Europe,2010,27754
+Serbia,Europe,Russia,Asia,2010,49609
+Serbia,Europe,Ukraine,Europe,2010,21945
+Serbia,Europe,Finland,Europe,2010,0
+Serbia,Europe,Sweden,Europe,2010,0
+Serbia,Europe,Norway,Europe,2010,306145
+Serbia,Europe,Denmark,Europe,2010,56799
+Serbia,Europe,South Africa,Africa,2010,0
+Serbia,Europe,Turkey,Asia,2010,0
+Serbia,Europe,Israel,Asia,2010,747558
+Serbia,Europe,United Arab Emirates,Asia,2010,0
+Serbia,Europe,Taiwan,Asia,2010,0
+Serbia,Europe,South Korea,Asia,2010,0
+Serbia,Europe,Japan,Asia,2010,0
+Serbia,Europe,India,Asia,2010,27884
+Serbia,Europe,Pakistan,Asia,2010,700235
+Serbia,Europe,Thailand,Asia,2010,319255
+Serbia,Europe,Malaysia,Asia,2010,0
+Serbia,Europe,Singapore,Asia,2010,0
+Serbia,Europe,Philippines,Asia,2010,279726
+Serbia,Europe,Indonesia,Asia,2010,3599
+Serbia,Europe,Australia,Oceania,2010,849456
+Serbia,Europe,Cyprus,Europe,2010,0
+Serbia,Europe,China,Asia,2010,0
+Serbia,Europe,Ivory Coast,Africa,2010,0
+Serbia,Europe,Congo,Africa,2010,0
+Bosnia,Europe,United States,North America,2010,638653
+Bosnia,Europe,Canada,North America,2010,132
+Bosnia,Europe,Mexico,North America,2010,0
+Bosnia,Europe,Brazil,South America,2010,0
+Bosnia,Europe,Argentina,South America,2010,0
+Bosnia,Europe,United Kingdom,Europe,2010,14522
+Bosnia,Europe,Netherlands,Europe,2010,0
+Bosnia,Europe,Belgium,Europe,2010,0
+Bosnia,Europe,France,Europe,2010,51441
+Bosnia,Europe,Switzerland,Europe,2010,3099791
+Bosnia,Europe,Spain,Europe,2010,0
+Bosnia,Europe,Portugal,Europe,2010,0
+Bosnia,Europe,Germany,Europe,2010,2307038
+Bosnia,Europe,Poland,Europe,2010,588319
+Bosnia,Europe,Austria,Europe,2010,121390
+Bosnia,Europe,Hungary,Europe,2010,0
+Bosnia,Europe,Czech Republic,Europe,2010,277455
+Bosnia,Europe,Slovakia,Europe,2010,67674
+Bosnia,Europe,Italy,Europe,2010,0
+Bosnia,Europe,Croatia,Europe,2010,21124
+Bosnia,Europe,Serbia,Europe,2010,233086
+Bosnia,Europe,Bosnia,Europe,2010,0
+Bosnia,Europe,Greece,Europe,2010,0
+Bosnia,Europe,Bulgaria,Europe,2010,0
+Bosnia,Europe,Romania,Europe,2010,0
+Bosnia,Europe,Russia,Asia,2010,0
+Bosnia,Europe,Ukraine,Europe,2010,0
+Bosnia,Europe,Finland,Europe,2010,396
+Bosnia,Europe,Sweden,Europe,2010,0
+Bosnia,Europe,Norway,Europe,2010,13714
+Bosnia,Europe,Denmark,Europe,2010,0
+Bosnia,Europe,South Africa,Africa,2010,0
+Bosnia,Europe,Turkey,Asia,2010,0
+Bosnia,Europe,Israel,Asia,2010,0
+Bosnia,Europe,United Arab Emirates,Asia,2010,0
+Bosnia,Europe,Taiwan,Asia,2010,0
+Bosnia,Europe,South Korea,Asia,2010,0
+Bosnia,Europe,Japan,Asia,2010,0
+Bosnia,Europe,India,Asia,2010,0
+Bosnia,Europe,Pakistan,Asia,2010,0
+Bosnia,Europe,Thailand,Asia,2010,0
+Bosnia,Europe,Malaysia,Asia,2010,0
+Bosnia,Europe,Singapore,Asia,2010,0
+Bosnia,Europe,Philippines,Asia,2010,0
+Bosnia,Europe,Indonesia,Asia,2010,0
+Bosnia,Europe,Australia,Oceania,2010,0
+Bosnia,Europe,Cyprus,Europe,2010,0
+Bosnia,Europe,China,Asia,2010,0
+Bosnia,Europe,Ivory Coast,Africa,2010,0
+Bosnia,Europe,Congo,Africa,2010,0
+Greece,Europe,United States,North America,2010,791927
+Greece,Europe,Canada,North America,2010,0
+Greece,Europe,Mexico,North America,2010,0
+Greece,Europe,Brazil,South America,2010,0
+Greece,Europe,Argentina,South America,2010,0
+Greece,Europe,United Kingdom,Europe,2010,0
+Greece,Europe,Netherlands,Europe,2010,0
+Greece,Europe,Belgium,Europe,2010,68179
+Greece,Europe,France,Europe,2010,0
+Greece,Europe,Switzerland,Europe,2010,0
+Greece,Europe,Spain,Europe,2010,0
+Greece,Europe,Portugal,Europe,2010,0
+Greece,Europe,Germany,Europe,2010,0
+Greece,Europe,Poland,Europe,2010,0
+Greece,Europe,Austria,Europe,2010,0
+Greece,Europe,Hungary,Europe,2010,0
+Greece,Europe,Czech Republic,Europe,2010,0
+Greece,Europe,Slovakia,Europe,2010,0
+Greece,Europe,Italy,Europe,2010,0
+Greece,Europe,Croatia,Europe,2010,21388
+Greece,Europe,Serbia,Europe,2010,74594
+Greece,Europe,Bosnia,Europe,2010,1286999
+Greece,Europe,Greece,Europe,2010,0
+Greece,Europe,Bulgaria,Europe,2010,0
+Greece,Europe,Romania,Europe,2010,145256
+Greece,Europe,Russia,Asia,2010,0
+Greece,Europe,Ukraine,Europe,2010,23715
+Greece,Europe,Finland,Europe,2010,0
+Greece,Europe,Sweden,Europe,2010,0
+Greece,Europe,Norway,Europe,2010,10604
+Greece,Europe,Denmark,Europe,2010,55046
+Greece,Europe,South Africa,Africa,2010,0
+Greece,Europe,Turkey,Asia,2010,185580
+Greece,Europe,Israel,Asia,2010,0
+Greece,Europe,United Arab Emirates,Asia,2010,0
+Greece,Europe,Taiwan,Asia,2010,0
+Greece,Europe,South Korea,Asia,2010,0
+Greece,Europe,Japan,Asia,2010,0
+Greece,Europe,India,Asia,2010,0
+Greece,Europe,Pakistan,Asia,2010,0
+Greece,Europe,Thailand,Asia,2010,0
+Greece,Europe,Malaysia,Asia,2010,0
+Greece,Europe,Singapore,Asia,2010,0
+Greece,Europe,Philippines,Asia,2010,0
+Greece,Europe,Indonesia,Asia,2010,0
+Greece,Europe,Australia,Oceania,2010,0
+Greece,Europe,Cyprus,Europe,2010,713715
+Greece,Europe,China,Asia,2010,0
+Greece,Europe,Ivory Coast,Africa,2010,0
+Greece,Europe,Congo,Africa,2010,0
+Bulgaria,Europe,United States,North America,2010,2104734
+Bulgaria,Europe,Canada,North America,2010,180395
+Bulgaria,Europe,Mexico,North America,2010,0
+Bulgaria,Europe,Brazil,South America,2010,225142
+Bulgaria,Europe,Argentina,South America,2010,0
+Bulgaria,Europe,United Kingdom,Europe,2010,306
+Bulgaria,Europe,Netherlands,Europe,2010,0
+Bulgaria,Europe,Belgium,Europe,2010,0
+Bulgaria,Europe,France,Europe,2010,0
+Bulgaria,Europe,Switzerland,Europe,2010,0
+Bulgaria,Europe,Spain,Europe,2010,0
+Bulgaria,Europe,Portugal,Europe,2010,0
+Bulgaria,Europe,Germany,Europe,2010,54926
+Bulgaria,Europe,Poland,Europe,2010,46267
+Bulgaria,Europe,Austria,Europe,2010,36092
+Bulgaria,Europe,Hungary,Europe,2010,0
+Bulgaria,Europe,Czech Republic,Europe,2010,0
+Bulgaria,Europe,Slovakia,Europe,2010,0
+Bulgaria,Europe,Italy,Europe,2010,0
+Bulgaria,Europe,Croatia,Europe,2010,0
+Bulgaria,Europe,Serbia,Europe,2010,0
+Bulgaria,Europe,Bosnia,Europe,2010,0
+Bulgaria,Europe,Greece,Europe,2010,0
+Bulgaria,Europe,Bulgaria,Europe,2010,0
+Bulgaria,Europe,Romania,Europe,2010,0
+Bulgaria,Europe,Russia,Asia,2010,0
+Bulgaria,Europe,Ukraine,Europe,2010,477215
+Bulgaria,Europe,Finland,Europe,2010,20503
+Bulgaria,Europe,Sweden,Europe,2010,20177
+Bulgaria,Europe,Norway,Europe,2010,0
+Bulgaria,Europe,Denmark,Europe,2010,0
+Bulgaria,Europe,South Africa,Africa,2010,410832
+Bulgaria,Europe,Turkey,Asia,2010,0
+Bulgaria,Europe,Israel,Asia,2010,396057
+Bulgaria,Europe,United Arab Emirates,Asia,2010,0
+Bulgaria,Europe,Taiwan,Asia,2010,0
+Bulgaria,Europe,South Korea,Asia,2010,0
+Bulgaria,Europe,Japan,Asia,2010,0
+Bulgaria,Europe,India,Asia,2010,306394
+Bulgaria,Europe,Pakistan,Asia,2010,0
+Bulgaria,Europe,Thailand,Asia,2010,0
+Bulgaria,Europe,Malaysia,Asia,2010,0
+Bulgaria,Europe,Singapore,Asia,2010,0
+Bulgaria,Europe,Philippines,Asia,2010,0
+Bulgaria,Europe,Indonesia,Asia,2010,511676
+Bulgaria,Europe,Australia,Oceania,2010,58136
+Bulgaria,Europe,Cyprus,Europe,2010,0
+Bulgaria,Europe,China,Asia,2010,0
+Bulgaria,Europe,Ivory Coast,Africa,2010,0
+Bulgaria,Europe,Congo,Africa,2010,0
+Romania,Europe,United States,North America,2010,16822742
+Romania,Europe,Canada,North America,2010,5540
+Romania,Europe,Mexico,North America,2010,0
+Romania,Europe,Brazil,South America,2010,0
+Romania,Europe,Argentina,South America,2010,0
+Romania,Europe,United Kingdom,Europe,2010,36394
+Romania,Europe,Netherlands,Europe,2010,13574
+Romania,Europe,Belgium,Europe,2010,28630
+Romania,Europe,France,Europe,2010,22170
+Romania,Europe,Switzerland,Europe,2010,1346242
+Romania,Europe,Spain,Europe,2010,3807
+Romania,Europe,Portugal,Europe,2010,0
+Romania,Europe,Germany,Europe,2010,49244
+Romania,Europe,Poland,Europe,2010,19169
+Romania,Europe,Austria,Europe,2010,427694
+Romania,Europe,Hungary,Europe,2010,0
+Romania,Europe,Czech Republic,Europe,2010,539407
+Romania,Europe,Slovakia,Europe,2010,6948
+Romania,Europe,Italy,Europe,2010,77030
+Romania,Europe,Croatia,Europe,2010,2950
+Romania,Europe,Serbia,Europe,2010,0
+Romania,Europe,Bosnia,Europe,2010,0
+Romania,Europe,Greece,Europe,2010,0
+Romania,Europe,Bulgaria,Europe,2010,79196
+Romania,Europe,Romania,Europe,2010,0
+Romania,Europe,Russia,Asia,2010,0
+Romania,Europe,Ukraine,Europe,2010,0
+Romania,Europe,Finland,Europe,2010,8106
+Romania,Europe,Sweden,Europe,2010,0
+Romania,Europe,Norway,Europe,2010,91162
+Romania,Europe,Denmark,Europe,2010,6523
+Romania,Europe,South Africa,Africa,2010,14072
+Romania,Europe,Turkey,Asia,2010,17257
+Romania,Europe,Israel,Asia,2010,0
+Romania,Europe,United Arab Emirates,Asia,2010,0
+Romania,Europe,Taiwan,Asia,2010,0
+Romania,Europe,South Korea,Asia,2010,0
+Romania,Europe,Japan,Asia,2010,0
+Romania,Europe,India,Asia,2010,0
+Romania,Europe,Pakistan,Asia,2010,0
+Romania,Europe,Thailand,Asia,2010,663135
+Romania,Europe,Malaysia,Asia,2010,0
+Romania,Europe,Singapore,Asia,2010,0
+Romania,Europe,Philippines,Asia,2010,0
+Romania,Europe,Indonesia,Asia,2010,0
+Romania,Europe,Australia,Oceania,2010,3328
+Romania,Europe,Cyprus,Europe,2010,105521
+Romania,Europe,China,Asia,2010,0
+Romania,Europe,Ivory Coast,Africa,2010,0
+Romania,Europe,Congo,Africa,2010,0
+Russia,Asia,United States,North America,2010,96720197
+Russia,Asia,Canada,North America,2010,2999077
+Russia,Asia,Mexico,North America,2010,0
+Russia,Asia,Brazil,South America,2010,0
+Russia,Asia,Argentina,South America,2010,0
+Russia,Asia,United Kingdom,Europe,2010,202336
+Russia,Asia,Netherlands,Europe,2010,0
+Russia,Asia,Belgium,Europe,2010,80105
+Russia,Asia,France,Europe,2010,4997975
+Russia,Asia,Switzerland,Europe,2010,0
+Russia,Asia,Spain,Europe,2010,269207
+Russia,Asia,Portugal,Europe,2010,0
+Russia,Asia,Germany,Europe,2010,7976537
+Russia,Asia,Poland,Europe,2010,390946
+Russia,Asia,Austria,Europe,2010,472844
+Russia,Asia,Hungary,Europe,2010,5683
+Russia,Asia,Czech Republic,Europe,2010,643839
+Russia,Asia,Slovakia,Europe,2010,34660
+Russia,Asia,Italy,Europe,2010,28807
+Russia,Asia,Croatia,Europe,2010,60034
+Russia,Asia,Serbia,Europe,2010,422770
+Russia,Asia,Bosnia,Europe,2010,0
+Russia,Asia,Greece,Europe,2010,416517
+Russia,Asia,Bulgaria,Europe,2010,44799
+Russia,Asia,Romania,Europe,2010,0
+Russia,Asia,Russia,Asia,2010,0
+Russia,Asia,Ukraine,Europe,2010,2451031
+Russia,Asia,Finland,Europe,2010,171959
+Russia,Asia,Sweden,Europe,2010,27708
+Russia,Asia,Norway,Europe,2010,408335
+Russia,Asia,Denmark,Europe,2010,0
+Russia,Asia,South Africa,Africa,2010,0
+Russia,Asia,Turkey,Asia,2010,2478
+Russia,Asia,Israel,Asia,2010,0
+Russia,Asia,United Arab Emirates,Asia,2010,0
+Russia,Asia,Taiwan,Asia,2010,0
+Russia,Asia,South Korea,Asia,2010,0
+Russia,Asia,Japan,Asia,2010,0
+Russia,Asia,India,Asia,2010,0
+Russia,Asia,Pakistan,Asia,2010,593418
+Russia,Asia,Thailand,Asia,2010,35242
+Russia,Asia,Malaysia,Asia,2010,5117
+Russia,Asia,Singapore,Asia,2010,0
+Russia,Asia,Philippines,Asia,2010,29342
+Russia,Asia,Indonesia,Asia,2010,17625268
+Russia,Asia,Australia,Oceania,2010,58803
+Russia,Asia,Cyprus,Europe,2010,5732387
+Russia,Asia,China,Asia,2010,19026
+Russia,Asia,Ivory Coast,Africa,2010,0
+Russia,Asia,Congo,Africa,2010,0
+Ukraine,Europe,United States,North America,2010,11222900
+Ukraine,Europe,Canada,North America,2010,605011
+Ukraine,Europe,Mexico,North America,2010,0
+Ukraine,Europe,Brazil,South America,2010,0
+Ukraine,Europe,Argentina,South America,2010,0
+Ukraine,Europe,United Kingdom,Europe,2010,469999
+Ukraine,Europe,Netherlands,Europe,2010,0
+Ukraine,Europe,Belgium,Europe,2010,0
+Ukraine,Europe,France,Europe,2010,0
+Ukraine,Europe,Switzerland,Europe,2010,0
+Ukraine,Europe,Spain,Europe,2010,0
+Ukraine,Europe,Portugal,Europe,2010,0
+Ukraine,Europe,Germany,Europe,2010,3403894
+Ukraine,Europe,Poland,Europe,2010,0
+Ukraine,Europe,Austria,Europe,2010,63500
+Ukraine,Europe,Hungary,Europe,2010,11234
+Ukraine,Europe,Czech Republic,Europe,2010,51999
+Ukraine,Europe,Slovakia,Europe,2010,0
+Ukraine,Europe,Italy,Europe,2010,0
+Ukraine,Europe,Croatia,Europe,2010,0
+Ukraine,Europe,Serbia,Europe,2010,0
+Ukraine,Europe,Bosnia,Europe,2010,0
+Ukraine,Europe,Greece,Europe,2010,0
+Ukraine,Europe,Bulgaria,Europe,2010,0
+Ukraine,Europe,Romania,Europe,2010,184999
+Ukraine,Europe,Russia,Asia,2010,10518
+Ukraine,Europe,Ukraine,Europe,2010,0
+Ukraine,Europe,Finland,Europe,2010,1027
+Ukraine,Europe,Sweden,Europe,2010,0
+Ukraine,Europe,Norway,Europe,2010,0
+Ukraine,Europe,Denmark,Europe,2010,0
+Ukraine,Europe,South Africa,Africa,2010,0
+Ukraine,Europe,Turkey,Asia,2010,0
+Ukraine,Europe,Israel,Asia,2010,0
+Ukraine,Europe,United Arab Emirates,Asia,2010,0
+Ukraine,Europe,Taiwan,Asia,2010,0
+Ukraine,Europe,South Korea,Asia,2010,72350
+Ukraine,Europe,Japan,Asia,2010,0
+Ukraine,Europe,India,Asia,2010,0
+Ukraine,Europe,Pakistan,Asia,2010,223499
+Ukraine,Europe,Thailand,Asia,2010,0
+Ukraine,Europe,Malaysia,Asia,2010,0
+Ukraine,Europe,Singapore,Asia,2010,0
+Ukraine,Europe,Philippines,Asia,2010,0
+Ukraine,Europe,Indonesia,Asia,2010,0
+Ukraine,Europe,Australia,Oceania,2010,0
+Ukraine,Europe,Cyprus,Europe,2010,0
+Ukraine,Europe,China,Asia,2010,0
+Ukraine,Europe,Ivory Coast,Africa,2010,0
+Ukraine,Europe,Congo,Africa,2010,1352498
+Finland,Europe,United States,North America,2010,16055874
+Finland,Europe,Canada,North America,2010,4056893
+Finland,Europe,Mexico,North America,2010,330650
+Finland,Europe,Brazil,South America,2010,579737
+Finland,Europe,Argentina,South America,2010,183276
+Finland,Europe,United Kingdom,Europe,2010,2814295
+Finland,Europe,Netherlands,Europe,2010,8273915
+Finland,Europe,Belgium,Europe,2010,447914
+Finland,Europe,France,Europe,2010,1562469
+Finland,Europe,Switzerland,Europe,2010,334111
+Finland,Europe,Spain,Europe,2010,858331
+Finland,Europe,Portugal,Europe,2010,18402
+Finland,Europe,Germany,Europe,2010,2721581
+Finland,Europe,Poland,Europe,2010,1076075
+Finland,Europe,Austria,Europe,2010,216341
+Finland,Europe,Hungary,Europe,2010,306330
+Finland,Europe,Czech Republic,Europe,2010,492945
+Finland,Europe,Slovakia,Europe,2010,32272
+Finland,Europe,Italy,Europe,2010,1624266
+Finland,Europe,Croatia,Europe,2010,39472
+Finland,Europe,Serbia,Europe,2010,364
+Finland,Europe,Bosnia,Europe,2010,0
+Finland,Europe,Greece,Europe,2010,869
+Finland,Europe,Bulgaria,Europe,2010,60896
+Finland,Europe,Romania,Europe,2010,59447
+Finland,Europe,Russia,Asia,2010,1997286
+Finland,Europe,Ukraine,Europe,2010,164179
+Finland,Europe,Finland,Europe,2010,0
+Finland,Europe,Sweden,Europe,2010,6591713
+Finland,Europe,Norway,Europe,2010,4043777
+Finland,Europe,Denmark,Europe,2010,1410448
+Finland,Europe,South Africa,Africa,2010,652723
+Finland,Europe,Turkey,Asia,2010,117527
+Finland,Europe,Israel,Asia,2010,0
+Finland,Europe,United Arab Emirates,Asia,2010,2030
+Finland,Europe,Taiwan,Asia,2010,4602
+Finland,Europe,South Korea,Asia,2010,806387
+Finland,Europe,Japan,Asia,2010,270268
+Finland,Europe,India,Asia,2010,9135
+Finland,Europe,Pakistan,Asia,2010,2579
+Finland,Europe,Thailand,Asia,2010,108028
+Finland,Europe,Malaysia,Asia,2010,0
+Finland,Europe,Singapore,Asia,2010,14989
+Finland,Europe,Philippines,Asia,2010,41604
+Finland,Europe,Indonesia,Asia,2010,0
+Finland,Europe,Australia,Oceania,2010,2919425
+Finland,Europe,Cyprus,Europe,2010,0
+Finland,Europe,China,Asia,2010,0
+Finland,Europe,Ivory Coast,Africa,2010,0
+Finland,Europe,Congo,Africa,2010,0
+Sweden,Europe,United States,North America,2010,22155255
+Sweden,Europe,Canada,North America,2010,2020635
+Sweden,Europe,Mexico,North America,2010,0
+Sweden,Europe,Brazil,South America,2010,9808
+Sweden,Europe,Argentina,South America,2010,58539
+Sweden,Europe,United Kingdom,Europe,2010,573504
+Sweden,Europe,Netherlands,Europe,2010,581714
+Sweden,Europe,Belgium,Europe,2010,336331
+Sweden,Europe,France,Europe,2010,2333292
+Sweden,Europe,Switzerland,Europe,2010,378775
+Sweden,Europe,Spain,Europe,2010,2195824
+Sweden,Europe,Portugal,Europe,2010,155089
+Sweden,Europe,Germany,Europe,2010,2177137
+Sweden,Europe,Poland,Europe,2010,142351
+Sweden,Europe,Austria,Europe,2010,743171
+Sweden,Europe,Hungary,Europe,2010,195601
+Sweden,Europe,Czech Republic,Europe,2010,132505
+Sweden,Europe,Slovakia,Europe,2010,192450
+Sweden,Europe,Italy,Europe,2010,964224
+Sweden,Europe,Croatia,Europe,2010,117275
+Sweden,Europe,Serbia,Europe,2010,0
+Sweden,Europe,Bosnia,Europe,2010,0
+Sweden,Europe,Greece,Europe,2010,0
+Sweden,Europe,Bulgaria,Europe,2010,81595
+Sweden,Europe,Romania,Europe,2010,36390
+Sweden,Europe,Russia,Asia,2010,3046889
+Sweden,Europe,Ukraine,Europe,2010,163758
+Sweden,Europe,Finland,Europe,2010,12244514
+Sweden,Europe,Sweden,Europe,2010,0
+Sweden,Europe,Norway,Europe,2010,5035994
+Sweden,Europe,Denmark,Europe,2010,1334324
+Sweden,Europe,South Africa,Africa,2010,2132
+Sweden,Europe,Turkey,Asia,2010,0
+Sweden,Europe,Israel,Asia,2010,0
+Sweden,Europe,United Arab Emirates,Asia,2010,0
+Sweden,Europe,Taiwan,Asia,2010,1563
+Sweden,Europe,South Korea,Asia,2010,2416
+Sweden,Europe,Japan,Asia,2010,1094178
+Sweden,Europe,India,Asia,2010,0
+Sweden,Europe,Pakistan,Asia,2010,0
+Sweden,Europe,Thailand,Asia,2010,0
+Sweden,Europe,Malaysia,Asia,2010,8244
+Sweden,Europe,Singapore,Asia,2010,0
+Sweden,Europe,Philippines,Asia,2010,0
+Sweden,Europe,Indonesia,Asia,2010,0
+Sweden,Europe,Australia,Oceania,2010,3367753
+Sweden,Europe,Cyprus,Europe,2010,0
+Sweden,Europe,China,Asia,2010,0
+Sweden,Europe,Ivory Coast,Africa,2010,0
+Sweden,Europe,Congo,Africa,2010,0
+Norway,Europe,United States,North America,2010,16613916
+Norway,Europe,Canada,North America,2010,22743
+Norway,Europe,Mexico,North America,2010,0
+Norway,Europe,Brazil,South America,2010,215244
+Norway,Europe,Argentina,South America,2010,0
+Norway,Europe,United Kingdom,Europe,2010,36777
+Norway,Europe,Netherlands,Europe,2010,4250995
+Norway,Europe,Belgium,Europe,2010,11756
+Norway,Europe,France,Europe,2010,31500
+Norway,Europe,Switzerland,Europe,2010,58943
+Norway,Europe,Spain,Europe,2010,491594
+Norway,Europe,Portugal,Europe,2010,1185117
+Norway,Europe,Germany,Europe,2010,62724
+Norway,Europe,Poland,Europe,2010,9736747
+Norway,Europe,Austria,Europe,2010,1069
+Norway,Europe,Hungary,Europe,2010,0
+Norway,Europe,Czech Republic,Europe,2010,29068
+Norway,Europe,Slovakia,Europe,2010,0
+Norway,Europe,Italy,Europe,2010,3998477
+Norway,Europe,Croatia,Europe,2010,0
+Norway,Europe,Serbia,Europe,2010,0
+Norway,Europe,Bosnia,Europe,2010,0
+Norway,Europe,Greece,Europe,2010,0
+Norway,Europe,Bulgaria,Europe,2010,0
+Norway,Europe,Romania,Europe,2010,6503
+Norway,Europe,Russia,Asia,2010,0
+Norway,Europe,Ukraine,Europe,2010,4355
+Norway,Europe,Finland,Europe,2010,74038
+Norway,Europe,Sweden,Europe,2010,279601
+Norway,Europe,Norway,Europe,2010,0
+Norway,Europe,Denmark,Europe,2010,3170943
+Norway,Europe,South Africa,Africa,2010,422
+Norway,Europe,Turkey,Asia,2010,0
+Norway,Europe,Israel,Asia,2010,0
+Norway,Europe,United Arab Emirates,Asia,2010,0
+Norway,Europe,Taiwan,Asia,2010,0
+Norway,Europe,South Korea,Asia,2010,0
+Norway,Europe,Japan,Asia,2010,133421
+Norway,Europe,India,Asia,2010,0
+Norway,Europe,Pakistan,Asia,2010,0
+Norway,Europe,Thailand,Asia,2010,126860
+Norway,Europe,Malaysia,Asia,2010,0
+Norway,Europe,Singapore,Asia,2010,517083
+Norway,Europe,Philippines,Asia,2010,0
+Norway,Europe,Indonesia,Asia,2010,0
+Norway,Europe,Australia,Oceania,2010,929
+Norway,Europe,Cyprus,Europe,2010,0
+Norway,Europe,China,Asia,2010,0
+Norway,Europe,Ivory Coast,Africa,2010,0
+Norway,Europe,Congo,Africa,2010,0
+Denmark,Europe,United States,North America,2010,17396
+Denmark,Europe,Canada,North America,2010,2023
+Denmark,Europe,Mexico,North America,2010,0
+Denmark,Europe,Brazil,South America,2010,0
+Denmark,Europe,Argentina,South America,2010,0
+Denmark,Europe,United Kingdom,Europe,2010,41136
+Denmark,Europe,Netherlands,Europe,2010,0
+Denmark,Europe,Belgium,Europe,2010,0
+Denmark,Europe,France,Europe,2010,128276
+Denmark,Europe,Switzerland,Europe,2010,242343
+Denmark,Europe,Spain,Europe,2010,308079
+Denmark,Europe,Portugal,Europe,2010,18454
+Denmark,Europe,Germany,Europe,2010,157651
+Denmark,Europe,Poland,Europe,2010,83103
+Denmark,Europe,Austria,Europe,2010,23657
+Denmark,Europe,Hungary,Europe,2010,24511
+Denmark,Europe,Czech Republic,Europe,2010,0
+Denmark,Europe,Slovakia,Europe,2010,0
+Denmark,Europe,Italy,Europe,2010,241016
+Denmark,Europe,Croatia,Europe,2010,0
+Denmark,Europe,Serbia,Europe,2010,0
+Denmark,Europe,Bosnia,Europe,2010,22235
+Denmark,Europe,Greece,Europe,2010,1346
+Denmark,Europe,Bulgaria,Europe,2010,0
+Denmark,Europe,Romania,Europe,2010,0
+Denmark,Europe,Russia,Asia,2010,16867
+Denmark,Europe,Ukraine,Europe,2010,0
+Denmark,Europe,Finland,Europe,2010,140
+Denmark,Europe,Sweden,Europe,2010,3394379
+Denmark,Europe,Norway,Europe,2010,296368
+Denmark,Europe,Denmark,Europe,2010,0
+Denmark,Europe,South Africa,Africa,2010,0
+Denmark,Europe,Turkey,Asia,2010,0
+Denmark,Europe,Israel,Asia,2010,24840
+Denmark,Europe,United Arab Emirates,Asia,2010,0
+Denmark,Europe,Taiwan,Asia,2010,0
+Denmark,Europe,South Korea,Asia,2010,0
+Denmark,Europe,Japan,Asia,2010,0
+Denmark,Europe,India,Asia,2010,0
+Denmark,Europe,Pakistan,Asia,2010,0
+Denmark,Europe,Thailand,Asia,2010,0
+Denmark,Europe,Malaysia,Asia,2010,0
+Denmark,Europe,Singapore,Asia,2010,0
+Denmark,Europe,Philippines,Asia,2010,0
+Denmark,Europe,Indonesia,Asia,2010,0
+Denmark,Europe,Australia,Oceania,2010,0
+Denmark,Europe,Cyprus,Europe,2010,0
+Denmark,Europe,China,Asia,2010,0
+Denmark,Europe,Ivory Coast,Africa,2010,0
+Denmark,Europe,Congo,Africa,2010,0
+South Africa,Africa,United States,North America,2010,1674189
+South Africa,Africa,Canada,North America,2010,192855
+South Africa,Africa,Mexico,North America,2010,0
+South Africa,Africa,Brazil,South America,2010,554424
+South Africa,Africa,Argentina,South America,2010,0
+South Africa,Africa,United Kingdom,Europe,2010,24352
+South Africa,Africa,Netherlands,Europe,2010,509115
+South Africa,Africa,Belgium,Europe,2010,0
+South Africa,Africa,France,Europe,2010,82577
+South Africa,Africa,Switzerland,Europe,2010,823267
+South Africa,Africa,Spain,Europe,2010,0
+South Africa,Africa,Portugal,Europe,2010,0
+South Africa,Africa,Germany,Europe,2010,92009
+South Africa,Africa,Poland,Europe,2010,0
+South Africa,Africa,Austria,Europe,2010,1845
+South Africa,Africa,Hungary,Europe,2010,0
+South Africa,Africa,Czech Republic,Europe,2010,15828
+South Africa,Africa,Slovakia,Europe,2010,0
+South Africa,Africa,Italy,Europe,2010,61498
+South Africa,Africa,Croatia,Europe,2010,0
+South Africa,Africa,Serbia,Europe,2010,0
+South Africa,Africa,Bosnia,Europe,2010,0
+South Africa,Africa,Greece,Europe,2010,0
+South Africa,Africa,Bulgaria,Europe,2010,0
+South Africa,Africa,Romania,Europe,2010,0
+South Africa,Africa,Russia,Asia,2010,0
+South Africa,Africa,Ukraine,Europe,2010,0
+South Africa,Africa,Finland,Europe,2010,0
+South Africa,Africa,Sweden,Europe,2010,283
+South Africa,Africa,Norway,Europe,2010,63698
+South Africa,Africa,Denmark,Europe,2010,4523
+South Africa,Africa,South Africa,Africa,2010,0
+South Africa,Africa,Turkey,Asia,2010,0
+South Africa,Africa,Israel,Asia,2010,0
+South Africa,Africa,United Arab Emirates,Asia,2010,0
+South Africa,Africa,Taiwan,Asia,2010,0
+South Africa,Africa,South Korea,Asia,2010,0
+South Africa,Africa,Japan,Asia,2010,0
+South Africa,Africa,India,Asia,2010,0
+South Africa,Africa,Pakistan,Asia,2010,0
+South Africa,Africa,Thailand,Asia,2010,185471
+South Africa,Africa,Malaysia,Asia,2010,74503
+South Africa,Africa,Singapore,Asia,2010,0
+South Africa,Africa,Philippines,Asia,2010,0
+South Africa,Africa,Indonesia,Asia,2010,0
+South Africa,Africa,Australia,Oceania,2010,40586
+South Africa,Africa,Cyprus,Europe,2010,23650
+South Africa,Africa,China,Asia,2010,0
+South Africa,Africa,Ivory Coast,Africa,2010,0
+South Africa,Africa,Congo,Africa,2010,0
+Turkey,Asia,United States,North America,2010,24943206
+Turkey,Asia,Canada,North America,2010,338127
+Turkey,Asia,Mexico,North America,2010,434629
+Turkey,Asia,Brazil,South America,2010,45781
+Turkey,Asia,Argentina,South America,2010,563638
+Turkey,Asia,United Kingdom,Europe,2010,920851
+Turkey,Asia,Netherlands,Europe,2010,13752
+Turkey,Asia,Belgium,Europe,2010,119691
+Turkey,Asia,France,Europe,2010,3389745
+Turkey,Asia,Switzerland,Europe,2010,3825880
+Turkey,Asia,Spain,Europe,2010,289079
+Turkey,Asia,Portugal,Europe,2010,444989
+Turkey,Asia,Germany,Europe,2010,727114
+Turkey,Asia,Poland,Europe,2010,147894
+Turkey,Asia,Austria,Europe,2010,73132
+Turkey,Asia,Hungary,Europe,2010,5140
+Turkey,Asia,Czech Republic,Europe,2010,863737
+Turkey,Asia,Slovakia,Europe,2010,10340
+Turkey,Asia,Italy,Europe,2010,1840166
+Turkey,Asia,Croatia,Europe,2010,28383
+Turkey,Asia,Serbia,Europe,2010,54702
+Turkey,Asia,Bosnia,Europe,2010,2014375
+Turkey,Asia,Greece,Europe,2010,118784
+Turkey,Asia,Bulgaria,Europe,2010,381756
+Turkey,Asia,Romania,Europe,2010,75272
+Turkey,Asia,Russia,Asia,2010,1836035
+Turkey,Asia,Ukraine,Europe,2010,637703
+Turkey,Asia,Finland,Europe,2010,235444
+Turkey,Asia,Sweden,Europe,2010,306992
+Turkey,Asia,Norway,Europe,2010,302882
+Turkey,Asia,Denmark,Europe,2010,330072
+Turkey,Asia,South Africa,Africa,2010,34253
+Turkey,Asia,Turkey,Asia,2010,0
+Turkey,Asia,Israel,Asia,2010,887214
+Turkey,Asia,United Arab Emirates,Asia,2010,0
+Turkey,Asia,Taiwan,Asia,2010,0
+Turkey,Asia,South Korea,Asia,2010,74194
+Turkey,Asia,Japan,Asia,2010,0
+Turkey,Asia,India,Asia,2010,7204
+Turkey,Asia,Pakistan,Asia,2010,4789918
+Turkey,Asia,Thailand,Asia,2010,921686
+Turkey,Asia,Malaysia,Asia,2010,20971
+Turkey,Asia,Singapore,Asia,2010,388
+Turkey,Asia,Philippines,Asia,2010,997896
+Turkey,Asia,Indonesia,Asia,2010,0
+Turkey,Asia,Australia,Oceania,2010,930931
+Turkey,Asia,Cyprus,Europe,2010,346010
+Turkey,Asia,China,Asia,2010,612
+Turkey,Asia,Ivory Coast,Africa,2010,0
+Turkey,Asia,Congo,Africa,2010,0
+Israel,Asia,United States,North America,2010,46739547
+Israel,Asia,Canada,North America,2010,631838
+Israel,Asia,Mexico,North America,2010,3602002
+Israel,Asia,Brazil,South America,2010,1015188
+Israel,Asia,Argentina,South America,2010,73148
+Israel,Asia,United Kingdom,Europe,2010,146048
+Israel,Asia,Netherlands,Europe,2010,0
+Israel,Asia,Belgium,Europe,2010,3951063
+Israel,Asia,France,Europe,2010,1043398
+Israel,Asia,Switzerland,Europe,2010,176036
+Israel,Asia,Spain,Europe,2010,8722
+Israel,Asia,Portugal,Europe,2010,0
+Israel,Asia,Germany,Europe,2010,581934
+Israel,Asia,Poland,Europe,2010,2668700
+Israel,Asia,Austria,Europe,2010,9208426
+Israel,Asia,Hungary,Europe,2010,8170
+Israel,Asia,Czech Republic,Europe,2010,87325
+Israel,Asia,Slovakia,Europe,2010,0
+Israel,Asia,Italy,Europe,2010,3019146
+Israel,Asia,Croatia,Europe,2010,642
+Israel,Asia,Serbia,Europe,2010,0
+Israel,Asia,Bosnia,Europe,2010,0
+Israel,Asia,Greece,Europe,2010,36767
+Israel,Asia,Bulgaria,Europe,2010,1059105
+Israel,Asia,Romania,Europe,2010,137877
+Israel,Asia,Russia,Asia,2010,0
+Israel,Asia,Ukraine,Europe,2010,0
+Israel,Asia,Finland,Europe,2010,1973183
+Israel,Asia,Sweden,Europe,2010,8170
+Israel,Asia,Norway,Europe,2010,6127
+Israel,Asia,Denmark,Europe,2010,0
+Israel,Asia,South Africa,Africa,2010,0
+Israel,Asia,Turkey,Asia,2010,81705
+Israel,Asia,Israel,Asia,2010,0
+Israel,Asia,United Arab Emirates,Asia,2010,0
+Israel,Asia,Taiwan,Asia,2010,0
+Israel,Asia,South Korea,Asia,2010,36965
+Israel,Asia,Japan,Asia,2010,0
+Israel,Asia,India,Asia,2010,1345073
+Israel,Asia,Pakistan,Asia,2010,0
+Israel,Asia,Thailand,Asia,2010,14384916
+Israel,Asia,Malaysia,Asia,2010,0
+Israel,Asia,Singapore,Asia,2010,0
+Israel,Asia,Philippines,Asia,2010,960486
+Israel,Asia,Indonesia,Asia,2010,0
+Israel,Asia,Australia,Oceania,2010,0
+Israel,Asia,Cyprus,Europe,2010,0
+Israel,Asia,China,Asia,2010,0
+Israel,Asia,Ivory Coast,Africa,2010,0
+Israel,Asia,Congo,Africa,2010,0
+United Arab Emirates,Asia,United States,North America,2010,0
+United Arab Emirates,Asia,Canada,North America,2010,332
+United Arab Emirates,Asia,Mexico,North America,2010,0
+United Arab Emirates,Asia,Brazil,South America,2010,0
+United Arab Emirates,Asia,Argentina,South America,2010,0
+United Arab Emirates,Asia,United Kingdom,Europe,2010,0
+United Arab Emirates,Asia,Netherlands,Europe,2010,0
+United Arab Emirates,Asia,Belgium,Europe,2010,0
+United Arab Emirates,Asia,France,Europe,2010,0
+United Arab Emirates,Asia,Switzerland,Europe,2010,0
+United Arab Emirates,Asia,Spain,Europe,2010,0
+United Arab Emirates,Asia,Portugal,Europe,2010,0
+United Arab Emirates,Asia,Germany,Europe,2010,4059
+United Arab Emirates,Asia,Poland,Europe,2010,0
+United Arab Emirates,Asia,Austria,Europe,2010,0
+United Arab Emirates,Asia,Hungary,Europe,2010,0
+United Arab Emirates,Asia,Czech Republic,Europe,2010,0
+United Arab Emirates,Asia,Slovakia,Europe,2010,0
+United Arab Emirates,Asia,Italy,Europe,2010,209076
+United Arab Emirates,Asia,Croatia,Europe,2010,0
+United Arab Emirates,Asia,Serbia,Europe,2010,0
+United Arab Emirates,Asia,Bosnia,Europe,2010,0
+United Arab Emirates,Asia,Greece,Europe,2010,0
+United Arab Emirates,Asia,Bulgaria,Europe,2010,0
+United Arab Emirates,Asia,Romania,Europe,2010,0
+United Arab Emirates,Asia,Russia,Asia,2010,0
+United Arab Emirates,Asia,Ukraine,Europe,2010,0
+United Arab Emirates,Asia,Finland,Europe,2010,808
+United Arab Emirates,Asia,Sweden,Europe,2010,0
+United Arab Emirates,Asia,Norway,Europe,2010,0
+United Arab Emirates,Asia,Denmark,Europe,2010,0
+United Arab Emirates,Asia,South Africa,Africa,2010,0
+United Arab Emirates,Asia,Turkey,Asia,2010,0
+United Arab Emirates,Asia,Israel,Asia,2010,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,2010,0
+United Arab Emirates,Asia,Taiwan,Asia,2010,0
+United Arab Emirates,Asia,South Korea,Asia,2010,0
+United Arab Emirates,Asia,Japan,Asia,2010,0
+United Arab Emirates,Asia,India,Asia,2010,1838
+United Arab Emirates,Asia,Pakistan,Asia,2010,838
+United Arab Emirates,Asia,Thailand,Asia,2010,92949
+United Arab Emirates,Asia,Malaysia,Asia,2010,0
+United Arab Emirates,Asia,Singapore,Asia,2010,0
+United Arab Emirates,Asia,Philippines,Asia,2010,0
+United Arab Emirates,Asia,Indonesia,Asia,2010,143244
+United Arab Emirates,Asia,Australia,Oceania,2010,0
+United Arab Emirates,Asia,Cyprus,Europe,2010,0
+United Arab Emirates,Asia,China,Asia,2010,0
+United Arab Emirates,Asia,Ivory Coast,Africa,2010,3275
+United Arab Emirates,Asia,Congo,Africa,2010,0
+Taiwan,Asia,United States,North America,2010,42494853
+Taiwan,Asia,Canada,North America,2010,81796
+Taiwan,Asia,Mexico,North America,2010,10086
+Taiwan,Asia,Brazil,South America,2010,0
+Taiwan,Asia,Argentina,South America,2010,0
+Taiwan,Asia,United Kingdom,Europe,2010,0
+Taiwan,Asia,Netherlands,Europe,2010,0
+Taiwan,Asia,Belgium,Europe,2010,0
+Taiwan,Asia,France,Europe,2010,0
+Taiwan,Asia,Switzerland,Europe,2010,2064
+Taiwan,Asia,Spain,Europe,2010,2398
+Taiwan,Asia,Portugal,Europe,2010,0
+Taiwan,Asia,Germany,Europe,2010,0
+Taiwan,Asia,Poland,Europe,2010,77198
+Taiwan,Asia,Austria,Europe,2010,0
+Taiwan,Asia,Hungary,Europe,2010,0
+Taiwan,Asia,Czech Republic,Europe,2010,96727
+Taiwan,Asia,Slovakia,Europe,2010,25
+Taiwan,Asia,Italy,Europe,2010,0
+Taiwan,Asia,Croatia,Europe,2010,19217
+Taiwan,Asia,Serbia,Europe,2010,0
+Taiwan,Asia,Bosnia,Europe,2010,0
+Taiwan,Asia,Greece,Europe,2010,6385
+Taiwan,Asia,Bulgaria,Europe,2010,0
+Taiwan,Asia,Romania,Europe,2010,0
+Taiwan,Asia,Russia,Asia,2010,0
+Taiwan,Asia,Ukraine,Europe,2010,0
+Taiwan,Asia,Finland,Europe,2010,0
+Taiwan,Asia,Sweden,Europe,2010,0
+Taiwan,Asia,Norway,Europe,2010,0
+Taiwan,Asia,Denmark,Europe,2010,0
+Taiwan,Asia,South Africa,Africa,2010,0
+Taiwan,Asia,Turkey,Asia,2010,0
+Taiwan,Asia,Israel,Asia,2010,0
+Taiwan,Asia,United Arab Emirates,Asia,2010,0
+Taiwan,Asia,Taiwan,Asia,2010,0
+Taiwan,Asia,South Korea,Asia,2010,0
+Taiwan,Asia,Japan,Asia,2010,0
+Taiwan,Asia,India,Asia,2010,0
+Taiwan,Asia,Pakistan,Asia,2010,14227
+Taiwan,Asia,Thailand,Asia,2010,4932
+Taiwan,Asia,Malaysia,Asia,2010,8104
+Taiwan,Asia,Singapore,Asia,2010,0
+Taiwan,Asia,Philippines,Asia,2010,3473
+Taiwan,Asia,Indonesia,Asia,2010,0
+Taiwan,Asia,Australia,Oceania,2010,25577
+Taiwan,Asia,Cyprus,Europe,2010,34675
+Taiwan,Asia,China,Asia,2010,0
+Taiwan,Asia,Ivory Coast,Africa,2010,0
+Taiwan,Asia,Congo,Africa,2010,0
+South Korea,Asia,United States,North America,2010,80594183
+South Korea,Asia,Canada,North America,2010,272842
+South Korea,Asia,Mexico,North America,2010,3609
+South Korea,Asia,Brazil,South America,2010,12832
+South Korea,Asia,Argentina,South America,2010,0
+South Korea,Asia,United Kingdom,Europe,2010,183450
+South Korea,Asia,Netherlands,Europe,2010,47537
+South Korea,Asia,Belgium,Europe,2010,10284
+South Korea,Asia,France,Europe,2010,204
+South Korea,Asia,Switzerland,Europe,2010,0
+South Korea,Asia,Spain,Europe,2010,436839
+South Korea,Asia,Portugal,Europe,2010,0
+South Korea,Asia,Germany,Europe,2010,7881089
+South Korea,Asia,Poland,Europe,2010,0
+South Korea,Asia,Austria,Europe,2010,0
+South Korea,Asia,Hungary,Europe,2010,0
+South Korea,Asia,Czech Republic,Europe,2010,0
+South Korea,Asia,Slovakia,Europe,2010,0
+South Korea,Asia,Italy,Europe,2010,20688
+South Korea,Asia,Croatia,Europe,2010,0
+South Korea,Asia,Serbia,Europe,2010,0
+South Korea,Asia,Bosnia,Europe,2010,0
+South Korea,Asia,Greece,Europe,2010,2561
+South Korea,Asia,Bulgaria,Europe,2010,1414
+South Korea,Asia,Romania,Europe,2010,0
+South Korea,Asia,Russia,Asia,2010,0
+South Korea,Asia,Ukraine,Europe,2010,204
+South Korea,Asia,Finland,Europe,2010,0
+South Korea,Asia,Sweden,Europe,2010,1364
+South Korea,Asia,Norway,Europe,2010,0
+South Korea,Asia,Denmark,Europe,2010,11243798
+South Korea,Asia,South Africa,Africa,2010,0
+South Korea,Asia,Turkey,Asia,2010,2418775
+South Korea,Asia,Israel,Asia,2010,3134712
+South Korea,Asia,United Arab Emirates,Asia,2010,9433319
+South Korea,Asia,Taiwan,Asia,2010,96292
+South Korea,Asia,South Korea,Asia,2010,0
+South Korea,Asia,Japan,Asia,2010,347349
+South Korea,Asia,India,Asia,2010,0
+South Korea,Asia,Pakistan,Asia,2010,8224414
+South Korea,Asia,Thailand,Asia,2010,7603562
+South Korea,Asia,Malaysia,Asia,2010,3212251
+South Korea,Asia,Singapore,Asia,2010,1758188
+South Korea,Asia,Philippines,Asia,2010,10382860
+South Korea,Asia,Indonesia,Asia,2010,10475443
+South Korea,Asia,Australia,Oceania,2010,471443
+South Korea,Asia,Cyprus,Europe,2010,17749
+South Korea,Asia,China,Asia,2010,0
+South Korea,Asia,Ivory Coast,Africa,2010,0
+South Korea,Asia,Congo,Africa,2010,0
+Japan,Asia,United States,North America,2010,24515948
+Japan,Asia,Canada,North America,2010,7276558
+Japan,Asia,Mexico,North America,2010,265972
+Japan,Asia,Brazil,South America,2010,0
+Japan,Asia,Argentina,South America,2010,34928
+Japan,Asia,United Kingdom,Europe,2010,12123
+Japan,Asia,Netherlands,Europe,2010,0
+Japan,Asia,Belgium,Europe,2010,12143839
+Japan,Asia,France,Europe,2010,5007451
+Japan,Asia,Switzerland,Europe,2010,0
+Japan,Asia,Spain,Europe,2010,419780
+Japan,Asia,Portugal,Europe,2010,0
+Japan,Asia,Germany,Europe,2010,497012
+Japan,Asia,Poland,Europe,2010,434565
+Japan,Asia,Austria,Europe,2010,54054
+Japan,Asia,Hungary,Europe,2010,0
+Japan,Asia,Czech Republic,Europe,2010,203162
+Japan,Asia,Slovakia,Europe,2010,11676
+Japan,Asia,Italy,Europe,2010,66372
+Japan,Asia,Croatia,Europe,2010,105184
+Japan,Asia,Serbia,Europe,2010,16615
+Japan,Asia,Bosnia,Europe,2010,0
+Japan,Asia,Greece,Europe,2010,71759
+Japan,Asia,Bulgaria,Europe,2010,0
+Japan,Asia,Romania,Europe,2010,0
+Japan,Asia,Russia,Asia,2010,650039
+Japan,Asia,Ukraine,Europe,2010,73159
+Japan,Asia,Finland,Europe,2010,21239
+Japan,Asia,Sweden,Europe,2010,283
+Japan,Asia,Norway,Europe,2010,45911
+Japan,Asia,Denmark,Europe,2010,0
+Japan,Asia,South Africa,Africa,2010,0
+Japan,Asia,Turkey,Asia,2010,71795
+Japan,Asia,Israel,Asia,2010,0
+Japan,Asia,United Arab Emirates,Asia,2010,0
+Japan,Asia,Taiwan,Asia,2010,0
+Japan,Asia,South Korea,Asia,2010,20500
+Japan,Asia,Japan,Asia,2010,0
+Japan,Asia,India,Asia,2010,4178
+Japan,Asia,Pakistan,Asia,2010,2731
+Japan,Asia,Thailand,Asia,2010,246855
+Japan,Asia,Malaysia,Asia,2010,11119
+Japan,Asia,Singapore,Asia,2010,0
+Japan,Asia,Philippines,Asia,2010,31785
+Japan,Asia,Indonesia,Asia,2010,0
+Japan,Asia,Australia,Oceania,2010,1620011
+Japan,Asia,Cyprus,Europe,2010,397700
+Japan,Asia,China,Asia,2010,0
+Japan,Asia,Ivory Coast,Africa,2010,0
+Japan,Asia,Congo,Africa,2010,0
+India,Asia,United States,North America,2010,676511
+India,Asia,Canada,North America,2010,34845
+India,Asia,Mexico,North America,2010,0
+India,Asia,Brazil,South America,2010,163569
+India,Asia,Argentina,South America,2010,0
+India,Asia,United Kingdom,Europe,2010,53630
+India,Asia,Netherlands,Europe,2010,0
+India,Asia,Belgium,Europe,2010,0
+India,Asia,France,Europe,2010,0
+India,Asia,Switzerland,Europe,2010,82
+India,Asia,Spain,Europe,2010,0
+India,Asia,Portugal,Europe,2010,0
+India,Asia,Germany,Europe,2010,10824
+India,Asia,Poland,Europe,2010,735
+India,Asia,Austria,Europe,2010,454
+India,Asia,Hungary,Europe,2010,0
+India,Asia,Czech Republic,Europe,2010,0
+India,Asia,Slovakia,Europe,2010,0
+India,Asia,Italy,Europe,2010,0
+India,Asia,Croatia,Europe,2010,0
+India,Asia,Serbia,Europe,2010,0
+India,Asia,Bosnia,Europe,2010,0
+India,Asia,Greece,Europe,2010,0
+India,Asia,Bulgaria,Europe,2010,0
+India,Asia,Romania,Europe,2010,0
+India,Asia,Russia,Asia,2010,0
+India,Asia,Ukraine,Europe,2010,0
+India,Asia,Finland,Europe,2010,0
+India,Asia,Sweden,Europe,2010,0
+India,Asia,Norway,Europe,2010,0
+India,Asia,Denmark,Europe,2010,0
+India,Asia,South Africa,Africa,2010,0
+India,Asia,Turkey,Asia,2010,0
+India,Asia,Israel,Asia,2010,13081
+India,Asia,United Arab Emirates,Asia,2010,1363
+India,Asia,Taiwan,Asia,2010,0
+India,Asia,South Korea,Asia,2010,0
+India,Asia,Japan,Asia,2010,313
+India,Asia,India,Asia,2010,0
+India,Asia,Pakistan,Asia,2010,399
+India,Asia,Thailand,Asia,2010,0
+India,Asia,Malaysia,Asia,2010,0
+India,Asia,Singapore,Asia,2010,1403
+India,Asia,Philippines,Asia,2010,0
+India,Asia,Indonesia,Asia,2010,820
+India,Asia,Australia,Oceania,2010,966897
+India,Asia,Cyprus,Europe,2010,0
+India,Asia,China,Asia,2010,29173
+India,Asia,Ivory Coast,Africa,2010,0
+India,Asia,Congo,Africa,2010,0
+Pakistan,Asia,United States,North America,2010,196930
+Pakistan,Asia,Canada,North America,2010,108
+Pakistan,Asia,Mexico,North America,2010,0
+Pakistan,Asia,Brazil,South America,2010,0
+Pakistan,Asia,Argentina,South America,2010,0
+Pakistan,Asia,United Kingdom,Europe,2010,6920
+Pakistan,Asia,Netherlands,Europe,2010,0
+Pakistan,Asia,Belgium,Europe,2010,141801
+Pakistan,Asia,France,Europe,2010,2861656
+Pakistan,Asia,Switzerland,Europe,2010,0
+Pakistan,Asia,Spain,Europe,2010,0
+Pakistan,Asia,Portugal,Europe,2010,0
+Pakistan,Asia,Germany,Europe,2010,1464
+Pakistan,Asia,Poland,Europe,2010,0
+Pakistan,Asia,Austria,Europe,2010,0
+Pakistan,Asia,Hungary,Europe,2010,0
+Pakistan,Asia,Czech Republic,Europe,2010,0
+Pakistan,Asia,Slovakia,Europe,2010,0
+Pakistan,Asia,Italy,Europe,2010,0
+Pakistan,Asia,Croatia,Europe,2010,0
+Pakistan,Asia,Serbia,Europe,2010,0
+Pakistan,Asia,Bosnia,Europe,2010,0
+Pakistan,Asia,Greece,Europe,2010,0
+Pakistan,Asia,Bulgaria,Europe,2010,0
+Pakistan,Asia,Romania,Europe,2010,0
+Pakistan,Asia,Russia,Asia,2010,0
+Pakistan,Asia,Ukraine,Europe,2010,0
+Pakistan,Asia,Finland,Europe,2010,0
+Pakistan,Asia,Sweden,Europe,2010,141
+Pakistan,Asia,Norway,Europe,2010,0
+Pakistan,Asia,Denmark,Europe,2010,0
+Pakistan,Asia,South Africa,Africa,2010,0
+Pakistan,Asia,Turkey,Asia,2010,0
+Pakistan,Asia,Israel,Asia,2010,0
+Pakistan,Asia,United Arab Emirates,Asia,2010,0
+Pakistan,Asia,Taiwan,Asia,2010,1025
+Pakistan,Asia,South Korea,Asia,2010,0
+Pakistan,Asia,Japan,Asia,2010,0
+Pakistan,Asia,India,Asia,2010,0
+Pakistan,Asia,Pakistan,Asia,2010,0
+Pakistan,Asia,Thailand,Asia,2010,0
+Pakistan,Asia,Malaysia,Asia,2010,0
+Pakistan,Asia,Singapore,Asia,2010,0
+Pakistan,Asia,Philippines,Asia,2010,194743
+Pakistan,Asia,Indonesia,Asia,2010,0
+Pakistan,Asia,Australia,Oceania,2010,0
+Pakistan,Asia,Cyprus,Europe,2010,0
+Pakistan,Asia,China,Asia,2010,0
+Pakistan,Asia,Ivory Coast,Africa,2010,0
+Pakistan,Asia,Congo,Africa,2010,0
+Thailand,Asia,United States,North America,2010,68567
+Thailand,Asia,Canada,North America,2010,20
+Thailand,Asia,Mexico,North America,2010,0
+Thailand,Asia,Brazil,South America,2010,0
+Thailand,Asia,Argentina,South America,2010,0
+Thailand,Asia,United Kingdom,Europe,2010,0
+Thailand,Asia,Netherlands,Europe,2010,0
+Thailand,Asia,Belgium,Europe,2010,0
+Thailand,Asia,France,Europe,2010,0
+Thailand,Asia,Switzerland,Europe,2010,0
+Thailand,Asia,Spain,Europe,2010,2308
+Thailand,Asia,Portugal,Europe,2010,0
+Thailand,Asia,Germany,Europe,2010,6908
+Thailand,Asia,Poland,Europe,2010,0
+Thailand,Asia,Austria,Europe,2010,0
+Thailand,Asia,Hungary,Europe,2010,0
+Thailand,Asia,Czech Republic,Europe,2010,0
+Thailand,Asia,Slovakia,Europe,2010,0
+Thailand,Asia,Italy,Europe,2010,0
+Thailand,Asia,Croatia,Europe,2010,0
+Thailand,Asia,Serbia,Europe,2010,0
+Thailand,Asia,Bosnia,Europe,2010,0
+Thailand,Asia,Greece,Europe,2010,0
+Thailand,Asia,Bulgaria,Europe,2010,0
+Thailand,Asia,Romania,Europe,2010,0
+Thailand,Asia,Russia,Asia,2010,0
+Thailand,Asia,Ukraine,Europe,2010,0
+Thailand,Asia,Finland,Europe,2010,0
+Thailand,Asia,Sweden,Europe,2010,0
+Thailand,Asia,Norway,Europe,2010,0
+Thailand,Asia,Denmark,Europe,2010,0
+Thailand,Asia,South Africa,Africa,2010,0
+Thailand,Asia,Turkey,Asia,2010,0
+Thailand,Asia,Israel,Asia,2010,0
+Thailand,Asia,United Arab Emirates,Asia,2010,40
+Thailand,Asia,Taiwan,Asia,2010,3
+Thailand,Asia,South Korea,Asia,2010,0
+Thailand,Asia,Japan,Asia,2010,177321
+Thailand,Asia,India,Asia,2010,0
+Thailand,Asia,Pakistan,Asia,2010,0
+Thailand,Asia,Thailand,Asia,2010,0
+Thailand,Asia,Malaysia,Asia,2010,0
+Thailand,Asia,Singapore,Asia,2010,0
+Thailand,Asia,Philippines,Asia,2010,0
+Thailand,Asia,Indonesia,Asia,2010,14120
+Thailand,Asia,Australia,Oceania,2010,7647
+Thailand,Asia,Cyprus,Europe,2010,0
+Thailand,Asia,China,Asia,2010,0
+Thailand,Asia,Ivory Coast,Africa,2010,0
+Thailand,Asia,Congo,Africa,2010,0
+Malaysia,Asia,United States,North America,2010,29852
+Malaysia,Asia,Canada,North America,2010,0
+Malaysia,Asia,Mexico,North America,2010,0
+Malaysia,Asia,Brazil,South America,2010,0
+Malaysia,Asia,Argentina,South America,2010,0
+Malaysia,Asia,United Kingdom,Europe,2010,206458
+Malaysia,Asia,Netherlands,Europe,2010,0
+Malaysia,Asia,Belgium,Europe,2010,0
+Malaysia,Asia,France,Europe,2010,15868
+Malaysia,Asia,Switzerland,Europe,2010,0
+Malaysia,Asia,Spain,Europe,2010,0
+Malaysia,Asia,Portugal,Europe,2010,0
+Malaysia,Asia,Germany,Europe,2010,0
+Malaysia,Asia,Poland,Europe,2010,0
+Malaysia,Asia,Austria,Europe,2010,0
+Malaysia,Asia,Hungary,Europe,2010,0
+Malaysia,Asia,Czech Republic,Europe,2010,0
+Malaysia,Asia,Slovakia,Europe,2010,0
+Malaysia,Asia,Italy,Europe,2010,0
+Malaysia,Asia,Croatia,Europe,2010,0
+Malaysia,Asia,Serbia,Europe,2010,0
+Malaysia,Asia,Bosnia,Europe,2010,0
+Malaysia,Asia,Greece,Europe,2010,0
+Malaysia,Asia,Bulgaria,Europe,2010,0
+Malaysia,Asia,Romania,Europe,2010,0
+Malaysia,Asia,Russia,Asia,2010,0
+Malaysia,Asia,Ukraine,Europe,2010,0
+Malaysia,Asia,Finland,Europe,2010,0
+Malaysia,Asia,Sweden,Europe,2010,0
+Malaysia,Asia,Norway,Europe,2010,0
+Malaysia,Asia,Denmark,Europe,2010,0
+Malaysia,Asia,South Africa,Africa,2010,0
+Malaysia,Asia,Turkey,Asia,2010,4068
+Malaysia,Asia,Israel,Asia,2010,0
+Malaysia,Asia,United Arab Emirates,Asia,2010,0
+Malaysia,Asia,Taiwan,Asia,2010,0
+Malaysia,Asia,South Korea,Asia,2010,0
+Malaysia,Asia,Japan,Asia,2010,150068
+Malaysia,Asia,India,Asia,2010,0
+Malaysia,Asia,Pakistan,Asia,2010,0
+Malaysia,Asia,Thailand,Asia,2010,312521
+Malaysia,Asia,Malaysia,Asia,2010,67114
+Malaysia,Asia,Singapore,Asia,2010,296567
+Malaysia,Asia,Philippines,Asia,2010,2599
+Malaysia,Asia,Indonesia,Asia,2010,0
+Malaysia,Asia,Australia,Oceania,2010,0
+Malaysia,Asia,Cyprus,Europe,2010,0
+Malaysia,Asia,China,Asia,2010,0
+Malaysia,Asia,Ivory Coast,Africa,2010,0
+Malaysia,Asia,Congo,Africa,2010,0
+Singapore,Asia,United States,North America,2010,99719
+Singapore,Asia,Canada,North America,2010,4897
+Singapore,Asia,Mexico,North America,2010,0
+Singapore,Asia,Brazil,South America,2010,0
+Singapore,Asia,Argentina,South America,2010,0
+Singapore,Asia,United Kingdom,Europe,2010,22683657
+Singapore,Asia,Netherlands,Europe,2010,186856
+Singapore,Asia,Belgium,Europe,2010,0
+Singapore,Asia,France,Europe,2010,0
+Singapore,Asia,Switzerland,Europe,2010,123939
+Singapore,Asia,Spain,Europe,2010,0
+Singapore,Asia,Portugal,Europe,2010,0
+Singapore,Asia,Germany,Europe,2010,1187
+Singapore,Asia,Poland,Europe,2010,0
+Singapore,Asia,Austria,Europe,2010,0
+Singapore,Asia,Hungary,Europe,2010,0
+Singapore,Asia,Czech Republic,Europe,2010,0
+Singapore,Asia,Slovakia,Europe,2010,0
+Singapore,Asia,Italy,Europe,2010,0
+Singapore,Asia,Croatia,Europe,2010,0
+Singapore,Asia,Serbia,Europe,2010,0
+Singapore,Asia,Bosnia,Europe,2010,0
+Singapore,Asia,Greece,Europe,2010,0
+Singapore,Asia,Bulgaria,Europe,2010,0
+Singapore,Asia,Romania,Europe,2010,0
+Singapore,Asia,Russia,Asia,2010,0
+Singapore,Asia,Ukraine,Europe,2010,0
+Singapore,Asia,Finland,Europe,2010,0
+Singapore,Asia,Sweden,Europe,2010,0
+Singapore,Asia,Norway,Europe,2010,0
+Singapore,Asia,Denmark,Europe,2010,0
+Singapore,Asia,South Africa,Africa,2010,1275
+Singapore,Asia,Turkey,Asia,2010,0
+Singapore,Asia,Israel,Asia,2010,0
+Singapore,Asia,United Arab Emirates,Asia,2010,0
+Singapore,Asia,Taiwan,Asia,2010,3601
+Singapore,Asia,South Korea,Asia,2010,0
+Singapore,Asia,Japan,Asia,2010,113732
+Singapore,Asia,India,Asia,2010,11599
+Singapore,Asia,Pakistan,Asia,2010,0
+Singapore,Asia,Thailand,Asia,2010,5517056
+Singapore,Asia,Malaysia,Asia,2010,104952
+Singapore,Asia,Singapore,Asia,2010,0
+Singapore,Asia,Philippines,Asia,2010,436
+Singapore,Asia,Indonesia,Asia,2010,124878
+Singapore,Asia,Australia,Oceania,2010,130582
+Singapore,Asia,Cyprus,Europe,2010,0
+Singapore,Asia,China,Asia,2010,0
+Singapore,Asia,Ivory Coast,Africa,2010,0
+Singapore,Asia,Congo,Africa,2010,0
+Philippines,Asia,United States,North America,2010,12695284
+Philippines,Asia,Canada,North America,2010,69038
+Philippines,Asia,Mexico,North America,2010,0
+Philippines,Asia,Brazil,South America,2010,0
+Philippines,Asia,Argentina,South America,2010,0
+Philippines,Asia,United Kingdom,Europe,2010,23188
+Philippines,Asia,Netherlands,Europe,2010,0
+Philippines,Asia,Belgium,Europe,2010,0
+Philippines,Asia,France,Europe,2010,100175
+Philippines,Asia,Switzerland,Europe,2010,0
+Philippines,Asia,Spain,Europe,2010,26707
+Philippines,Asia,Portugal,Europe,2010,0
+Philippines,Asia,Germany,Europe,2010,91142
+Philippines,Asia,Poland,Europe,2010,0
+Philippines,Asia,Austria,Europe,2010,0
+Philippines,Asia,Hungary,Europe,2010,0
+Philippines,Asia,Czech Republic,Europe,2010,0
+Philippines,Asia,Slovakia,Europe,2010,0
+Philippines,Asia,Italy,Europe,2010,14009
+Philippines,Asia,Croatia,Europe,2010,0
+Philippines,Asia,Serbia,Europe,2010,0
+Philippines,Asia,Bosnia,Europe,2010,0
+Philippines,Asia,Greece,Europe,2010,0
+Philippines,Asia,Bulgaria,Europe,2010,0
+Philippines,Asia,Romania,Europe,2010,0
+Philippines,Asia,Russia,Asia,2010,0
+Philippines,Asia,Ukraine,Europe,2010,0
+Philippines,Asia,Finland,Europe,2010,0
+Philippines,Asia,Sweden,Europe,2010,0
+Philippines,Asia,Norway,Europe,2010,0
+Philippines,Asia,Denmark,Europe,2010,0
+Philippines,Asia,South Africa,Africa,2010,0
+Philippines,Asia,Turkey,Asia,2010,0
+Philippines,Asia,Israel,Asia,2010,0
+Philippines,Asia,United Arab Emirates,Asia,2010,0
+Philippines,Asia,Taiwan,Asia,2010,380522
+Philippines,Asia,South Korea,Asia,2010,0
+Philippines,Asia,Japan,Asia,2010,0
+Philippines,Asia,India,Asia,2010,0
+Philippines,Asia,Pakistan,Asia,2010,68480
+Philippines,Asia,Thailand,Asia,2010,2871154
+Philippines,Asia,Malaysia,Asia,2010,18776
+Philippines,Asia,Singapore,Asia,2010,0
+Philippines,Asia,Philippines,Asia,2010,0
+Philippines,Asia,Indonesia,Asia,2010,340570
+Philippines,Asia,Australia,Oceania,2010,99317
+Philippines,Asia,Cyprus,Europe,2010,0
+Philippines,Asia,China,Asia,2010,0
+Philippines,Asia,Ivory Coast,Africa,2010,0
+Philippines,Asia,Congo,Africa,2010,0
+Indonesia,Asia,United States,North America,2010,414324
+Indonesia,Asia,Canada,North America,2010,0
+Indonesia,Asia,Mexico,North America,2010,0
+Indonesia,Asia,Brazil,South America,2010,42282
+Indonesia,Asia,Argentina,South America,2010,0
+Indonesia,Asia,United Kingdom,Europe,2010,0
+Indonesia,Asia,Netherlands,Europe,2010,0
+Indonesia,Asia,Belgium,Europe,2010,0
+Indonesia,Asia,France,Europe,2010,0
+Indonesia,Asia,Switzerland,Europe,2010,0
+Indonesia,Asia,Spain,Europe,2010,0
+Indonesia,Asia,Portugal,Europe,2010,0
+Indonesia,Asia,Germany,Europe,2010,0
+Indonesia,Asia,Poland,Europe,2010,0
+Indonesia,Asia,Austria,Europe,2010,0
+Indonesia,Asia,Hungary,Europe,2010,0
+Indonesia,Asia,Czech Republic,Europe,2010,0
+Indonesia,Asia,Slovakia,Europe,2010,0
+Indonesia,Asia,Italy,Europe,2010,0
+Indonesia,Asia,Croatia,Europe,2010,0
+Indonesia,Asia,Serbia,Europe,2010,0
+Indonesia,Asia,Bosnia,Europe,2010,0
+Indonesia,Asia,Greece,Europe,2010,0
+Indonesia,Asia,Bulgaria,Europe,2010,0
+Indonesia,Asia,Romania,Europe,2010,0
+Indonesia,Asia,Russia,Asia,2010,0
+Indonesia,Asia,Ukraine,Europe,2010,0
+Indonesia,Asia,Finland,Europe,2010,0
+Indonesia,Asia,Sweden,Europe,2010,0
+Indonesia,Asia,Norway,Europe,2010,0
+Indonesia,Asia,Denmark,Europe,2010,0
+Indonesia,Asia,South Africa,Africa,2010,0
+Indonesia,Asia,Turkey,Asia,2010,0
+Indonesia,Asia,Israel,Asia,2010,0
+Indonesia,Asia,United Arab Emirates,Asia,2010,0
+Indonesia,Asia,Taiwan,Asia,2010,0
+Indonesia,Asia,South Korea,Asia,2010,0
+Indonesia,Asia,Japan,Asia,2010,0
+Indonesia,Asia,India,Asia,2010,78
+Indonesia,Asia,Pakistan,Asia,2010,0
+Indonesia,Asia,Thailand,Asia,2010,7249252
+Indonesia,Asia,Malaysia,Asia,2010,0
+Indonesia,Asia,Singapore,Asia,2010,22857
+Indonesia,Asia,Philippines,Asia,2010,0
+Indonesia,Asia,Indonesia,Asia,2010,0
+Indonesia,Asia,Australia,Oceania,2010,0
+Indonesia,Asia,Cyprus,Europe,2010,0
+Indonesia,Asia,China,Asia,2010,0
+Indonesia,Asia,Ivory Coast,Africa,2010,0
+Indonesia,Asia,Congo,Africa,2010,0
+Australia,Oceania,United States,North America,2010,2568873
+Australia,Oceania,Canada,North America,2010,275624
+Australia,Oceania,Mexico,North America,2010,2435
+Australia,Oceania,Brazil,South America,2010,0
+Australia,Oceania,Argentina,South America,2010,0
+Australia,Oceania,United Kingdom,Europe,2010,128020
+Australia,Oceania,Netherlands,Europe,2010,1354
+Australia,Oceania,Belgium,Europe,2010,1230829
+Australia,Oceania,France,Europe,2010,334937
+Australia,Oceania,Switzerland,Europe,2010,44754
+Australia,Oceania,Spain,Europe,2010,94674
+Australia,Oceania,Portugal,Europe,2010,0
+Australia,Oceania,Germany,Europe,2010,75516
+Australia,Oceania,Poland,Europe,2010,2038
+Australia,Oceania,Austria,Europe,2010,24638
+Australia,Oceania,Hungary,Europe,2010,4085
+Australia,Oceania,Czech Republic,Europe,2010,7926
+Australia,Oceania,Slovakia,Europe,2010,0
+Australia,Oceania,Italy,Europe,2010,103537
+Australia,Oceania,Croatia,Europe,2010,20307
+Australia,Oceania,Serbia,Europe,2010,0
+Australia,Oceania,Bosnia,Europe,2010,0
+Australia,Oceania,Greece,Europe,2010,0
+Australia,Oceania,Bulgaria,Europe,2010,0
+Australia,Oceania,Romania,Europe,2010,0
+Australia,Oceania,Russia,Asia,2010,0
+Australia,Oceania,Ukraine,Europe,2010,0
+Australia,Oceania,Finland,Europe,2010,23920
+Australia,Oceania,Sweden,Europe,2010,21064
+Australia,Oceania,Norway,Europe,2010,10127
+Australia,Oceania,Denmark,Europe,2010,39789
+Australia,Oceania,South Africa,Africa,2010,228263
+Australia,Oceania,Turkey,Asia,2010,0
+Australia,Oceania,Israel,Asia,2010,91687
+Australia,Oceania,United Arab Emirates,Asia,2010,0
+Australia,Oceania,Taiwan,Asia,2010,0
+Australia,Oceania,South Korea,Asia,2010,129662
+Australia,Oceania,Japan,Asia,2010,728811
+Australia,Oceania,India,Asia,2010,223048
+Australia,Oceania,Pakistan,Asia,2010,108322
+Australia,Oceania,Thailand,Asia,2010,471479
+Australia,Oceania,Malaysia,Asia,2010,1775935
+Australia,Oceania,Singapore,Asia,2010,75045
+Australia,Oceania,Philippines,Asia,2010,0
+Australia,Oceania,Indonesia,Asia,2010,53383
+Australia,Oceania,Australia,Oceania,2010,614359
+Australia,Oceania,Cyprus,Europe,2010,44552
+Australia,Oceania,China,Asia,2010,465300
+Australia,Oceania,Ivory Coast,Africa,2010,0
+Australia,Oceania,Congo,Africa,2010,0
+Cyprus,Europe,United States,North America,2010,0
+Cyprus,Europe,Canada,North America,2010,0
+Cyprus,Europe,Mexico,North America,2010,0
+Cyprus,Europe,Brazil,South America,2010,0
+Cyprus,Europe,Argentina,South America,2010,0
+Cyprus,Europe,United Kingdom,Europe,2010,478049
+Cyprus,Europe,Netherlands,Europe,2010,0
+Cyprus,Europe,Belgium,Europe,2010,0
+Cyprus,Europe,France,Europe,2010,426425
+Cyprus,Europe,Switzerland,Europe,2010,0
+Cyprus,Europe,Spain,Europe,2010,0
+Cyprus,Europe,Portugal,Europe,2010,0
+Cyprus,Europe,Germany,Europe,2010,0
+Cyprus,Europe,Poland,Europe,2010,0
+Cyprus,Europe,Austria,Europe,2010,0
+Cyprus,Europe,Hungary,Europe,2010,56350
+Cyprus,Europe,Czech Republic,Europe,2010,45539
+Cyprus,Europe,Slovakia,Europe,2010,0
+Cyprus,Europe,Italy,Europe,2010,0
+Cyprus,Europe,Croatia,Europe,2010,0
+Cyprus,Europe,Serbia,Europe,2010,38722
+Cyprus,Europe,Bosnia,Europe,2010,91172
+Cyprus,Europe,Greece,Europe,2010,135381
+Cyprus,Europe,Bulgaria,Europe,2010,0
+Cyprus,Europe,Romania,Europe,2010,753290
+Cyprus,Europe,Russia,Asia,2010,119103
+Cyprus,Europe,Ukraine,Europe,2010,20325
+Cyprus,Europe,Finland,Europe,2010,119705
+Cyprus,Europe,Sweden,Europe,2010,0
+Cyprus,Europe,Norway,Europe,2010,0
+Cyprus,Europe,Denmark,Europe,2010,0
+Cyprus,Europe,South Africa,Africa,2010,0
+Cyprus,Europe,Turkey,Asia,2010,0
+Cyprus,Europe,Israel,Asia,2010,11305
+Cyprus,Europe,United Arab Emirates,Asia,2010,101127
+Cyprus,Europe,Taiwan,Asia,2010,0
+Cyprus,Europe,South Korea,Asia,2010,0
+Cyprus,Europe,Japan,Asia,2010,0
+Cyprus,Europe,India,Asia,2010,157230
+Cyprus,Europe,Pakistan,Asia,2010,575270
+Cyprus,Europe,Thailand,Asia,2010,45167
+Cyprus,Europe,Malaysia,Asia,2010,10256
+Cyprus,Europe,Singapore,Asia,2010,0
+Cyprus,Europe,Philippines,Asia,2010,0
+Cyprus,Europe,Indonesia,Asia,2010,0
+Cyprus,Europe,Australia,Oceania,2010,35202
+Cyprus,Europe,Cyprus,Europe,2010,0
+Cyprus,Europe,China,Asia,2010,0
+Cyprus,Europe,Ivory Coast,Africa,2010,0
+Cyprus,Europe,Congo,Africa,2010,0
+China,Asia,United States,North America,2010,7108226
+China,Asia,Canada,North America,2010,1605566
+China,Asia,Mexico,North America,2010,255427
+China,Asia,Brazil,South America,2010,1183820
+China,Asia,Argentina,South America,2010,278303
+China,Asia,United Kingdom,Europe,2010,1585032
+China,Asia,Netherlands,Europe,2010,12186
+China,Asia,Belgium,Europe,2010,0
+China,Asia,France,Europe,2010,529308
+China,Asia,Switzerland,Europe,2010,1347524
+China,Asia,Spain,Europe,2010,313325
+China,Asia,Portugal,Europe,2010,0
+China,Asia,Germany,Europe,2010,351805
+China,Asia,Poland,Europe,2010,29988
+China,Asia,Austria,Europe,2010,61155
+China,Asia,Hungary,Europe,2010,160
+China,Asia,Czech Republic,Europe,2010,1561597
+China,Asia,Slovakia,Europe,2010,4465
+China,Asia,Italy,Europe,2010,480290
+China,Asia,Croatia,Europe,2010,11147
+China,Asia,Serbia,Europe,2010,0
+China,Asia,Bosnia,Europe,2010,0
+China,Asia,Greece,Europe,2010,14985
+China,Asia,Bulgaria,Europe,2010,0
+China,Asia,Romania,Europe,2010,0
+China,Asia,Russia,Asia,2010,0
+China,Asia,Ukraine,Europe,2010,0
+China,Asia,Finland,Europe,2010,31933
+China,Asia,Sweden,Europe,2010,1420
+China,Asia,Norway,Europe,2010,9206
+China,Asia,Denmark,Europe,2010,7204
+China,Asia,South Africa,Africa,2010,0
+China,Asia,Turkey,Asia,2010,0
+China,Asia,Israel,Asia,2010,0
+China,Asia,United Arab Emirates,Asia,2010,0
+China,Asia,Taiwan,Asia,2010,0
+China,Asia,South Korea,Asia,2010,354869
+China,Asia,Japan,Asia,2010,0
+China,Asia,India,Asia,2010,11085
+China,Asia,Pakistan,Asia,2010,4852492
+China,Asia,Thailand,Asia,2010,5141169
+China,Asia,Malaysia,Asia,2010,33646
+China,Asia,Singapore,Asia,2010,1278152
+China,Asia,Philippines,Asia,2010,751476
+China,Asia,Indonesia,Asia,2010,21261068
+China,Asia,Australia,Oceania,2010,132856
+China,Asia,Cyprus,Europe,2010,0
+China,Asia,China,Asia,2010,0
+China,Asia,Ivory Coast,Africa,2010,0
+China,Asia,Congo,Africa,2010,76129
+Ivory Coast,Africa,United States,North America,2010,0
+Ivory Coast,Africa,Canada,North America,2010,0
+Ivory Coast,Africa,Mexico,North America,2010,0
+Ivory Coast,Africa,Brazil,South America,2010,0
+Ivory Coast,Africa,Argentina,South America,2010,0
+Ivory Coast,Africa,United Kingdom,Europe,2010,0
+Ivory Coast,Africa,Netherlands,Europe,2010,0
+Ivory Coast,Africa,Belgium,Europe,2010,0
+Ivory Coast,Africa,France,Europe,2010,0
+Ivory Coast,Africa,Switzerland,Europe,2010,0
+Ivory Coast,Africa,Spain,Europe,2010,0
+Ivory Coast,Africa,Portugal,Europe,2010,0
+Ivory Coast,Africa,Germany,Europe,2010,2890
+Ivory Coast,Africa,Poland,Europe,2010,0
+Ivory Coast,Africa,Austria,Europe,2010,0
+Ivory Coast,Africa,Hungary,Europe,2010,0
+Ivory Coast,Africa,Czech Republic,Europe,2010,0
+Ivory Coast,Africa,Slovakia,Europe,2010,0
+Ivory Coast,Africa,Italy,Europe,2010,0
+Ivory Coast,Africa,Croatia,Europe,2010,0
+Ivory Coast,Africa,Serbia,Europe,2010,0
+Ivory Coast,Africa,Bosnia,Europe,2010,0
+Ivory Coast,Africa,Greece,Europe,2010,0
+Ivory Coast,Africa,Bulgaria,Europe,2010,0
+Ivory Coast,Africa,Romania,Europe,2010,0
+Ivory Coast,Africa,Russia,Asia,2010,0
+Ivory Coast,Africa,Ukraine,Europe,2010,0
+Ivory Coast,Africa,Finland,Europe,2010,0
+Ivory Coast,Africa,Sweden,Europe,2010,0
+Ivory Coast,Africa,Norway,Europe,2010,0
+Ivory Coast,Africa,Denmark,Europe,2010,0
+Ivory Coast,Africa,South Africa,Africa,2010,0
+Ivory Coast,Africa,Turkey,Asia,2010,0
+Ivory Coast,Africa,Israel,Asia,2010,0
+Ivory Coast,Africa,United Arab Emirates,Asia,2010,0
+Ivory Coast,Africa,Taiwan,Asia,2010,0
+Ivory Coast,Africa,South Korea,Asia,2010,0
+Ivory Coast,Africa,Japan,Asia,2010,0
+Ivory Coast,Africa,India,Asia,2010,0
+Ivory Coast,Africa,Pakistan,Asia,2010,0
+Ivory Coast,Africa,Thailand,Asia,2010,0
+Ivory Coast,Africa,Malaysia,Asia,2010,0
+Ivory Coast,Africa,Singapore,Asia,2010,0
+Ivory Coast,Africa,Philippines,Asia,2010,0
+Ivory Coast,Africa,Indonesia,Asia,2010,0
+Ivory Coast,Africa,Australia,Oceania,2010,0
+Ivory Coast,Africa,Cyprus,Europe,2010,0
+Ivory Coast,Africa,China,Asia,2010,0
+Ivory Coast,Africa,Ivory Coast,Africa,2010,0
+Ivory Coast,Africa,Congo,Africa,2010,0
+Congo,Africa,United States,North America,2010,0
+Congo,Africa,Canada,North America,2010,0
+Congo,Africa,Mexico,North America,2010,0
+Congo,Africa,Brazil,South America,2010,0
+Congo,Africa,Argentina,South America,2010,0
+Congo,Africa,United Kingdom,Europe,2010,0
+Congo,Africa,Netherlands,Europe,2010,0
+Congo,Africa,Belgium,Europe,2010,0
+Congo,Africa,France,Europe,2010,0
+Congo,Africa,Switzerland,Europe,2010,0
+Congo,Africa,Spain,Europe,2010,0
+Congo,Africa,Portugal,Europe,2010,0
+Congo,Africa,Germany,Europe,2010,0
+Congo,Africa,Poland,Europe,2010,0
+Congo,Africa,Austria,Europe,2010,0
+Congo,Africa,Hungary,Europe,2010,0
+Congo,Africa,Czech Republic,Europe,2010,0
+Congo,Africa,Slovakia,Europe,2010,0
+Congo,Africa,Italy,Europe,2010,0
+Congo,Africa,Croatia,Europe,2010,0
+Congo,Africa,Serbia,Europe,2010,0
+Congo,Africa,Bosnia,Europe,2010,0
+Congo,Africa,Greece,Europe,2010,0
+Congo,Africa,Bulgaria,Europe,2010,0
+Congo,Africa,Romania,Europe,2010,0
+Congo,Africa,Russia,Asia,2010,0
+Congo,Africa,Ukraine,Europe,2010,0
+Congo,Africa,Finland,Europe,2010,0
+Congo,Africa,Sweden,Europe,2010,0
+Congo,Africa,Norway,Europe,2010,0
+Congo,Africa,Denmark,Europe,2010,0
+Congo,Africa,South Africa,Africa,2010,0
+Congo,Africa,Turkey,Asia,2010,0
+Congo,Africa,Israel,Asia,2010,0
+Congo,Africa,United Arab Emirates,Asia,2010,0
+Congo,Africa,Taiwan,Asia,2010,0
+Congo,Africa,South Korea,Asia,2010,0
+Congo,Africa,Japan,Asia,2010,0
+Congo,Africa,India,Asia,2010,0
+Congo,Africa,Pakistan,Asia,2010,0
+Congo,Africa,Thailand,Asia,2010,0
+Congo,Africa,Malaysia,Asia,2010,0
+Congo,Africa,Singapore,Asia,2010,0
+Congo,Africa,Philippines,Asia,2010,0
+Congo,Africa,Indonesia,Asia,2010,0
+Congo,Africa,Australia,Oceania,2010,0
+Congo,Africa,Cyprus,Europe,2010,0
+Congo,Africa,China,Asia,2010,0
+Congo,Africa,Ivory Coast,Africa,2010,0
+Congo,Africa,Congo,Africa,2010,0

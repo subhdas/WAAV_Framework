@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,2000,0
+United States,North America,Canada,North America,2000,43945940
+United States,North America,Mexico,North America,2000,19476089
+United States,North America,Brazil,South America,2000,1248172
+United States,North America,Argentina,South America,2000,3828586
+United States,North America,United Kingdom,Europe,2000,6046910
+United States,North America,Netherlands,Europe,2000,9636817
+United States,North America,Belgium,Europe,2000,11167255
+United States,North America,France,Europe,2000,6306248
+United States,North America,Switzerland,Europe,2000,1081172
+United States,North America,Spain,Europe,2000,2040532
+United States,North America,Portugal,Europe,2000,1239757
+United States,North America,Germany,Europe,2000,17753452
+United States,North America,Poland,Europe,2000,126697
+United States,North America,Austria,Europe,2000,352539
+United States,North America,Hungary,Europe,2000,201610
+United States,North America,Czech Republic,Europe,2000,513386
+United States,North America,Slovakia,Europe,2000,105169
+United States,North America,Italy,Europe,2000,8270550
+United States,North America,Croatia,Europe,2000,7525
+United States,North America,Serbia,Europe,2000,0
+United States,North America,Bosnia,Europe,2000,0
+United States,North America,Greece,Europe,2000,2714061
+United States,North America,Bulgaria,Europe,2000,483389
+United States,North America,Romania,Europe,2000,0
+United States,North America,Russia,Asia,2000,69000
+United States,North America,Ukraine,Europe,2000,0
+United States,North America,Finland,Europe,2000,633506
+United States,North America,Sweden,Europe,2000,2338882
+United States,North America,Norway,Europe,2000,3553371
+United States,North America,Denmark,Europe,2000,446516
+United States,North America,South Africa,Africa,2000,521878
+United States,North America,Turkey,Asia,2000,2653588
+United States,North America,Israel,Asia,2000,12230043
+United States,North America,United Arab Emirates,Asia,2000,1130458
+United States,North America,Taiwan,Asia,2000,10859230
+United States,North America,South Korea,Asia,2000,3731174
+United States,North America,Japan,Asia,2000,4970607
+United States,North America,India,Asia,2000,7278
+United States,North America,Pakistan,Asia,2000,0
+United States,North America,Thailand,Asia,2000,18750044
+United States,North America,Malaysia,Asia,2000,201835
+United States,North America,Singapore,Asia,2000,1542289
+United States,North America,Philippines,Asia,2000,918760
+United States,North America,Indonesia,Asia,2000,39582
+United States,North America,Australia,Oceania,2000,24661231
+United States,North America,Cyprus,Europe,2000,70667
+United States,North America,China,Asia,2000,30042
+United States,North America,Ivory Coast,Africa,2000,0
+United States,North America,Congo,Africa,2000,0
+Canada,North America,United States,North America,2000,24478438
+Canada,North America,Canada,North America,2000,0
+Canada,North America,Mexico,North America,2000,2312
+Canada,North America,Brazil,South America,2000,0
+Canada,North America,Argentina,South America,2000,97836
+Canada,North America,United Kingdom,Europe,2000,570959
+Canada,North America,Netherlands,Europe,2000,222662
+Canada,North America,Belgium,Europe,2000,4836671
+Canada,North America,France,Europe,2000,2833490
+Canada,North America,Switzerland,Europe,2000,64974
+Canada,North America,Spain,Europe,2000,18119
+Canada,North America,Portugal,Europe,2000,6570
+Canada,North America,Germany,Europe,2000,389313
+Canada,North America,Poland,Europe,2000,7490
+Canada,North America,Austria,Europe,2000,21046
+Canada,North America,Hungary,Europe,2000,0
+Canada,North America,Czech Republic,Europe,2000,84078
+Canada,North America,Slovakia,Europe,2000,0
+Canada,North America,Italy,Europe,2000,492266
+Canada,North America,Croatia,Europe,2000,367
+Canada,North America,Serbia,Europe,2000,0
+Canada,North America,Bosnia,Europe,2000,0
+Canada,North America,Greece,Europe,2000,58946
+Canada,North America,Bulgaria,Europe,2000,0
+Canada,North America,Romania,Europe,2000,0
+Canada,North America,Russia,Asia,2000,0
+Canada,North America,Ukraine,Europe,2000,0
+Canada,North America,Finland,Europe,2000,62492
+Canada,North America,Sweden,Europe,2000,75711
+Canada,North America,Norway,Europe,2000,1760287
+Canada,North America,Denmark,Europe,2000,616291
+Canada,North America,South Africa,Africa,2000,0
+Canada,North America,Turkey,Asia,2000,19458
+Canada,North America,Israel,Asia,2000,157602
+Canada,North America,United Arab Emirates,Asia,2000,198946
+Canada,North America,Taiwan,Asia,2000,8704
+Canada,North America,South Korea,Asia,2000,55654
+Canada,North America,Japan,Asia,2000,258484
+Canada,North America,India,Asia,2000,6452
+Canada,North America,Pakistan,Asia,2000,0
+Canada,North America,Thailand,Asia,2000,233614
+Canada,North America,Malaysia,Asia,2000,0
+Canada,North America,Singapore,Asia,2000,86246
+Canada,North America,Philippines,Asia,2000,2400
+Canada,North America,Indonesia,Asia,2000,0
+Canada,North America,Australia,Oceania,2000,113192
+Canada,North America,Cyprus,Europe,2000,306
+Canada,North America,China,Asia,2000,65916
+Canada,North America,Ivory Coast,Africa,2000,0
+Canada,North America,Congo,Africa,2000,0
+Mexico,North America,United States,North America,2000,5181115
+Mexico,North America,Canada,North America,2000,22589
+Mexico,North America,Mexico,North America,2000,0
+Mexico,North America,Brazil,South America,2000,0
+Mexico,North America,Argentina,South America,2000,317131
+Mexico,North America,United Kingdom,Europe,2000,0
+Mexico,North America,Netherlands,Europe,2000,0
+Mexico,North America,Belgium,Europe,2000,186814
+Mexico,North America,France,Europe,2000,155179
+Mexico,North America,Switzerland,Europe,2000,0
+Mexico,North America,Spain,Europe,2000,0
+Mexico,North America,Portugal,Europe,2000,0
+Mexico,North America,Germany,Europe,2000,47273
+Mexico,North America,Poland,Europe,2000,0
+Mexico,North America,Austria,Europe,2000,0
+Mexico,North America,Hungary,Europe,2000,0
+Mexico,North America,Czech Republic,Europe,2000,829
+Mexico,North America,Slovakia,Europe,2000,3095
+Mexico,North America,Italy,Europe,2000,0
+Mexico,North America,Croatia,Europe,2000,0
+Mexico,North America,Serbia,Europe,2000,0
+Mexico,North America,Bosnia,Europe,2000,0
+Mexico,North America,Greece,Europe,2000,0
+Mexico,North America,Bulgaria,Europe,2000,0
+Mexico,North America,Romania,Europe,2000,0
+Mexico,North America,Russia,Asia,2000,0
+Mexico,North America,Ukraine,Europe,2000,0
+Mexico,North America,Finland,Europe,2000,106272
+Mexico,North America,Sweden,Europe,2000,0
+Mexico,North America,Norway,Europe,2000,0
+Mexico,North America,Denmark,Europe,2000,0
+Mexico,North America,South Africa,Africa,2000,0
+Mexico,North America,Turkey,Asia,2000,459
+Mexico,North America,Israel,Asia,2000,0
+Mexico,North America,United Arab Emirates,Asia,2000,0
+Mexico,North America,Taiwan,Asia,2000,0
+Mexico,North America,South Korea,Asia,2000,0
+Mexico,North America,Japan,Asia,2000,0
+Mexico,North America,India,Asia,2000,0
+Mexico,North America,Pakistan,Asia,2000,0
+Mexico,North America,Thailand,Asia,2000,0
+Mexico,North America,Malaysia,Asia,2000,0
+Mexico,North America,Singapore,Asia,2000,0
+Mexico,North America,Philippines,Asia,2000,0
+Mexico,North America,Indonesia,Asia,2000,0
+Mexico,North America,Australia,Oceania,2000,0
+Mexico,North America,Cyprus,Europe,2000,0
+Mexico,North America,China,Asia,2000,0
+Mexico,North America,Ivory Coast,Africa,2000,0
+Mexico,North America,Congo,Africa,2000,0
+Brazil,South America,United States,North America,2000,55178166
+Brazil,South America,Canada,North America,2000,134587
+Brazil,South America,Mexico,North America,2000,1416709
+Brazil,South America,Brazil,South America,2000,0
+Brazil,South America,Argentina,South America,2000,4731073
+Brazil,South America,United Kingdom,Europe,2000,820397
+Brazil,South America,Netherlands,Europe,2000,102340
+Brazil,South America,Belgium,Europe,2000,580158
+Brazil,South America,France,Europe,2000,333356
+Brazil,South America,Switzerland,Europe,2000,220424
+Brazil,South America,Spain,Europe,2000,339875
+Brazil,South America,Portugal,Europe,2000,994622
+Brazil,South America,Germany,Europe,2000,3598291
+Brazil,South America,Poland,Europe,2000,0
+Brazil,South America,Austria,Europe,2000,402215
+Brazil,South America,Hungary,Europe,2000,2555
+Brazil,South America,Czech Republic,Europe,2000,146901
+Brazil,South America,Slovakia,Europe,2000,56693
+Brazil,South America,Italy,Europe,2000,337682
+Brazil,South America,Croatia,Europe,2000,1073
+Brazil,South America,Serbia,Europe,2000,0
+Brazil,South America,Bosnia,Europe,2000,0
+Brazil,South America,Greece,Europe,2000,38544
+Brazil,South America,Bulgaria,Europe,2000,0
+Brazil,South America,Romania,Europe,2000,0
+Brazil,South America,Russia,Asia,2000,0
+Brazil,South America,Ukraine,Europe,2000,0
+Brazil,South America,Finland,Europe,2000,108940
+Brazil,South America,Sweden,Europe,2000,14276
+Brazil,South America,Norway,Europe,2000,1039907
+Brazil,South America,Denmark,Europe,2000,1539
+Brazil,South America,South Africa,Africa,2000,544800
+Brazil,South America,Turkey,Asia,2000,45165
+Brazil,South America,Israel,Asia,2000,0
+Brazil,South America,United Arab Emirates,Asia,2000,9257129
+Brazil,South America,Taiwan,Asia,2000,0
+Brazil,South America,South Korea,Asia,2000,3187
+Brazil,South America,Japan,Asia,2000,0
+Brazil,South America,India,Asia,2000,0
+Brazil,South America,Pakistan,Asia,2000,14736
+Brazil,South America,Thailand,Asia,2000,178099
+Brazil,South America,Malaysia,Asia,2000,0
+Brazil,South America,Singapore,Asia,2000,1086868
+Brazil,South America,Philippines,Asia,2000,252757
+Brazil,South America,Indonesia,Asia,2000,100809
+Brazil,South America,Australia,Oceania,2000,1853877
+Brazil,South America,Cyprus,Europe,2000,21875
+Brazil,South America,China,Asia,2000,0
+Brazil,South America,Ivory Coast,Africa,2000,0
+Brazil,South America,Congo,Africa,2000,0
+Argentina,South America,United States,North America,2000,3460779
+Argentina,South America,Canada,North America,2000,0
+Argentina,South America,Mexico,North America,2000,0
+Argentina,South America,Brazil,South America,2000,429
+Argentina,South America,Argentina,South America,2000,0
+Argentina,South America,United Kingdom,Europe,2000,0
+Argentina,South America,Netherlands,Europe,2000,0
+Argentina,South America,Belgium,Europe,2000,0
+Argentina,South America,France,Europe,2000,0
+Argentina,South America,Switzerland,Europe,2000,227
+Argentina,South America,Spain,Europe,2000,0
+Argentina,South America,Portugal,Europe,2000,0
+Argentina,South America,Germany,Europe,2000,0
+Argentina,South America,Poland,Europe,2000,18229
+Argentina,South America,Austria,Europe,2000,0
+Argentina,South America,Hungary,Europe,2000,0
+Argentina,South America,Czech Republic,Europe,2000,18398
+Argentina,South America,Slovakia,Europe,2000,0
+Argentina,South America,Italy,Europe,2000,22448
+Argentina,South America,Croatia,Europe,2000,0
+Argentina,South America,Serbia,Europe,2000,0
+Argentina,South America,Bosnia,Europe,2000,0
+Argentina,South America,Greece,Europe,2000,0
+Argentina,South America,Bulgaria,Europe,2000,0
+Argentina,South America,Romania,Europe,2000,0
+Argentina,South America,Russia,Asia,2000,0
+Argentina,South America,Ukraine,Europe,2000,0
+Argentina,South America,Finland,Europe,2000,0
+Argentina,South America,Sweden,Europe,2000,0
+Argentina,South America,Norway,Europe,2000,0
+Argentina,South America,Denmark,Europe,2000,0
+Argentina,South America,South Africa,Africa,2000,0
+Argentina,South America,Turkey,Asia,2000,0
+Argentina,South America,Israel,Asia,2000,0
+Argentina,South America,United Arab Emirates,Asia,2000,0
+Argentina,South America,Taiwan,Asia,2000,0
+Argentina,South America,South Korea,Asia,2000,0
+Argentina,South America,Japan,Asia,2000,0
+Argentina,South America,India,Asia,2000,0
+Argentina,South America,Pakistan,Asia,2000,0
+Argentina,South America,Thailand,Asia,2000,0
+Argentina,South America,Malaysia,Asia,2000,0
+Argentina,South America,Singapore,Asia,2000,0
+Argentina,South America,Philippines,Asia,2000,47523
+Argentina,South America,Indonesia,Asia,2000,0
+Argentina,South America,Australia,Oceania,2000,0
+Argentina,South America,Cyprus,Europe,2000,0
+Argentina,South America,China,Asia,2000,0
+Argentina,South America,Ivory Coast,Africa,2000,0
+Argentina,South America,Congo,Africa,2000,0
+United Kingdom,Europe,United States,North America,2000,17750486
+United Kingdom,Europe,Canada,North America,2000,767370
+United Kingdom,Europe,Mexico,North America,2000,748060
+United Kingdom,Europe,Brazil,South America,2000,152942
+United Kingdom,Europe,Argentina,South America,2000,39760
+United Kingdom,Europe,United Kingdom,Europe,2000,4331551
+United Kingdom,Europe,Netherlands,Europe,2000,457159
+United Kingdom,Europe,Belgium,Europe,2000,2428063
+United Kingdom,Europe,France,Europe,2000,841599
+United Kingdom,Europe,Switzerland,Europe,2000,1634575
+United Kingdom,Europe,Spain,Europe,2000,148388
+United Kingdom,Europe,Portugal,Europe,2000,131514
+United Kingdom,Europe,Germany,Europe,2000,1302089
+United Kingdom,Europe,Poland,Europe,2000,72509
+United Kingdom,Europe,Austria,Europe,2000,62030
+United Kingdom,Europe,Hungary,Europe,2000,11099
+United Kingdom,Europe,Czech Republic,Europe,2000,73383
+United Kingdom,Europe,Slovakia,Europe,2000,30908
+United Kingdom,Europe,Italy,Europe,2000,296330
+United Kingdom,Europe,Croatia,Europe,2000,0
+United Kingdom,Europe,Serbia,Europe,2000,0
+United Kingdom,Europe,Bosnia,Europe,2000,0
+United Kingdom,Europe,Greece,Europe,2000,18177
+United Kingdom,Europe,Bulgaria,Europe,2000,7245
+United Kingdom,Europe,Romania,Europe,2000,20226
+United Kingdom,Europe,Russia,Asia,2000,117716
+United Kingdom,Europe,Ukraine,Europe,2000,56997
+United Kingdom,Europe,Finland,Europe,2000,303166
+United Kingdom,Europe,Sweden,Europe,2000,357579
+United Kingdom,Europe,Norway,Europe,2000,647471
+United Kingdom,Europe,Denmark,Europe,2000,3238123
+United Kingdom,Europe,South Africa,Africa,2000,227622
+United Kingdom,Europe,Turkey,Asia,2000,338863
+United Kingdom,Europe,Israel,Asia,2000,12259
+United Kingdom,Europe,United Arab Emirates,Asia,2000,1266764
+United Kingdom,Europe,Taiwan,Asia,2000,46420
+United Kingdom,Europe,South Korea,Asia,2000,563929
+United Kingdom,Europe,Japan,Asia,2000,1322252
+United Kingdom,Europe,India,Asia,2000,80666
+United Kingdom,Europe,Pakistan,Asia,2000,40543
+United Kingdom,Europe,Thailand,Asia,2000,120617
+United Kingdom,Europe,Malaysia,Asia,2000,112775
+United Kingdom,Europe,Singapore,Asia,2000,71932
+United Kingdom,Europe,Philippines,Asia,2000,100039
+United Kingdom,Europe,Indonesia,Asia,2000,171639
+United Kingdom,Europe,Australia,Oceania,2000,355273
+United Kingdom,Europe,Cyprus,Europe,2000,423222
+United Kingdom,Europe,China,Asia,2000,575317
+United Kingdom,Europe,Ivory Coast,Africa,2000,0
+United Kingdom,Europe,Congo,Africa,2000,0
+Netherlands,Europe,United States,North America,2000,291926
+Netherlands,Europe,Canada,North America,2000,0
+Netherlands,Europe,Mexico,North America,2000,0
+Netherlands,Europe,Brazil,South America,2000,0
+Netherlands,Europe,Argentina,South America,2000,0
+Netherlands,Europe,United Kingdom,Europe,2000,2629
+Netherlands,Europe,Netherlands,Europe,2000,0
+Netherlands,Europe,Belgium,Europe,2000,87554
+Netherlands,Europe,France,Europe,2000,2152
+Netherlands,Europe,Switzerland,Europe,2000,3046130
+Netherlands,Europe,Spain,Europe,2000,0
+Netherlands,Europe,Portugal,Europe,2000,0
+Netherlands,Europe,Germany,Europe,2000,933978
+Netherlands,Europe,Poland,Europe,2000,0
+Netherlands,Europe,Austria,Europe,2000,102882
+Netherlands,Europe,Hungary,Europe,2000,0
+Netherlands,Europe,Czech Republic,Europe,2000,0
+Netherlands,Europe,Slovakia,Europe,2000,0
+Netherlands,Europe,Italy,Europe,2000,38735
+Netherlands,Europe,Croatia,Europe,2000,0
+Netherlands,Europe,Serbia,Europe,2000,0
+Netherlands,Europe,Bosnia,Europe,2000,0
+Netherlands,Europe,Greece,Europe,2000,0
+Netherlands,Europe,Bulgaria,Europe,2000,0
+Netherlands,Europe,Romania,Europe,2000,0
+Netherlands,Europe,Russia,Asia,2000,0
+Netherlands,Europe,Ukraine,Europe,2000,0
+Netherlands,Europe,Finland,Europe,2000,4692
+Netherlands,Europe,Sweden,Europe,2000,6131
+Netherlands,Europe,Norway,Europe,2000,0
+Netherlands,Europe,Denmark,Europe,2000,0
+Netherlands,Europe,South Africa,Africa,2000,2352
+Netherlands,Europe,Turkey,Asia,2000,0
+Netherlands,Europe,Israel,Asia,2000,0
+Netherlands,Europe,United Arab Emirates,Asia,2000,2829734
+Netherlands,Europe,Taiwan,Asia,2000,0
+Netherlands,Europe,South Korea,Asia,2000,0
+Netherlands,Europe,Japan,Asia,2000,0
+Netherlands,Europe,India,Asia,2000,1360
+Netherlands,Europe,Pakistan,Asia,2000,0
+Netherlands,Europe,Thailand,Asia,2000,0
+Netherlands,Europe,Malaysia,Asia,2000,0
+Netherlands,Europe,Singapore,Asia,2000,0
+Netherlands,Europe,Philippines,Asia,2000,0
+Netherlands,Europe,Indonesia,Asia,2000,0
+Netherlands,Europe,Australia,Oceania,2000,49397
+Netherlands,Europe,Cyprus,Europe,2000,7284
+Netherlands,Europe,China,Asia,2000,0
+Netherlands,Europe,Ivory Coast,Africa,2000,0
+Netherlands,Europe,Congo,Africa,2000,0
+Belgium,Europe,United States,North America,2000,11993929
+Belgium,Europe,Canada,North America,2000,518518
+Belgium,Europe,Mexico,North America,2000,1152637
+Belgium,Europe,Brazil,South America,2000,0
+Belgium,Europe,Argentina,South America,2000,208112
+Belgium,Europe,United Kingdom,Europe,2000,5414269
+Belgium,Europe,Netherlands,Europe,2000,2135832
+Belgium,Europe,Belgium,Europe,2000,0
+Belgium,Europe,France,Europe,2000,18734135
+Belgium,Europe,Switzerland,Europe,2000,275994
+Belgium,Europe,Spain,Europe,2000,1640503
+Belgium,Europe,Portugal,Europe,2000,3113239
+Belgium,Europe,Germany,Europe,2000,4156368
+Belgium,Europe,Poland,Europe,2000,0
+Belgium,Europe,Austria,Europe,2000,1565250
+Belgium,Europe,Hungary,Europe,2000,60723
+Belgium,Europe,Czech Republic,Europe,2000,173706
+Belgium,Europe,Slovakia,Europe,2000,39039
+Belgium,Europe,Italy,Europe,2000,3662563
+Belgium,Europe,Croatia,Europe,2000,1319
+Belgium,Europe,Serbia,Europe,2000,0
+Belgium,Europe,Bosnia,Europe,2000,0
+Belgium,Europe,Greece,Europe,2000,180494
+Belgium,Europe,Bulgaria,Europe,2000,13017
+Belgium,Europe,Romania,Europe,2000,0
+Belgium,Europe,Russia,Asia,2000,356621
+Belgium,Europe,Ukraine,Europe,2000,0
+Belgium,Europe,Finland,Europe,2000,401072
+Belgium,Europe,Sweden,Europe,2000,393429
+Belgium,Europe,Norway,Europe,2000,200520
+Belgium,Europe,Denmark,Europe,2000,367540
+Belgium,Europe,South Africa,Africa,2000,0
+Belgium,Europe,Turkey,Asia,2000,1783549
+Belgium,Europe,Israel,Asia,2000,0
+Belgium,Europe,United Arab Emirates,Asia,2000,0
+Belgium,Europe,Taiwan,Asia,2000,5445
+Belgium,Europe,South Korea,Asia,2000,44991
+Belgium,Europe,Japan,Asia,2000,370787
+Belgium,Europe,India,Asia,2000,0
+Belgium,Europe,Pakistan,Asia,2000,0
+Belgium,Europe,Thailand,Asia,2000,16835
+Belgium,Europe,Malaysia,Asia,2000,3167
+Belgium,Europe,Singapore,Asia,2000,0
+Belgium,Europe,Philippines,Asia,2000,18390
+Belgium,Europe,Indonesia,Asia,2000,0
+Belgium,Europe,Australia,Oceania,2000,782868
+Belgium,Europe,Cyprus,Europe,2000,51941
+Belgium,Europe,China,Asia,2000,0
+Belgium,Europe,Ivory Coast,Africa,2000,0
+Belgium,Europe,Congo,Africa,2000,0
+France,Europe,United States,North America,2000,4225862
+France,Europe,Canada,North America,2000,35314
+France,Europe,Mexico,North America,2000,0
+France,Europe,Brazil,South America,2000,3544558
+France,Europe,Argentina,South America,2000,28354
+France,Europe,United Kingdom,Europe,2000,378300
+France,Europe,Netherlands,Europe,2000,3051
+France,Europe,Belgium,Europe,2000,955220
+France,Europe,France,Europe,2000,1024672
+France,Europe,Switzerland,Europe,2000,269550
+France,Europe,Spain,Europe,2000,392240
+France,Europe,Portugal,Europe,2000,183910
+France,Europe,Germany,Europe,2000,610813
+France,Europe,Poland,Europe,2000,4126
+France,Europe,Austria,Europe,2000,74879
+France,Europe,Hungary,Europe,2000,8433
+France,Europe,Czech Republic,Europe,2000,44041
+France,Europe,Slovakia,Europe,2000,0
+France,Europe,Italy,Europe,2000,180047
+France,Europe,Croatia,Europe,2000,341
+France,Europe,Serbia,Europe,2000,0
+France,Europe,Bosnia,Europe,2000,18843
+France,Europe,Greece,Europe,2000,408316
+France,Europe,Bulgaria,Europe,2000,0
+France,Europe,Romania,Europe,2000,0
+France,Europe,Russia,Asia,2000,792779
+France,Europe,Ukraine,Europe,2000,250340
+France,Europe,Finland,Europe,2000,34632
+France,Europe,Sweden,Europe,2000,93755
+France,Europe,Norway,Europe,2000,354153
+France,Europe,Denmark,Europe,2000,5918
+France,Europe,South Africa,Africa,2000,3769
+France,Europe,Turkey,Asia,2000,2071529
+France,Europe,Israel,Asia,2000,0
+France,Europe,United Arab Emirates,Asia,2000,28532
+France,Europe,Taiwan,Asia,2000,0
+France,Europe,South Korea,Asia,2000,115465
+France,Europe,Japan,Asia,2000,49013
+France,Europe,India,Asia,2000,193491
+France,Europe,Pakistan,Asia,2000,0
+France,Europe,Thailand,Asia,2000,107733
+France,Europe,Malaysia,Asia,2000,0
+France,Europe,Singapore,Asia,2000,0
+France,Europe,Philippines,Asia,2000,0
+France,Europe,Indonesia,Asia,2000,0
+France,Europe,Australia,Oceania,2000,54403
+France,Europe,Cyprus,Europe,2000,17944
+France,Europe,China,Asia,2000,0
+France,Europe,Ivory Coast,Africa,2000,215838
+France,Europe,Congo,Africa,2000,137819
+Switzerland,Europe,United States,North America,2000,2705176
+Switzerland,Europe,Canada,North America,2000,2035255
+Switzerland,Europe,Mexico,North America,2000,42812
+Switzerland,Europe,Brazil,South America,2000,205112
+Switzerland,Europe,Argentina,South America,2000,12535
+Switzerland,Europe,United Kingdom,Europe,2000,525189
+Switzerland,Europe,Netherlands,Europe,2000,1992530
+Switzerland,Europe,Belgium,Europe,2000,290038
+Switzerland,Europe,France,Europe,2000,541873
+Switzerland,Europe,Switzerland,Europe,2000,0
+Switzerland,Europe,Spain,Europe,2000,339106
+Switzerland,Europe,Portugal,Europe,2000,25502
+Switzerland,Europe,Germany,Europe,2000,2983379
+Switzerland,Europe,Poland,Europe,2000,427573
+Switzerland,Europe,Austria,Europe,2000,3364230
+Switzerland,Europe,Hungary,Europe,2000,7877
+Switzerland,Europe,Czech Republic,Europe,2000,27062
+Switzerland,Europe,Slovakia,Europe,2000,9558
+Switzerland,Europe,Italy,Europe,2000,835189
+Switzerland,Europe,Croatia,Europe,2000,0
+Switzerland,Europe,Serbia,Europe,2000,1372
+Switzerland,Europe,Bosnia,Europe,2000,0
+Switzerland,Europe,Greece,Europe,2000,19043
+Switzerland,Europe,Bulgaria,Europe,2000,0
+Switzerland,Europe,Romania,Europe,2000,5646568
+Switzerland,Europe,Russia,Asia,2000,1130
+Switzerland,Europe,Ukraine,Europe,2000,169610
+Switzerland,Europe,Finland,Europe,2000,211893
+Switzerland,Europe,Sweden,Europe,2000,220487
+Switzerland,Europe,Norway,Europe,2000,141118
+Switzerland,Europe,Denmark,Europe,2000,53672
+Switzerland,Europe,South Africa,Africa,2000,29311
+Switzerland,Europe,Turkey,Asia,2000,54567
+Switzerland,Europe,Israel,Asia,2000,0
+Switzerland,Europe,United Arab Emirates,Asia,2000,2758857
+Switzerland,Europe,Taiwan,Asia,2000,7930
+Switzerland,Europe,South Korea,Asia,2000,26778
+Switzerland,Europe,Japan,Asia,2000,195192
+Switzerland,Europe,India,Asia,2000,3719
+Switzerland,Europe,Pakistan,Asia,2000,2910
+Switzerland,Europe,Thailand,Asia,2000,20486
+Switzerland,Europe,Malaysia,Asia,2000,17221
+Switzerland,Europe,Singapore,Asia,2000,2702115
+Switzerland,Europe,Philippines,Asia,2000,188717
+Switzerland,Europe,Indonesia,Asia,2000,0
+Switzerland,Europe,Australia,Oceania,2000,48612
+Switzerland,Europe,Cyprus,Europe,2000,1034
+Switzerland,Europe,China,Asia,2000,100955
+Switzerland,Europe,Ivory Coast,Africa,2000,2267
+Switzerland,Europe,Congo,Africa,2000,0
+Spain,Europe,United States,North America,2000,8397084
+Spain,Europe,Canada,North America,2000,370114
+Spain,Europe,Mexico,North America,2000,7871
+Spain,Europe,Brazil,South America,2000,45140
+Spain,Europe,Argentina,South America,2000,1510023
+Spain,Europe,United Kingdom,Europe,2000,1457273
+Spain,Europe,Netherlands,Europe,2000,334666
+Spain,Europe,Belgium,Europe,2000,140578
+Spain,Europe,France,Europe,2000,2633333
+Spain,Europe,Switzerland,Europe,2000,113141
+Spain,Europe,Spain,Europe,2000,0
+Spain,Europe,Portugal,Europe,2000,4388463
+Spain,Europe,Germany,Europe,2000,708526
+Spain,Europe,Poland,Europe,2000,1200688
+Spain,Europe,Austria,Europe,2000,310609
+Spain,Europe,Hungary,Europe,2000,141410
+Spain,Europe,Czech Republic,Europe,2000,86517
+Spain,Europe,Slovakia,Europe,2000,1165
+Spain,Europe,Italy,Europe,2000,157633
+Spain,Europe,Croatia,Europe,2000,0
+Spain,Europe,Serbia,Europe,2000,0
+Spain,Europe,Bosnia,Europe,2000,55896
+Spain,Europe,Greece,Europe,2000,683156
+Spain,Europe,Bulgaria,Europe,2000,46617
+Spain,Europe,Romania,Europe,2000,0
+Spain,Europe,Russia,Asia,2000,47316
+Spain,Europe,Ukraine,Europe,2000,125976
+Spain,Europe,Finland,Europe,2000,291883
+Spain,Europe,Sweden,Europe,2000,140677
+Spain,Europe,Norway,Europe,2000,1071619
+Spain,Europe,Denmark,Europe,2000,218114
+Spain,Europe,South Africa,Africa,2000,8560
+Spain,Europe,Turkey,Asia,2000,8319923
+Spain,Europe,Israel,Asia,2000,0
+Spain,Europe,United Arab Emirates,Asia,2000,1986
+Spain,Europe,Taiwan,Asia,2000,0
+Spain,Europe,South Korea,Asia,2000,356352
+Spain,Europe,Japan,Asia,2000,959976
+Spain,Europe,India,Asia,2000,0
+Spain,Europe,Pakistan,Asia,2000,0
+Spain,Europe,Thailand,Asia,2000,32137
+Spain,Europe,Malaysia,Asia,2000,0
+Spain,Europe,Singapore,Asia,2000,0
+Spain,Europe,Philippines,Asia,2000,148340
+Spain,Europe,Indonesia,Asia,2000,0
+Spain,Europe,Australia,Oceania,2000,1026409
+Spain,Europe,Cyprus,Europe,2000,424264
+Spain,Europe,China,Asia,2000,0
+Spain,Europe,Ivory Coast,Africa,2000,0
+Spain,Europe,Congo,Africa,2000,0
+Portugal,Europe,United States,North America,2000,8873114
+Portugal,Europe,Canada,North America,2000,162718
+Portugal,Europe,Mexico,North America,2000,169943
+Portugal,Europe,Brazil,South America,2000,127
+Portugal,Europe,Argentina,South America,2000,651
+Portugal,Europe,United Kingdom,Europe,2000,615638
+Portugal,Europe,Netherlands,Europe,2000,0
+Portugal,Europe,Belgium,Europe,2000,8908798
+Portugal,Europe,France,Europe,2000,30666
+Portugal,Europe,Switzerland,Europe,2000,2060
+Portugal,Europe,Spain,Europe,2000,2203687
+Portugal,Europe,Portugal,Europe,2000,0
+Portugal,Europe,Germany,Europe,2000,22998
+Portugal,Europe,Poland,Europe,2000,0
+Portugal,Europe,Austria,Europe,2000,9146
+Portugal,Europe,Hungary,Europe,2000,0
+Portugal,Europe,Czech Republic,Europe,2000,17788
+Portugal,Europe,Slovakia,Europe,2000,0
+Portugal,Europe,Italy,Europe,2000,520014
+Portugal,Europe,Croatia,Europe,2000,0
+Portugal,Europe,Serbia,Europe,2000,0
+Portugal,Europe,Bosnia,Europe,2000,0
+Portugal,Europe,Greece,Europe,2000,1160995
+Portugal,Europe,Bulgaria,Europe,2000,15954
+Portugal,Europe,Romania,Europe,2000,0
+Portugal,Europe,Russia,Asia,2000,0
+Portugal,Europe,Ukraine,Europe,2000,0
+Portugal,Europe,Finland,Europe,2000,57327
+Portugal,Europe,Sweden,Europe,2000,191201
+Portugal,Europe,Norway,Europe,2000,32328
+Portugal,Europe,Denmark,Europe,2000,10747
+Portugal,Europe,South Africa,Africa,2000,34906
+Portugal,Europe,Turkey,Asia,2000,0
+Portugal,Europe,Israel,Asia,2000,0
+Portugal,Europe,United Arab Emirates,Asia,2000,0
+Portugal,Europe,Taiwan,Asia,2000,0
+Portugal,Europe,South Korea,Asia,2000,0
+Portugal,Europe,Japan,Asia,2000,72589
+Portugal,Europe,India,Asia,2000,0
+Portugal,Europe,Pakistan,Asia,2000,0
+Portugal,Europe,Thailand,Asia,2000,0
+Portugal,Europe,Malaysia,Asia,2000,0
+Portugal,Europe,Singapore,Asia,2000,0
+Portugal,Europe,Philippines,Asia,2000,0
+Portugal,Europe,Indonesia,Asia,2000,0
+Portugal,Europe,Australia,Oceania,2000,76606
+Portugal,Europe,Cyprus,Europe,2000,204
+Portugal,Europe,China,Asia,2000,0
+Portugal,Europe,Ivory Coast,Africa,2000,0
+Portugal,Europe,Congo,Africa,2000,0
+Germany,Europe,United States,North America,2000,38920473
+Germany,Europe,Canada,North America,2000,719576
+Germany,Europe,Mexico,North America,2000,3769
+Germany,Europe,Brazil,South America,2000,67716
+Germany,Europe,Argentina,South America,2000,286264
+Germany,Europe,United Kingdom,Europe,2000,3536598
+Germany,Europe,Netherlands,Europe,2000,1045133
+Germany,Europe,Belgium,Europe,2000,1827071
+Germany,Europe,France,Europe,2000,10682625
+Germany,Europe,Switzerland,Europe,2000,6174992
+Germany,Europe,Spain,Europe,2000,4371129
+Germany,Europe,Portugal,Europe,2000,1477336
+Germany,Europe,Germany,Europe,2000,0
+Germany,Europe,Poland,Europe,2000,1202288
+Germany,Europe,Austria,Europe,2000,5119634
+Germany,Europe,Hungary,Europe,2000,760214
+Germany,Europe,Czech Republic,Europe,2000,1452713
+Germany,Europe,Slovakia,Europe,2000,389688
+Germany,Europe,Italy,Europe,2000,4002244
+Germany,Europe,Croatia,Europe,2000,9601
+Germany,Europe,Serbia,Europe,2000,0
+Germany,Europe,Bosnia,Europe,2000,0
+Germany,Europe,Greece,Europe,2000,875845
+Germany,Europe,Bulgaria,Europe,2000,884147
+Germany,Europe,Romania,Europe,2000,159707
+Germany,Europe,Russia,Asia,2000,718139
+Germany,Europe,Ukraine,Europe,2000,1920339
+Germany,Europe,Finland,Europe,2000,1107125
+Germany,Europe,Sweden,Europe,2000,2651169
+Germany,Europe,Norway,Europe,2000,2451545
+Germany,Europe,Denmark,Europe,2000,2589263
+Germany,Europe,South Africa,Africa,2000,149486
+Germany,Europe,Turkey,Asia,2000,1289266
+Germany,Europe,Israel,Asia,2000,42162
+Germany,Europe,United Arab Emirates,Asia,2000,3080468
+Germany,Europe,Taiwan,Asia,2000,19164
+Germany,Europe,South Korea,Asia,2000,2392529
+Germany,Europe,Japan,Asia,2000,2643977
+Germany,Europe,India,Asia,2000,11498
+Germany,Europe,Pakistan,Asia,2000,104767
+Germany,Europe,Thailand,Asia,2000,926311
+Germany,Europe,Malaysia,Asia,2000,127715
+Germany,Europe,Singapore,Asia,2000,167374
+Germany,Europe,Philippines,Asia,2000,82503
+Germany,Europe,Indonesia,Asia,2000,67934
+Germany,Europe,Australia,Oceania,2000,497013
+Germany,Europe,Cyprus,Europe,2000,64818
+Germany,Europe,China,Asia,2000,214903
+Germany,Europe,Ivory Coast,Africa,2000,0
+Germany,Europe,Congo,Africa,2000,0
+Poland,Europe,United States,North America,2000,67716
+Poland,Europe,Canada,North America,2000,20849
+Poland,Europe,Mexico,North America,2000,0
+Poland,Europe,Brazil,South America,2000,0
+Poland,Europe,Argentina,South America,2000,0
+Poland,Europe,United Kingdom,Europe,2000,0
+Poland,Europe,Netherlands,Europe,2000,0
+Poland,Europe,Belgium,Europe,2000,3384
+Poland,Europe,France,Europe,2000,0
+Poland,Europe,Switzerland,Europe,2000,50879
+Poland,Europe,Spain,Europe,2000,0
+Poland,Europe,Portugal,Europe,2000,0
+Poland,Europe,Germany,Europe,2000,16609
+Poland,Europe,Poland,Europe,2000,0
+Poland,Europe,Austria,Europe,2000,85
+Poland,Europe,Hungary,Europe,2000,0
+Poland,Europe,Czech Republic,Europe,2000,3580
+Poland,Europe,Slovakia,Europe,2000,0
+Poland,Europe,Italy,Europe,2000,1528
+Poland,Europe,Croatia,Europe,2000,0
+Poland,Europe,Serbia,Europe,2000,0
+Poland,Europe,Bosnia,Europe,2000,0
+Poland,Europe,Greece,Europe,2000,0
+Poland,Europe,Bulgaria,Europe,2000,0
+Poland,Europe,Romania,Europe,2000,0
+Poland,Europe,Russia,Asia,2000,4758
+Poland,Europe,Ukraine,Europe,2000,0
+Poland,Europe,Finland,Europe,2000,42490
+Poland,Europe,Sweden,Europe,2000,0
+Poland,Europe,Norway,Europe,2000,0
+Poland,Europe,Denmark,Europe,2000,0
+Poland,Europe,South Africa,Africa,2000,0
+Poland,Europe,Turkey,Asia,2000,0
+Poland,Europe,Israel,Asia,2000,0
+Poland,Europe,United Arab Emirates,Asia,2000,0
+Poland,Europe,Taiwan,Asia,2000,0
+Poland,Europe,South Korea,Asia,2000,0
+Poland,Europe,Japan,Asia,2000,0
+Poland,Europe,India,Asia,2000,0
+Poland,Europe,Pakistan,Asia,2000,0
+Poland,Europe,Thailand,Asia,2000,0
+Poland,Europe,Malaysia,Asia,2000,0
+Poland,Europe,Singapore,Asia,2000,0
+Poland,Europe,Philippines,Asia,2000,0
+Poland,Europe,Indonesia,Asia,2000,0
+Poland,Europe,Australia,Oceania,2000,0
+Poland,Europe,Cyprus,Europe,2000,0
+Poland,Europe,China,Asia,2000,0
+Poland,Europe,Ivory Coast,Africa,2000,0
+Poland,Europe,Congo,Africa,2000,0
+Austria,Europe,United States,North America,2000,67628060
+Austria,Europe,Canada,North America,2000,548810
+Austria,Europe,Mexico,North America,2000,347359
+Austria,Europe,Brazil,South America,2000,298722
+Austria,Europe,Argentina,South America,2000,982018
+Austria,Europe,United Kingdom,Europe,2000,217079
+Austria,Europe,Netherlands,Europe,2000,89678
+Austria,Europe,Belgium,Europe,2000,59978
+Austria,Europe,France,Europe,2000,619879
+Austria,Europe,Switzerland,Europe,2000,691602
+Austria,Europe,Spain,Europe,2000,474978
+Austria,Europe,Portugal,Europe,2000,219968
+Austria,Europe,Germany,Europe,2000,2639984
+Austria,Europe,Poland,Europe,2000,957704
+Austria,Europe,Austria,Europe,2000,0
+Austria,Europe,Hungary,Europe,2000,310331
+Austria,Europe,Czech Republic,Europe,2000,562557
+Austria,Europe,Slovakia,Europe,2000,243487
+Austria,Europe,Italy,Europe,2000,2129366
+Austria,Europe,Croatia,Europe,2000,229626
+Austria,Europe,Serbia,Europe,2000,127552
+Austria,Europe,Bosnia,Europe,2000,0
+Austria,Europe,Greece,Europe,2000,70102
+Austria,Europe,Bulgaria,Europe,2000,238176
+Austria,Europe,Romania,Europe,2000,6581
+Austria,Europe,Russia,Asia,2000,120561
+Austria,Europe,Ukraine,Europe,2000,39581
+Austria,Europe,Finland,Europe,2000,364813
+Austria,Europe,Sweden,Europe,2000,107964
+Austria,Europe,Norway,Europe,2000,119842
+Austria,Europe,Denmark,Europe,2000,75500
+Austria,Europe,South Africa,Africa,2000,65827
+Austria,Europe,Turkey,Asia,2000,66370
+Austria,Europe,Israel,Asia,2000,0
+Austria,Europe,United Arab Emirates,Asia,2000,1263900
+Austria,Europe,Taiwan,Asia,2000,0
+Austria,Europe,South Korea,Asia,2000,10882
+Austria,Europe,Japan,Asia,2000,42317
+Austria,Europe,India,Asia,2000,85062
+Austria,Europe,Pakistan,Asia,2000,0
+Austria,Europe,Thailand,Asia,2000,1121926
+Austria,Europe,Malaysia,Asia,2000,57629
+Austria,Europe,Singapore,Asia,2000,22227
+Austria,Europe,Philippines,Asia,2000,205255
+Austria,Europe,Indonesia,Asia,2000,37273
+Austria,Europe,Australia,Oceania,2000,2285477
+Austria,Europe,Cyprus,Europe,2000,0
+Austria,Europe,China,Asia,2000,2389
+Austria,Europe,Ivory Coast,Africa,2000,0
+Austria,Europe,Congo,Africa,2000,26160
+Hungary,Europe,United States,North America,2000,3013462
+Hungary,Europe,Canada,North America,2000,16554
+Hungary,Europe,Mexico,North America,2000,0
+Hungary,Europe,Brazil,South America,2000,0
+Hungary,Europe,Argentina,South America,2000,13477
+Hungary,Europe,United Kingdom,Europe,2000,0
+Hungary,Europe,Netherlands,Europe,2000,23527
+Hungary,Europe,Belgium,Europe,2000,25347
+Hungary,Europe,France,Europe,2000,0
+Hungary,Europe,Switzerland,Europe,2000,0
+Hungary,Europe,Spain,Europe,2000,0
+Hungary,Europe,Portugal,Europe,2000,0
+Hungary,Europe,Germany,Europe,2000,2951424
+Hungary,Europe,Poland,Europe,2000,192928
+Hungary,Europe,Austria,Europe,2000,376199
+Hungary,Europe,Hungary,Europe,2000,0
+Hungary,Europe,Czech Republic,Europe,2000,27690
+Hungary,Europe,Slovakia,Europe,2000,81478
+Hungary,Europe,Italy,Europe,2000,2037183
+Hungary,Europe,Croatia,Europe,2000,1453
+Hungary,Europe,Serbia,Europe,2000,0
+Hungary,Europe,Bosnia,Europe,2000,0
+Hungary,Europe,Greece,Europe,2000,0
+Hungary,Europe,Bulgaria,Europe,2000,0
+Hungary,Europe,Romania,Europe,2000,0
+Hungary,Europe,Russia,Asia,2000,0
+Hungary,Europe,Ukraine,Europe,2000,0
+Hungary,Europe,Finland,Europe,2000,235474
+Hungary,Europe,Sweden,Europe,2000,0
+Hungary,Europe,Norway,Europe,2000,219335
+Hungary,Europe,Denmark,Europe,2000,0
+Hungary,Europe,South Africa,Africa,2000,0
+Hungary,Europe,Turkey,Asia,2000,597
+Hungary,Europe,Israel,Asia,2000,0
+Hungary,Europe,United Arab Emirates,Asia,2000,0
+Hungary,Europe,Taiwan,Asia,2000,0
+Hungary,Europe,South Korea,Asia,2000,0
+Hungary,Europe,Japan,Asia,2000,256492
+Hungary,Europe,India,Asia,2000,0
+Hungary,Europe,Pakistan,Asia,2000,0
+Hungary,Europe,Thailand,Asia,2000,195
+Hungary,Europe,Malaysia,Asia,2000,0
+Hungary,Europe,Singapore,Asia,2000,0
+Hungary,Europe,Philippines,Asia,2000,0
+Hungary,Europe,Indonesia,Asia,2000,0
+Hungary,Europe,Australia,Oceania,2000,0
+Hungary,Europe,Cyprus,Europe,2000,0
+Hungary,Europe,China,Asia,2000,0
+Hungary,Europe,Ivory Coast,Africa,2000,0
+Hungary,Europe,Congo,Africa,2000,0
+Czech Republic,Europe,United States,North America,2000,14558772
+Czech Republic,Europe,Canada,North America,2000,201337
+Czech Republic,Europe,Mexico,North America,2000,1326198
+Czech Republic,Europe,Brazil,South America,2000,0
+Czech Republic,Europe,Argentina,South America,2000,271788
+Czech Republic,Europe,United Kingdom,Europe,2000,329204
+Czech Republic,Europe,Netherlands,Europe,2000,86667
+Czech Republic,Europe,Belgium,Europe,2000,1082625
+Czech Republic,Europe,France,Europe,2000,2485170
+Czech Republic,Europe,Switzerland,Europe,2000,257645
+Czech Republic,Europe,Spain,Europe,2000,986080
+Czech Republic,Europe,Portugal,Europe,2000,226736
+Czech Republic,Europe,Germany,Europe,2000,6888513
+Czech Republic,Europe,Poland,Europe,2000,1608128
+Czech Republic,Europe,Austria,Europe,2000,634408
+Czech Republic,Europe,Hungary,Europe,2000,690475
+Czech Republic,Europe,Czech Republic,Europe,2000,0
+Czech Republic,Europe,Slovakia,Europe,2000,3681870
+Czech Republic,Europe,Italy,Europe,2000,1766940
+Czech Republic,Europe,Croatia,Europe,2000,104922
+Czech Republic,Europe,Serbia,Europe,2000,0
+Czech Republic,Europe,Bosnia,Europe,2000,149063
+Czech Republic,Europe,Greece,Europe,2000,339233
+Czech Republic,Europe,Bulgaria,Europe,2000,1435263
+Czech Republic,Europe,Romania,Europe,2000,67098
+Czech Republic,Europe,Russia,Asia,2000,125421
+Czech Republic,Europe,Ukraine,Europe,2000,113796
+Czech Republic,Europe,Finland,Europe,2000,764673
+Czech Republic,Europe,Sweden,Europe,2000,425118
+Czech Republic,Europe,Norway,Europe,2000,511221
+Czech Republic,Europe,Denmark,Europe,2000,164271
+Czech Republic,Europe,South Africa,Africa,2000,717127
+Czech Republic,Europe,Turkey,Asia,2000,327659
+Czech Republic,Europe,Israel,Asia,2000,136083
+Czech Republic,Europe,United Arab Emirates,Asia,2000,4831
+Czech Republic,Europe,Taiwan,Asia,2000,0
+Czech Republic,Europe,South Korea,Asia,2000,1551
+Czech Republic,Europe,Japan,Asia,2000,894
+Czech Republic,Europe,India,Asia,2000,17766
+Czech Republic,Europe,Pakistan,Asia,2000,51510
+Czech Republic,Europe,Thailand,Asia,2000,1808817
+Czech Republic,Europe,Malaysia,Asia,2000,47209
+Czech Republic,Europe,Singapore,Asia,2000,23501
+Czech Republic,Europe,Philippines,Asia,2000,186071
+Czech Republic,Europe,Indonesia,Asia,2000,0
+Czech Republic,Europe,Australia,Oceania,2000,684036
+Czech Republic,Europe,Cyprus,Europe,2000,1176
+Czech Republic,Europe,China,Asia,2000,13
+Czech Republic,Europe,Ivory Coast,Africa,2000,0
+Czech Republic,Europe,Congo,Africa,2000,189767
+Slovakia,Europe,United States,North America,2000,474315
+Slovakia,Europe,Canada,North America,2000,0
+Slovakia,Europe,Mexico,North America,2000,0
+Slovakia,Europe,Brazil,South America,2000,0
+Slovakia,Europe,Argentina,South America,2000,3778
+Slovakia,Europe,United Kingdom,Europe,2000,0
+Slovakia,Europe,Netherlands,Europe,2000,0
+Slovakia,Europe,Belgium,Europe,2000,0
+Slovakia,Europe,France,Europe,2000,123443
+Slovakia,Europe,Switzerland,Europe,2000,0
+Slovakia,Europe,Spain,Europe,2000,0
+Slovakia,Europe,Portugal,Europe,2000,0
+Slovakia,Europe,Germany,Europe,2000,300864
+Slovakia,Europe,Poland,Europe,2000,37791
+Slovakia,Europe,Austria,Europe,2000,37526
+Slovakia,Europe,Hungary,Europe,2000,0
+Slovakia,Europe,Czech Republic,Europe,2000,356419
+Slovakia,Europe,Slovakia,Europe,2000,0
+Slovakia,Europe,Italy,Europe,2000,63585
+Slovakia,Europe,Croatia,Europe,2000,8543
+Slovakia,Europe,Serbia,Europe,2000,0
+Slovakia,Europe,Bosnia,Europe,2000,0
+Slovakia,Europe,Greece,Europe,2000,0
+Slovakia,Europe,Bulgaria,Europe,2000,3792
+Slovakia,Europe,Romania,Europe,2000,0
+Slovakia,Europe,Russia,Asia,2000,0
+Slovakia,Europe,Ukraine,Europe,2000,0
+Slovakia,Europe,Finland,Europe,2000,0
+Slovakia,Europe,Sweden,Europe,2000,0
+Slovakia,Europe,Norway,Europe,2000,0
+Slovakia,Europe,Denmark,Europe,2000,0
+Slovakia,Europe,South Africa,Africa,2000,0
+Slovakia,Europe,Turkey,Asia,2000,0
+Slovakia,Europe,Israel,Asia,2000,0
+Slovakia,Europe,United Arab Emirates,Asia,2000,0
+Slovakia,Europe,Taiwan,Asia,2000,0
+Slovakia,Europe,South Korea,Asia,2000,0
+Slovakia,Europe,Japan,Asia,2000,0
+Slovakia,Europe,India,Asia,2000,0
+Slovakia,Europe,Pakistan,Asia,2000,0
+Slovakia,Europe,Thailand,Asia,2000,7046
+Slovakia,Europe,Malaysia,Asia,2000,0
+Slovakia,Europe,Singapore,Asia,2000,0
+Slovakia,Europe,Philippines,Asia,2000,0
+Slovakia,Europe,Indonesia,Asia,2000,11395539
+Slovakia,Europe,Australia,Oceania,2000,0
+Slovakia,Europe,Cyprus,Europe,2000,674
+Slovakia,Europe,China,Asia,2000,0
+Slovakia,Europe,Ivory Coast,Africa,2000,0
+Slovakia,Europe,Congo,Africa,2000,0
+Italy,Europe,United States,North America,2000,130656268
+Italy,Europe,Canada,North America,2000,705127
+Italy,Europe,Mexico,North America,2000,1711702
+Italy,Europe,Brazil,South America,2000,108402
+Italy,Europe,Argentina,South America,2000,3088113
+Italy,Europe,United Kingdom,Europe,2000,7049314
+Italy,Europe,Netherlands,Europe,2000,456981
+Italy,Europe,Belgium,Europe,2000,23673458
+Italy,Europe,France,Europe,2000,15177396
+Italy,Europe,Switzerland,Europe,2000,1504470
+Italy,Europe,Spain,Europe,2000,7590436
+Italy,Europe,Portugal,Europe,2000,4978187
+Italy,Europe,Germany,Europe,2000,14772775
+Italy,Europe,Poland,Europe,2000,532158
+Italy,Europe,Austria,Europe,2000,1840337
+Italy,Europe,Hungary,Europe,2000,891297
+Italy,Europe,Czech Republic,Europe,2000,789705
+Italy,Europe,Slovakia,Europe,2000,170206
+Italy,Europe,Italy,Europe,2000,0
+Italy,Europe,Croatia,Europe,2000,176924
+Italy,Europe,Serbia,Europe,2000,0
+Italy,Europe,Bosnia,Europe,2000,255776
+Italy,Europe,Greece,Europe,2000,6816369
+Italy,Europe,Bulgaria,Europe,2000,741295
+Italy,Europe,Romania,Europe,2000,387011
+Italy,Europe,Russia,Asia,2000,1416812
+Italy,Europe,Ukraine,Europe,2000,239224
+Italy,Europe,Finland,Europe,2000,2230363
+Italy,Europe,Sweden,Europe,2000,2413721
+Italy,Europe,Norway,Europe,2000,7484089
+Italy,Europe,Denmark,Europe,2000,715459
+Italy,Europe,South Africa,Africa,2000,422999
+Italy,Europe,Turkey,Asia,2000,24045945
+Italy,Europe,Israel,Asia,2000,70012
+Italy,Europe,United Arab Emirates,Asia,2000,371511
+Italy,Europe,Taiwan,Asia,2000,213541
+Italy,Europe,South Korea,Asia,2000,638395
+Italy,Europe,Japan,Asia,2000,11386663
+Italy,Europe,India,Asia,2000,43093
+Italy,Europe,Pakistan,Asia,2000,27917
+Italy,Europe,Thailand,Asia,2000,1072326
+Italy,Europe,Malaysia,Asia,2000,218247
+Italy,Europe,Singapore,Asia,2000,180920
+Italy,Europe,Philippines,Asia,2000,215300
+Italy,Europe,Indonesia,Asia,2000,8182
+Italy,Europe,Australia,Oceania,2000,3759828
+Italy,Europe,Cyprus,Europe,2000,1365864
+Italy,Europe,China,Asia,2000,161794
+Italy,Europe,Ivory Coast,Africa,2000,24030
+Italy,Europe,Congo,Africa,2000,4950
+Croatia,Europe,United States,North America,2000,1206513
+Croatia,Europe,Canada,North America,2000,0
+Croatia,Europe,Mexico,North America,2000,0
+Croatia,Europe,Brazil,South America,2000,0
+Croatia,Europe,Argentina,South America,2000,0
+Croatia,Europe,United Kingdom,Europe,2000,371
+Croatia,Europe,Netherlands,Europe,2000,0
+Croatia,Europe,Belgium,Europe,2000,0
+Croatia,Europe,France,Europe,2000,0
+Croatia,Europe,Switzerland,Europe,2000,0
+Croatia,Europe,Spain,Europe,2000,0
+Croatia,Europe,Portugal,Europe,2000,0
+Croatia,Europe,Germany,Europe,2000,88
+Croatia,Europe,Poland,Europe,2000,0
+Croatia,Europe,Austria,Europe,2000,5861
+Croatia,Europe,Hungary,Europe,2000,0
+Croatia,Europe,Czech Republic,Europe,2000,0
+Croatia,Europe,Slovakia,Europe,2000,0
+Croatia,Europe,Italy,Europe,2000,296
+Croatia,Europe,Croatia,Europe,2000,0
+Croatia,Europe,Serbia,Europe,2000,0
+Croatia,Europe,Bosnia,Europe,2000,29328
+Croatia,Europe,Greece,Europe,2000,0
+Croatia,Europe,Bulgaria,Europe,2000,0
+Croatia,Europe,Romania,Europe,2000,0
+Croatia,Europe,Russia,Asia,2000,0
+Croatia,Europe,Ukraine,Europe,2000,0
+Croatia,Europe,Finland,Europe,2000,0
+Croatia,Europe,Sweden,Europe,2000,0
+Croatia,Europe,Norway,Europe,2000,0
+Croatia,Europe,Denmark,Europe,2000,0
+Croatia,Europe,South Africa,Africa,2000,0
+Croatia,Europe,Turkey,Asia,2000,882
+Croatia,Europe,Israel,Asia,2000,0
+Croatia,Europe,United Arab Emirates,Asia,2000,0
+Croatia,Europe,Taiwan,Asia,2000,0
+Croatia,Europe,South Korea,Asia,2000,0
+Croatia,Europe,Japan,Asia,2000,0
+Croatia,Europe,India,Asia,2000,0
+Croatia,Europe,Pakistan,Asia,2000,0
+Croatia,Europe,Thailand,Asia,2000,1630
+Croatia,Europe,Malaysia,Asia,2000,0
+Croatia,Europe,Singapore,Asia,2000,0
+Croatia,Europe,Philippines,Asia,2000,0
+Croatia,Europe,Indonesia,Asia,2000,0
+Croatia,Europe,Australia,Oceania,2000,6214
+Croatia,Europe,Cyprus,Europe,2000,0
+Croatia,Europe,China,Asia,2000,0
+Croatia,Europe,Ivory Coast,Africa,2000,0
+Croatia,Europe,Congo,Africa,2000,0
+Serbia,Europe,United States,North America,2000,0
+Serbia,Europe,Canada,North America,2000,0
+Serbia,Europe,Mexico,North America,2000,0
+Serbia,Europe,Brazil,South America,2000,0
+Serbia,Europe,Argentina,South America,2000,0
+Serbia,Europe,United Kingdom,Europe,2000,0
+Serbia,Europe,Netherlands,Europe,2000,0
+Serbia,Europe,Belgium,Europe,2000,0
+Serbia,Europe,France,Europe,2000,4125
+Serbia,Europe,Switzerland,Europe,2000,0
+Serbia,Europe,Spain,Europe,2000,0
+Serbia,Europe,Portugal,Europe,2000,0
+Serbia,Europe,Germany,Europe,2000,439519
+Serbia,Europe,Poland,Europe,2000,0
+Serbia,Europe,Austria,Europe,2000,58270
+Serbia,Europe,Hungary,Europe,2000,407577
+Serbia,Europe,Czech Republic,Europe,2000,13180
+Serbia,Europe,Slovakia,Europe,2000,2555
+Serbia,Europe,Italy,Europe,2000,0
+Serbia,Europe,Croatia,Europe,2000,4418
+Serbia,Europe,Serbia,Europe,2000,0
+Serbia,Europe,Bosnia,Europe,2000,645223
+Serbia,Europe,Greece,Europe,2000,0
+Serbia,Europe,Bulgaria,Europe,2000,0
+Serbia,Europe,Romania,Europe,2000,0
+Serbia,Europe,Russia,Asia,2000,301
+Serbia,Europe,Ukraine,Europe,2000,0
+Serbia,Europe,Finland,Europe,2000,0
+Serbia,Europe,Sweden,Europe,2000,11937
+Serbia,Europe,Norway,Europe,2000,0
+Serbia,Europe,Denmark,Europe,2000,0
+Serbia,Europe,South Africa,Africa,2000,0
+Serbia,Europe,Turkey,Asia,2000,0
+Serbia,Europe,Israel,Asia,2000,0
+Serbia,Europe,United Arab Emirates,Asia,2000,0
+Serbia,Europe,Taiwan,Asia,2000,0
+Serbia,Europe,South Korea,Asia,2000,0
+Serbia,Europe,Japan,Asia,2000,0
+Serbia,Europe,India,Asia,2000,0
+Serbia,Europe,Pakistan,Asia,2000,0
+Serbia,Europe,Thailand,Asia,2000,0
+Serbia,Europe,Malaysia,Asia,2000,0
+Serbia,Europe,Singapore,Asia,2000,0
+Serbia,Europe,Philippines,Asia,2000,0
+Serbia,Europe,Indonesia,Asia,2000,0
+Serbia,Europe,Australia,Oceania,2000,0
+Serbia,Europe,Cyprus,Europe,2000,0
+Serbia,Europe,China,Asia,2000,0
+Serbia,Europe,Ivory Coast,Africa,2000,0
+Serbia,Europe,Congo,Africa,2000,0
+Bosnia,Europe,United States,North America,2000,260021
+Bosnia,Europe,Canada,North America,2000,0
+Bosnia,Europe,Mexico,North America,2000,0
+Bosnia,Europe,Brazil,South America,2000,0
+Bosnia,Europe,Argentina,South America,2000,0
+Bosnia,Europe,United Kingdom,Europe,2000,0
+Bosnia,Europe,Netherlands,Europe,2000,0
+Bosnia,Europe,Belgium,Europe,2000,0
+Bosnia,Europe,France,Europe,2000,0
+Bosnia,Europe,Switzerland,Europe,2000,0
+Bosnia,Europe,Spain,Europe,2000,0
+Bosnia,Europe,Portugal,Europe,2000,0
+Bosnia,Europe,Germany,Europe,2000,1700583
+Bosnia,Europe,Poland,Europe,2000,0
+Bosnia,Europe,Austria,Europe,2000,1156128
+Bosnia,Europe,Hungary,Europe,2000,0
+Bosnia,Europe,Czech Republic,Europe,2000,24938
+Bosnia,Europe,Slovakia,Europe,2000,1604
+Bosnia,Europe,Italy,Europe,2000,0
+Bosnia,Europe,Croatia,Europe,2000,89848
+Bosnia,Europe,Serbia,Europe,2000,0
+Bosnia,Europe,Bosnia,Europe,2000,0
+Bosnia,Europe,Greece,Europe,2000,25227
+Bosnia,Europe,Bulgaria,Europe,2000,0
+Bosnia,Europe,Romania,Europe,2000,0
+Bosnia,Europe,Russia,Asia,2000,0
+Bosnia,Europe,Ukraine,Europe,2000,0
+Bosnia,Europe,Finland,Europe,2000,0
+Bosnia,Europe,Sweden,Europe,2000,0
+Bosnia,Europe,Norway,Europe,2000,0
+Bosnia,Europe,Denmark,Europe,2000,0
+Bosnia,Europe,South Africa,Africa,2000,0
+Bosnia,Europe,Turkey,Asia,2000,2129289
+Bosnia,Europe,Israel,Asia,2000,0
+Bosnia,Europe,United Arab Emirates,Asia,2000,0
+Bosnia,Europe,Taiwan,Asia,2000,0
+Bosnia,Europe,South Korea,Asia,2000,0
+Bosnia,Europe,Japan,Asia,2000,0
+Bosnia,Europe,India,Asia,2000,0
+Bosnia,Europe,Pakistan,Asia,2000,0
+Bosnia,Europe,Thailand,Asia,2000,0
+Bosnia,Europe,Malaysia,Asia,2000,0
+Bosnia,Europe,Singapore,Asia,2000,0
+Bosnia,Europe,Philippines,Asia,2000,0
+Bosnia,Europe,Indonesia,Asia,2000,0
+Bosnia,Europe,Australia,Oceania,2000,1040483
+Bosnia,Europe,Cyprus,Europe,2000,0
+Bosnia,Europe,China,Asia,2000,0
+Bosnia,Europe,Ivory Coast,Africa,2000,0
+Bosnia,Europe,Congo,Africa,2000,0
+Greece,Europe,United States,North America,2000,480820
+Greece,Europe,Canada,North America,2000,0
+Greece,Europe,Mexico,North America,2000,0
+Greece,Europe,Brazil,South America,2000,0
+Greece,Europe,Argentina,South America,2000,0
+Greece,Europe,United Kingdom,Europe,2000,0
+Greece,Europe,Netherlands,Europe,2000,0
+Greece,Europe,Belgium,Europe,2000,11335
+Greece,Europe,France,Europe,2000,25652
+Greece,Europe,Switzerland,Europe,2000,0
+Greece,Europe,Spain,Europe,2000,0
+Greece,Europe,Portugal,Europe,2000,183
+Greece,Europe,Germany,Europe,2000,53061
+Greece,Europe,Poland,Europe,2000,0
+Greece,Europe,Austria,Europe,2000,0
+Greece,Europe,Hungary,Europe,2000,0
+Greece,Europe,Czech Republic,Europe,2000,0
+Greece,Europe,Slovakia,Europe,2000,0
+Greece,Europe,Italy,Europe,2000,27776
+Greece,Europe,Croatia,Europe,2000,0
+Greece,Europe,Serbia,Europe,2000,0
+Greece,Europe,Bosnia,Europe,2000,0
+Greece,Europe,Greece,Europe,2000,0
+Greece,Europe,Bulgaria,Europe,2000,0
+Greece,Europe,Romania,Europe,2000,0
+Greece,Europe,Russia,Asia,2000,0
+Greece,Europe,Ukraine,Europe,2000,0
+Greece,Europe,Finland,Europe,2000,0
+Greece,Europe,Sweden,Europe,2000,0
+Greece,Europe,Norway,Europe,2000,0
+Greece,Europe,Denmark,Europe,2000,0
+Greece,Europe,South Africa,Africa,2000,0
+Greece,Europe,Turkey,Asia,2000,130939
+Greece,Europe,Israel,Asia,2000,0
+Greece,Europe,United Arab Emirates,Asia,2000,0
+Greece,Europe,Taiwan,Asia,2000,966211
+Greece,Europe,South Korea,Asia,2000,0
+Greece,Europe,Japan,Asia,2000,0
+Greece,Europe,India,Asia,2000,0
+Greece,Europe,Pakistan,Asia,2000,0
+Greece,Europe,Thailand,Asia,2000,70169
+Greece,Europe,Malaysia,Asia,2000,0
+Greece,Europe,Singapore,Asia,2000,0
+Greece,Europe,Philippines,Asia,2000,0
+Greece,Europe,Indonesia,Asia,2000,0
+Greece,Europe,Australia,Oceania,2000,0
+Greece,Europe,Cyprus,Europe,2000,508385
+Greece,Europe,China,Asia,2000,0
+Greece,Europe,Ivory Coast,Africa,2000,0
+Greece,Europe,Congo,Africa,2000,0
+Bulgaria,Europe,United States,North America,2000,442881
+Bulgaria,Europe,Canada,North America,2000,0
+Bulgaria,Europe,Mexico,North America,2000,0
+Bulgaria,Europe,Brazil,South America,2000,0
+Bulgaria,Europe,Argentina,South America,2000,1935
+Bulgaria,Europe,United Kingdom,Europe,2000,0
+Bulgaria,Europe,Netherlands,Europe,2000,0
+Bulgaria,Europe,Belgium,Europe,2000,0
+Bulgaria,Europe,France,Europe,2000,0
+Bulgaria,Europe,Switzerland,Europe,2000,8865
+Bulgaria,Europe,Spain,Europe,2000,0
+Bulgaria,Europe,Portugal,Europe,2000,0
+Bulgaria,Europe,Germany,Europe,2000,19165
+Bulgaria,Europe,Poland,Europe,2000,0
+Bulgaria,Europe,Austria,Europe,2000,176518
+Bulgaria,Europe,Hungary,Europe,2000,0
+Bulgaria,Europe,Czech Republic,Europe,2000,1376
+Bulgaria,Europe,Slovakia,Europe,2000,2141522
+Bulgaria,Europe,Italy,Europe,2000,24717
+Bulgaria,Europe,Croatia,Europe,2000,0
+Bulgaria,Europe,Serbia,Europe,2000,0
+Bulgaria,Europe,Bosnia,Europe,2000,0
+Bulgaria,Europe,Greece,Europe,2000,0
+Bulgaria,Europe,Bulgaria,Europe,2000,0
+Bulgaria,Europe,Romania,Europe,2000,0
+Bulgaria,Europe,Russia,Asia,2000,112803
+Bulgaria,Europe,Ukraine,Europe,2000,0
+Bulgaria,Europe,Finland,Europe,2000,0
+Bulgaria,Europe,Sweden,Europe,2000,0
+Bulgaria,Europe,Norway,Europe,2000,0
+Bulgaria,Europe,Denmark,Europe,2000,0
+Bulgaria,Europe,South Africa,Africa,2000,0
+Bulgaria,Europe,Turkey,Asia,2000,748
+Bulgaria,Europe,Israel,Asia,2000,0
+Bulgaria,Europe,United Arab Emirates,Asia,2000,0
+Bulgaria,Europe,Taiwan,Asia,2000,0
+Bulgaria,Europe,South Korea,Asia,2000,35009
+Bulgaria,Europe,Japan,Asia,2000,0
+Bulgaria,Europe,India,Asia,2000,0
+Bulgaria,Europe,Pakistan,Asia,2000,0
+Bulgaria,Europe,Thailand,Asia,2000,0
+Bulgaria,Europe,Malaysia,Asia,2000,0
+Bulgaria,Europe,Singapore,Asia,2000,0
+Bulgaria,Europe,Philippines,Asia,2000,0
+Bulgaria,Europe,Indonesia,Asia,2000,0
+Bulgaria,Europe,Australia,Oceania,2000,0
+Bulgaria,Europe,Cyprus,Europe,2000,0
+Bulgaria,Europe,China,Asia,2000,0
+Bulgaria,Europe,Ivory Coast,Africa,2000,0
+Bulgaria,Europe,Congo,Africa,2000,0
+Romania,Europe,United States,North America,2000,3167903
+Romania,Europe,Canada,North America,2000,0
+Romania,Europe,Mexico,North America,2000,0
+Romania,Europe,Brazil,South America,2000,0
+Romania,Europe,Argentina,South America,2000,884
+Romania,Europe,United Kingdom,Europe,2000,0
+Romania,Europe,Netherlands,Europe,2000,0
+Romania,Europe,Belgium,Europe,2000,0
+Romania,Europe,France,Europe,2000,0
+Romania,Europe,Switzerland,Europe,2000,0
+Romania,Europe,Spain,Europe,2000,0
+Romania,Europe,Portugal,Europe,2000,0
+Romania,Europe,Germany,Europe,2000,0
+Romania,Europe,Poland,Europe,2000,0
+Romania,Europe,Austria,Europe,2000,0
+Romania,Europe,Hungary,Europe,2000,0
+Romania,Europe,Czech Republic,Europe,2000,8373
+Romania,Europe,Slovakia,Europe,2000,0
+Romania,Europe,Italy,Europe,2000,0
+Romania,Europe,Croatia,Europe,2000,0
+Romania,Europe,Serbia,Europe,2000,0
+Romania,Europe,Bosnia,Europe,2000,0
+Romania,Europe,Greece,Europe,2000,14965
+Romania,Europe,Bulgaria,Europe,2000,0
+Romania,Europe,Romania,Europe,2000,0
+Romania,Europe,Russia,Asia,2000,0
+Romania,Europe,Ukraine,Europe,2000,0
+Romania,Europe,Finland,Europe,2000,0
+Romania,Europe,Sweden,Europe,2000,0
+Romania,Europe,Norway,Europe,2000,0
+Romania,Europe,Denmark,Europe,2000,0
+Romania,Europe,South Africa,Africa,2000,0
+Romania,Europe,Turkey,Asia,2000,138789
+Romania,Europe,Israel,Asia,2000,0
+Romania,Europe,United Arab Emirates,Asia,2000,0
+Romania,Europe,Taiwan,Asia,2000,0
+Romania,Europe,South Korea,Asia,2000,0
+Romania,Europe,Japan,Asia,2000,0
+Romania,Europe,India,Asia,2000,0
+Romania,Europe,Pakistan,Asia,2000,0
+Romania,Europe,Thailand,Asia,2000,0
+Romania,Europe,Malaysia,Asia,2000,0
+Romania,Europe,Singapore,Asia,2000,0
+Romania,Europe,Philippines,Asia,2000,0
+Romania,Europe,Indonesia,Asia,2000,0
+Romania,Europe,Australia,Oceania,2000,730
+Romania,Europe,Cyprus,Europe,2000,0
+Romania,Europe,China,Asia,2000,0
+Romania,Europe,Ivory Coast,Africa,2000,0
+Romania,Europe,Congo,Africa,2000,0
+Russia,Asia,United States,North America,2000,19150487
+Russia,Asia,Canada,North America,2000,110032
+Russia,Asia,Mexico,North America,2000,0
+Russia,Asia,Brazil,South America,2000,0
+Russia,Asia,Argentina,South America,2000,60804
+Russia,Asia,United Kingdom,Europe,2000,52850
+Russia,Asia,Netherlands,Europe,2000,41173
+Russia,Asia,Belgium,Europe,2000,149161
+Russia,Asia,France,Europe,2000,1105896
+Russia,Asia,Switzerland,Europe,2000,0
+Russia,Asia,Spain,Europe,2000,0
+Russia,Asia,Portugal,Europe,2000,47975
+Russia,Asia,Germany,Europe,2000,1759008
+Russia,Asia,Poland,Europe,2000,656924
+Russia,Asia,Austria,Europe,2000,787362
+Russia,Asia,Hungary,Europe,2000,32069
+Russia,Asia,Czech Republic,Europe,2000,176711
+Russia,Asia,Slovakia,Europe,2000,187122
+Russia,Asia,Italy,Europe,2000,123191
+Russia,Asia,Croatia,Europe,2000,54782
+Russia,Asia,Serbia,Europe,2000,1379
+Russia,Asia,Bosnia,Europe,2000,0
+Russia,Asia,Greece,Europe,2000,195879
+Russia,Asia,Bulgaria,Europe,2000,350229
+Russia,Asia,Romania,Europe,2000,0
+Russia,Asia,Russia,Asia,2000,0
+Russia,Asia,Ukraine,Europe,2000,1173679
+Russia,Asia,Finland,Europe,2000,294477
+Russia,Asia,Sweden,Europe,2000,0
+Russia,Asia,Norway,Europe,2000,145956
+Russia,Asia,Denmark,Europe,2000,27231
+Russia,Asia,South Africa,Africa,2000,37897
+Russia,Asia,Turkey,Asia,2000,0
+Russia,Asia,Israel,Asia,2000,0
+Russia,Asia,United Arab Emirates,Asia,2000,0
+Russia,Asia,Taiwan,Asia,2000,0
+Russia,Asia,South Korea,Asia,2000,335094
+Russia,Asia,Japan,Asia,2000,83854
+Russia,Asia,India,Asia,2000,22854378
+Russia,Asia,Pakistan,Asia,2000,0
+Russia,Asia,Thailand,Asia,2000,10002
+Russia,Asia,Malaysia,Asia,2000,0
+Russia,Asia,Singapore,Asia,2000,0
+Russia,Asia,Philippines,Asia,2000,0
+Russia,Asia,Indonesia,Asia,2000,0
+Russia,Asia,Australia,Oceania,2000,8903
+Russia,Asia,Cyprus,Europe,2000,2425693
+Russia,Asia,China,Asia,2000,826000
+Russia,Asia,Ivory Coast,Africa,2000,0
+Russia,Asia,Congo,Africa,2000,0
+Ukraine,Europe,United States,North America,2000,0
+Ukraine,Europe,Canada,North America,2000,0
+Ukraine,Europe,Mexico,North America,2000,0
+Ukraine,Europe,Brazil,South America,2000,0
+Ukraine,Europe,Argentina,South America,2000,0
+Ukraine,Europe,United Kingdom,Europe,2000,0
+Ukraine,Europe,Netherlands,Europe,2000,0
+Ukraine,Europe,Belgium,Europe,2000,0
+Ukraine,Europe,France,Europe,2000,0
+Ukraine,Europe,Switzerland,Europe,2000,0
+Ukraine,Europe,Spain,Europe,2000,0
+Ukraine,Europe,Portugal,Europe,2000,0
+Ukraine,Europe,Germany,Europe,2000,397356
+Ukraine,Europe,Poland,Europe,2000,357748
+Ukraine,Europe,Austria,Europe,2000,3675
+Ukraine,Europe,Hungary,Europe,2000,0
+Ukraine,Europe,Czech Republic,Europe,2000,2858
+Ukraine,Europe,Slovakia,Europe,2000,0
+Ukraine,Europe,Italy,Europe,2000,0
+Ukraine,Europe,Croatia,Europe,2000,0
+Ukraine,Europe,Serbia,Europe,2000,0
+Ukraine,Europe,Bosnia,Europe,2000,0
+Ukraine,Europe,Greece,Europe,2000,0
+Ukraine,Europe,Bulgaria,Europe,2000,0
+Ukraine,Europe,Romania,Europe,2000,0
+Ukraine,Europe,Russia,Asia,2000,0
+Ukraine,Europe,Ukraine,Europe,2000,0
+Ukraine,Europe,Finland,Europe,2000,0
+Ukraine,Europe,Sweden,Europe,2000,0
+Ukraine,Europe,Norway,Europe,2000,0
+Ukraine,Europe,Denmark,Europe,2000,0
+Ukraine,Europe,South Africa,Africa,2000,0
+Ukraine,Europe,Turkey,Asia,2000,621947
+Ukraine,Europe,Israel,Asia,2000,0
+Ukraine,Europe,United Arab Emirates,Asia,2000,0
+Ukraine,Europe,Taiwan,Asia,2000,0
+Ukraine,Europe,South Korea,Asia,2000,0
+Ukraine,Europe,Japan,Asia,2000,0
+Ukraine,Europe,India,Asia,2000,0
+Ukraine,Europe,Pakistan,Asia,2000,0
+Ukraine,Europe,Thailand,Asia,2000,0
+Ukraine,Europe,Malaysia,Asia,2000,0
+Ukraine,Europe,Singapore,Asia,2000,0
+Ukraine,Europe,Philippines,Asia,2000,0
+Ukraine,Europe,Indonesia,Asia,2000,0
+Ukraine,Europe,Australia,Oceania,2000,0
+Ukraine,Europe,Cyprus,Europe,2000,183
+Ukraine,Europe,China,Asia,2000,0
+Ukraine,Europe,Ivory Coast,Africa,2000,0
+Ukraine,Europe,Congo,Africa,2000,0
+Finland,Europe,United States,North America,2000,7905303
+Finland,Europe,Canada,North America,2000,493103
+Finland,Europe,Mexico,North America,2000,0
+Finland,Europe,Brazil,South America,2000,225175
+Finland,Europe,Argentina,South America,2000,80024
+Finland,Europe,United Kingdom,Europe,2000,1366851
+Finland,Europe,Netherlands,Europe,2000,60485
+Finland,Europe,Belgium,Europe,2000,572058
+Finland,Europe,France,Europe,2000,1001939
+Finland,Europe,Switzerland,Europe,2000,223375
+Finland,Europe,Spain,Europe,2000,111961
+Finland,Europe,Portugal,Europe,2000,29928
+Finland,Europe,Germany,Europe,2000,1349388
+Finland,Europe,Poland,Europe,2000,524114
+Finland,Europe,Austria,Europe,2000,262356
+Finland,Europe,Hungary,Europe,2000,107519
+Finland,Europe,Czech Republic,Europe,2000,92892
+Finland,Europe,Slovakia,Europe,2000,27780
+Finland,Europe,Italy,Europe,2000,896582
+Finland,Europe,Croatia,Europe,2000,0
+Finland,Europe,Serbia,Europe,2000,0
+Finland,Europe,Bosnia,Europe,2000,0
+Finland,Europe,Greece,Europe,2000,38176
+Finland,Europe,Bulgaria,Europe,2000,0
+Finland,Europe,Romania,Europe,2000,0
+Finland,Europe,Russia,Asia,2000,59378
+Finland,Europe,Ukraine,Europe,2000,0
+Finland,Europe,Finland,Europe,2000,0
+Finland,Europe,Sweden,Europe,2000,1869886
+Finland,Europe,Norway,Europe,2000,1800400
+Finland,Europe,Denmark,Europe,2000,1357605
+Finland,Europe,South Africa,Africa,2000,181596
+Finland,Europe,Turkey,Asia,2000,8886
+Finland,Europe,Israel,Asia,2000,0
+Finland,Europe,United Arab Emirates,Asia,2000,47818
+Finland,Europe,Taiwan,Asia,2000,14953
+Finland,Europe,South Korea,Asia,2000,40530
+Finland,Europe,Japan,Asia,2000,403374
+Finland,Europe,India,Asia,2000,5736
+Finland,Europe,Pakistan,Asia,2000,0
+Finland,Europe,Thailand,Asia,2000,2040
+Finland,Europe,Malaysia,Asia,2000,126855
+Finland,Europe,Singapore,Asia,2000,173738
+Finland,Europe,Philippines,Asia,2000,21022
+Finland,Europe,Indonesia,Asia,2000,0
+Finland,Europe,Australia,Oceania,2000,414637
+Finland,Europe,Cyprus,Europe,2000,0
+Finland,Europe,China,Asia,2000,175507
+Finland,Europe,Ivory Coast,Africa,2000,0
+Finland,Europe,Congo,Africa,2000,0
+Sweden,Europe,United States,North America,2000,3580994
+Sweden,Europe,Canada,North America,2000,593874
+Sweden,Europe,Mexico,North America,2000,191650
+Sweden,Europe,Brazil,South America,2000,0
+Sweden,Europe,Argentina,South America,2000,18782
+Sweden,Europe,United Kingdom,Europe,2000,510911
+Sweden,Europe,Netherlands,Europe,2000,4740
+Sweden,Europe,Belgium,Europe,2000,2748219
+Sweden,Europe,France,Europe,2000,1518530
+Sweden,Europe,Switzerland,Europe,2000,1262048
+Sweden,Europe,Spain,Europe,2000,431485
+Sweden,Europe,Portugal,Europe,2000,0
+Sweden,Europe,Germany,Europe,2000,2266877
+Sweden,Europe,Poland,Europe,2000,278
+Sweden,Europe,Austria,Europe,2000,1494887
+Sweden,Europe,Hungary,Europe,2000,0
+Sweden,Europe,Czech Republic,Europe,2000,121667
+Sweden,Europe,Slovakia,Europe,2000,0
+Sweden,Europe,Italy,Europe,2000,59888
+Sweden,Europe,Croatia,Europe,2000,0
+Sweden,Europe,Serbia,Europe,2000,0
+Sweden,Europe,Bosnia,Europe,2000,0
+Sweden,Europe,Greece,Europe,2000,0
+Sweden,Europe,Bulgaria,Europe,2000,0
+Sweden,Europe,Romania,Europe,2000,0
+Sweden,Europe,Russia,Asia,2000,8856
+Sweden,Europe,Ukraine,Europe,2000,0
+Sweden,Europe,Finland,Europe,2000,1139083
+Sweden,Europe,Sweden,Europe,2000,0
+Sweden,Europe,Norway,Europe,2000,13533351
+Sweden,Europe,Denmark,Europe,2000,1423272
+Sweden,Europe,South Africa,Africa,2000,8782
+Sweden,Europe,Turkey,Asia,2000,0
+Sweden,Europe,Israel,Asia,2000,0
+Sweden,Europe,United Arab Emirates,Asia,2000,0
+Sweden,Europe,Taiwan,Asia,2000,0
+Sweden,Europe,South Korea,Asia,2000,4042
+Sweden,Europe,Japan,Asia,2000,135605
+Sweden,Europe,India,Asia,2000,0
+Sweden,Europe,Pakistan,Asia,2000,0
+Sweden,Europe,Thailand,Asia,2000,0
+Sweden,Europe,Malaysia,Asia,2000,2909
+Sweden,Europe,Singapore,Asia,2000,0
+Sweden,Europe,Philippines,Asia,2000,0
+Sweden,Europe,Indonesia,Asia,2000,0
+Sweden,Europe,Australia,Oceania,2000,74634
+Sweden,Europe,Cyprus,Europe,2000,0
+Sweden,Europe,China,Asia,2000,0
+Sweden,Europe,Ivory Coast,Africa,2000,0
+Sweden,Europe,Congo,Africa,2000,0
+Norway,Europe,United States,North America,2000,112619
+Norway,Europe,Canada,North America,2000,0
+Norway,Europe,Mexico,North America,2000,0
+Norway,Europe,Brazil,South America,2000,138617
+Norway,Europe,Argentina,South America,2000,0
+Norway,Europe,United Kingdom,Europe,2000,2659318
+Norway,Europe,Netherlands,Europe,2000,276359
+Norway,Europe,Belgium,Europe,2000,10188
+Norway,Europe,France,Europe,2000,13094
+Norway,Europe,Switzerland,Europe,2000,2741038
+Norway,Europe,Spain,Europe,2000,622222
+Norway,Europe,Portugal,Europe,2000,0
+Norway,Europe,Germany,Europe,2000,134721
+Norway,Europe,Poland,Europe,2000,5009
+Norway,Europe,Austria,Europe,2000,1623
+Norway,Europe,Hungary,Europe,2000,0
+Norway,Europe,Czech Republic,Europe,2000,119338
+Norway,Europe,Slovakia,Europe,2000,0
+Norway,Europe,Italy,Europe,2000,46204
+Norway,Europe,Croatia,Europe,2000,0
+Norway,Europe,Serbia,Europe,2000,0
+Norway,Europe,Bosnia,Europe,2000,0
+Norway,Europe,Greece,Europe,2000,241351
+Norway,Europe,Bulgaria,Europe,2000,0
+Norway,Europe,Romania,Europe,2000,0
+Norway,Europe,Russia,Asia,2000,3793
+Norway,Europe,Ukraine,Europe,2000,0
+Norway,Europe,Finland,Europe,2000,58754
+Norway,Europe,Sweden,Europe,2000,718275
+Norway,Europe,Norway,Europe,2000,0
+Norway,Europe,Denmark,Europe,2000,421579
+Norway,Europe,South Africa,Africa,2000,0
+Norway,Europe,Turkey,Asia,2000,0
+Norway,Europe,Israel,Asia,2000,0
+Norway,Europe,United Arab Emirates,Asia,2000,0
+Norway,Europe,Taiwan,Asia,2000,0
+Norway,Europe,South Korea,Asia,2000,0
+Norway,Europe,Japan,Asia,2000,0
+Norway,Europe,India,Asia,2000,0
+Norway,Europe,Pakistan,Asia,2000,0
+Norway,Europe,Thailand,Asia,2000,0
+Norway,Europe,Malaysia,Asia,2000,0
+Norway,Europe,Singapore,Asia,2000,646672
+Norway,Europe,Philippines,Asia,2000,0
+Norway,Europe,Indonesia,Asia,2000,0
+Norway,Europe,Australia,Oceania,2000,0
+Norway,Europe,Cyprus,Europe,2000,0
+Norway,Europe,China,Asia,2000,0
+Norway,Europe,Ivory Coast,Africa,2000,0
+Norway,Europe,Congo,Africa,2000,0
+Denmark,Europe,United States,North America,2000,9488
+Denmark,Europe,Canada,North America,2000,15447
+Denmark,Europe,Mexico,North America,2000,0
+Denmark,Europe,Brazil,South America,2000,0
+Denmark,Europe,Argentina,South America,2000,0
+Denmark,Europe,United Kingdom,Europe,2000,83663
+Denmark,Europe,Netherlands,Europe,2000,0
+Denmark,Europe,Belgium,Europe,2000,22417
+Denmark,Europe,France,Europe,2000,7892
+Denmark,Europe,Switzerland,Europe,2000,159385
+Denmark,Europe,Spain,Europe,2000,0
+Denmark,Europe,Portugal,Europe,2000,2270
+Denmark,Europe,Germany,Europe,2000,33677
+Denmark,Europe,Poland,Europe,2000,0
+Denmark,Europe,Austria,Europe,2000,0
+Denmark,Europe,Hungary,Europe,2000,213428
+Denmark,Europe,Czech Republic,Europe,2000,0
+Denmark,Europe,Slovakia,Europe,2000,30105
+Denmark,Europe,Italy,Europe,2000,0
+Denmark,Europe,Croatia,Europe,2000,0
+Denmark,Europe,Serbia,Europe,2000,0
+Denmark,Europe,Bosnia,Europe,2000,0
+Denmark,Europe,Greece,Europe,2000,0
+Denmark,Europe,Bulgaria,Europe,2000,0
+Denmark,Europe,Romania,Europe,2000,12177
+Denmark,Europe,Russia,Asia,2000,0
+Denmark,Europe,Ukraine,Europe,2000,0
+Denmark,Europe,Finland,Europe,2000,0
+Denmark,Europe,Sweden,Europe,2000,11997
+Denmark,Europe,Norway,Europe,2000,71647
+Denmark,Europe,Denmark,Europe,2000,0
+Denmark,Europe,South Africa,Africa,2000,0
+Denmark,Europe,Turkey,Asia,2000,0
+Denmark,Europe,Israel,Asia,2000,0
+Denmark,Europe,United Arab Emirates,Asia,2000,0
+Denmark,Europe,Taiwan,Asia,2000,0
+Denmark,Europe,South Korea,Asia,2000,45427
+Denmark,Europe,Japan,Asia,2000,0
+Denmark,Europe,India,Asia,2000,0
+Denmark,Europe,Pakistan,Asia,2000,0
+Denmark,Europe,Thailand,Asia,2000,6495
+Denmark,Europe,Malaysia,Asia,2000,0
+Denmark,Europe,Singapore,Asia,2000,0
+Denmark,Europe,Philippines,Asia,2000,0
+Denmark,Europe,Indonesia,Asia,2000,0
+Denmark,Europe,Australia,Oceania,2000,0
+Denmark,Europe,Cyprus,Europe,2000,0
+Denmark,Europe,China,Asia,2000,0
+Denmark,Europe,Ivory Coast,Africa,2000,0
+Denmark,Europe,Congo,Africa,2000,0
+South Africa,Africa,United States,North America,2000,6295165
+South Africa,Africa,Canada,North America,2000,116332
+South Africa,Africa,Mexico,North America,2000,5490272
+South Africa,Africa,Brazil,South America,2000,384060
+South Africa,Africa,Argentina,South America,2000,0
+South Africa,Africa,United Kingdom,Europe,2000,92935
+South Africa,Africa,Netherlands,Europe,2000,170573
+South Africa,Africa,Belgium,Europe,2000,4924
+South Africa,Africa,France,Europe,2000,74985
+South Africa,Africa,Switzerland,Europe,2000,1560423
+South Africa,Africa,Spain,Europe,2000,15995
+South Africa,Africa,Portugal,Europe,2000,36604
+South Africa,Africa,Germany,Europe,2000,1963782
+South Africa,Africa,Poland,Europe,2000,0
+South Africa,Africa,Austria,Europe,2000,1005339
+South Africa,Africa,Hungary,Europe,2000,0
+South Africa,Africa,Czech Republic,Europe,2000,39107
+South Africa,Africa,Slovakia,Europe,2000,0
+South Africa,Africa,Italy,Europe,2000,75864
+South Africa,Africa,Croatia,Europe,2000,446
+South Africa,Africa,Serbia,Europe,2000,0
+South Africa,Africa,Bosnia,Europe,2000,0
+South Africa,Africa,Greece,Europe,2000,692
+South Africa,Africa,Bulgaria,Europe,2000,0
+South Africa,Africa,Romania,Europe,2000,0
+South Africa,Africa,Russia,Asia,2000,4184
+South Africa,Africa,Ukraine,Europe,2000,0
+South Africa,Africa,Finland,Europe,2000,2363
+South Africa,Africa,Sweden,Europe,2000,0
+South Africa,Africa,Norway,Europe,2000,22161
+South Africa,Africa,Denmark,Europe,2000,1916
+South Africa,Africa,South Africa,Africa,2000,0
+South Africa,Africa,Turkey,Asia,2000,0
+South Africa,Africa,Israel,Asia,2000,0
+South Africa,Africa,United Arab Emirates,Asia,2000,0
+South Africa,Africa,Taiwan,Asia,2000,0
+South Africa,Africa,South Korea,Asia,2000,50832
+South Africa,Africa,Japan,Asia,2000,0
+South Africa,Africa,India,Asia,2000,2515
+South Africa,Africa,Pakistan,Asia,2000,0
+South Africa,Africa,Thailand,Asia,2000,0
+South Africa,Africa,Malaysia,Asia,2000,194811
+South Africa,Africa,Singapore,Asia,2000,65
+South Africa,Africa,Philippines,Asia,2000,0
+South Africa,Africa,Indonesia,Asia,2000,0
+South Africa,Africa,Australia,Oceania,2000,162363
+South Africa,Africa,Cyprus,Europe,2000,511
+South Africa,Africa,China,Asia,2000,0
+South Africa,Africa,Ivory Coast,Africa,2000,231561
+South Africa,Africa,Congo,Africa,2000,0
+Turkey,Asia,United States,North America,2000,4841863
+Turkey,Asia,Canada,North America,2000,6855
+Turkey,Asia,Mexico,North America,2000,0
+Turkey,Asia,Brazil,South America,2000,0
+Turkey,Asia,Argentina,South America,2000,314692
+Turkey,Asia,United Kingdom,Europe,2000,27683
+Turkey,Asia,Netherlands,Europe,2000,1038352
+Turkey,Asia,Belgium,Europe,2000,357
+Turkey,Asia,France,Europe,2000,1669936
+Turkey,Asia,Switzerland,Europe,2000,738
+Turkey,Asia,Spain,Europe,2000,19165
+Turkey,Asia,Portugal,Europe,2000,168328
+Turkey,Asia,Germany,Europe,2000,582400
+Turkey,Asia,Poland,Europe,2000,549
+Turkey,Asia,Austria,Europe,2000,19219
+Turkey,Asia,Hungary,Europe,2000,10221
+Turkey,Asia,Czech Republic,Europe,2000,26830
+Turkey,Asia,Slovakia,Europe,2000,0
+Turkey,Asia,Italy,Europe,2000,231523
+Turkey,Asia,Croatia,Europe,2000,9360
+Turkey,Asia,Serbia,Europe,2000,0
+Turkey,Asia,Bosnia,Europe,2000,27440
+Turkey,Asia,Greece,Europe,2000,274004
+Turkey,Asia,Bulgaria,Europe,2000,0
+Turkey,Asia,Romania,Europe,2000,0
+Turkey,Asia,Russia,Asia,2000,0
+Turkey,Asia,Ukraine,Europe,2000,342180
+Turkey,Asia,Finland,Europe,2000,77666
+Turkey,Asia,Sweden,Europe,2000,10221
+Turkey,Asia,Norway,Europe,2000,41225
+Turkey,Asia,Denmark,Europe,2000,14863
+Turkey,Asia,South Africa,Africa,2000,2804
+Turkey,Asia,Turkey,Asia,2000,0
+Turkey,Asia,Israel,Asia,2000,32982
+Turkey,Asia,United Arab Emirates,Asia,2000,0
+Turkey,Asia,Taiwan,Asia,2000,0
+Turkey,Asia,South Korea,Asia,2000,0
+Turkey,Asia,Japan,Asia,2000,2644
+Turkey,Asia,India,Asia,2000,0
+Turkey,Asia,Pakistan,Asia,2000,0
+Turkey,Asia,Thailand,Asia,2000,26383
+Turkey,Asia,Malaysia,Asia,2000,10189
+Turkey,Asia,Singapore,Asia,2000,0
+Turkey,Asia,Philippines,Asia,2000,0
+Turkey,Asia,Indonesia,Asia,2000,19197
+Turkey,Asia,Australia,Oceania,2000,4552
+Turkey,Asia,Cyprus,Europe,2000,489561
+Turkey,Asia,China,Asia,2000,0
+Turkey,Asia,Ivory Coast,Africa,2000,0
+Turkey,Asia,Congo,Africa,2000,0
+Israel,Asia,United States,North America,2000,11533244
+Israel,Asia,Canada,North America,2000,0
+Israel,Asia,Mexico,North America,2000,769159
+Israel,Asia,Brazil,South America,2000,0
+Israel,Asia,Argentina,South America,2000,38742
+Israel,Asia,United Kingdom,Europe,2000,0
+Israel,Asia,Netherlands,Europe,2000,0
+Israel,Asia,Belgium,Europe,2000,32804
+Israel,Asia,France,Europe,2000,0
+Israel,Asia,Switzerland,Europe,2000,30734
+Israel,Asia,Spain,Europe,2000,0
+Israel,Asia,Portugal,Europe,2000,0
+Israel,Asia,Germany,Europe,2000,388410
+Israel,Asia,Poland,Europe,2000,0
+Israel,Asia,Austria,Europe,2000,606999
+Israel,Asia,Hungary,Europe,2000,0
+Israel,Asia,Czech Republic,Europe,2000,9233
+Israel,Asia,Slovakia,Europe,2000,0
+Israel,Asia,Italy,Europe,2000,101124
+Israel,Asia,Croatia,Europe,2000,0
+Israel,Asia,Serbia,Europe,2000,0
+Israel,Asia,Bosnia,Europe,2000,0
+Israel,Asia,Greece,Europe,2000,0
+Israel,Asia,Bulgaria,Europe,2000,0
+Israel,Asia,Romania,Europe,2000,0
+Israel,Asia,Russia,Asia,2000,1017
+Israel,Asia,Ukraine,Europe,2000,0
+Israel,Asia,Finland,Europe,2000,0
+Israel,Asia,Sweden,Europe,2000,10171
+Israel,Asia,Norway,Europe,2000,21512
+Israel,Asia,Denmark,Europe,2000,1479
+Israel,Asia,South Africa,Africa,2000,0
+Israel,Asia,Turkey,Asia,2000,397
+Israel,Asia,Israel,Asia,2000,0
+Israel,Asia,United Arab Emirates,Asia,2000,0
+Israel,Asia,Taiwan,Asia,2000,0
+Israel,Asia,South Korea,Asia,2000,3518
+Israel,Asia,Japan,Asia,2000,0
+Israel,Asia,India,Asia,2000,0
+Israel,Asia,Pakistan,Asia,2000,0
+Israel,Asia,Thailand,Asia,2000,125019
+Israel,Asia,Malaysia,Asia,2000,0
+Israel,Asia,Singapore,Asia,2000,686413
+Israel,Asia,Philippines,Asia,2000,61603
+Israel,Asia,Indonesia,Asia,2000,0
+Israel,Asia,Australia,Oceania,2000,101420
+Israel,Asia,Cyprus,Europe,2000,9799
+Israel,Asia,China,Asia,2000,0
+Israel,Asia,Ivory Coast,Africa,2000,0
+Israel,Asia,Congo,Africa,2000,0
+United Arab Emirates,Asia,United States,North America,2000,0
+United Arab Emirates,Asia,Canada,North America,2000,0
+United Arab Emirates,Asia,Mexico,North America,2000,0
+United Arab Emirates,Asia,Brazil,South America,2000,0
+United Arab Emirates,Asia,Argentina,South America,2000,0
+United Arab Emirates,Asia,United Kingdom,Europe,2000,949287
+United Arab Emirates,Asia,Netherlands,Europe,2000,0
+United Arab Emirates,Asia,Belgium,Europe,2000,0
+United Arab Emirates,Asia,France,Europe,2000,0
+United Arab Emirates,Asia,Switzerland,Europe,2000,0
+United Arab Emirates,Asia,Spain,Europe,2000,0
+United Arab Emirates,Asia,Portugal,Europe,2000,0
+United Arab Emirates,Asia,Germany,Europe,2000,0
+United Arab Emirates,Asia,Poland,Europe,2000,0
+United Arab Emirates,Asia,Austria,Europe,2000,0
+United Arab Emirates,Asia,Hungary,Europe,2000,0
+United Arab Emirates,Asia,Czech Republic,Europe,2000,0
+United Arab Emirates,Asia,Slovakia,Europe,2000,0
+United Arab Emirates,Asia,Italy,Europe,2000,104636
+United Arab Emirates,Asia,Croatia,Europe,2000,0
+United Arab Emirates,Asia,Serbia,Europe,2000,0
+United Arab Emirates,Asia,Bosnia,Europe,2000,0
+United Arab Emirates,Asia,Greece,Europe,2000,0
+United Arab Emirates,Asia,Bulgaria,Europe,2000,0
+United Arab Emirates,Asia,Romania,Europe,2000,0
+United Arab Emirates,Asia,Russia,Asia,2000,0
+United Arab Emirates,Asia,Ukraine,Europe,2000,0
+United Arab Emirates,Asia,Finland,Europe,2000,0
+United Arab Emirates,Asia,Sweden,Europe,2000,0
+United Arab Emirates,Asia,Norway,Europe,2000,0
+United Arab Emirates,Asia,Denmark,Europe,2000,0
+United Arab Emirates,Asia,South Africa,Africa,2000,0
+United Arab Emirates,Asia,Turkey,Asia,2000,0
+United Arab Emirates,Asia,Israel,Asia,2000,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,2000,0
+United Arab Emirates,Asia,Taiwan,Asia,2000,0
+United Arab Emirates,Asia,South Korea,Asia,2000,0
+United Arab Emirates,Asia,Japan,Asia,2000,0
+United Arab Emirates,Asia,India,Asia,2000,0
+United Arab Emirates,Asia,Pakistan,Asia,2000,0
+United Arab Emirates,Asia,Thailand,Asia,2000,0
+United Arab Emirates,Asia,Malaysia,Asia,2000,0
+United Arab Emirates,Asia,Singapore,Asia,2000,0
+United Arab Emirates,Asia,Philippines,Asia,2000,0
+United Arab Emirates,Asia,Indonesia,Asia,2000,0
+United Arab Emirates,Asia,Australia,Oceania,2000,0
+United Arab Emirates,Asia,Cyprus,Europe,2000,0
+United Arab Emirates,Asia,China,Asia,2000,0
+United Arab Emirates,Asia,Ivory Coast,Africa,2000,0
+United Arab Emirates,Asia,Congo,Africa,2000,0
+Taiwan,Asia,United States,North America,2000,407825
+Taiwan,Asia,Canada,North America,2000,5856
+Taiwan,Asia,Mexico,North America,2000,0
+Taiwan,Asia,Brazil,South America,2000,0
+Taiwan,Asia,Argentina,South America,2000,0
+Taiwan,Asia,United Kingdom,Europe,2000,0
+Taiwan,Asia,Netherlands,Europe,2000,0
+Taiwan,Asia,Belgium,Europe,2000,0
+Taiwan,Asia,France,Europe,2000,0
+Taiwan,Asia,Switzerland,Europe,2000,0
+Taiwan,Asia,Spain,Europe,2000,0
+Taiwan,Asia,Portugal,Europe,2000,0
+Taiwan,Asia,Germany,Europe,2000,6388
+Taiwan,Asia,Poland,Europe,2000,0
+Taiwan,Asia,Austria,Europe,2000,854
+Taiwan,Asia,Hungary,Europe,2000,0
+Taiwan,Asia,Czech Republic,Europe,2000,489
+Taiwan,Asia,Slovakia,Europe,2000,0
+Taiwan,Asia,Italy,Europe,2000,0
+Taiwan,Asia,Croatia,Europe,2000,0
+Taiwan,Asia,Serbia,Europe,2000,0
+Taiwan,Asia,Bosnia,Europe,2000,0
+Taiwan,Asia,Greece,Europe,2000,0
+Taiwan,Asia,Bulgaria,Europe,2000,0
+Taiwan,Asia,Romania,Europe,2000,0
+Taiwan,Asia,Russia,Asia,2000,0
+Taiwan,Asia,Ukraine,Europe,2000,0
+Taiwan,Asia,Finland,Europe,2000,0
+Taiwan,Asia,Sweden,Europe,2000,0
+Taiwan,Asia,Norway,Europe,2000,0
+Taiwan,Asia,Denmark,Europe,2000,0
+Taiwan,Asia,South Africa,Africa,2000,0
+Taiwan,Asia,Turkey,Asia,2000,597
+Taiwan,Asia,Israel,Asia,2000,0
+Taiwan,Asia,United Arab Emirates,Asia,2000,0
+Taiwan,Asia,Taiwan,Asia,2000,0
+Taiwan,Asia,South Korea,Asia,2000,0
+Taiwan,Asia,Japan,Asia,2000,0
+Taiwan,Asia,India,Asia,2000,19015
+Taiwan,Asia,Pakistan,Asia,2000,0
+Taiwan,Asia,Thailand,Asia,2000,0
+Taiwan,Asia,Malaysia,Asia,2000,0
+Taiwan,Asia,Singapore,Asia,2000,0
+Taiwan,Asia,Philippines,Asia,2000,1005
+Taiwan,Asia,Indonesia,Asia,2000,29649
+Taiwan,Asia,Australia,Oceania,2000,0
+Taiwan,Asia,Cyprus,Europe,2000,0
+Taiwan,Asia,China,Asia,2000,0
+Taiwan,Asia,Ivory Coast,Africa,2000,0
+Taiwan,Asia,Congo,Africa,2000,0
+South Korea,Asia,United States,North America,2000,11288037
+South Korea,Asia,Canada,North America,2000,136680
+South Korea,Asia,Mexico,North America,2000,0
+South Korea,Asia,Brazil,South America,2000,0
+South Korea,Asia,Argentina,South America,2000,269
+South Korea,Asia,United Kingdom,Europe,2000,91089
+South Korea,Asia,Netherlands,Europe,2000,0
+South Korea,Asia,Belgium,Europe,2000,969
+South Korea,Asia,France,Europe,2000,5561
+South Korea,Asia,Switzerland,Europe,2000,0
+South Korea,Asia,Spain,Europe,2000,23538
+South Korea,Asia,Portugal,Europe,2000,0
+South Korea,Asia,Germany,Europe,2000,75382
+South Korea,Asia,Poland,Europe,2000,0
+South Korea,Asia,Austria,Europe,2000,342
+South Korea,Asia,Hungary,Europe,2000,0
+South Korea,Asia,Czech Republic,Europe,2000,1125
+South Korea,Asia,Slovakia,Europe,2000,21661
+South Korea,Asia,Italy,Europe,2000,12507
+South Korea,Asia,Croatia,Europe,2000,0
+South Korea,Asia,Serbia,Europe,2000,0
+South Korea,Asia,Bosnia,Europe,2000,0
+South Korea,Asia,Greece,Europe,2000,0
+South Korea,Asia,Bulgaria,Europe,2000,0
+South Korea,Asia,Romania,Europe,2000,0
+South Korea,Asia,Russia,Asia,2000,0
+South Korea,Asia,Ukraine,Europe,2000,0
+South Korea,Asia,Finland,Europe,2000,0
+South Korea,Asia,Sweden,Europe,2000,0
+South Korea,Asia,Norway,Europe,2000,21339
+South Korea,Asia,Denmark,Europe,2000,0
+South Korea,Asia,South Africa,Africa,2000,0
+South Korea,Asia,Turkey,Asia,2000,5252514
+South Korea,Asia,Israel,Asia,2000,527171
+South Korea,Asia,United Arab Emirates,Asia,2000,0
+South Korea,Asia,Taiwan,Asia,2000,17670
+South Korea,Asia,South Korea,Asia,2000,0
+South Korea,Asia,Japan,Asia,2000,0
+South Korea,Asia,India,Asia,2000,0
+South Korea,Asia,Pakistan,Asia,2000,6944821
+South Korea,Asia,Thailand,Asia,2000,50563
+South Korea,Asia,Malaysia,Asia,2000,12033
+South Korea,Asia,Singapore,Asia,2000,0
+South Korea,Asia,Philippines,Asia,2000,1461
+South Korea,Asia,Indonesia,Asia,2000,153974
+South Korea,Asia,Australia,Oceania,2000,496533
+South Korea,Asia,Cyprus,Europe,2000,0
+South Korea,Asia,China,Asia,2000,0
+South Korea,Asia,Ivory Coast,Africa,2000,0
+South Korea,Asia,Congo,Africa,2000,0
+Japan,Asia,United States,North America,2000,29024643
+Japan,Asia,Canada,North America,2000,1122058
+Japan,Asia,Mexico,North America,2000,0
+Japan,Asia,Brazil,South America,2000,0
+Japan,Asia,Argentina,South America,2000,1427
+Japan,Asia,United Kingdom,Europe,2000,2951738
+Japan,Asia,Netherlands,Europe,2000,0
+Japan,Asia,Belgium,Europe,2000,8407168
+Japan,Asia,France,Europe,2000,423383
+Japan,Asia,Switzerland,Europe,2000,0
+Japan,Asia,Spain,Europe,2000,687948
+Japan,Asia,Portugal,Europe,2000,44017
+Japan,Asia,Germany,Europe,2000,265715
+Japan,Asia,Poland,Europe,2000,0
+Japan,Asia,Austria,Europe,2000,88507
+Japan,Asia,Hungary,Europe,2000,86881
+Japan,Asia,Czech Republic,Europe,2000,49219
+Japan,Asia,Slovakia,Europe,2000,10004
+Japan,Asia,Italy,Europe,2000,612585
+Japan,Asia,Croatia,Europe,2000,200
+Japan,Asia,Serbia,Europe,2000,0
+Japan,Asia,Bosnia,Europe,2000,0
+Japan,Asia,Greece,Europe,2000,89042
+Japan,Asia,Bulgaria,Europe,2000,0
+Japan,Asia,Romania,Europe,2000,0
+Japan,Asia,Russia,Asia,2000,1111
+Japan,Asia,Ukraine,Europe,2000,0
+Japan,Asia,Finland,Europe,2000,121627
+Japan,Asia,Sweden,Europe,2000,183658
+Japan,Asia,Norway,Europe,2000,129858
+Japan,Asia,Denmark,Europe,2000,413038
+Japan,Asia,South Africa,Africa,2000,0
+Japan,Asia,Turkey,Asia,2000,0
+Japan,Asia,Israel,Asia,2000,0
+Japan,Asia,United Arab Emirates,Asia,2000,0
+Japan,Asia,Taiwan,Asia,2000,3058
+Japan,Asia,South Korea,Asia,2000,5040
+Japan,Asia,Japan,Asia,2000,0
+Japan,Asia,India,Asia,2000,0
+Japan,Asia,Pakistan,Asia,2000,0
+Japan,Asia,Thailand,Asia,2000,0
+Japan,Asia,Malaysia,Asia,2000,0
+Japan,Asia,Singapore,Asia,2000,1370
+Japan,Asia,Philippines,Asia,2000,0
+Japan,Asia,Indonesia,Asia,2000,127400
+Japan,Asia,Australia,Oceania,2000,700212
+Japan,Asia,Cyprus,Europe,2000,340681
+Japan,Asia,China,Asia,2000,390
+Japan,Asia,Ivory Coast,Africa,2000,0
+Japan,Asia,Congo,Africa,2000,0
+India,Asia,United States,North America,2000,42639
+India,Asia,Canada,North America,2000,3236
+India,Asia,Mexico,North America,2000,0
+India,Asia,Brazil,South America,2000,0
+India,Asia,Argentina,South America,2000,3288
+India,Asia,United Kingdom,Europe,2000,133095
+India,Asia,Netherlands,Europe,2000,37741
+India,Asia,Belgium,Europe,2000,0
+India,Asia,France,Europe,2000,20846
+India,Asia,Switzerland,Europe,2000,0
+India,Asia,Spain,Europe,2000,10430
+India,Asia,Portugal,Europe,2000,0
+India,Asia,Germany,Europe,2000,96589
+India,Asia,Poland,Europe,2000,0
+India,Asia,Austria,Europe,2000,0
+India,Asia,Hungary,Europe,2000,0
+India,Asia,Czech Republic,Europe,2000,0
+India,Asia,Slovakia,Europe,2000,0
+India,Asia,Italy,Europe,2000,0
+India,Asia,Croatia,Europe,2000,0
+India,Asia,Serbia,Europe,2000,0
+India,Asia,Bosnia,Europe,2000,0
+India,Asia,Greece,Europe,2000,0
+India,Asia,Bulgaria,Europe,2000,0
+India,Asia,Romania,Europe,2000,0
+India,Asia,Russia,Asia,2000,0
+India,Asia,Ukraine,Europe,2000,0
+India,Asia,Finland,Europe,2000,0
+India,Asia,Sweden,Europe,2000,0
+India,Asia,Norway,Europe,2000,1489
+India,Asia,Denmark,Europe,2000,39951
+India,Asia,South Africa,Africa,2000,0
+India,Asia,Turkey,Asia,2000,287
+India,Asia,Israel,Asia,2000,0
+India,Asia,United Arab Emirates,Asia,2000,0
+India,Asia,Taiwan,Asia,2000,0
+India,Asia,South Korea,Asia,2000,351
+India,Asia,Japan,Asia,2000,0
+India,Asia,India,Asia,2000,0
+India,Asia,Pakistan,Asia,2000,0
+India,Asia,Thailand,Asia,2000,296
+India,Asia,Malaysia,Asia,2000,0
+India,Asia,Singapore,Asia,2000,2244
+India,Asia,Philippines,Asia,2000,0
+India,Asia,Indonesia,Asia,2000,5269
+India,Asia,Australia,Oceania,2000,13032
+India,Asia,Cyprus,Europe,2000,0
+India,Asia,China,Asia,2000,0
+India,Asia,Ivory Coast,Africa,2000,0
+India,Asia,Congo,Africa,2000,0
+Pakistan,Asia,United States,North America,2000,13828
+Pakistan,Asia,Canada,North America,2000,0
+Pakistan,Asia,Mexico,North America,2000,0
+Pakistan,Asia,Brazil,South America,2000,0
+Pakistan,Asia,Argentina,South America,2000,0
+Pakistan,Asia,United Kingdom,Europe,2000,0
+Pakistan,Asia,Netherlands,Europe,2000,0
+Pakistan,Asia,Belgium,Europe,2000,0
+Pakistan,Asia,France,Europe,2000,0
+Pakistan,Asia,Switzerland,Europe,2000,0
+Pakistan,Asia,Spain,Europe,2000,0
+Pakistan,Asia,Portugal,Europe,2000,0
+Pakistan,Asia,Germany,Europe,2000,0
+Pakistan,Asia,Poland,Europe,2000,0
+Pakistan,Asia,Austria,Europe,2000,0
+Pakistan,Asia,Hungary,Europe,2000,0
+Pakistan,Asia,Czech Republic,Europe,2000,0
+Pakistan,Asia,Slovakia,Europe,2000,0
+Pakistan,Asia,Italy,Europe,2000,0
+Pakistan,Asia,Croatia,Europe,2000,0
+Pakistan,Asia,Serbia,Europe,2000,0
+Pakistan,Asia,Bosnia,Europe,2000,0
+Pakistan,Asia,Greece,Europe,2000,827
+Pakistan,Asia,Bulgaria,Europe,2000,0
+Pakistan,Asia,Romania,Europe,2000,0
+Pakistan,Asia,Russia,Asia,2000,0
+Pakistan,Asia,Ukraine,Europe,2000,0
+Pakistan,Asia,Finland,Europe,2000,0
+Pakistan,Asia,Sweden,Europe,2000,0
+Pakistan,Asia,Norway,Europe,2000,0
+Pakistan,Asia,Denmark,Europe,2000,0
+Pakistan,Asia,South Africa,Africa,2000,0
+Pakistan,Asia,Turkey,Asia,2000,0
+Pakistan,Asia,Israel,Asia,2000,0
+Pakistan,Asia,United Arab Emirates,Asia,2000,0
+Pakistan,Asia,Taiwan,Asia,2000,0
+Pakistan,Asia,South Korea,Asia,2000,0
+Pakistan,Asia,Japan,Asia,2000,0
+Pakistan,Asia,India,Asia,2000,0
+Pakistan,Asia,Pakistan,Asia,2000,0
+Pakistan,Asia,Thailand,Asia,2000,0
+Pakistan,Asia,Malaysia,Asia,2000,0
+Pakistan,Asia,Singapore,Asia,2000,0
+Pakistan,Asia,Philippines,Asia,2000,0
+Pakistan,Asia,Indonesia,Asia,2000,0
+Pakistan,Asia,Australia,Oceania,2000,0
+Pakistan,Asia,Cyprus,Europe,2000,0
+Pakistan,Asia,China,Asia,2000,0
+Pakistan,Asia,Ivory Coast,Africa,2000,0
+Pakistan,Asia,Congo,Africa,2000,0
+Thailand,Asia,United States,North America,2000,0
+Thailand,Asia,Canada,North America,2000,0
+Thailand,Asia,Mexico,North America,2000,0
+Thailand,Asia,Brazil,South America,2000,0
+Thailand,Asia,Argentina,South America,2000,0
+Thailand,Asia,United Kingdom,Europe,2000,0
+Thailand,Asia,Netherlands,Europe,2000,0
+Thailand,Asia,Belgium,Europe,2000,0
+Thailand,Asia,France,Europe,2000,34621
+Thailand,Asia,Switzerland,Europe,2000,0
+Thailand,Asia,Spain,Europe,2000,0
+Thailand,Asia,Portugal,Europe,2000,0
+Thailand,Asia,Germany,Europe,2000,75666
+Thailand,Asia,Poland,Europe,2000,0
+Thailand,Asia,Austria,Europe,2000,256
+Thailand,Asia,Hungary,Europe,2000,0
+Thailand,Asia,Czech Republic,Europe,2000,0
+Thailand,Asia,Slovakia,Europe,2000,0
+Thailand,Asia,Italy,Europe,2000,0
+Thailand,Asia,Croatia,Europe,2000,0
+Thailand,Asia,Serbia,Europe,2000,0
+Thailand,Asia,Bosnia,Europe,2000,0
+Thailand,Asia,Greece,Europe,2000,0
+Thailand,Asia,Bulgaria,Europe,2000,0
+Thailand,Asia,Romania,Europe,2000,0
+Thailand,Asia,Russia,Asia,2000,0
+Thailand,Asia,Ukraine,Europe,2000,0
+Thailand,Asia,Finland,Europe,2000,0
+Thailand,Asia,Sweden,Europe,2000,0
+Thailand,Asia,Norway,Europe,2000,0
+Thailand,Asia,Denmark,Europe,2000,0
+Thailand,Asia,South Africa,Africa,2000,0
+Thailand,Asia,Turkey,Asia,2000,0
+Thailand,Asia,Israel,Asia,2000,0
+Thailand,Asia,United Arab Emirates,Asia,2000,0
+Thailand,Asia,Taiwan,Asia,2000,0
+Thailand,Asia,South Korea,Asia,2000,0
+Thailand,Asia,Japan,Asia,2000,0
+Thailand,Asia,India,Asia,2000,0
+Thailand,Asia,Pakistan,Asia,2000,0
+Thailand,Asia,Thailand,Asia,2000,0
+Thailand,Asia,Malaysia,Asia,2000,0
+Thailand,Asia,Singapore,Asia,2000,4686
+Thailand,Asia,Philippines,Asia,2000,0
+Thailand,Asia,Indonesia,Asia,2000,0
+Thailand,Asia,Australia,Oceania,2000,0
+Thailand,Asia,Cyprus,Europe,2000,0
+Thailand,Asia,China,Asia,2000,0
+Thailand,Asia,Ivory Coast,Africa,2000,0
+Thailand,Asia,Congo,Africa,2000,0
+Malaysia,Asia,United States,North America,2000,276547
+Malaysia,Asia,Canada,North America,2000,0
+Malaysia,Asia,Mexico,North America,2000,0
+Malaysia,Asia,Brazil,South America,2000,0
+Malaysia,Asia,Argentina,South America,2000,0
+Malaysia,Asia,United Kingdom,Europe,2000,2104
+Malaysia,Asia,Netherlands,Europe,2000,0
+Malaysia,Asia,Belgium,Europe,2000,0
+Malaysia,Asia,France,Europe,2000,0
+Malaysia,Asia,Switzerland,Europe,2000,0
+Malaysia,Asia,Spain,Europe,2000,2860
+Malaysia,Asia,Portugal,Europe,2000,0
+Malaysia,Asia,Germany,Europe,2000,0
+Malaysia,Asia,Poland,Europe,2000,0
+Malaysia,Asia,Austria,Europe,2000,30223
+Malaysia,Asia,Hungary,Europe,2000,0
+Malaysia,Asia,Czech Republic,Europe,2000,0
+Malaysia,Asia,Slovakia,Europe,2000,0
+Malaysia,Asia,Italy,Europe,2000,0
+Malaysia,Asia,Croatia,Europe,2000,0
+Malaysia,Asia,Serbia,Europe,2000,0
+Malaysia,Asia,Bosnia,Europe,2000,0
+Malaysia,Asia,Greece,Europe,2000,0
+Malaysia,Asia,Bulgaria,Europe,2000,0
+Malaysia,Asia,Romania,Europe,2000,0
+Malaysia,Asia,Russia,Asia,2000,0
+Malaysia,Asia,Ukraine,Europe,2000,0
+Malaysia,Asia,Finland,Europe,2000,0
+Malaysia,Asia,Sweden,Europe,2000,0
+Malaysia,Asia,Norway,Europe,2000,0
+Malaysia,Asia,Denmark,Europe,2000,0
+Malaysia,Asia,South Africa,Africa,2000,0
+Malaysia,Asia,Turkey,Asia,2000,0
+Malaysia,Asia,Israel,Asia,2000,0
+Malaysia,Asia,United Arab Emirates,Asia,2000,0
+Malaysia,Asia,Taiwan,Asia,2000,0
+Malaysia,Asia,South Korea,Asia,2000,2069
+Malaysia,Asia,Japan,Asia,2000,0
+Malaysia,Asia,India,Asia,2000,0
+Malaysia,Asia,Pakistan,Asia,2000,0
+Malaysia,Asia,Thailand,Asia,2000,0
+Malaysia,Asia,Malaysia,Asia,2000,0
+Malaysia,Asia,Singapore,Asia,2000,7225
+Malaysia,Asia,Philippines,Asia,2000,0
+Malaysia,Asia,Indonesia,Asia,2000,2882
+Malaysia,Asia,Australia,Oceania,2000,0
+Malaysia,Asia,Cyprus,Europe,2000,0
+Malaysia,Asia,China,Asia,2000,0
+Malaysia,Asia,Ivory Coast,Africa,2000,0
+Malaysia,Asia,Congo,Africa,2000,0
+Singapore,Asia,United States,North America,2000,5034
+Singapore,Asia,Canada,North America,2000,0
+Singapore,Asia,Mexico,North America,2000,0
+Singapore,Asia,Brazil,South America,2000,0
+Singapore,Asia,Argentina,South America,2000,0
+Singapore,Asia,United Kingdom,Europe,2000,0
+Singapore,Asia,Netherlands,Europe,2000,0
+Singapore,Asia,Belgium,Europe,2000,0
+Singapore,Asia,France,Europe,2000,0
+Singapore,Asia,Switzerland,Europe,2000,84275
+Singapore,Asia,Spain,Europe,2000,0
+Singapore,Asia,Portugal,Europe,2000,0
+Singapore,Asia,Germany,Europe,2000,0
+Singapore,Asia,Poland,Europe,2000,0
+Singapore,Asia,Austria,Europe,2000,0
+Singapore,Asia,Hungary,Europe,2000,0
+Singapore,Asia,Czech Republic,Europe,2000,0
+Singapore,Asia,Slovakia,Europe,2000,0
+Singapore,Asia,Italy,Europe,2000,0
+Singapore,Asia,Croatia,Europe,2000,0
+Singapore,Asia,Serbia,Europe,2000,0
+Singapore,Asia,Bosnia,Europe,2000,0
+Singapore,Asia,Greece,Europe,2000,0
+Singapore,Asia,Bulgaria,Europe,2000,0
+Singapore,Asia,Romania,Europe,2000,0
+Singapore,Asia,Russia,Asia,2000,0
+Singapore,Asia,Ukraine,Europe,2000,0
+Singapore,Asia,Finland,Europe,2000,0
+Singapore,Asia,Sweden,Europe,2000,0
+Singapore,Asia,Norway,Europe,2000,0
+Singapore,Asia,Denmark,Europe,2000,0
+Singapore,Asia,South Africa,Africa,2000,0
+Singapore,Asia,Turkey,Asia,2000,0
+Singapore,Asia,Israel,Asia,2000,0
+Singapore,Asia,United Arab Emirates,Asia,2000,0
+Singapore,Asia,Taiwan,Asia,2000,0
+Singapore,Asia,South Korea,Asia,2000,0
+Singapore,Asia,Japan,Asia,2000,0
+Singapore,Asia,India,Asia,2000,0
+Singapore,Asia,Pakistan,Asia,2000,0
+Singapore,Asia,Thailand,Asia,2000,0
+Singapore,Asia,Malaysia,Asia,2000,59226
+Singapore,Asia,Singapore,Asia,2000,0
+Singapore,Asia,Philippines,Asia,2000,219
+Singapore,Asia,Indonesia,Asia,2000,25099
+Singapore,Asia,Australia,Oceania,2000,29147
+Singapore,Asia,Cyprus,Europe,2000,0
+Singapore,Asia,China,Asia,2000,0
+Singapore,Asia,Ivory Coast,Africa,2000,0
+Singapore,Asia,Congo,Africa,2000,0
+Philippines,Asia,United States,North America,2000,5966402
+Philippines,Asia,Canada,North America,2000,7522
+Philippines,Asia,Mexico,North America,2000,0
+Philippines,Asia,Brazil,South America,2000,0
+Philippines,Asia,Argentina,South America,2000,574
+Philippines,Asia,United Kingdom,Europe,2000,0
+Philippines,Asia,Netherlands,Europe,2000,0
+Philippines,Asia,Belgium,Europe,2000,6771
+Philippines,Asia,France,Europe,2000,592337
+Philippines,Asia,Switzerland,Europe,2000,0
+Philippines,Asia,Spain,Europe,2000,0
+Philippines,Asia,Portugal,Europe,2000,0
+Philippines,Asia,Germany,Europe,2000,32349
+Philippines,Asia,Poland,Europe,2000,0
+Philippines,Asia,Austria,Europe,2000,427
+Philippines,Asia,Hungary,Europe,2000,0
+Philippines,Asia,Czech Republic,Europe,2000,463
+Philippines,Asia,Slovakia,Europe,2000,0
+Philippines,Asia,Italy,Europe,2000,292390
+Philippines,Asia,Croatia,Europe,2000,0
+Philippines,Asia,Serbia,Europe,2000,0
+Philippines,Asia,Bosnia,Europe,2000,0
+Philippines,Asia,Greece,Europe,2000,0
+Philippines,Asia,Bulgaria,Europe,2000,0
+Philippines,Asia,Romania,Europe,2000,0
+Philippines,Asia,Russia,Asia,2000,0
+Philippines,Asia,Ukraine,Europe,2000,0
+Philippines,Asia,Finland,Europe,2000,0
+Philippines,Asia,Sweden,Europe,2000,0
+Philippines,Asia,Norway,Europe,2000,0
+Philippines,Asia,Denmark,Europe,2000,37378
+Philippines,Asia,South Africa,Africa,2000,97357
+Philippines,Asia,Turkey,Asia,2000,0
+Philippines,Asia,Israel,Asia,2000,0
+Philippines,Asia,United Arab Emirates,Asia,2000,0
+Philippines,Asia,Taiwan,Asia,2000,0
+Philippines,Asia,South Korea,Asia,2000,0
+Philippines,Asia,Japan,Asia,2000,0
+Philippines,Asia,India,Asia,2000,0
+Philippines,Asia,Pakistan,Asia,2000,0
+Philippines,Asia,Thailand,Asia,2000,23974
+Philippines,Asia,Malaysia,Asia,2000,0
+Philippines,Asia,Singapore,Asia,2000,117
+Philippines,Asia,Philippines,Asia,2000,0
+Philippines,Asia,Indonesia,Asia,2000,0
+Philippines,Asia,Australia,Oceania,2000,134149
+Philippines,Asia,Cyprus,Europe,2000,0
+Philippines,Asia,China,Asia,2000,166
+Philippines,Asia,Ivory Coast,Africa,2000,0
+Philippines,Asia,Congo,Africa,2000,0
+Indonesia,Asia,United States,North America,2000,13608
+Indonesia,Asia,Canada,North America,2000,0
+Indonesia,Asia,Mexico,North America,2000,0
+Indonesia,Asia,Brazil,South America,2000,0
+Indonesia,Asia,Argentina,South America,2000,0
+Indonesia,Asia,United Kingdom,Europe,2000,0
+Indonesia,Asia,Netherlands,Europe,2000,0
+Indonesia,Asia,Belgium,Europe,2000,0
+Indonesia,Asia,France,Europe,2000,633
+Indonesia,Asia,Switzerland,Europe,2000,0
+Indonesia,Asia,Spain,Europe,2000,0
+Indonesia,Asia,Portugal,Europe,2000,0
+Indonesia,Asia,Germany,Europe,2000,5525
+Indonesia,Asia,Poland,Europe,2000,0
+Indonesia,Asia,Austria,Europe,2000,0
+Indonesia,Asia,Hungary,Europe,2000,0
+Indonesia,Asia,Czech Republic,Europe,2000,0
+Indonesia,Asia,Slovakia,Europe,2000,0
+Indonesia,Asia,Italy,Europe,2000,0
+Indonesia,Asia,Croatia,Europe,2000,0
+Indonesia,Asia,Serbia,Europe,2000,0
+Indonesia,Asia,Bosnia,Europe,2000,0
+Indonesia,Asia,Greece,Europe,2000,0
+Indonesia,Asia,Bulgaria,Europe,2000,0
+Indonesia,Asia,Romania,Europe,2000,0
+Indonesia,Asia,Russia,Asia,2000,0
+Indonesia,Asia,Ukraine,Europe,2000,0
+Indonesia,Asia,Finland,Europe,2000,0
+Indonesia,Asia,Sweden,Europe,2000,0
+Indonesia,Asia,Norway,Europe,2000,0
+Indonesia,Asia,Denmark,Europe,2000,0
+Indonesia,Asia,South Africa,Africa,2000,0
+Indonesia,Asia,Turkey,Asia,2000,274060
+Indonesia,Asia,Israel,Asia,2000,0
+Indonesia,Asia,United Arab Emirates,Asia,2000,0
+Indonesia,Asia,Taiwan,Asia,2000,0
+Indonesia,Asia,South Korea,Asia,2000,0
+Indonesia,Asia,Japan,Asia,2000,0
+Indonesia,Asia,India,Asia,2000,0
+Indonesia,Asia,Pakistan,Asia,2000,0
+Indonesia,Asia,Thailand,Asia,2000,0
+Indonesia,Asia,Malaysia,Asia,2000,80
+Indonesia,Asia,Singapore,Asia,2000,9904
+Indonesia,Asia,Philippines,Asia,2000,0
+Indonesia,Asia,Indonesia,Asia,2000,0
+Indonesia,Asia,Australia,Oceania,2000,331
+Indonesia,Asia,Cyprus,Europe,2000,0
+Indonesia,Asia,China,Asia,2000,11428
+Indonesia,Asia,Ivory Coast,Africa,2000,0
+Indonesia,Asia,Congo,Africa,2000,0
+Australia,Oceania,United States,North America,2000,640943
+Australia,Oceania,Canada,North America,2000,0
+Australia,Oceania,Mexico,North America,2000,24935
+Australia,Oceania,Brazil,South America,2000,0
+Australia,Oceania,Argentina,South America,2000,2584
+Australia,Oceania,United Kingdom,Europe,2000,635462
+Australia,Oceania,Netherlands,Europe,2000,0
+Australia,Oceania,Belgium,Europe,2000,705288
+Australia,Oceania,France,Europe,2000,316463
+Australia,Oceania,Switzerland,Europe,2000,3042
+Australia,Oceania,Spain,Europe,2000,0
+Australia,Oceania,Portugal,Europe,2000,0
+Australia,Oceania,Germany,Europe,2000,16668
+Australia,Oceania,Poland,Europe,2000,0
+Australia,Oceania,Austria,Europe,2000,0
+Australia,Oceania,Hungary,Europe,2000,0
+Australia,Oceania,Czech Republic,Europe,2000,0
+Australia,Oceania,Slovakia,Europe,2000,0
+Australia,Oceania,Italy,Europe,2000,77541
+Australia,Oceania,Croatia,Europe,2000,922
+Australia,Oceania,Serbia,Europe,2000,0
+Australia,Oceania,Bosnia,Europe,2000,0
+Australia,Oceania,Greece,Europe,2000,1111
+Australia,Oceania,Bulgaria,Europe,2000,0
+Australia,Oceania,Romania,Europe,2000,0
+Australia,Oceania,Russia,Asia,2000,13668
+Australia,Oceania,Ukraine,Europe,2000,0
+Australia,Oceania,Finland,Europe,2000,0
+Australia,Oceania,Sweden,Europe,2000,3693
+Australia,Oceania,Norway,Europe,2000,22186
+Australia,Oceania,Denmark,Europe,2000,0
+Australia,Oceania,South Africa,Africa,2000,184708
+Australia,Oceania,Turkey,Asia,2000,476
+Australia,Oceania,Israel,Asia,2000,0
+Australia,Oceania,United Arab Emirates,Asia,2000,0
+Australia,Oceania,Taiwan,Asia,2000,30291
+Australia,Oceania,South Korea,Asia,2000,105903
+Australia,Oceania,Japan,Asia,2000,1042410
+Australia,Oceania,India,Asia,2000,0
+Australia,Oceania,Pakistan,Asia,2000,0
+Australia,Oceania,Thailand,Asia,2000,111026
+Australia,Oceania,Malaysia,Asia,2000,19243
+Australia,Oceania,Singapore,Asia,2000,44109
+Australia,Oceania,Philippines,Asia,2000,411148
+Australia,Oceania,Indonesia,Asia,2000,0
+Australia,Oceania,Australia,Oceania,2000,0
+Australia,Oceania,Cyprus,Europe,2000,3262
+Australia,Oceania,China,Asia,2000,0
+Australia,Oceania,Ivory Coast,Africa,2000,0
+Australia,Oceania,Congo,Africa,2000,0
+Cyprus,Europe,United States,North America,2000,233622
+Cyprus,Europe,Canada,North America,2000,3086
+Cyprus,Europe,Mexico,North America,2000,0
+Cyprus,Europe,Brazil,South America,2000,0
+Cyprus,Europe,Argentina,South America,2000,0
+Cyprus,Europe,United Kingdom,Europe,2000,919094
+Cyprus,Europe,Netherlands,Europe,2000,0
+Cyprus,Europe,Belgium,Europe,2000,0
+Cyprus,Europe,France,Europe,2000,689170
+Cyprus,Europe,Switzerland,Europe,2000,0
+Cyprus,Europe,Spain,Europe,2000,4044
+Cyprus,Europe,Portugal,Europe,2000,37939
+Cyprus,Europe,Germany,Europe,2000,21149
+Cyprus,Europe,Poland,Europe,2000,0
+Cyprus,Europe,Austria,Europe,2000,4707
+Cyprus,Europe,Hungary,Europe,2000,0
+Cyprus,Europe,Czech Republic,Europe,2000,0
+Cyprus,Europe,Slovakia,Europe,2000,0
+Cyprus,Europe,Italy,Europe,2000,6688
+Cyprus,Europe,Croatia,Europe,2000,55572
+Cyprus,Europe,Serbia,Europe,2000,22066
+Cyprus,Europe,Bosnia,Europe,2000,355131
+Cyprus,Europe,Greece,Europe,2000,144460
+Cyprus,Europe,Bulgaria,Europe,2000,99635
+Cyprus,Europe,Romania,Europe,2000,2838
+Cyprus,Europe,Russia,Asia,2000,14071
+Cyprus,Europe,Ukraine,Europe,2000,13257
+Cyprus,Europe,Finland,Europe,2000,45412
+Cyprus,Europe,Sweden,Europe,2000,0
+Cyprus,Europe,Norway,Europe,2000,0
+Cyprus,Europe,Denmark,Europe,2000,117198
+Cyprus,Europe,South Africa,Africa,2000,2469
+Cyprus,Europe,Turkey,Asia,2000,0
+Cyprus,Europe,Israel,Asia,2000,46034
+Cyprus,Europe,United Arab Emirates,Asia,2000,1028
+Cyprus,Europe,Taiwan,Asia,2000,0
+Cyprus,Europe,South Korea,Asia,2000,0
+Cyprus,Europe,Japan,Asia,2000,0
+Cyprus,Europe,India,Asia,2000,21098
+Cyprus,Europe,Pakistan,Asia,2000,0
+Cyprus,Europe,Thailand,Asia,2000,0
+Cyprus,Europe,Malaysia,Asia,2000,0
+Cyprus,Europe,Singapore,Asia,2000,0
+Cyprus,Europe,Philippines,Asia,2000,0
+Cyprus,Europe,Indonesia,Asia,2000,0
+Cyprus,Europe,Australia,Oceania,2000,97913
+Cyprus,Europe,Cyprus,Europe,2000,0
+Cyprus,Europe,China,Asia,2000,0
+Cyprus,Europe,Ivory Coast,Africa,2000,0
+Cyprus,Europe,Congo,Africa,2000,0
+China,Asia,United States,North America,2000,1437249
+China,Asia,Canada,North America,2000,117845
+China,Asia,Mexico,North America,2000,0
+China,Asia,Brazil,South America,2000,0
+China,Asia,Argentina,South America,2000,230911
+China,Asia,United Kingdom,Europe,2000,0
+China,Asia,Netherlands,Europe,2000,0
+China,Asia,Belgium,Europe,2000,120656
+China,Asia,France,Europe,2000,338864
+China,Asia,Switzerland,Europe,2000,5571
+China,Asia,Spain,Europe,2000,6148
+China,Asia,Portugal,Europe,2000,0
+China,Asia,Germany,Europe,2000,476570
+China,Asia,Poland,Europe,2000,0
+China,Asia,Austria,Europe,2000,101208
+China,Asia,Hungary,Europe,2000,0
+China,Asia,Czech Republic,Europe,2000,57782
+China,Asia,Slovakia,Europe,2000,14003
+China,Asia,Italy,Europe,2000,64926
+China,Asia,Croatia,Europe,2000,196
+China,Asia,Serbia,Europe,2000,0
+China,Asia,Bosnia,Europe,2000,0
+China,Asia,Greece,Europe,2000,205237
+China,Asia,Bulgaria,Europe,2000,0
+China,Asia,Romania,Europe,2000,0
+China,Asia,Russia,Asia,2000,0
+China,Asia,Ukraine,Europe,2000,0
+China,Asia,Finland,Europe,2000,6547
+China,Asia,Sweden,Europe,2000,0
+China,Asia,Norway,Europe,2000,0
+China,Asia,Denmark,Europe,2000,0
+China,Asia,South Africa,Africa,2000,0
+China,Asia,Turkey,Asia,2000,448
+China,Asia,Israel,Asia,2000,0
+China,Asia,United Arab Emirates,Asia,2000,0
+China,Asia,Taiwan,Asia,2000,0
+China,Asia,South Korea,Asia,2000,0
+China,Asia,Japan,Asia,2000,10214
+China,Asia,India,Asia,2000,0
+China,Asia,Pakistan,Asia,2000,130859
+China,Asia,Thailand,Asia,2000,522569
+China,Asia,Malaysia,Asia,2000,88537
+China,Asia,Singapore,Asia,2000,3066
+China,Asia,Philippines,Asia,2000,556075
+China,Asia,Indonesia,Asia,2000,3126
+China,Asia,Australia,Oceania,2000,348509
+China,Asia,Cyprus,Europe,2000,10162
+China,Asia,China,Asia,2000,0
+China,Asia,Ivory Coast,Africa,2000,0
+China,Asia,Congo,Africa,2000,0
+Ivory Coast,Africa,United States,North America,2000,0
+Ivory Coast,Africa,Canada,North America,2000,0
+Ivory Coast,Africa,Mexico,North America,2000,0
+Ivory Coast,Africa,Brazil,South America,2000,0
+Ivory Coast,Africa,Argentina,South America,2000,0
+Ivory Coast,Africa,United Kingdom,Europe,2000,0
+Ivory Coast,Africa,Netherlands,Europe,2000,0
+Ivory Coast,Africa,Belgium,Europe,2000,0
+Ivory Coast,Africa,France,Europe,2000,0
+Ivory Coast,Africa,Switzerland,Europe,2000,0
+Ivory Coast,Africa,Spain,Europe,2000,0
+Ivory Coast,Africa,Portugal,Europe,2000,0
+Ivory Coast,Africa,Germany,Europe,2000,0
+Ivory Coast,Africa,Poland,Europe,2000,0
+Ivory Coast,Africa,Austria,Europe,2000,0
+Ivory Coast,Africa,Hungary,Europe,2000,0
+Ivory Coast,Africa,Czech Republic,Europe,2000,0
+Ivory Coast,Africa,Slovakia,Europe,2000,0
+Ivory Coast,Africa,Italy,Europe,2000,0
+Ivory Coast,Africa,Croatia,Europe,2000,0
+Ivory Coast,Africa,Serbia,Europe,2000,0
+Ivory Coast,Africa,Bosnia,Europe,2000,0
+Ivory Coast,Africa,Greece,Europe,2000,0
+Ivory Coast,Africa,Bulgaria,Europe,2000,0
+Ivory Coast,Africa,Romania,Europe,2000,0
+Ivory Coast,Africa,Russia,Asia,2000,0
+Ivory Coast,Africa,Ukraine,Europe,2000,0
+Ivory Coast,Africa,Finland,Europe,2000,0
+Ivory Coast,Africa,Sweden,Europe,2000,0
+Ivory Coast,Africa,Norway,Europe,2000,0
+Ivory Coast,Africa,Denmark,Europe,2000,0
+Ivory Coast,Africa,South Africa,Africa,2000,0
+Ivory Coast,Africa,Turkey,Asia,2000,0
+Ivory Coast,Africa,Israel,Asia,2000,0
+Ivory Coast,Africa,United Arab Emirates,Asia,2000,0
+Ivory Coast,Africa,Taiwan,Asia,2000,0
+Ivory Coast,Africa,South Korea,Asia,2000,0
+Ivory Coast,Africa,Japan,Asia,2000,0
+Ivory Coast,Africa,India,Asia,2000,0
+Ivory Coast,Africa,Pakistan,Asia,2000,0
+Ivory Coast,Africa,Thailand,Asia,2000,0
+Ivory Coast,Africa,Malaysia,Asia,2000,0
+Ivory Coast,Africa,Singapore,Asia,2000,0
+Ivory Coast,Africa,Philippines,Asia,2000,0
+Ivory Coast,Africa,Indonesia,Asia,2000,0
+Ivory Coast,Africa,Australia,Oceania,2000,0
+Ivory Coast,Africa,Cyprus,Europe,2000,0
+Ivory Coast,Africa,China,Asia,2000,0
+Ivory Coast,Africa,Ivory Coast,Africa,2000,0
+Ivory Coast,Africa,Congo,Africa,2000,0
+Congo,Africa,United States,North America,2000,0
+Congo,Africa,Canada,North America,2000,0
+Congo,Africa,Mexico,North America,2000,0
+Congo,Africa,Brazil,South America,2000,0
+Congo,Africa,Argentina,South America,2000,0
+Congo,Africa,United Kingdom,Europe,2000,0
+Congo,Africa,Netherlands,Europe,2000,0
+Congo,Africa,Belgium,Europe,2000,0
+Congo,Africa,France,Europe,2000,0
+Congo,Africa,Switzerland,Europe,2000,0
+Congo,Africa,Spain,Europe,2000,0
+Congo,Africa,Portugal,Europe,2000,0
+Congo,Africa,Germany,Europe,2000,0
+Congo,Africa,Poland,Europe,2000,0
+Congo,Africa,Austria,Europe,2000,0
+Congo,Africa,Hungary,Europe,2000,0
+Congo,Africa,Czech Republic,Europe,2000,0
+Congo,Africa,Slovakia,Europe,2000,0
+Congo,Africa,Italy,Europe,2000,0
+Congo,Africa,Croatia,Europe,2000,0
+Congo,Africa,Serbia,Europe,2000,0
+Congo,Africa,Bosnia,Europe,2000,0
+Congo,Africa,Greece,Europe,2000,0
+Congo,Africa,Bulgaria,Europe,2000,0
+Congo,Africa,Romania,Europe,2000,0
+Congo,Africa,Russia,Asia,2000,0
+Congo,Africa,Ukraine,Europe,2000,0
+Congo,Africa,Finland,Europe,2000,0
+Congo,Africa,Sweden,Europe,2000,0
+Congo,Africa,Norway,Europe,2000,0
+Congo,Africa,Denmark,Europe,2000,0
+Congo,Africa,South Africa,Africa,2000,0
+Congo,Africa,Turkey,Asia,2000,0
+Congo,Africa,Israel,Asia,2000,0
+Congo,Africa,United Arab Emirates,Asia,2000,0
+Congo,Africa,Taiwan,Asia,2000,0
+Congo,Africa,South Korea,Asia,2000,0
+Congo,Africa,Japan,Asia,2000,0
+Congo,Africa,India,Asia,2000,0
+Congo,Africa,Pakistan,Asia,2000,0
+Congo,Africa,Thailand,Asia,2000,0
+Congo,Africa,Malaysia,Asia,2000,0
+Congo,Africa,Singapore,Asia,2000,0
+Congo,Africa,Philippines,Asia,2000,0
+Congo,Africa,Indonesia,Asia,2000,0
+Congo,Africa,Australia,Oceania,2000,0
+Congo,Africa,Cyprus,Europe,2000,0
+Congo,Africa,China,Asia,2000,0
+Congo,Africa,Ivory Coast,Africa,2000,0
+Congo,Africa,Congo,Africa,2000,0

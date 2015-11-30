@@ -1,0 +1,2501 @@
+Country1,Continent1,Country2,Continent2,Year,Value
+United States,North America,United States,North America,2006,0
+United States,North America,Canada,North America,2006,71735153
+United States,North America,Mexico,North America,2006,6720410
+United States,North America,Brazil,South America,2006,2283983
+United States,North America,Argentina,South America,2006,1062854
+United States,North America,United Kingdom,Europe,2006,13767162
+United States,North America,Netherlands,Europe,2006,14296346
+United States,North America,Belgium,Europe,2006,13063223
+United States,North America,France,Europe,2006,5222888
+United States,North America,Switzerland,Europe,2006,2751872
+United States,North America,Spain,Europe,2006,11479438
+United States,North America,Portugal,Europe,2006,151407
+United States,North America,Germany,Europe,2006,14365235
+United States,North America,Poland,Europe,2006,518479
+United States,North America,Austria,Europe,2006,1042856
+United States,North America,Hungary,Europe,2006,603775
+United States,North America,Czech Republic,Europe,2006,1405353
+United States,North America,Slovakia,Europe,2006,137756
+United States,North America,Italy,Europe,2006,7379432
+United States,North America,Croatia,Europe,2006,166258
+United States,North America,Serbia,Europe,2006,17358
+United States,North America,Bosnia,Europe,2006,43999
+United States,North America,Greece,Europe,2006,1297056
+United States,North America,Bulgaria,Europe,2006,234857
+United States,North America,Romania,Europe,2006,163441
+United States,North America,Russia,Asia,2006,609859
+United States,North America,Ukraine,Europe,2006,594914
+United States,North America,Finland,Europe,2006,2622505
+United States,North America,Sweden,Europe,2006,1780143
+United States,North America,Norway,Europe,2006,2687432
+United States,North America,Denmark,Europe,2006,4248459
+United States,North America,South Africa,Africa,2006,1512043
+United States,North America,Turkey,Asia,2006,1674476
+United States,North America,Israel,Asia,2006,28984766
+United States,North America,United Arab Emirates,Asia,2006,1939051
+United States,North America,Taiwan,Asia,2006,10646671
+United States,North America,South Korea,Asia,2006,2865733
+United States,North America,Japan,Asia,2006,8532029
+United States,North America,India,Asia,2006,92402
+United States,North America,Pakistan,Asia,2006,481048
+United States,North America,Thailand,Asia,2006,7347303
+United States,North America,Malaysia,Asia,2006,475496
+United States,North America,Singapore,Asia,2006,2614199
+United States,North America,Philippines,Asia,2006,3031862
+United States,North America,Indonesia,Asia,2006,133257
+United States,North America,Australia,Oceania,2006,46656567
+United States,North America,Cyprus,Europe,2006,58104
+United States,North America,China,Asia,2006,206685
+United States,North America,Ivory Coast,Africa,2006,0
+United States,North America,Congo,Africa,2006,3799
+Canada,North America,United States,North America,2006,53399987
+Canada,North America,Canada,North America,2006,364437
+Canada,North America,Mexico,North America,2006,51062
+Canada,North America,Brazil,South America,2006,11925
+Canada,North America,Argentina,South America,2006,3338
+Canada,North America,United Kingdom,Europe,2006,3999877
+Canada,North America,Netherlands,Europe,2006,3288542
+Canada,North America,Belgium,Europe,2006,54448
+Canada,North America,France,Europe,2006,11550941
+Canada,North America,Switzerland,Europe,2006,204001
+Canada,North America,Spain,Europe,2006,86198
+Canada,North America,Portugal,Europe,2006,4668
+Canada,North America,Germany,Europe,2006,460348
+Canada,North America,Poland,Europe,2006,113789
+Canada,North America,Austria,Europe,2006,19271
+Canada,North America,Hungary,Europe,2006,39819
+Canada,North America,Czech Republic,Europe,2006,113565
+Canada,North America,Slovakia,Europe,2006,23514
+Canada,North America,Italy,Europe,2006,428787
+Canada,North America,Croatia,Europe,2006,13160
+Canada,North America,Serbia,Europe,2006,1948
+Canada,North America,Bosnia,Europe,2006,2199
+Canada,North America,Greece,Europe,2006,5534
+Canada,North America,Bulgaria,Europe,2006,104302
+Canada,North America,Romania,Europe,2006,60318
+Canada,North America,Russia,Asia,2006,59256
+Canada,North America,Ukraine,Europe,2006,10422
+Canada,North America,Finland,Europe,2006,151141
+Canada,North America,Sweden,Europe,2006,212279
+Canada,North America,Norway,Europe,2006,269803
+Canada,North America,Denmark,Europe,2006,603483
+Canada,North America,South Africa,Africa,2006,0
+Canada,North America,Turkey,Asia,2006,11823
+Canada,North America,Israel,Asia,2006,172918
+Canada,North America,United Arab Emirates,Asia,2006,1130838
+Canada,North America,Taiwan,Asia,2006,48129
+Canada,North America,South Korea,Asia,2006,59632
+Canada,North America,Japan,Asia,2006,394804
+Canada,North America,India,Asia,2006,29717
+Canada,North America,Pakistan,Asia,2006,1551899
+Canada,North America,Thailand,Asia,2006,0
+Canada,North America,Malaysia,Asia,2006,1986
+Canada,North America,Singapore,Asia,2006,389779
+Canada,North America,Philippines,Asia,2006,51147
+Canada,North America,Indonesia,Asia,2006,0
+Canada,North America,Australia,Oceania,2006,514906
+Canada,North America,Cyprus,Europe,2006,239
+Canada,North America,China,Asia,2006,25590
+Canada,North America,Ivory Coast,Africa,2006,0
+Canada,North America,Congo,Africa,2006,0
+Mexico,North America,United States,North America,2006,2043732
+Mexico,North America,Canada,North America,2006,0
+Mexico,North America,Mexico,North America,2006,0
+Mexico,North America,Brazil,South America,2006,0
+Mexico,North America,Argentina,South America,2006,54176
+Mexico,North America,United Kingdom,Europe,2006,0
+Mexico,North America,Netherlands,Europe,2006,0
+Mexico,North America,Belgium,Europe,2006,0
+Mexico,North America,France,Europe,2006,0
+Mexico,North America,Switzerland,Europe,2006,0
+Mexico,North America,Spain,Europe,2006,9672
+Mexico,North America,Portugal,Europe,2006,0
+Mexico,North America,Germany,Europe,2006,521084
+Mexico,North America,Poland,Europe,2006,0
+Mexico,North America,Austria,Europe,2006,0
+Mexico,North America,Hungary,Europe,2006,0
+Mexico,North America,Czech Republic,Europe,2006,30059
+Mexico,North America,Slovakia,Europe,2006,0
+Mexico,North America,Italy,Europe,2006,0
+Mexico,North America,Croatia,Europe,2006,0
+Mexico,North America,Serbia,Europe,2006,0
+Mexico,North America,Bosnia,Europe,2006,0
+Mexico,North America,Greece,Europe,2006,0
+Mexico,North America,Bulgaria,Europe,2006,0
+Mexico,North America,Romania,Europe,2006,0
+Mexico,North America,Russia,Asia,2006,0
+Mexico,North America,Ukraine,Europe,2006,0
+Mexico,North America,Finland,Europe,2006,0
+Mexico,North America,Sweden,Europe,2006,0
+Mexico,North America,Norway,Europe,2006,0
+Mexico,North America,Denmark,Europe,2006,0
+Mexico,North America,South Africa,Africa,2006,0
+Mexico,North America,Turkey,Asia,2006,0
+Mexico,North America,Israel,Asia,2006,0
+Mexico,North America,United Arab Emirates,Asia,2006,0
+Mexico,North America,Taiwan,Asia,2006,0
+Mexico,North America,South Korea,Asia,2006,0
+Mexico,North America,Japan,Asia,2006,0
+Mexico,North America,India,Asia,2006,0
+Mexico,North America,Pakistan,Asia,2006,0
+Mexico,North America,Thailand,Asia,2006,0
+Mexico,North America,Malaysia,Asia,2006,0
+Mexico,North America,Singapore,Asia,2006,0
+Mexico,North America,Philippines,Asia,2006,0
+Mexico,North America,Indonesia,Asia,2006,0
+Mexico,North America,Australia,Oceania,2006,0
+Mexico,North America,Cyprus,Europe,2006,0
+Mexico,North America,China,Asia,2006,0
+Mexico,North America,Ivory Coast,Africa,2006,0
+Mexico,North America,Congo,Africa,2006,0
+Brazil,South America,United States,North America,2006,99271876
+Brazil,South America,Canada,North America,2006,430593
+Brazil,South America,Mexico,North America,2006,388866
+Brazil,South America,Brazil,South America,2006,0
+Brazil,South America,Argentina,South America,2006,5934809
+Brazil,South America,United Kingdom,Europe,2006,675277
+Brazil,South America,Netherlands,Europe,2006,3806034
+Brazil,South America,Belgium,Europe,2006,3878110
+Brazil,South America,France,Europe,2006,484658
+Brazil,South America,Switzerland,Europe,2006,824247
+Brazil,South America,Spain,Europe,2006,1155514
+Brazil,South America,Portugal,Europe,2006,1360306
+Brazil,South America,Germany,Europe,2006,9025150
+Brazil,South America,Poland,Europe,2006,119071
+Brazil,South America,Austria,Europe,2006,578216
+Brazil,South America,Hungary,Europe,2006,0
+Brazil,South America,Czech Republic,Europe,2006,411069
+Brazil,South America,Slovakia,Europe,2006,55867
+Brazil,South America,Italy,Europe,2006,566692
+Brazil,South America,Croatia,Europe,2006,13741
+Brazil,South America,Serbia,Europe,2006,0
+Brazil,South America,Bosnia,Europe,2006,0
+Brazil,South America,Greece,Europe,2006,132020
+Brazil,South America,Bulgaria,Europe,2006,0
+Brazil,South America,Romania,Europe,2006,116457
+Brazil,South America,Russia,Asia,2006,0
+Brazil,South America,Ukraine,Europe,2006,325
+Brazil,South America,Finland,Europe,2006,643520
+Brazil,South America,Sweden,Europe,2006,98732
+Brazil,South America,Norway,Europe,2006,181684
+Brazil,South America,Denmark,Europe,2006,405783
+Brazil,South America,South Africa,Africa,2006,142418
+Brazil,South America,Turkey,Asia,2006,131390
+Brazil,South America,Israel,Asia,2006,1085031
+Brazil,South America,United Arab Emirates,Asia,2006,89454
+Brazil,South America,Taiwan,Asia,2006,0
+Brazil,South America,South Korea,Asia,2006,0
+Brazil,South America,Japan,Asia,2006,0
+Brazil,South America,India,Asia,2006,3258
+Brazil,South America,Pakistan,Asia,2006,1061927
+Brazil,South America,Thailand,Asia,2006,731822
+Brazil,South America,Malaysia,Asia,2006,32217
+Brazil,South America,Singapore,Asia,2006,5170714
+Brazil,South America,Philippines,Asia,2006,3451759
+Brazil,South America,Indonesia,Asia,2006,4529428
+Brazil,South America,Australia,Oceania,2006,656765
+Brazil,South America,Cyprus,Europe,2006,0
+Brazil,South America,China,Asia,2006,0
+Brazil,South America,Ivory Coast,Africa,2006,7137
+Brazil,South America,Congo,Africa,2006,0
+Argentina,South America,United States,North America,2006,7020550
+Argentina,South America,Canada,North America,2006,3566
+Argentina,South America,Mexico,North America,2006,0
+Argentina,South America,Brazil,South America,2006,0
+Argentina,South America,Argentina,South America,2006,0
+Argentina,South America,United Kingdom,Europe,2006,3074
+Argentina,South America,Netherlands,Europe,2006,0
+Argentina,South America,Belgium,Europe,2006,0
+Argentina,South America,France,Europe,2006,39983
+Argentina,South America,Switzerland,Europe,2006,0
+Argentina,South America,Spain,Europe,2006,2206
+Argentina,South America,Portugal,Europe,2006,0
+Argentina,South America,Germany,Europe,2006,0
+Argentina,South America,Poland,Europe,2006,0
+Argentina,South America,Austria,Europe,2006,0
+Argentina,South America,Hungary,Europe,2006,0
+Argentina,South America,Czech Republic,Europe,2006,7247
+Argentina,South America,Slovakia,Europe,2006,0
+Argentina,South America,Italy,Europe,2006,12934
+Argentina,South America,Croatia,Europe,2006,0
+Argentina,South America,Serbia,Europe,2006,0
+Argentina,South America,Bosnia,Europe,2006,0
+Argentina,South America,Greece,Europe,2006,0
+Argentina,South America,Bulgaria,Europe,2006,0
+Argentina,South America,Romania,Europe,2006,0
+Argentina,South America,Russia,Asia,2006,0
+Argentina,South America,Ukraine,Europe,2006,0
+Argentina,South America,Finland,Europe,2006,14106
+Argentina,South America,Sweden,Europe,2006,0
+Argentina,South America,Norway,Europe,2006,0
+Argentina,South America,Denmark,Europe,2006,0
+Argentina,South America,South Africa,Africa,2006,0
+Argentina,South America,Turkey,Asia,2006,0
+Argentina,South America,Israel,Asia,2006,0
+Argentina,South America,United Arab Emirates,Asia,2006,0
+Argentina,South America,Taiwan,Asia,2006,0
+Argentina,South America,South Korea,Asia,2006,0
+Argentina,South America,Japan,Asia,2006,0
+Argentina,South America,India,Asia,2006,0
+Argentina,South America,Pakistan,Asia,2006,0
+Argentina,South America,Thailand,Asia,2006,0
+Argentina,South America,Malaysia,Asia,2006,0
+Argentina,South America,Singapore,Asia,2006,0
+Argentina,South America,Philippines,Asia,2006,89627
+Argentina,South America,Indonesia,Asia,2006,0
+Argentina,South America,Australia,Oceania,2006,0
+Argentina,South America,Cyprus,Europe,2006,0
+Argentina,South America,China,Asia,2006,0
+Argentina,South America,Ivory Coast,Africa,2006,0
+Argentina,South America,Congo,Africa,2006,0
+United Kingdom,Europe,United States,North America,2006,226175155
+United Kingdom,Europe,Canada,North America,2006,1953748
+United Kingdom,Europe,Mexico,North America,2006,6062
+United Kingdom,Europe,Brazil,South America,2006,1410767
+United Kingdom,Europe,Argentina,South America,2006,139459
+United Kingdom,Europe,United Kingdom,Europe,2006,11141012
+United Kingdom,Europe,Netherlands,Europe,2006,1109082
+United Kingdom,Europe,Belgium,Europe,2006,987582
+United Kingdom,Europe,France,Europe,2006,1723021
+United Kingdom,Europe,Switzerland,Europe,2006,2107229
+United Kingdom,Europe,Spain,Europe,2006,1502017
+United Kingdom,Europe,Portugal,Europe,2006,148419
+United Kingdom,Europe,Germany,Europe,2006,2225340
+United Kingdom,Europe,Poland,Europe,2006,162813
+United Kingdom,Europe,Austria,Europe,2006,108214
+United Kingdom,Europe,Hungary,Europe,2006,108372
+United Kingdom,Europe,Czech Republic,Europe,2006,296463
+United Kingdom,Europe,Slovakia,Europe,2006,295315
+United Kingdom,Europe,Italy,Europe,2006,508220
+United Kingdom,Europe,Croatia,Europe,2006,1157
+United Kingdom,Europe,Serbia,Europe,2006,15797
+United Kingdom,Europe,Bosnia,Europe,2006,2098
+United Kingdom,Europe,Greece,Europe,2006,185195
+United Kingdom,Europe,Bulgaria,Europe,2006,5689
+United Kingdom,Europe,Romania,Europe,2006,38840
+United Kingdom,Europe,Russia,Asia,2006,111799
+United Kingdom,Europe,Ukraine,Europe,2006,684949
+United Kingdom,Europe,Finland,Europe,2006,926954
+United Kingdom,Europe,Sweden,Europe,2006,459280
+United Kingdom,Europe,Norway,Europe,2006,3134722
+United Kingdom,Europe,Denmark,Europe,2006,3571425
+United Kingdom,Europe,South Africa,Africa,2006,407776
+United Kingdom,Europe,Turkey,Asia,2006,6550469
+United Kingdom,Europe,Israel,Asia,2006,63738
+United Kingdom,Europe,United Arab Emirates,Asia,2006,1428175
+United Kingdom,Europe,Taiwan,Asia,2006,127050
+United Kingdom,Europe,South Korea,Asia,2006,229558
+United Kingdom,Europe,Japan,Asia,2006,3072353
+United Kingdom,Europe,India,Asia,2006,252502
+United Kingdom,Europe,Pakistan,Asia,2006,1338578
+United Kingdom,Europe,Thailand,Asia,2006,47590
+United Kingdom,Europe,Malaysia,Asia,2006,56041
+United Kingdom,Europe,Singapore,Asia,2006,243658
+United Kingdom,Europe,Philippines,Asia,2006,0
+United Kingdom,Europe,Indonesia,Asia,2006,0
+United Kingdom,Europe,Australia,Oceania,2006,1068944
+United Kingdom,Europe,Cyprus,Europe,2006,289763
+United Kingdom,Europe,China,Asia,2006,683892
+United Kingdom,Europe,Ivory Coast,Africa,2006,0
+United Kingdom,Europe,Congo,Africa,2006,0
+Netherlands,Europe,United States,North America,2006,114195
+Netherlands,Europe,Canada,North America,2006,6215
+Netherlands,Europe,Mexico,North America,2006,0
+Netherlands,Europe,Brazil,South America,2006,15765
+Netherlands,Europe,Argentina,South America,2006,1562
+Netherlands,Europe,United Kingdom,Europe,2006,42802
+Netherlands,Europe,Netherlands,Europe,2006,14935
+Netherlands,Europe,Belgium,Europe,2006,52203
+Netherlands,Europe,France,Europe,2006,59320
+Netherlands,Europe,Switzerland,Europe,2006,163014
+Netherlands,Europe,Spain,Europe,2006,28516
+Netherlands,Europe,Portugal,Europe,2006,8180
+Netherlands,Europe,Germany,Europe,2006,131772
+Netherlands,Europe,Poland,Europe,2006,329
+Netherlands,Europe,Austria,Europe,2006,7160
+Netherlands,Europe,Hungary,Europe,2006,0
+Netherlands,Europe,Czech Republic,Europe,2006,0
+Netherlands,Europe,Slovakia,Europe,2006,0
+Netherlands,Europe,Italy,Europe,2006,46976
+Netherlands,Europe,Croatia,Europe,2006,0
+Netherlands,Europe,Serbia,Europe,2006,0
+Netherlands,Europe,Bosnia,Europe,2006,0
+Netherlands,Europe,Greece,Europe,2006,136793
+Netherlands,Europe,Bulgaria,Europe,2006,0
+Netherlands,Europe,Romania,Europe,2006,247
+Netherlands,Europe,Russia,Asia,2006,0
+Netherlands,Europe,Ukraine,Europe,2006,0
+Netherlands,Europe,Finland,Europe,2006,2517
+Netherlands,Europe,Sweden,Europe,2006,321167
+Netherlands,Europe,Norway,Europe,2006,112465
+Netherlands,Europe,Denmark,Europe,2006,1106
+Netherlands,Europe,South Africa,Africa,2006,0
+Netherlands,Europe,Turkey,Asia,2006,0
+Netherlands,Europe,Israel,Asia,2006,0
+Netherlands,Europe,United Arab Emirates,Asia,2006,0
+Netherlands,Europe,Taiwan,Asia,2006,0
+Netherlands,Europe,South Korea,Asia,2006,0
+Netherlands,Europe,Japan,Asia,2006,0
+Netherlands,Europe,India,Asia,2006,0
+Netherlands,Europe,Pakistan,Asia,2006,0
+Netherlands,Europe,Thailand,Asia,2006,0
+Netherlands,Europe,Malaysia,Asia,2006,0
+Netherlands,Europe,Singapore,Asia,2006,0
+Netherlands,Europe,Philippines,Asia,2006,0
+Netherlands,Europe,Indonesia,Asia,2006,0
+Netherlands,Europe,Australia,Oceania,2006,0
+Netherlands,Europe,Cyprus,Europe,2006,0
+Netherlands,Europe,China,Asia,2006,0
+Netherlands,Europe,Ivory Coast,Africa,2006,0
+Netherlands,Europe,Congo,Africa,2006,0
+Belgium,Europe,United States,North America,2006,28865880
+Belgium,Europe,Canada,North America,2006,1235743
+Belgium,Europe,Mexico,North America,2006,1328711
+Belgium,Europe,Brazil,South America,2006,35432
+Belgium,Europe,Argentina,South America,2006,0
+Belgium,Europe,United Kingdom,Europe,2006,10172031
+Belgium,Europe,Netherlands,Europe,2006,842039
+Belgium,Europe,Belgium,Europe,2006,0
+Belgium,Europe,France,Europe,2006,21154265
+Belgium,Europe,Switzerland,Europe,2006,4131727
+Belgium,Europe,Spain,Europe,2006,4114512
+Belgium,Europe,Portugal,Europe,2006,1610766
+Belgium,Europe,Germany,Europe,2006,2527073
+Belgium,Europe,Poland,Europe,2006,262206
+Belgium,Europe,Austria,Europe,2006,1691346
+Belgium,Europe,Hungary,Europe,2006,126193
+Belgium,Europe,Czech Republic,Europe,2006,259090
+Belgium,Europe,Slovakia,Europe,2006,0
+Belgium,Europe,Italy,Europe,2006,6181327
+Belgium,Europe,Croatia,Europe,2006,8874
+Belgium,Europe,Serbia,Europe,2006,67226
+Belgium,Europe,Bosnia,Europe,2006,0
+Belgium,Europe,Greece,Europe,2006,781818
+Belgium,Europe,Bulgaria,Europe,2006,0
+Belgium,Europe,Romania,Europe,2006,8246
+Belgium,Europe,Russia,Asia,2006,568296
+Belgium,Europe,Ukraine,Europe,2006,75771
+Belgium,Europe,Finland,Europe,2006,280304
+Belgium,Europe,Sweden,Europe,2006,1069418
+Belgium,Europe,Norway,Europe,2006,172062
+Belgium,Europe,Denmark,Europe,2006,1318711
+Belgium,Europe,South Africa,Africa,2006,0
+Belgium,Europe,Turkey,Asia,2006,114440
+Belgium,Europe,Israel,Asia,2006,0
+Belgium,Europe,United Arab Emirates,Asia,2006,0
+Belgium,Europe,Taiwan,Asia,2006,0
+Belgium,Europe,South Korea,Asia,2006,154686
+Belgium,Europe,Japan,Asia,2006,94912
+Belgium,Europe,India,Asia,2006,0
+Belgium,Europe,Pakistan,Asia,2006,404220
+Belgium,Europe,Thailand,Asia,2006,83455
+Belgium,Europe,Malaysia,Asia,2006,0
+Belgium,Europe,Singapore,Asia,2006,844544
+Belgium,Europe,Philippines,Asia,2006,0
+Belgium,Europe,Indonesia,Asia,2006,0
+Belgium,Europe,Australia,Oceania,2006,1189851
+Belgium,Europe,Cyprus,Europe,2006,44302
+Belgium,Europe,China,Asia,2006,0
+Belgium,Europe,Ivory Coast,Africa,2006,0
+Belgium,Europe,Congo,Africa,2006,0
+France,Europe,United States,North America,2006,3052159
+France,Europe,Canada,North America,2006,1268277
+France,Europe,Mexico,North America,2006,64612
+France,Europe,Brazil,South America,2006,6049
+France,Europe,Argentina,South America,2006,8270
+France,Europe,United Kingdom,Europe,2006,650173
+France,Europe,Netherlands,Europe,2006,137857
+France,Europe,Belgium,Europe,2006,504816
+France,Europe,France,Europe,2006,187505
+France,Europe,Switzerland,Europe,2006,177863
+France,Europe,Spain,Europe,2006,2589831
+France,Europe,Portugal,Europe,2006,199284
+France,Europe,Germany,Europe,2006,3015447
+France,Europe,Poland,Europe,2006,95996
+France,Europe,Austria,Europe,2006,25785
+France,Europe,Hungary,Europe,2006,24812
+France,Europe,Czech Republic,Europe,2006,46630
+France,Europe,Slovakia,Europe,2006,6892
+France,Europe,Italy,Europe,2006,391597
+France,Europe,Croatia,Europe,2006,14650
+France,Europe,Serbia,Europe,2006,0
+France,Europe,Bosnia,Europe,2006,0
+France,Europe,Greece,Europe,2006,127611
+France,Europe,Bulgaria,Europe,2006,48982
+France,Europe,Romania,Europe,2006,612843
+France,Europe,Russia,Asia,2006,89267
+France,Europe,Ukraine,Europe,2006,689249
+France,Europe,Finland,Europe,2006,223315
+France,Europe,Sweden,Europe,2006,35971
+France,Europe,Norway,Europe,2006,25920
+France,Europe,Denmark,Europe,2006,26874
+France,Europe,South Africa,Africa,2006,43290
+France,Europe,Turkey,Asia,2006,21775
+France,Europe,Israel,Asia,2006,0
+France,Europe,United Arab Emirates,Asia,2006,63549
+France,Europe,Taiwan,Asia,2006,0
+France,Europe,South Korea,Asia,2006,4385
+France,Europe,Japan,Asia,2006,1893701
+France,Europe,India,Asia,2006,0
+France,Europe,Pakistan,Asia,2006,0
+France,Europe,Thailand,Asia,2006,558503
+France,Europe,Malaysia,Asia,2006,59775
+France,Europe,Singapore,Asia,2006,0
+France,Europe,Philippines,Asia,2006,0
+France,Europe,Indonesia,Asia,2006,0
+France,Europe,Australia,Oceania,2006,877090
+France,Europe,Cyprus,Europe,2006,81331
+France,Europe,China,Asia,2006,0
+France,Europe,Ivory Coast,Africa,2006,0
+France,Europe,Congo,Africa,2006,12406
+Switzerland,Europe,United States,North America,2006,1001237
+Switzerland,Europe,Canada,North America,2006,257738
+Switzerland,Europe,Mexico,North America,2006,0
+Switzerland,Europe,Brazil,South America,2006,81637
+Switzerland,Europe,Argentina,South America,2006,4163
+Switzerland,Europe,United Kingdom,Europe,2006,568708
+Switzerland,Europe,Netherlands,Europe,2006,11111616
+Switzerland,Europe,Belgium,Europe,2006,387245
+Switzerland,Europe,France,Europe,2006,5490596
+Switzerland,Europe,Switzerland,Europe,2006,0
+Switzerland,Europe,Spain,Europe,2006,5402214
+Switzerland,Europe,Portugal,Europe,2006,160280
+Switzerland,Europe,Germany,Europe,2006,9871109
+Switzerland,Europe,Poland,Europe,2006,965457
+Switzerland,Europe,Austria,Europe,2006,508275
+Switzerland,Europe,Hungary,Europe,2006,24088
+Switzerland,Europe,Czech Republic,Europe,2006,153388
+Switzerland,Europe,Slovakia,Europe,2006,8037
+Switzerland,Europe,Italy,Europe,2006,1775231
+Switzerland,Europe,Croatia,Europe,2006,13596
+Switzerland,Europe,Serbia,Europe,2006,8149
+Switzerland,Europe,Bosnia,Europe,2006,31814
+Switzerland,Europe,Greece,Europe,2006,18460
+Switzerland,Europe,Bulgaria,Europe,2006,11479
+Switzerland,Europe,Romania,Europe,2006,175345
+Switzerland,Europe,Russia,Asia,2006,17828
+Switzerland,Europe,Ukraine,Europe,2006,44273
+Switzerland,Europe,Finland,Europe,2006,126931
+Switzerland,Europe,Sweden,Europe,2006,148287
+Switzerland,Europe,Norway,Europe,2006,370363
+Switzerland,Europe,Denmark,Europe,2006,7002123
+Switzerland,Europe,South Africa,Africa,2006,140651
+Switzerland,Europe,Turkey,Asia,2006,9206
+Switzerland,Europe,Israel,Asia,2006,4733
+Switzerland,Europe,United Arab Emirates,Asia,2006,144181
+Switzerland,Europe,Taiwan,Asia,2006,16503
+Switzerland,Europe,South Korea,Asia,2006,42711
+Switzerland,Europe,Japan,Asia,2006,197481
+Switzerland,Europe,India,Asia,2006,21871
+Switzerland,Europe,Pakistan,Asia,2006,33565
+Switzerland,Europe,Thailand,Asia,2006,9958
+Switzerland,Europe,Malaysia,Asia,2006,1267637
+Switzerland,Europe,Singapore,Asia,2006,1326637
+Switzerland,Europe,Philippines,Asia,2006,0
+Switzerland,Europe,Indonesia,Asia,2006,0
+Switzerland,Europe,Australia,Oceania,2006,300218
+Switzerland,Europe,Cyprus,Europe,2006,6136
+Switzerland,Europe,China,Asia,2006,89362
+Switzerland,Europe,Ivory Coast,Africa,2006,0
+Switzerland,Europe,Congo,Africa,2006,0
+Spain,Europe,United States,North America,2006,7712312
+Spain,Europe,Canada,North America,2006,412446
+Spain,Europe,Mexico,North America,2006,612335
+Spain,Europe,Brazil,South America,2006,415
+Spain,Europe,Argentina,South America,2006,192899
+Spain,Europe,United Kingdom,Europe,2006,3040886
+Spain,Europe,Netherlands,Europe,2006,225740
+Spain,Europe,Belgium,Europe,2006,214177
+Spain,Europe,France,Europe,2006,4814093
+Spain,Europe,Switzerland,Europe,2006,1227354
+Spain,Europe,Spain,Europe,2006,0
+Spain,Europe,Portugal,Europe,2006,4898560
+Spain,Europe,Germany,Europe,2006,940257
+Spain,Europe,Poland,Europe,2006,248277
+Spain,Europe,Austria,Europe,2006,397559
+Spain,Europe,Hungary,Europe,2006,8339
+Spain,Europe,Czech Republic,Europe,2006,413761
+Spain,Europe,Slovakia,Europe,2006,101673
+Spain,Europe,Italy,Europe,2006,2661499
+Spain,Europe,Croatia,Europe,2006,2894
+Spain,Europe,Serbia,Europe,2006,41
+Spain,Europe,Bosnia,Europe,2006,137296
+Spain,Europe,Greece,Europe,2006,1402111
+Spain,Europe,Bulgaria,Europe,2006,88917
+Spain,Europe,Romania,Europe,2006,10993
+Spain,Europe,Russia,Asia,2006,20148
+Spain,Europe,Ukraine,Europe,2006,375683
+Spain,Europe,Finland,Europe,2006,374142
+Spain,Europe,Sweden,Europe,2006,582920
+Spain,Europe,Norway,Europe,2006,1519366
+Spain,Europe,Denmark,Europe,2006,1338603
+Spain,Europe,South Africa,Africa,2006,594846
+Spain,Europe,Turkey,Asia,2006,1360650
+Spain,Europe,Israel,Asia,2006,159785
+Spain,Europe,United Arab Emirates,Asia,2006,0
+Spain,Europe,Taiwan,Asia,2006,140453
+Spain,Europe,South Korea,Asia,2006,133035
+Spain,Europe,Japan,Asia,2006,446851
+Spain,Europe,India,Asia,2006,3880
+Spain,Europe,Pakistan,Asia,2006,9746
+Spain,Europe,Thailand,Asia,2006,108757
+Spain,Europe,Malaysia,Asia,2006,184063
+Spain,Europe,Singapore,Asia,2006,0
+Spain,Europe,Philippines,Asia,2006,69142
+Spain,Europe,Indonesia,Asia,2006,41336
+Spain,Europe,Australia,Oceania,2006,1756491
+Spain,Europe,Cyprus,Europe,2006,209615
+Spain,Europe,China,Asia,2006,0
+Spain,Europe,Ivory Coast,Africa,2006,0
+Spain,Europe,Congo,Africa,2006,0
+Portugal,Europe,United States,North America,2006,2599481
+Portugal,Europe,Canada,North America,2006,8648
+Portugal,Europe,Mexico,North America,2006,76671
+Portugal,Europe,Brazil,South America,2006,1103
+Portugal,Europe,Argentina,South America,2006,0
+Portugal,Europe,United Kingdom,Europe,2006,102129
+Portugal,Europe,Netherlands,Europe,2006,0
+Portugal,Europe,Belgium,Europe,2006,10217583
+Portugal,Europe,France,Europe,2006,701773
+Portugal,Europe,Switzerland,Europe,2006,0
+Portugal,Europe,Spain,Europe,2006,1064075
+Portugal,Europe,Portugal,Europe,2006,0
+Portugal,Europe,Germany,Europe,2006,598237
+Portugal,Europe,Poland,Europe,2006,48062
+Portugal,Europe,Austria,Europe,2006,42525
+Portugal,Europe,Hungary,Europe,2006,11165
+Portugal,Europe,Czech Republic,Europe,2006,20375
+Portugal,Europe,Slovakia,Europe,2006,0
+Portugal,Europe,Italy,Europe,2006,0
+Portugal,Europe,Croatia,Europe,2006,30329
+Portugal,Europe,Serbia,Europe,2006,65171
+Portugal,Europe,Bosnia,Europe,2006,0
+Portugal,Europe,Greece,Europe,2006,562099
+Portugal,Europe,Bulgaria,Europe,2006,0
+Portugal,Europe,Romania,Europe,2006,0
+Portugal,Europe,Russia,Asia,2006,26256
+Portugal,Europe,Ukraine,Europe,2006,132500
+Portugal,Europe,Finland,Europe,2006,96737
+Portugal,Europe,Sweden,Europe,2006,598038
+Portugal,Europe,Norway,Europe,2006,16586
+Portugal,Europe,Denmark,Europe,2006,0
+Portugal,Europe,South Africa,Africa,2006,0
+Portugal,Europe,Turkey,Asia,2006,165497
+Portugal,Europe,Israel,Asia,2006,0
+Portugal,Europe,United Arab Emirates,Asia,2006,0
+Portugal,Europe,Taiwan,Asia,2006,0
+Portugal,Europe,South Korea,Asia,2006,43802
+Portugal,Europe,Japan,Asia,2006,123569
+Portugal,Europe,India,Asia,2006,0
+Portugal,Europe,Pakistan,Asia,2006,0
+Portugal,Europe,Thailand,Asia,2006,22188
+Portugal,Europe,Malaysia,Asia,2006,0
+Portugal,Europe,Singapore,Asia,2006,0
+Portugal,Europe,Philippines,Asia,2006,0
+Portugal,Europe,Indonesia,Asia,2006,0
+Portugal,Europe,Australia,Oceania,2006,65619
+Portugal,Europe,Cyprus,Europe,2006,0
+Portugal,Europe,China,Asia,2006,0
+Portugal,Europe,Ivory Coast,Africa,2006,0
+Portugal,Europe,Congo,Africa,2006,0
+Germany,Europe,United States,North America,2006,62799376
+Germany,Europe,Canada,North America,2006,2082340
+Germany,Europe,Mexico,North America,2006,2749562
+Germany,Europe,Brazil,South America,2006,877371
+Germany,Europe,Argentina,South America,2006,166928
+Germany,Europe,United Kingdom,Europe,2006,9251377
+Germany,Europe,Netherlands,Europe,2006,9862806
+Germany,Europe,Belgium,Europe,2006,4441653
+Germany,Europe,France,Europe,2006,49151821
+Germany,Europe,Switzerland,Europe,2006,10796895
+Germany,Europe,Spain,Europe,2006,12402654
+Germany,Europe,Portugal,Europe,2006,1712523
+Germany,Europe,Germany,Europe,2006,0
+Germany,Europe,Poland,Europe,2006,2246469
+Germany,Europe,Austria,Europe,2006,9143961
+Germany,Europe,Hungary,Europe,2006,1435604
+Germany,Europe,Czech Republic,Europe,2006,2073609
+Germany,Europe,Slovakia,Europe,2006,1415942
+Germany,Europe,Italy,Europe,2006,7108228
+Germany,Europe,Croatia,Europe,2006,532220
+Germany,Europe,Serbia,Europe,2006,166375
+Germany,Europe,Bosnia,Europe,2006,147262
+Germany,Europe,Greece,Europe,2006,796956
+Germany,Europe,Bulgaria,Europe,2006,749414
+Germany,Europe,Romania,Europe,2006,911119
+Germany,Europe,Russia,Asia,2006,9364582
+Germany,Europe,Ukraine,Europe,2006,5199549
+Germany,Europe,Finland,Europe,2006,4720836
+Germany,Europe,Sweden,Europe,2006,4792114
+Germany,Europe,Norway,Europe,2006,5703635
+Germany,Europe,Denmark,Europe,2006,5525312
+Germany,Europe,South Africa,Africa,2006,299782
+Germany,Europe,Turkey,Asia,2006,2752137
+Germany,Europe,Israel,Asia,2006,17569
+Germany,Europe,United Arab Emirates,Asia,2006,4385280
+Germany,Europe,Taiwan,Asia,2006,812765
+Germany,Europe,South Korea,Asia,2006,5457252
+Germany,Europe,Japan,Asia,2006,2078107
+Germany,Europe,India,Asia,2006,398611
+Germany,Europe,Pakistan,Asia,2006,498540
+Germany,Europe,Thailand,Asia,2006,491301
+Germany,Europe,Malaysia,Asia,2006,1345730
+Germany,Europe,Singapore,Asia,2006,188333
+Germany,Europe,Philippines,Asia,2006,225219
+Germany,Europe,Indonesia,Asia,2006,23940
+Germany,Europe,Australia,Oceania,2006,2143645
+Germany,Europe,Cyprus,Europe,2006,104320
+Germany,Europe,China,Asia,2006,488657
+Germany,Europe,Ivory Coast,Africa,2006,0
+Germany,Europe,Congo,Africa,2006,166005
+Poland,Europe,United States,North America,2006,16524609
+Poland,Europe,Canada,North America,2006,744011
+Poland,Europe,Mexico,North America,2006,0
+Poland,Europe,Brazil,South America,2006,0
+Poland,Europe,Argentina,South America,2006,0
+Poland,Europe,United Kingdom,Europe,2006,0
+Poland,Europe,Netherlands,Europe,2006,0
+Poland,Europe,Belgium,Europe,2006,0
+Poland,Europe,France,Europe,2006,186128
+Poland,Europe,Switzerland,Europe,2006,11024
+Poland,Europe,Spain,Europe,2006,0
+Poland,Europe,Portugal,Europe,2006,0
+Poland,Europe,Germany,Europe,2006,7686
+Poland,Europe,Poland,Europe,2006,0
+Poland,Europe,Austria,Europe,2006,0
+Poland,Europe,Hungary,Europe,2006,0
+Poland,Europe,Czech Republic,Europe,2006,0
+Poland,Europe,Slovakia,Europe,2006,0
+Poland,Europe,Italy,Europe,2006,0
+Poland,Europe,Croatia,Europe,2006,0
+Poland,Europe,Serbia,Europe,2006,0
+Poland,Europe,Bosnia,Europe,2006,0
+Poland,Europe,Greece,Europe,2006,787
+Poland,Europe,Bulgaria,Europe,2006,4355999
+Poland,Europe,Romania,Europe,2006,0
+Poland,Europe,Russia,Asia,2006,0
+Poland,Europe,Ukraine,Europe,2006,14346
+Poland,Europe,Finland,Europe,2006,0
+Poland,Europe,Sweden,Europe,2006,0
+Poland,Europe,Norway,Europe,2006,253861
+Poland,Europe,Denmark,Europe,2006,0
+Poland,Europe,South Africa,Africa,2006,0
+Poland,Europe,Turkey,Asia,2006,0
+Poland,Europe,Israel,Asia,2006,1661897
+Poland,Europe,United Arab Emirates,Asia,2006,0
+Poland,Europe,Taiwan,Asia,2006,0
+Poland,Europe,South Korea,Asia,2006,0
+Poland,Europe,Japan,Asia,2006,0
+Poland,Europe,India,Asia,2006,2136418
+Poland,Europe,Pakistan,Asia,2006,0
+Poland,Europe,Thailand,Asia,2006,1705
+Poland,Europe,Malaysia,Asia,2006,0
+Poland,Europe,Singapore,Asia,2006,0
+Poland,Europe,Philippines,Asia,2006,0
+Poland,Europe,Indonesia,Asia,2006,224618
+Poland,Europe,Australia,Oceania,2006,0
+Poland,Europe,Cyprus,Europe,2006,0
+Poland,Europe,China,Asia,2006,0
+Poland,Europe,Ivory Coast,Africa,2006,0
+Poland,Europe,Congo,Africa,2006,0
+Austria,Europe,United States,North America,2006,97321789
+Austria,Europe,Canada,North America,2006,1633818
+Austria,Europe,Mexico,North America,2006,1495658
+Austria,Europe,Brazil,South America,2006,2593469
+Austria,Europe,Argentina,South America,2006,269648
+Austria,Europe,United Kingdom,Europe,2006,760008
+Austria,Europe,Netherlands,Europe,2006,186195
+Austria,Europe,Belgium,Europe,2006,45071
+Austria,Europe,France,Europe,2006,478309
+Austria,Europe,Switzerland,Europe,2006,13710120
+Austria,Europe,Spain,Europe,2006,1715223
+Austria,Europe,Portugal,Europe,2006,160064
+Austria,Europe,Germany,Europe,2006,2290993
+Austria,Europe,Poland,Europe,2006,981771
+Austria,Europe,Austria,Europe,2006,0
+Austria,Europe,Hungary,Europe,2006,445218
+Austria,Europe,Czech Republic,Europe,2006,1164542
+Austria,Europe,Slovakia,Europe,2006,309893
+Austria,Europe,Italy,Europe,2006,1746803
+Austria,Europe,Croatia,Europe,2006,957381
+Austria,Europe,Serbia,Europe,2006,181102
+Austria,Europe,Bosnia,Europe,2006,626790
+Austria,Europe,Greece,Europe,2006,213716
+Austria,Europe,Bulgaria,Europe,2006,947048
+Austria,Europe,Romania,Europe,2006,934361
+Austria,Europe,Russia,Asia,2006,2622085
+Austria,Europe,Ukraine,Europe,2006,321696
+Austria,Europe,Finland,Europe,2006,526898
+Austria,Europe,Sweden,Europe,2006,279039
+Austria,Europe,Norway,Europe,2006,842462
+Austria,Europe,Denmark,Europe,2006,233181
+Austria,Europe,South Africa,Africa,2006,350199
+Austria,Europe,Turkey,Asia,2006,30897
+Austria,Europe,Israel,Asia,2006,5270
+Austria,Europe,United Arab Emirates,Asia,2006,101787
+Austria,Europe,Taiwan,Asia,2006,54610
+Austria,Europe,South Korea,Asia,2006,17130
+Austria,Europe,Japan,Asia,2006,10336
+Austria,Europe,India,Asia,2006,544606
+Austria,Europe,Pakistan,Asia,2006,85927
+Austria,Europe,Thailand,Asia,2006,3821781
+Austria,Europe,Malaysia,Asia,2006,93899
+Austria,Europe,Singapore,Asia,2006,373413
+Austria,Europe,Philippines,Asia,2006,1260506
+Austria,Europe,Indonesia,Asia,2006,126526
+Austria,Europe,Australia,Oceania,2006,1304291
+Austria,Europe,Cyprus,Europe,2006,0
+Austria,Europe,China,Asia,2006,0
+Austria,Europe,Ivory Coast,Africa,2006,0
+Austria,Europe,Congo,Africa,2006,24200
+Hungary,Europe,United States,North America,2006,4801089
+Hungary,Europe,Canada,North America,2006,2570
+Hungary,Europe,Mexico,North America,2006,0
+Hungary,Europe,Brazil,South America,2006,0
+Hungary,Europe,Argentina,South America,2006,0
+Hungary,Europe,United Kingdom,Europe,2006,7554
+Hungary,Europe,Netherlands,Europe,2006,0
+Hungary,Europe,Belgium,Europe,2006,8532
+Hungary,Europe,France,Europe,2006,8272
+Hungary,Europe,Switzerland,Europe,2006,39798
+Hungary,Europe,Spain,Europe,2006,0
+Hungary,Europe,Portugal,Europe,2006,0
+Hungary,Europe,Germany,Europe,2006,1697366
+Hungary,Europe,Poland,Europe,2006,131520
+Hungary,Europe,Austria,Europe,2006,249862
+Hungary,Europe,Hungary,Europe,2006,0
+Hungary,Europe,Czech Republic,Europe,2006,440421
+Hungary,Europe,Slovakia,Europe,2006,161486
+Hungary,Europe,Italy,Europe,2006,46701
+Hungary,Europe,Croatia,Europe,2006,0
+Hungary,Europe,Serbia,Europe,2006,10042
+Hungary,Europe,Bosnia,Europe,2006,0
+Hungary,Europe,Greece,Europe,2006,0
+Hungary,Europe,Bulgaria,Europe,2006,0
+Hungary,Europe,Romania,Europe,2006,555998
+Hungary,Europe,Russia,Asia,2006,0
+Hungary,Europe,Ukraine,Europe,2006,928548
+Hungary,Europe,Finland,Europe,2006,140806
+Hungary,Europe,Sweden,Europe,2006,0
+Hungary,Europe,Norway,Europe,2006,0
+Hungary,Europe,Denmark,Europe,2006,0
+Hungary,Europe,South Africa,Africa,2006,12353
+Hungary,Europe,Turkey,Asia,2006,10640
+Hungary,Europe,Israel,Asia,2006,0
+Hungary,Europe,United Arab Emirates,Asia,2006,0
+Hungary,Europe,Taiwan,Asia,2006,0
+Hungary,Europe,South Korea,Asia,2006,0
+Hungary,Europe,Japan,Asia,2006,333336
+Hungary,Europe,India,Asia,2006,0
+Hungary,Europe,Pakistan,Asia,2006,0
+Hungary,Europe,Thailand,Asia,2006,0
+Hungary,Europe,Malaysia,Asia,2006,0
+Hungary,Europe,Singapore,Asia,2006,0
+Hungary,Europe,Philippines,Asia,2006,4897
+Hungary,Europe,Indonesia,Asia,2006,0
+Hungary,Europe,Australia,Oceania,2006,0
+Hungary,Europe,Cyprus,Europe,2006,0
+Hungary,Europe,China,Asia,2006,0
+Hungary,Europe,Ivory Coast,Africa,2006,0
+Hungary,Europe,Congo,Africa,2006,0
+Czech Republic,Europe,United States,North America,2006,22008297
+Czech Republic,Europe,Canada,North America,2006,1013747
+Czech Republic,Europe,Mexico,North America,2006,593886
+Czech Republic,Europe,Brazil,South America,2006,1645
+Czech Republic,Europe,Argentina,South America,2006,266542
+Czech Republic,Europe,United Kingdom,Europe,2006,1928096
+Czech Republic,Europe,Netherlands,Europe,2006,78109
+Czech Republic,Europe,Belgium,Europe,2006,578207
+Czech Republic,Europe,France,Europe,2006,2531849
+Czech Republic,Europe,Switzerland,Europe,2006,491311
+Czech Republic,Europe,Spain,Europe,2006,804415
+Czech Republic,Europe,Portugal,Europe,2006,424391
+Czech Republic,Europe,Germany,Europe,2006,7790262
+Czech Republic,Europe,Poland,Europe,2006,2647095
+Czech Republic,Europe,Austria,Europe,2006,355296
+Czech Republic,Europe,Hungary,Europe,2006,1316314
+Czech Republic,Europe,Czech Republic,Europe,2006,0
+Czech Republic,Europe,Slovakia,Europe,2006,1697305
+Czech Republic,Europe,Italy,Europe,2006,1479139
+Czech Republic,Europe,Croatia,Europe,2006,276955
+Czech Republic,Europe,Serbia,Europe,2006,191195
+Czech Republic,Europe,Bosnia,Europe,2006,296999
+Czech Republic,Europe,Greece,Europe,2006,159180
+Czech Republic,Europe,Bulgaria,Europe,2006,410462
+Czech Republic,Europe,Romania,Europe,2006,427207
+Czech Republic,Europe,Russia,Asia,2006,1054256
+Czech Republic,Europe,Ukraine,Europe,2006,533514
+Czech Republic,Europe,Finland,Europe,2006,1567301
+Czech Republic,Europe,Sweden,Europe,2006,896350
+Czech Republic,Europe,Norway,Europe,2006,615477
+Czech Republic,Europe,Denmark,Europe,2006,605786
+Czech Republic,Europe,South Africa,Africa,2006,320708
+Czech Republic,Europe,Turkey,Asia,2006,592382
+Czech Republic,Europe,Israel,Asia,2006,179805
+Czech Republic,Europe,United Arab Emirates,Asia,2006,0
+Czech Republic,Europe,Taiwan,Asia,2006,929
+Czech Republic,Europe,South Korea,Asia,2006,3140
+Czech Republic,Europe,Japan,Asia,2006,21697
+Czech Republic,Europe,India,Asia,2006,56842
+Czech Republic,Europe,Pakistan,Asia,2006,0
+Czech Republic,Europe,Thailand,Asia,2006,6408616
+Czech Republic,Europe,Malaysia,Asia,2006,1241776
+Czech Republic,Europe,Singapore,Asia,2006,0
+Czech Republic,Europe,Philippines,Asia,2006,25689
+Czech Republic,Europe,Indonesia,Asia,2006,5481
+Czech Republic,Europe,Australia,Oceania,2006,1090887
+Czech Republic,Europe,Cyprus,Europe,2006,54717
+Czech Republic,Europe,China,Asia,2006,0
+Czech Republic,Europe,Ivory Coast,Africa,2006,0
+Czech Republic,Europe,Congo,Africa,2006,0
+Slovakia,Europe,United States,North America,2006,699149
+Slovakia,Europe,Canada,North America,2006,60029
+Slovakia,Europe,Mexico,North America,2006,0
+Slovakia,Europe,Brazil,South America,2006,0
+Slovakia,Europe,Argentina,South America,2006,7893
+Slovakia,Europe,United Kingdom,Europe,2006,0
+Slovakia,Europe,Netherlands,Europe,2006,0
+Slovakia,Europe,Belgium,Europe,2006,0
+Slovakia,Europe,France,Europe,2006,126842
+Slovakia,Europe,Switzerland,Europe,2006,0
+Slovakia,Europe,Spain,Europe,2006,0
+Slovakia,Europe,Portugal,Europe,2006,166306
+Slovakia,Europe,Germany,Europe,2006,5490
+Slovakia,Europe,Poland,Europe,2006,175282
+Slovakia,Europe,Austria,Europe,2006,0
+Slovakia,Europe,Hungary,Europe,2006,4910
+Slovakia,Europe,Czech Republic,Europe,2006,121645
+Slovakia,Europe,Slovakia,Europe,2006,0
+Slovakia,Europe,Italy,Europe,2006,0
+Slovakia,Europe,Croatia,Europe,2006,0
+Slovakia,Europe,Serbia,Europe,2006,1298606
+Slovakia,Europe,Bosnia,Europe,2006,0
+Slovakia,Europe,Greece,Europe,2006,135711
+Slovakia,Europe,Bulgaria,Europe,2006,0
+Slovakia,Europe,Romania,Europe,2006,0
+Slovakia,Europe,Russia,Asia,2006,0
+Slovakia,Europe,Ukraine,Europe,2006,0
+Slovakia,Europe,Finland,Europe,2006,0
+Slovakia,Europe,Sweden,Europe,2006,0
+Slovakia,Europe,Norway,Europe,2006,0
+Slovakia,Europe,Denmark,Europe,2006,0
+Slovakia,Europe,South Africa,Africa,2006,0
+Slovakia,Europe,Turkey,Asia,2006,0
+Slovakia,Europe,Israel,Asia,2006,37915
+Slovakia,Europe,United Arab Emirates,Asia,2006,0
+Slovakia,Europe,Taiwan,Asia,2006,0
+Slovakia,Europe,South Korea,Asia,2006,0
+Slovakia,Europe,Japan,Asia,2006,0
+Slovakia,Europe,India,Asia,2006,0
+Slovakia,Europe,Pakistan,Asia,2006,0
+Slovakia,Europe,Thailand,Asia,2006,0
+Slovakia,Europe,Malaysia,Asia,2006,0
+Slovakia,Europe,Singapore,Asia,2006,0
+Slovakia,Europe,Philippines,Asia,2006,0
+Slovakia,Europe,Indonesia,Asia,2006,0
+Slovakia,Europe,Australia,Oceania,2006,14771
+Slovakia,Europe,Cyprus,Europe,2006,15191851
+Slovakia,Europe,China,Asia,2006,0
+Slovakia,Europe,Ivory Coast,Africa,2006,0
+Slovakia,Europe,Congo,Africa,2006,0
+Italy,Europe,United States,North America,2006,166176402
+Italy,Europe,Canada,North America,2006,3912264
+Italy,Europe,Mexico,North America,2006,7007300
+Italy,Europe,Brazil,South America,2006,17425
+Italy,Europe,Argentina,South America,2006,1244639
+Italy,Europe,United Kingdom,Europe,2006,33542405
+Italy,Europe,Netherlands,Europe,2006,919548
+Italy,Europe,Belgium,Europe,2006,5178432
+Italy,Europe,France,Europe,2006,35384800
+Italy,Europe,Switzerland,Europe,2006,15518180
+Italy,Europe,Spain,Europe,2006,35885796
+Italy,Europe,Portugal,Europe,2006,3472065
+Italy,Europe,Germany,Europe,2006,15669989
+Italy,Europe,Poland,Europe,2006,1252913
+Italy,Europe,Austria,Europe,2006,2588048
+Italy,Europe,Hungary,Europe,2006,623142
+Italy,Europe,Czech Republic,Europe,2006,1415464
+Italy,Europe,Slovakia,Europe,2006,385022
+Italy,Europe,Italy,Europe,2006,0
+Italy,Europe,Croatia,Europe,2006,1454136
+Italy,Europe,Serbia,Europe,2006,1060271
+Italy,Europe,Bosnia,Europe,2006,555887
+Italy,Europe,Greece,Europe,2006,8781895
+Italy,Europe,Bulgaria,Europe,2006,1312891
+Italy,Europe,Romania,Europe,2006,1883223
+Italy,Europe,Russia,Asia,2006,10952663
+Italy,Europe,Ukraine,Europe,2006,2662166
+Italy,Europe,Finland,Europe,2006,4524239
+Italy,Europe,Sweden,Europe,2006,2460785
+Italy,Europe,Norway,Europe,2006,7943879
+Italy,Europe,Denmark,Europe,2006,4173786
+Italy,Europe,South Africa,Africa,2006,4106444
+Italy,Europe,Turkey,Asia,2006,14759810
+Italy,Europe,Israel,Asia,2006,0
+Italy,Europe,United Arab Emirates,Asia,2006,607959
+Italy,Europe,Taiwan,Asia,2006,183164
+Italy,Europe,South Korea,Asia,2006,2866337
+Italy,Europe,Japan,Asia,2006,8704336
+Italy,Europe,India,Asia,2006,353926
+Italy,Europe,Pakistan,Asia,2006,839072
+Italy,Europe,Thailand,Asia,2006,2322753
+Italy,Europe,Malaysia,Asia,2006,268485
+Italy,Europe,Singapore,Asia,2006,41933
+Italy,Europe,Philippines,Asia,2006,534261
+Italy,Europe,Indonesia,Asia,2006,0
+Italy,Europe,Australia,Oceania,2006,5375189
+Italy,Europe,Cyprus,Europe,2006,2109605
+Italy,Europe,China,Asia,2006,899423
+Italy,Europe,Ivory Coast,Africa,2006,0
+Italy,Europe,Congo,Africa,2006,0
+Croatia,Europe,United States,North America,2006,29040738
+Croatia,Europe,Canada,North America,2006,144338
+Croatia,Europe,Mexico,North America,2006,0
+Croatia,Europe,Brazil,South America,2006,0
+Croatia,Europe,Argentina,South America,2006,0
+Croatia,Europe,United Kingdom,Europe,2006,0
+Croatia,Europe,Netherlands,Europe,2006,0
+Croatia,Europe,Belgium,Europe,2006,0
+Croatia,Europe,France,Europe,2006,0
+Croatia,Europe,Switzerland,Europe,2006,3242
+Croatia,Europe,Spain,Europe,2006,0
+Croatia,Europe,Portugal,Europe,2006,6064
+Croatia,Europe,Germany,Europe,2006,0
+Croatia,Europe,Poland,Europe,2006,0
+Croatia,Europe,Austria,Europe,2006,31952
+Croatia,Europe,Hungary,Europe,2006,0
+Croatia,Europe,Czech Republic,Europe,2006,0
+Croatia,Europe,Slovakia,Europe,2006,0
+Croatia,Europe,Italy,Europe,2006,1305
+Croatia,Europe,Croatia,Europe,2006,0
+Croatia,Europe,Serbia,Europe,2006,57845
+Croatia,Europe,Bosnia,Europe,2006,120412
+Croatia,Europe,Greece,Europe,2006,62196
+Croatia,Europe,Bulgaria,Europe,2006,0
+Croatia,Europe,Romania,Europe,2006,0
+Croatia,Europe,Russia,Asia,2006,0
+Croatia,Europe,Ukraine,Europe,2006,0
+Croatia,Europe,Finland,Europe,2006,14284
+Croatia,Europe,Sweden,Europe,2006,0
+Croatia,Europe,Norway,Europe,2006,0
+Croatia,Europe,Denmark,Europe,2006,0
+Croatia,Europe,South Africa,Africa,2006,0
+Croatia,Europe,Turkey,Asia,2006,0
+Croatia,Europe,Israel,Asia,2006,0
+Croatia,Europe,United Arab Emirates,Asia,2006,0
+Croatia,Europe,Taiwan,Asia,2006,0
+Croatia,Europe,South Korea,Asia,2006,0
+Croatia,Europe,Japan,Asia,2006,0
+Croatia,Europe,India,Asia,2006,0
+Croatia,Europe,Pakistan,Asia,2006,0
+Croatia,Europe,Thailand,Asia,2006,117794
+Croatia,Europe,Malaysia,Asia,2006,0
+Croatia,Europe,Singapore,Asia,2006,0
+Croatia,Europe,Philippines,Asia,2006,19415
+Croatia,Europe,Indonesia,Asia,2006,0
+Croatia,Europe,Australia,Oceania,2006,13420
+Croatia,Europe,Cyprus,Europe,2006,0
+Croatia,Europe,China,Asia,2006,0
+Croatia,Europe,Ivory Coast,Africa,2006,0
+Croatia,Europe,Congo,Africa,2006,0
+Serbia,Europe,United States,North America,2006,5927413
+Serbia,Europe,Canada,North America,2006,38977
+Serbia,Europe,Mexico,North America,2006,0
+Serbia,Europe,Brazil,South America,2006,0
+Serbia,Europe,Argentina,South America,2006,0
+Serbia,Europe,United Kingdom,Europe,2006,200234
+Serbia,Europe,Netherlands,Europe,2006,293177
+Serbia,Europe,Belgium,Europe,2006,563015
+Serbia,Europe,France,Europe,2006,343074
+Serbia,Europe,Switzerland,Europe,2006,270360
+Serbia,Europe,Spain,Europe,2006,27245
+Serbia,Europe,Portugal,Europe,2006,16657
+Serbia,Europe,Germany,Europe,2006,934847
+Serbia,Europe,Poland,Europe,2006,0
+Serbia,Europe,Austria,Europe,2006,1355629
+Serbia,Europe,Hungary,Europe,2006,33771
+Serbia,Europe,Czech Republic,Europe,2006,74392
+Serbia,Europe,Slovakia,Europe,2006,114392
+Serbia,Europe,Italy,Europe,2006,900510
+Serbia,Europe,Croatia,Europe,2006,454953
+Serbia,Europe,Serbia,Europe,2006,0
+Serbia,Europe,Bosnia,Europe,2006,860325
+Serbia,Europe,Greece,Europe,2006,0
+Serbia,Europe,Bulgaria,Europe,2006,107608
+Serbia,Europe,Romania,Europe,2006,9298
+Serbia,Europe,Russia,Asia,2006,0
+Serbia,Europe,Ukraine,Europe,2006,0
+Serbia,Europe,Finland,Europe,2006,34421
+Serbia,Europe,Sweden,Europe,2006,268349
+Serbia,Europe,Norway,Europe,2006,79485
+Serbia,Europe,Denmark,Europe,2006,95833
+Serbia,Europe,South Africa,Africa,2006,138438
+Serbia,Europe,Turkey,Asia,2006,27
+Serbia,Europe,Israel,Asia,2006,4193143
+Serbia,Europe,United Arab Emirates,Asia,2006,614687
+Serbia,Europe,Taiwan,Asia,2006,0
+Serbia,Europe,South Korea,Asia,2006,7338
+Serbia,Europe,Japan,Asia,2006,0
+Serbia,Europe,India,Asia,2006,14977
+Serbia,Europe,Pakistan,Asia,2006,21251
+Serbia,Europe,Thailand,Asia,2006,82
+Serbia,Europe,Malaysia,Asia,2006,0
+Serbia,Europe,Singapore,Asia,2006,0
+Serbia,Europe,Philippines,Asia,2006,0
+Serbia,Europe,Indonesia,Asia,2006,568545
+Serbia,Europe,Australia,Oceania,2006,549029
+Serbia,Europe,Cyprus,Europe,2006,0
+Serbia,Europe,China,Asia,2006,0
+Serbia,Europe,Ivory Coast,Africa,2006,0
+Serbia,Europe,Congo,Africa,2006,0
+Bosnia,Europe,United States,North America,2006,512486
+Bosnia,Europe,Canada,North America,2006,115419
+Bosnia,Europe,Mexico,North America,2006,0
+Bosnia,Europe,Brazil,South America,2006,0
+Bosnia,Europe,Argentina,South America,2006,0
+Bosnia,Europe,United Kingdom,Europe,2006,1137
+Bosnia,Europe,Netherlands,Europe,2006,0
+Bosnia,Europe,Belgium,Europe,2006,0
+Bosnia,Europe,France,Europe,2006,53770
+Bosnia,Europe,Switzerland,Europe,2006,1944890
+Bosnia,Europe,Spain,Europe,2006,49
+Bosnia,Europe,Portugal,Europe,2006,630002
+Bosnia,Europe,Germany,Europe,2006,827974
+Bosnia,Europe,Poland,Europe,2006,48891
+Bosnia,Europe,Austria,Europe,2006,2179805
+Bosnia,Europe,Hungary,Europe,2006,387136
+Bosnia,Europe,Czech Republic,Europe,2006,11456
+Bosnia,Europe,Slovakia,Europe,2006,0
+Bosnia,Europe,Italy,Europe,2006,247487
+Bosnia,Europe,Croatia,Europe,2006,1346620
+Bosnia,Europe,Serbia,Europe,2006,1126755
+Bosnia,Europe,Bosnia,Europe,2006,0
+Bosnia,Europe,Greece,Europe,2006,156984
+Bosnia,Europe,Bulgaria,Europe,2006,60506
+Bosnia,Europe,Romania,Europe,2006,130836
+Bosnia,Europe,Russia,Asia,2006,0
+Bosnia,Europe,Ukraine,Europe,2006,0
+Bosnia,Europe,Finland,Europe,2006,0
+Bosnia,Europe,Sweden,Europe,2006,0
+Bosnia,Europe,Norway,Europe,2006,0
+Bosnia,Europe,Denmark,Europe,2006,0
+Bosnia,Europe,South Africa,Africa,2006,0
+Bosnia,Europe,Turkey,Asia,2006,1224551
+Bosnia,Europe,Israel,Asia,2006,332287
+Bosnia,Europe,United Arab Emirates,Asia,2006,0
+Bosnia,Europe,Taiwan,Asia,2006,0
+Bosnia,Europe,South Korea,Asia,2006,0
+Bosnia,Europe,Japan,Asia,2006,0
+Bosnia,Europe,India,Asia,2006,0
+Bosnia,Europe,Pakistan,Asia,2006,0
+Bosnia,Europe,Thailand,Asia,2006,0
+Bosnia,Europe,Malaysia,Asia,2006,84245
+Bosnia,Europe,Singapore,Asia,2006,0
+Bosnia,Europe,Philippines,Asia,2006,0
+Bosnia,Europe,Indonesia,Asia,2006,0
+Bosnia,Europe,Australia,Oceania,2006,4904
+Bosnia,Europe,Cyprus,Europe,2006,0
+Bosnia,Europe,China,Asia,2006,0
+Bosnia,Europe,Ivory Coast,Africa,2006,0
+Bosnia,Europe,Congo,Africa,2006,0
+Greece,Europe,United States,North America,2006,174467
+Greece,Europe,Canada,North America,2006,0
+Greece,Europe,Mexico,North America,2006,1935
+Greece,Europe,Brazil,South America,2006,331080
+Greece,Europe,Argentina,South America,2006,0
+Greece,Europe,United Kingdom,Europe,2006,527092
+Greece,Europe,Netherlands,Europe,2006,0
+Greece,Europe,Belgium,Europe,2006,338345
+Greece,Europe,France,Europe,2006,0
+Greece,Europe,Switzerland,Europe,2006,0
+Greece,Europe,Spain,Europe,2006,156403
+Greece,Europe,Portugal,Europe,2006,151431
+Greece,Europe,Germany,Europe,2006,682681
+Greece,Europe,Poland,Europe,2006,15074
+Greece,Europe,Austria,Europe,2006,0
+Greece,Europe,Hungary,Europe,2006,0
+Greece,Europe,Czech Republic,Europe,2006,0
+Greece,Europe,Slovakia,Europe,2006,0
+Greece,Europe,Italy,Europe,2006,53970
+Greece,Europe,Croatia,Europe,2006,31898
+Greece,Europe,Serbia,Europe,2006,49797
+Greece,Europe,Bosnia,Europe,2006,142643
+Greece,Europe,Greece,Europe,2006,0
+Greece,Europe,Bulgaria,Europe,2006,38149
+Greece,Europe,Romania,Europe,2006,35812
+Greece,Europe,Russia,Asia,2006,0
+Greece,Europe,Ukraine,Europe,2006,0
+Greece,Europe,Finland,Europe,2006,0
+Greece,Europe,Sweden,Europe,2006,0
+Greece,Europe,Norway,Europe,2006,0
+Greece,Europe,Denmark,Europe,2006,0
+Greece,Europe,South Africa,Africa,2006,0
+Greece,Europe,Turkey,Asia,2006,305310
+Greece,Europe,Israel,Asia,2006,0
+Greece,Europe,United Arab Emirates,Asia,2006,0
+Greece,Europe,Taiwan,Asia,2006,0
+Greece,Europe,South Korea,Asia,2006,0
+Greece,Europe,Japan,Asia,2006,0
+Greece,Europe,India,Asia,2006,0
+Greece,Europe,Pakistan,Asia,2006,0
+Greece,Europe,Thailand,Asia,2006,0
+Greece,Europe,Malaysia,Asia,2006,0
+Greece,Europe,Singapore,Asia,2006,0
+Greece,Europe,Philippines,Asia,2006,0
+Greece,Europe,Indonesia,Asia,2006,0
+Greece,Europe,Australia,Oceania,2006,0
+Greece,Europe,Cyprus,Europe,2006,791235
+Greece,Europe,China,Asia,2006,0
+Greece,Europe,Ivory Coast,Africa,2006,0
+Greece,Europe,Congo,Africa,2006,4666
+Bulgaria,Europe,United States,North America,2006,3940004
+Bulgaria,Europe,Canada,North America,2006,2721
+Bulgaria,Europe,Mexico,North America,2006,0
+Bulgaria,Europe,Brazil,South America,2006,0
+Bulgaria,Europe,Argentina,South America,2006,0
+Bulgaria,Europe,United Kingdom,Europe,2006,25777
+Bulgaria,Europe,Netherlands,Europe,2006,0
+Bulgaria,Europe,Belgium,Europe,2006,219
+Bulgaria,Europe,France,Europe,2006,2767
+Bulgaria,Europe,Switzerland,Europe,2006,0
+Bulgaria,Europe,Spain,Europe,2006,0
+Bulgaria,Europe,Portugal,Europe,2006,0
+Bulgaria,Europe,Germany,Europe,2006,79063
+Bulgaria,Europe,Poland,Europe,2006,0
+Bulgaria,Europe,Austria,Europe,2006,2065
+Bulgaria,Europe,Hungary,Europe,2006,1098
+Bulgaria,Europe,Czech Republic,Europe,2006,4864
+Bulgaria,Europe,Slovakia,Europe,2006,10609
+Bulgaria,Europe,Italy,Europe,2006,0
+Bulgaria,Europe,Croatia,Europe,2006,0
+Bulgaria,Europe,Serbia,Europe,2006,0
+Bulgaria,Europe,Bosnia,Europe,2006,0
+Bulgaria,Europe,Greece,Europe,2006,2767
+Bulgaria,Europe,Bulgaria,Europe,2006,0
+Bulgaria,Europe,Romania,Europe,2006,122
+Bulgaria,Europe,Russia,Asia,2006,0
+Bulgaria,Europe,Ukraine,Europe,2006,0
+Bulgaria,Europe,Finland,Europe,2006,199037
+Bulgaria,Europe,Sweden,Europe,2006,0
+Bulgaria,Europe,Norway,Europe,2006,3901
+Bulgaria,Europe,Denmark,Europe,2006,0
+Bulgaria,Europe,South Africa,Africa,2006,0
+Bulgaria,Europe,Turkey,Asia,2006,6
+Bulgaria,Europe,Israel,Asia,2006,192787
+Bulgaria,Europe,United Arab Emirates,Asia,2006,2006270
+Bulgaria,Europe,Taiwan,Asia,2006,0
+Bulgaria,Europe,South Korea,Asia,2006,0
+Bulgaria,Europe,Japan,Asia,2006,217528
+Bulgaria,Europe,India,Asia,2006,9006
+Bulgaria,Europe,Pakistan,Asia,2006,0
+Bulgaria,Europe,Thailand,Asia,2006,0
+Bulgaria,Europe,Malaysia,Asia,2006,0
+Bulgaria,Europe,Singapore,Asia,2006,0
+Bulgaria,Europe,Philippines,Asia,2006,0
+Bulgaria,Europe,Indonesia,Asia,2006,1213
+Bulgaria,Europe,Australia,Oceania,2006,2953
+Bulgaria,Europe,Cyprus,Europe,2006,0
+Bulgaria,Europe,China,Asia,2006,0
+Bulgaria,Europe,Ivory Coast,Africa,2006,0
+Bulgaria,Europe,Congo,Africa,2006,0
+Romania,Europe,United States,North America,2006,24141630
+Romania,Europe,Canada,North America,2006,0
+Romania,Europe,Mexico,North America,2006,0
+Romania,Europe,Brazil,South America,2006,0
+Romania,Europe,Argentina,South America,2006,0
+Romania,Europe,United Kingdom,Europe,2006,27452
+Romania,Europe,Netherlands,Europe,2006,0
+Romania,Europe,Belgium,Europe,2006,6851
+Romania,Europe,France,Europe,2006,319999
+Romania,Europe,Switzerland,Europe,2006,119766
+Romania,Europe,Spain,Europe,2006,0
+Romania,Europe,Portugal,Europe,2006,0
+Romania,Europe,Germany,Europe,2006,1494891
+Romania,Europe,Poland,Europe,2006,0
+Romania,Europe,Austria,Europe,2006,28457
+Romania,Europe,Hungary,Europe,2006,0
+Romania,Europe,Czech Republic,Europe,2006,0
+Romania,Europe,Slovakia,Europe,2006,0
+Romania,Europe,Italy,Europe,2006,48946
+Romania,Europe,Croatia,Europe,2006,0
+Romania,Europe,Serbia,Europe,2006,0
+Romania,Europe,Bosnia,Europe,2006,0
+Romania,Europe,Greece,Europe,2006,0
+Romania,Europe,Bulgaria,Europe,2006,8510
+Romania,Europe,Romania,Europe,2006,0
+Romania,Europe,Russia,Asia,2006,0
+Romania,Europe,Ukraine,Europe,2006,78657
+Romania,Europe,Finland,Europe,2006,55446
+Romania,Europe,Sweden,Europe,2006,0
+Romania,Europe,Norway,Europe,2006,0
+Romania,Europe,Denmark,Europe,2006,0
+Romania,Europe,South Africa,Africa,2006,0
+Romania,Europe,Turkey,Asia,2006,102199
+Romania,Europe,Israel,Asia,2006,559011
+Romania,Europe,United Arab Emirates,Asia,2006,0
+Romania,Europe,Taiwan,Asia,2006,0
+Romania,Europe,South Korea,Asia,2006,0
+Romania,Europe,Japan,Asia,2006,892942
+Romania,Europe,India,Asia,2006,0
+Romania,Europe,Pakistan,Asia,2006,0
+Romania,Europe,Thailand,Asia,2006,0
+Romania,Europe,Malaysia,Asia,2006,0
+Romania,Europe,Singapore,Asia,2006,0
+Romania,Europe,Philippines,Asia,2006,0
+Romania,Europe,Indonesia,Asia,2006,0
+Romania,Europe,Australia,Oceania,2006,7133
+Romania,Europe,Cyprus,Europe,2006,0
+Romania,Europe,China,Asia,2006,0
+Romania,Europe,Ivory Coast,Africa,2006,0
+Romania,Europe,Congo,Africa,2006,0
+Russia,Asia,United States,North America,2006,43321949
+Russia,Asia,Canada,North America,2006,527056
+Russia,Asia,Mexico,North America,2006,0
+Russia,Asia,Brazil,South America,2006,367
+Russia,Asia,Argentina,South America,2006,5561
+Russia,Asia,United Kingdom,Europe,2006,53654
+Russia,Asia,Netherlands,Europe,2006,26211
+Russia,Asia,Belgium,Europe,2006,13288
+Russia,Asia,France,Europe,2006,1904024
+Russia,Asia,Switzerland,Europe,2006,0
+Russia,Asia,Spain,Europe,2006,78713
+Russia,Asia,Portugal,Europe,2006,11428
+Russia,Asia,Germany,Europe,2006,7057707
+Russia,Asia,Poland,Europe,2006,259986
+Russia,Asia,Austria,Europe,2006,414318
+Russia,Asia,Hungary,Europe,2006,27623
+Russia,Asia,Czech Republic,Europe,2006,139947
+Russia,Asia,Slovakia,Europe,2006,198677
+Russia,Asia,Italy,Europe,2006,527025
+Russia,Asia,Croatia,Europe,2006,86551
+Russia,Asia,Serbia,Europe,2006,290731
+Russia,Asia,Bosnia,Europe,2006,276404
+Russia,Asia,Greece,Europe,2006,82862
+Russia,Asia,Bulgaria,Europe,2006,636518
+Russia,Asia,Romania,Europe,2006,4116
+Russia,Asia,Russia,Asia,2006,0
+Russia,Asia,Ukraine,Europe,2006,3313364
+Russia,Asia,Finland,Europe,2006,444926
+Russia,Asia,Sweden,Europe,2006,0
+Russia,Asia,Norway,Europe,2006,217338
+Russia,Asia,Denmark,Europe,2006,66382
+Russia,Asia,South Africa,Africa,2006,0
+Russia,Asia,Turkey,Asia,2006,213914
+Russia,Asia,Israel,Asia,2006,0
+Russia,Asia,United Arab Emirates,Asia,2006,0
+Russia,Asia,Taiwan,Asia,2006,0
+Russia,Asia,South Korea,Asia,2006,8212115
+Russia,Asia,Japan,Asia,2006,3304
+Russia,Asia,India,Asia,2006,0
+Russia,Asia,Pakistan,Asia,2006,0
+Russia,Asia,Thailand,Asia,2006,26140
+Russia,Asia,Malaysia,Asia,2006,0
+Russia,Asia,Singapore,Asia,2006,0
+Russia,Asia,Philippines,Asia,2006,9783
+Russia,Asia,Indonesia,Asia,2006,0
+Russia,Asia,Australia,Oceania,2006,146963
+Russia,Asia,Cyprus,Europe,2006,4929159
+Russia,Asia,China,Asia,2006,0
+Russia,Asia,Ivory Coast,Africa,2006,0
+Russia,Asia,Congo,Africa,2006,0
+Ukraine,Europe,United States,North America,2006,10777499
+Ukraine,Europe,Canada,North America,2006,0
+Ukraine,Europe,Mexico,North America,2006,0
+Ukraine,Europe,Brazil,South America,2006,0
+Ukraine,Europe,Argentina,South America,2006,0
+Ukraine,Europe,United Kingdom,Europe,2006,3125720
+Ukraine,Europe,Netherlands,Europe,2006,0
+Ukraine,Europe,Belgium,Europe,2006,0
+Ukraine,Europe,France,Europe,2006,47770
+Ukraine,Europe,Switzerland,Europe,2006,0
+Ukraine,Europe,Spain,Europe,2006,0
+Ukraine,Europe,Portugal,Europe,2006,0
+Ukraine,Europe,Germany,Europe,2006,371499
+Ukraine,Europe,Poland,Europe,2006,0
+Ukraine,Europe,Austria,Europe,2006,6899
+Ukraine,Europe,Hungary,Europe,2006,0
+Ukraine,Europe,Czech Republic,Europe,2006,198370
+Ukraine,Europe,Slovakia,Europe,2006,3280
+Ukraine,Europe,Italy,Europe,2006,0
+Ukraine,Europe,Croatia,Europe,2006,0
+Ukraine,Europe,Serbia,Europe,2006,0
+Ukraine,Europe,Bosnia,Europe,2006,0
+Ukraine,Europe,Greece,Europe,2006,0
+Ukraine,Europe,Bulgaria,Europe,2006,44800
+Ukraine,Europe,Romania,Europe,2006,0
+Ukraine,Europe,Russia,Asia,2006,0
+Ukraine,Europe,Ukraine,Europe,2006,0
+Ukraine,Europe,Finland,Europe,2006,0
+Ukraine,Europe,Sweden,Europe,2006,0
+Ukraine,Europe,Norway,Europe,2006,56185
+Ukraine,Europe,Denmark,Europe,2006,0
+Ukraine,Europe,South Africa,Africa,2006,0
+Ukraine,Europe,Turkey,Asia,2006,0
+Ukraine,Europe,Israel,Asia,2006,0
+Ukraine,Europe,United Arab Emirates,Asia,2006,0
+Ukraine,Europe,Taiwan,Asia,2006,0
+Ukraine,Europe,South Korea,Asia,2006,11863878
+Ukraine,Europe,Japan,Asia,2006,0
+Ukraine,Europe,India,Asia,2006,0
+Ukraine,Europe,Pakistan,Asia,2006,0
+Ukraine,Europe,Thailand,Asia,2006,0
+Ukraine,Europe,Malaysia,Asia,2006,0
+Ukraine,Europe,Singapore,Asia,2006,0
+Ukraine,Europe,Philippines,Asia,2006,0
+Ukraine,Europe,Indonesia,Asia,2006,0
+Ukraine,Europe,Australia,Oceania,2006,0
+Ukraine,Europe,Cyprus,Europe,2006,0
+Ukraine,Europe,China,Asia,2006,0
+Ukraine,Europe,Ivory Coast,Africa,2006,0
+Ukraine,Europe,Congo,Africa,2006,0
+Finland,Europe,United States,North America,2006,14715398
+Finland,Europe,Canada,North America,2006,3369340
+Finland,Europe,Mexico,North America,2006,0
+Finland,Europe,Brazil,South America,2006,230034
+Finland,Europe,Argentina,South America,2006,48353
+Finland,Europe,United Kingdom,Europe,2006,1854721
+Finland,Europe,Netherlands,Europe,2006,465865
+Finland,Europe,Belgium,Europe,2006,380051
+Finland,Europe,France,Europe,2006,1230569
+Finland,Europe,Switzerland,Europe,2006,153392
+Finland,Europe,Spain,Europe,2006,300819
+Finland,Europe,Portugal,Europe,2006,0
+Finland,Europe,Germany,Europe,2006,2419469
+Finland,Europe,Poland,Europe,2006,859350
+Finland,Europe,Austria,Europe,2006,572181
+Finland,Europe,Hungary,Europe,2006,151987
+Finland,Europe,Czech Republic,Europe,2006,1946598
+Finland,Europe,Slovakia,Europe,2006,209520
+Finland,Europe,Italy,Europe,2006,1763780
+Finland,Europe,Croatia,Europe,2006,6773
+Finland,Europe,Serbia,Europe,2006,5498
+Finland,Europe,Bosnia,Europe,2006,0
+Finland,Europe,Greece,Europe,2006,16518
+Finland,Europe,Bulgaria,Europe,2006,13456
+Finland,Europe,Romania,Europe,2006,18013
+Finland,Europe,Russia,Asia,2006,674778
+Finland,Europe,Ukraine,Europe,2006,329815
+Finland,Europe,Finland,Europe,2006,0
+Finland,Europe,Sweden,Europe,2006,10903671
+Finland,Europe,Norway,Europe,2006,3673808
+Finland,Europe,Denmark,Europe,2006,1062444
+Finland,Europe,South Africa,Africa,2006,124053
+Finland,Europe,Turkey,Asia,2006,2593316
+Finland,Europe,Israel,Asia,2006,0
+Finland,Europe,United Arab Emirates,Asia,2006,116684
+Finland,Europe,Taiwan,Asia,2006,2981
+Finland,Europe,South Korea,Asia,2006,565840
+Finland,Europe,Japan,Asia,2006,596503
+Finland,Europe,India,Asia,2006,25946
+Finland,Europe,Pakistan,Asia,2006,0
+Finland,Europe,Thailand,Asia,2006,114852
+Finland,Europe,Malaysia,Asia,2006,62104
+Finland,Europe,Singapore,Asia,2006,850149
+Finland,Europe,Philippines,Asia,2006,0
+Finland,Europe,Indonesia,Asia,2006,0
+Finland,Europe,Australia,Oceania,2006,2062165
+Finland,Europe,Cyprus,Europe,2006,0
+Finland,Europe,China,Asia,2006,6017
+Finland,Europe,Ivory Coast,Africa,2006,0
+Finland,Europe,Congo,Africa,2006,0
+Sweden,Europe,United States,North America,2006,3805184
+Sweden,Europe,Canada,North America,2006,229129
+Sweden,Europe,Mexico,North America,2006,88864
+Sweden,Europe,Brazil,South America,2006,2535
+Sweden,Europe,Argentina,South America,2006,0
+Sweden,Europe,United Kingdom,Europe,2006,409024
+Sweden,Europe,Netherlands,Europe,2006,291092
+Sweden,Europe,Belgium,Europe,2006,250083
+Sweden,Europe,France,Europe,2006,1930391
+Sweden,Europe,Switzerland,Europe,2006,187450
+Sweden,Europe,Spain,Europe,2006,1287997
+Sweden,Europe,Portugal,Europe,2006,72475
+Sweden,Europe,Germany,Europe,2006,3768524
+Sweden,Europe,Poland,Europe,2006,328639
+Sweden,Europe,Austria,Europe,2006,303054
+Sweden,Europe,Hungary,Europe,2006,199529
+Sweden,Europe,Czech Republic,Europe,2006,124370
+Sweden,Europe,Slovakia,Europe,2006,44588
+Sweden,Europe,Italy,Europe,2006,606103
+Sweden,Europe,Croatia,Europe,2006,51448
+Sweden,Europe,Serbia,Europe,2006,0
+Sweden,Europe,Bosnia,Europe,2006,0
+Sweden,Europe,Greece,Europe,2006,0
+Sweden,Europe,Bulgaria,Europe,2006,101061
+Sweden,Europe,Romania,Europe,2006,40538
+Sweden,Europe,Russia,Asia,2006,509411
+Sweden,Europe,Ukraine,Europe,2006,68597
+Sweden,Europe,Finland,Europe,2006,1259918
+Sweden,Europe,Sweden,Europe,2006,0
+Sweden,Europe,Norway,Europe,2006,4230344
+Sweden,Europe,Denmark,Europe,2006,2382348
+Sweden,Europe,South Africa,Africa,2006,32509
+Sweden,Europe,Turkey,Asia,2006,0
+Sweden,Europe,Israel,Asia,2006,0
+Sweden,Europe,United Arab Emirates,Asia,2006,0
+Sweden,Europe,Taiwan,Asia,2006,0
+Sweden,Europe,South Korea,Asia,2006,6276
+Sweden,Europe,Japan,Asia,2006,289364
+Sweden,Europe,India,Asia,2006,10504
+Sweden,Europe,Pakistan,Asia,2006,0
+Sweden,Europe,Thailand,Asia,2006,0
+Sweden,Europe,Malaysia,Asia,2006,0
+Sweden,Europe,Singapore,Asia,2006,0
+Sweden,Europe,Philippines,Asia,2006,0
+Sweden,Europe,Indonesia,Asia,2006,0
+Sweden,Europe,Australia,Oceania,2006,140144
+Sweden,Europe,Cyprus,Europe,2006,903
+Sweden,Europe,China,Asia,2006,0
+Sweden,Europe,Ivory Coast,Africa,2006,0
+Sweden,Europe,Congo,Africa,2006,0
+Norway,Europe,United States,North America,2006,1466951
+Norway,Europe,Canada,North America,2006,622080
+Norway,Europe,Mexico,North America,2006,0
+Norway,Europe,Brazil,South America,2006,0
+Norway,Europe,Argentina,South America,2006,0
+Norway,Europe,United Kingdom,Europe,2006,934912
+Norway,Europe,Netherlands,Europe,2006,1501499
+Norway,Europe,Belgium,Europe,2006,1503390
+Norway,Europe,France,Europe,2006,426846
+Norway,Europe,Switzerland,Europe,2006,31498
+Norway,Europe,Spain,Europe,2006,337701
+Norway,Europe,Portugal,Europe,2006,0
+Norway,Europe,Germany,Europe,2006,231172
+Norway,Europe,Poland,Europe,2006,555991
+Norway,Europe,Austria,Europe,2006,20158
+Norway,Europe,Hungary,Europe,2006,0
+Norway,Europe,Czech Republic,Europe,2006,6170
+Norway,Europe,Slovakia,Europe,2006,34091
+Norway,Europe,Italy,Europe,2006,254928
+Norway,Europe,Croatia,Europe,2006,0
+Norway,Europe,Serbia,Europe,2006,0
+Norway,Europe,Bosnia,Europe,2006,0
+Norway,Europe,Greece,Europe,2006,0
+Norway,Europe,Bulgaria,Europe,2006,0
+Norway,Europe,Romania,Europe,2006,0
+Norway,Europe,Russia,Asia,2006,2673
+Norway,Europe,Ukraine,Europe,2006,0
+Norway,Europe,Finland,Europe,2006,2460521
+Norway,Europe,Sweden,Europe,2006,77693
+Norway,Europe,Norway,Europe,2006,0
+Norway,Europe,Denmark,Europe,2006,1734825
+Norway,Europe,South Africa,Africa,2006,0
+Norway,Europe,Turkey,Asia,2006,16796
+Norway,Europe,Israel,Asia,2006,0
+Norway,Europe,United Arab Emirates,Asia,2006,0
+Norway,Europe,Taiwan,Asia,2006,0
+Norway,Europe,South Korea,Asia,2006,0
+Norway,Europe,Japan,Asia,2006,0
+Norway,Europe,India,Asia,2006,0
+Norway,Europe,Pakistan,Asia,2006,0
+Norway,Europe,Thailand,Asia,2006,0
+Norway,Europe,Malaysia,Asia,2006,776574
+Norway,Europe,Singapore,Asia,2006,11671
+Norway,Europe,Philippines,Asia,2006,0
+Norway,Europe,Indonesia,Asia,2006,0
+Norway,Europe,Australia,Oceania,2006,1673168
+Norway,Europe,Cyprus,Europe,2006,0
+Norway,Europe,China,Asia,2006,0
+Norway,Europe,Ivory Coast,Africa,2006,0
+Norway,Europe,Congo,Africa,2006,0
+Denmark,Europe,United States,North America,2006,126019
+Denmark,Europe,Canada,North America,2006,6384
+Denmark,Europe,Mexico,North America,2006,0
+Denmark,Europe,Brazil,South America,2006,0
+Denmark,Europe,Argentina,South America,2006,0
+Denmark,Europe,United Kingdom,Europe,2006,70652
+Denmark,Europe,Netherlands,Europe,2006,0
+Denmark,Europe,Belgium,Europe,2006,0
+Denmark,Europe,France,Europe,2006,4626
+Denmark,Europe,Switzerland,Europe,2006,186107
+Denmark,Europe,Spain,Europe,2006,15944
+Denmark,Europe,Portugal,Europe,2006,0
+Denmark,Europe,Germany,Europe,2006,298683
+Denmark,Europe,Poland,Europe,2006,4214
+Denmark,Europe,Austria,Europe,2006,9216
+Denmark,Europe,Hungary,Europe,2006,0
+Denmark,Europe,Czech Republic,Europe,2006,205
+Denmark,Europe,Slovakia,Europe,2006,10676
+Denmark,Europe,Italy,Europe,2006,14098
+Denmark,Europe,Croatia,Europe,2006,0
+Denmark,Europe,Serbia,Europe,2006,0
+Denmark,Europe,Bosnia,Europe,2006,0
+Denmark,Europe,Greece,Europe,2006,0
+Denmark,Europe,Bulgaria,Europe,2006,0
+Denmark,Europe,Romania,Europe,2006,0
+Denmark,Europe,Russia,Asia,2006,0
+Denmark,Europe,Ukraine,Europe,2006,0
+Denmark,Europe,Finland,Europe,2006,2119
+Denmark,Europe,Sweden,Europe,2006,3138000
+Denmark,Europe,Norway,Europe,2006,436100
+Denmark,Europe,Denmark,Europe,2006,0
+Denmark,Europe,South Africa,Africa,2006,2773
+Denmark,Europe,Turkey,Asia,2006,0
+Denmark,Europe,Israel,Asia,2006,0
+Denmark,Europe,United Arab Emirates,Asia,2006,0
+Denmark,Europe,Taiwan,Asia,2006,0
+Denmark,Europe,South Korea,Asia,2006,0
+Denmark,Europe,Japan,Asia,2006,0
+Denmark,Europe,India,Asia,2006,0
+Denmark,Europe,Pakistan,Asia,2006,0
+Denmark,Europe,Thailand,Asia,2006,0
+Denmark,Europe,Malaysia,Asia,2006,0
+Denmark,Europe,Singapore,Asia,2006,0
+Denmark,Europe,Philippines,Asia,2006,0
+Denmark,Europe,Indonesia,Asia,2006,0
+Denmark,Europe,Australia,Oceania,2006,1476391
+Denmark,Europe,Cyprus,Europe,2006,1233
+Denmark,Europe,China,Asia,2006,0
+Denmark,Europe,Ivory Coast,Africa,2006,0
+Denmark,Europe,Congo,Africa,2006,0
+South Africa,Africa,United States,North America,2006,1850697
+South Africa,Africa,Canada,North America,2006,62468
+South Africa,Africa,Mexico,North America,2006,0
+South Africa,Africa,Brazil,South America,2006,51111
+South Africa,Africa,Argentina,South America,2006,0
+South Africa,Africa,United Kingdom,Europe,2006,33446
+South Africa,Africa,Netherlands,Europe,2006,1379
+South Africa,Africa,Belgium,Europe,2006,0
+South Africa,Africa,France,Europe,2006,122707
+South Africa,Africa,Switzerland,Europe,2006,316530
+South Africa,Africa,Spain,Europe,2006,0
+South Africa,Africa,Portugal,Europe,2006,382
+South Africa,Africa,Germany,Europe,2006,28550
+South Africa,Africa,Poland,Europe,2006,0
+South Africa,Africa,Austria,Europe,2006,48509
+South Africa,Africa,Hungary,Europe,2006,0
+South Africa,Africa,Czech Republic,Europe,2006,10553
+South Africa,Africa,Slovakia,Europe,2006,0
+South Africa,Africa,Italy,Europe,2006,0
+South Africa,Africa,Croatia,Europe,2006,0
+South Africa,Africa,Serbia,Europe,2006,0
+South Africa,Africa,Bosnia,Europe,2006,0
+South Africa,Africa,Greece,Europe,2006,2638
+South Africa,Africa,Bulgaria,Europe,2006,0
+South Africa,Africa,Romania,Europe,2006,0
+South Africa,Africa,Russia,Asia,2006,0
+South Africa,Africa,Ukraine,Europe,2006,0
+South Africa,Africa,Finland,Europe,2006,5303
+South Africa,Africa,Sweden,Europe,2006,91900
+South Africa,Africa,Norway,Europe,2006,37206
+South Africa,Africa,Denmark,Europe,2006,0
+South Africa,Africa,South Africa,Africa,2006,0
+South Africa,Africa,Turkey,Asia,2006,4987
+South Africa,Africa,Israel,Asia,2006,0
+South Africa,Africa,United Arab Emirates,Asia,2006,0
+South Africa,Africa,Taiwan,Asia,2006,0
+South Africa,Africa,South Korea,Asia,2006,9992
+South Africa,Africa,Japan,Asia,2006,0
+South Africa,Africa,India,Asia,2006,0
+South Africa,Africa,Pakistan,Asia,2006,0
+South Africa,Africa,Thailand,Asia,2006,19176
+South Africa,Africa,Malaysia,Asia,2006,0
+South Africa,Africa,Singapore,Asia,2006,0
+South Africa,Africa,Philippines,Asia,2006,0
+South Africa,Africa,Indonesia,Asia,2006,0
+South Africa,Africa,Australia,Oceania,2006,24245
+South Africa,Africa,Cyprus,Europe,2006,7674
+South Africa,Africa,China,Asia,2006,0
+South Africa,Africa,Ivory Coast,Africa,2006,6423
+South Africa,Africa,Congo,Africa,2006,0
+Turkey,Asia,United States,North America,2006,37845733
+Turkey,Asia,Canada,North America,2006,547808
+Turkey,Asia,Mexico,North America,2006,84825
+Turkey,Asia,Brazil,South America,2006,1133
+Turkey,Asia,Argentina,South America,2006,432159
+Turkey,Asia,United Kingdom,Europe,2006,435057
+Turkey,Asia,Netherlands,Europe,2006,0
+Turkey,Asia,Belgium,Europe,2006,54542
+Turkey,Asia,France,Europe,2006,2331824
+Turkey,Asia,Switzerland,Europe,2006,7373
+Turkey,Asia,Spain,Europe,2006,310997
+Turkey,Asia,Portugal,Europe,2006,176896
+Turkey,Asia,Germany,Europe,2006,1292489
+Turkey,Asia,Poland,Europe,2006,165764
+Turkey,Asia,Austria,Europe,2006,17340
+Turkey,Asia,Hungary,Europe,2006,7093
+Turkey,Asia,Czech Republic,Europe,2006,63144
+Turkey,Asia,Slovakia,Europe,2006,8761
+Turkey,Asia,Italy,Europe,2006,1452734
+Turkey,Asia,Croatia,Europe,2006,32475
+Turkey,Asia,Serbia,Europe,2006,53461
+Turkey,Asia,Bosnia,Europe,2006,1085231
+Turkey,Asia,Greece,Europe,2006,165127
+Turkey,Asia,Bulgaria,Europe,2006,531242
+Turkey,Asia,Romania,Europe,2006,431656
+Turkey,Asia,Russia,Asia,2006,402256
+Turkey,Asia,Ukraine,Europe,2006,88761
+Turkey,Asia,Finland,Europe,2006,266264
+Turkey,Asia,Sweden,Europe,2006,120817
+Turkey,Asia,Norway,Europe,2006,352916
+Turkey,Asia,Denmark,Europe,2006,399885
+Turkey,Asia,South Africa,Africa,2006,43603
+Turkey,Asia,Turkey,Asia,2006,0
+Turkey,Asia,Israel,Asia,2006,6507
+Turkey,Asia,United Arab Emirates,Asia,2006,0
+Turkey,Asia,Taiwan,Asia,2006,0
+Turkey,Asia,South Korea,Asia,2006,53286
+Turkey,Asia,Japan,Asia,2006,395
+Turkey,Asia,India,Asia,2006,0
+Turkey,Asia,Pakistan,Asia,2006,260630
+Turkey,Asia,Thailand,Asia,2006,441469
+Turkey,Asia,Malaysia,Asia,2006,32159
+Turkey,Asia,Singapore,Asia,2006,6257
+Turkey,Asia,Philippines,Asia,2006,93814
+Turkey,Asia,Indonesia,Asia,2006,54653
+Turkey,Asia,Australia,Oceania,2006,323057
+Turkey,Asia,Cyprus,Europe,2006,200617
+Turkey,Asia,China,Asia,2006,0
+Turkey,Asia,Ivory Coast,Africa,2006,0
+Turkey,Asia,Congo,Africa,2006,0
+Israel,Asia,United States,North America,2006,17498508
+Israel,Asia,Canada,North America,2006,130679
+Israel,Asia,Mexico,North America,2006,58934
+Israel,Asia,Brazil,South America,2006,527058
+Israel,Asia,Argentina,South America,2006,628
+Israel,Asia,United Kingdom,Europe,2006,702122
+Israel,Asia,Netherlands,Europe,2006,0
+Israel,Asia,Belgium,Europe,2006,0
+Israel,Asia,France,Europe,2006,0
+Israel,Asia,Switzerland,Europe,2006,26709
+Israel,Asia,Spain,Europe,2006,0
+Israel,Asia,Portugal,Europe,2006,0
+Israel,Asia,Germany,Europe,2006,263545
+Israel,Asia,Poland,Europe,2006,3877
+Israel,Asia,Austria,Europe,2006,0
+Israel,Asia,Hungary,Europe,2006,0
+Israel,Asia,Czech Republic,Europe,2006,10321
+Israel,Asia,Slovakia,Europe,2006,3315
+Israel,Asia,Italy,Europe,2006,59508
+Israel,Asia,Croatia,Europe,2006,0
+Israel,Asia,Serbia,Europe,2006,60
+Israel,Asia,Bosnia,Europe,2006,0
+Israel,Asia,Greece,Europe,2006,0
+Israel,Asia,Bulgaria,Europe,2006,32428
+Israel,Asia,Romania,Europe,2006,0
+Israel,Asia,Russia,Asia,2006,0
+Israel,Asia,Ukraine,Europe,2006,0
+Israel,Asia,Finland,Europe,2006,8681
+Israel,Asia,Sweden,Europe,2006,0
+Israel,Asia,Norway,Europe,2006,45796
+Israel,Asia,Denmark,Europe,2006,0
+Israel,Asia,South Africa,Africa,2006,0
+Israel,Asia,Turkey,Asia,2006,263546
+Israel,Asia,Israel,Asia,2006,0
+Israel,Asia,United Arab Emirates,Asia,2006,0
+Israel,Asia,Taiwan,Asia,2006,0
+Israel,Asia,South Korea,Asia,2006,22335
+Israel,Asia,Japan,Asia,2006,0
+Israel,Asia,India,Asia,2006,10567
+Israel,Asia,Pakistan,Asia,2006,0
+Israel,Asia,Thailand,Asia,2006,333124
+Israel,Asia,Malaysia,Asia,2006,0
+Israel,Asia,Singapore,Asia,2006,0
+Israel,Asia,Philippines,Asia,2006,90282
+Israel,Asia,Indonesia,Asia,2006,0
+Israel,Asia,Australia,Oceania,2006,924611
+Israel,Asia,Cyprus,Europe,2006,674
+Israel,Asia,China,Asia,2006,0
+Israel,Asia,Ivory Coast,Africa,2006,0
+Israel,Asia,Congo,Africa,2006,0
+United Arab Emirates,Asia,United States,North America,2006,317408
+United Arab Emirates,Asia,Canada,North America,2006,0
+United Arab Emirates,Asia,Mexico,North America,2006,0
+United Arab Emirates,Asia,Brazil,South America,2006,0
+United Arab Emirates,Asia,Argentina,South America,2006,0
+United Arab Emirates,Asia,United Kingdom,Europe,2006,0
+United Arab Emirates,Asia,Netherlands,Europe,2006,0
+United Arab Emirates,Asia,Belgium,Europe,2006,0
+United Arab Emirates,Asia,France,Europe,2006,0
+United Arab Emirates,Asia,Switzerland,Europe,2006,0
+United Arab Emirates,Asia,Spain,Europe,2006,0
+United Arab Emirates,Asia,Portugal,Europe,2006,0
+United Arab Emirates,Asia,Germany,Europe,2006,0
+United Arab Emirates,Asia,Poland,Europe,2006,0
+United Arab Emirates,Asia,Austria,Europe,2006,0
+United Arab Emirates,Asia,Hungary,Europe,2006,0
+United Arab Emirates,Asia,Czech Republic,Europe,2006,0
+United Arab Emirates,Asia,Slovakia,Europe,2006,0
+United Arab Emirates,Asia,Italy,Europe,2006,76248
+United Arab Emirates,Asia,Croatia,Europe,2006,0
+United Arab Emirates,Asia,Serbia,Europe,2006,0
+United Arab Emirates,Asia,Bosnia,Europe,2006,0
+United Arab Emirates,Asia,Greece,Europe,2006,0
+United Arab Emirates,Asia,Bulgaria,Europe,2006,0
+United Arab Emirates,Asia,Romania,Europe,2006,0
+United Arab Emirates,Asia,Russia,Asia,2006,0
+United Arab Emirates,Asia,Ukraine,Europe,2006,0
+United Arab Emirates,Asia,Finland,Europe,2006,0
+United Arab Emirates,Asia,Sweden,Europe,2006,0
+United Arab Emirates,Asia,Norway,Europe,2006,0
+United Arab Emirates,Asia,Denmark,Europe,2006,0
+United Arab Emirates,Asia,South Africa,Africa,2006,0
+United Arab Emirates,Asia,Turkey,Asia,2006,0
+United Arab Emirates,Asia,Israel,Asia,2006,0
+United Arab Emirates,Asia,United Arab Emirates,Asia,2006,0
+United Arab Emirates,Asia,Taiwan,Asia,2006,0
+United Arab Emirates,Asia,South Korea,Asia,2006,0
+United Arab Emirates,Asia,Japan,Asia,2006,0
+United Arab Emirates,Asia,India,Asia,2006,1474
+United Arab Emirates,Asia,Pakistan,Asia,2006,0
+United Arab Emirates,Asia,Thailand,Asia,2006,0
+United Arab Emirates,Asia,Malaysia,Asia,2006,0
+United Arab Emirates,Asia,Singapore,Asia,2006,0
+United Arab Emirates,Asia,Philippines,Asia,2006,0
+United Arab Emirates,Asia,Indonesia,Asia,2006,0
+United Arab Emirates,Asia,Australia,Oceania,2006,0
+United Arab Emirates,Asia,Cyprus,Europe,2006,1041
+United Arab Emirates,Asia,China,Asia,2006,0
+United Arab Emirates,Asia,Ivory Coast,Africa,2006,0
+United Arab Emirates,Asia,Congo,Africa,2006,0
+Taiwan,Asia,United States,North America,2006,3332732
+Taiwan,Asia,Canada,North America,2006,30241
+Taiwan,Asia,Mexico,North America,2006,2140
+Taiwan,Asia,Brazil,South America,2006,0
+Taiwan,Asia,Argentina,South America,2006,0
+Taiwan,Asia,United Kingdom,Europe,2006,1279
+Taiwan,Asia,Netherlands,Europe,2006,0
+Taiwan,Asia,Belgium,Europe,2006,0
+Taiwan,Asia,France,Europe,2006,0
+Taiwan,Asia,Switzerland,Europe,2006,0
+Taiwan,Asia,Spain,Europe,2006,0
+Taiwan,Asia,Portugal,Europe,2006,0
+Taiwan,Asia,Germany,Europe,2006,0
+Taiwan,Asia,Poland,Europe,2006,0
+Taiwan,Asia,Austria,Europe,2006,0
+Taiwan,Asia,Hungary,Europe,2006,0
+Taiwan,Asia,Czech Republic,Europe,2006,10810
+Taiwan,Asia,Slovakia,Europe,2006,0
+Taiwan,Asia,Italy,Europe,2006,0
+Taiwan,Asia,Croatia,Europe,2006,0
+Taiwan,Asia,Serbia,Europe,2006,0
+Taiwan,Asia,Bosnia,Europe,2006,0
+Taiwan,Asia,Greece,Europe,2006,0
+Taiwan,Asia,Bulgaria,Europe,2006,0
+Taiwan,Asia,Romania,Europe,2006,0
+Taiwan,Asia,Russia,Asia,2006,0
+Taiwan,Asia,Ukraine,Europe,2006,0
+Taiwan,Asia,Finland,Europe,2006,0
+Taiwan,Asia,Sweden,Europe,2006,0
+Taiwan,Asia,Norway,Europe,2006,0
+Taiwan,Asia,Denmark,Europe,2006,0
+Taiwan,Asia,South Africa,Africa,2006,0
+Taiwan,Asia,Turkey,Asia,2006,0
+Taiwan,Asia,Israel,Asia,2006,0
+Taiwan,Asia,United Arab Emirates,Asia,2006,0
+Taiwan,Asia,Taiwan,Asia,2006,0
+Taiwan,Asia,South Korea,Asia,2006,0
+Taiwan,Asia,Japan,Asia,2006,0
+Taiwan,Asia,India,Asia,2006,0
+Taiwan,Asia,Pakistan,Asia,2006,0
+Taiwan,Asia,Thailand,Asia,2006,0
+Taiwan,Asia,Malaysia,Asia,2006,3609
+Taiwan,Asia,Singapore,Asia,2006,855
+Taiwan,Asia,Philippines,Asia,2006,16853
+Taiwan,Asia,Indonesia,Asia,2006,0
+Taiwan,Asia,Australia,Oceania,2006,0
+Taiwan,Asia,Cyprus,Europe,2006,0
+Taiwan,Asia,China,Asia,2006,0
+Taiwan,Asia,Ivory Coast,Africa,2006,0
+Taiwan,Asia,Congo,Africa,2006,0
+South Korea,Asia,United States,North America,2006,2088742
+South Korea,Asia,Canada,North America,2006,82638
+South Korea,Asia,Mexico,North America,2006,0
+South Korea,Asia,Brazil,South America,2006,0
+South Korea,Asia,Argentina,South America,2006,0
+South Korea,Asia,United Kingdom,Europe,2006,14328
+South Korea,Asia,Netherlands,Europe,2006,0
+South Korea,Asia,Belgium,Europe,2006,0
+South Korea,Asia,France,Europe,2006,0
+South Korea,Asia,Switzerland,Europe,2006,0
+South Korea,Asia,Spain,Europe,2006,376055
+South Korea,Asia,Portugal,Europe,2006,0
+South Korea,Asia,Germany,Europe,2006,3294
+South Korea,Asia,Poland,Europe,2006,26769
+South Korea,Asia,Austria,Europe,2006,138
+South Korea,Asia,Hungary,Europe,2006,0
+South Korea,Asia,Czech Republic,Europe,2006,5890
+South Korea,Asia,Slovakia,Europe,2006,0
+South Korea,Asia,Italy,Europe,2006,2913638
+South Korea,Asia,Croatia,Europe,2006,0
+South Korea,Asia,Serbia,Europe,2006,0
+South Korea,Asia,Bosnia,Europe,2006,0
+South Korea,Asia,Greece,Europe,2006,0
+South Korea,Asia,Bulgaria,Europe,2006,2109
+South Korea,Asia,Romania,Europe,2006,0
+South Korea,Asia,Russia,Asia,2006,0
+South Korea,Asia,Ukraine,Europe,2006,0
+South Korea,Asia,Finland,Europe,2006,43
+South Korea,Asia,Sweden,Europe,2006,0
+South Korea,Asia,Norway,Europe,2006,0
+South Korea,Asia,Denmark,Europe,2006,0
+South Korea,Asia,South Africa,Africa,2006,0
+South Korea,Asia,Turkey,Asia,2006,0
+South Korea,Asia,Israel,Asia,2006,0
+South Korea,Asia,United Arab Emirates,Asia,2006,0
+South Korea,Asia,Taiwan,Asia,2006,1052044
+South Korea,Asia,South Korea,Asia,2006,0
+South Korea,Asia,Japan,Asia,2006,48743
+South Korea,Asia,India,Asia,2006,0
+South Korea,Asia,Pakistan,Asia,2006,55454
+South Korea,Asia,Thailand,Asia,2006,145473
+South Korea,Asia,Malaysia,Asia,2006,1244839
+South Korea,Asia,Singapore,Asia,2006,0
+South Korea,Asia,Philippines,Asia,2006,16509
+South Korea,Asia,Indonesia,Asia,2006,3031869
+South Korea,Asia,Australia,Oceania,2006,1942451
+South Korea,Asia,Cyprus,Europe,2006,0
+South Korea,Asia,China,Asia,2006,0
+South Korea,Asia,Ivory Coast,Africa,2006,0
+South Korea,Asia,Congo,Africa,2006,0
+Japan,Asia,United States,North America,2006,21809575
+Japan,Asia,Canada,North America,2006,3932999
+Japan,Asia,Mexico,North America,2006,57123
+Japan,Asia,Brazil,South America,2006,0
+Japan,Asia,Argentina,South America,2006,1248
+Japan,Asia,United Kingdom,Europe,2006,40296
+Japan,Asia,Netherlands,Europe,2006,0
+Japan,Asia,Belgium,Europe,2006,9667567
+Japan,Asia,France,Europe,2006,518980
+Japan,Asia,Switzerland,Europe,2006,1742
+Japan,Asia,Spain,Europe,2006,340390
+Japan,Asia,Portugal,Europe,2006,24973
+Japan,Asia,Germany,Europe,2006,641029
+Japan,Asia,Poland,Europe,2006,258477
+Japan,Asia,Austria,Europe,2006,72208
+Japan,Asia,Hungary,Europe,2006,31183
+Japan,Asia,Czech Republic,Europe,2006,138795
+Japan,Asia,Slovakia,Europe,2006,416
+Japan,Asia,Italy,Europe,2006,13293
+Japan,Asia,Croatia,Europe,2006,20030
+Japan,Asia,Serbia,Europe,2006,6658
+Japan,Asia,Bosnia,Europe,2006,0
+Japan,Asia,Greece,Europe,2006,308566
+Japan,Asia,Bulgaria,Europe,2006,0
+Japan,Asia,Romania,Europe,2006,0
+Japan,Asia,Russia,Asia,2006,123976
+Japan,Asia,Ukraine,Europe,2006,12817
+Japan,Asia,Finland,Europe,2006,135727
+Japan,Asia,Sweden,Europe,2006,142910
+Japan,Asia,Norway,Europe,2006,157944
+Japan,Asia,Denmark,Europe,2006,770180
+Japan,Asia,South Africa,Africa,2006,0
+Japan,Asia,Turkey,Asia,2006,193633
+Japan,Asia,Israel,Asia,2006,0
+Japan,Asia,United Arab Emirates,Asia,2006,2076
+Japan,Asia,Taiwan,Asia,2006,0
+Japan,Asia,South Korea,Asia,2006,63819
+Japan,Asia,Japan,Asia,2006,0
+Japan,Asia,India,Asia,2006,0
+Japan,Asia,Pakistan,Asia,2006,0
+Japan,Asia,Thailand,Asia,2006,7056
+Japan,Asia,Malaysia,Asia,2006,4455
+Japan,Asia,Singapore,Asia,2006,0
+Japan,Asia,Philippines,Asia,2006,0
+Japan,Asia,Indonesia,Asia,2006,185
+Japan,Asia,Australia,Oceania,2006,2030355
+Japan,Asia,Cyprus,Europe,2006,356917
+Japan,Asia,China,Asia,2006,0
+Japan,Asia,Ivory Coast,Africa,2006,0
+Japan,Asia,Congo,Africa,2006,0
+India,Asia,United States,North America,2006,822662
+India,Asia,Canada,North America,2006,0
+India,Asia,Mexico,North America,2006,0
+India,Asia,Brazil,South America,2006,0
+India,Asia,Argentina,South America,2006,0
+India,Asia,United Kingdom,Europe,2006,246682
+India,Asia,Netherlands,Europe,2006,0
+India,Asia,Belgium,Europe,2006,0
+India,Asia,France,Europe,2006,74487
+India,Asia,Switzerland,Europe,2006,47879
+India,Asia,Spain,Europe,2006,0
+India,Asia,Portugal,Europe,2006,0
+India,Asia,Germany,Europe,2006,13632
+India,Asia,Poland,Europe,2006,0
+India,Asia,Austria,Europe,2006,0
+India,Asia,Hungary,Europe,2006,0
+India,Asia,Czech Republic,Europe,2006,0
+India,Asia,Slovakia,Europe,2006,0
+India,Asia,Italy,Europe,2006,868
+India,Asia,Croatia,Europe,2006,0
+India,Asia,Serbia,Europe,2006,0
+India,Asia,Bosnia,Europe,2006,0
+India,Asia,Greece,Europe,2006,0
+India,Asia,Bulgaria,Europe,2006,9006
+India,Asia,Romania,Europe,2006,0
+India,Asia,Russia,Asia,2006,0
+India,Asia,Ukraine,Europe,2006,0
+India,Asia,Finland,Europe,2006,0
+India,Asia,Sweden,Europe,2006,0
+India,Asia,Norway,Europe,2006,0
+India,Asia,Denmark,Europe,2006,0
+India,Asia,South Africa,Africa,2006,0
+India,Asia,Turkey,Asia,2006,0
+India,Asia,Israel,Asia,2006,0
+India,Asia,United Arab Emirates,Asia,2006,1162
+India,Asia,Taiwan,Asia,2006,0
+India,Asia,South Korea,Asia,2006,0
+India,Asia,Japan,Asia,2006,0
+India,Asia,India,Asia,2006,0
+India,Asia,Pakistan,Asia,2006,0
+India,Asia,Thailand,Asia,2006,0
+India,Asia,Malaysia,Asia,2006,0
+India,Asia,Singapore,Asia,2006,383800
+India,Asia,Philippines,Asia,2006,0
+India,Asia,Indonesia,Asia,2006,0
+India,Asia,Australia,Oceania,2006,11118
+India,Asia,Cyprus,Europe,2006,0
+India,Asia,China,Asia,2006,0
+India,Asia,Ivory Coast,Africa,2006,0
+India,Asia,Congo,Africa,2006,0
+Pakistan,Asia,United States,North America,2006,280122
+Pakistan,Asia,Canada,North America,2006,0
+Pakistan,Asia,Mexico,North America,2006,0
+Pakistan,Asia,Brazil,South America,2006,0
+Pakistan,Asia,Argentina,South America,2006,0
+Pakistan,Asia,United Kingdom,Europe,2006,323
+Pakistan,Asia,Netherlands,Europe,2006,0
+Pakistan,Asia,Belgium,Europe,2006,35565
+Pakistan,Asia,France,Europe,2006,207106
+Pakistan,Asia,Switzerland,Europe,2006,0
+Pakistan,Asia,Spain,Europe,2006,0
+Pakistan,Asia,Portugal,Europe,2006,0
+Pakistan,Asia,Germany,Europe,2006,0
+Pakistan,Asia,Poland,Europe,2006,1647810
+Pakistan,Asia,Austria,Europe,2006,0
+Pakistan,Asia,Hungary,Europe,2006,0
+Pakistan,Asia,Czech Republic,Europe,2006,0
+Pakistan,Asia,Slovakia,Europe,2006,0
+Pakistan,Asia,Italy,Europe,2006,0
+Pakistan,Asia,Croatia,Europe,2006,0
+Pakistan,Asia,Serbia,Europe,2006,0
+Pakistan,Asia,Bosnia,Europe,2006,0
+Pakistan,Asia,Greece,Europe,2006,0
+Pakistan,Asia,Bulgaria,Europe,2006,0
+Pakistan,Asia,Romania,Europe,2006,0
+Pakistan,Asia,Russia,Asia,2006,0
+Pakistan,Asia,Ukraine,Europe,2006,0
+Pakistan,Asia,Finland,Europe,2006,0
+Pakistan,Asia,Sweden,Europe,2006,0
+Pakistan,Asia,Norway,Europe,2006,0
+Pakistan,Asia,Denmark,Europe,2006,0
+Pakistan,Asia,South Africa,Africa,2006,0
+Pakistan,Asia,Turkey,Asia,2006,1771
+Pakistan,Asia,Israel,Asia,2006,0
+Pakistan,Asia,United Arab Emirates,Asia,2006,0
+Pakistan,Asia,Taiwan,Asia,2006,0
+Pakistan,Asia,South Korea,Asia,2006,0
+Pakistan,Asia,Japan,Asia,2006,0
+Pakistan,Asia,India,Asia,2006,0
+Pakistan,Asia,Pakistan,Asia,2006,0
+Pakistan,Asia,Thailand,Asia,2006,0
+Pakistan,Asia,Malaysia,Asia,2006,0
+Pakistan,Asia,Singapore,Asia,2006,0
+Pakistan,Asia,Philippines,Asia,2006,0
+Pakistan,Asia,Indonesia,Asia,2006,0
+Pakistan,Asia,Australia,Oceania,2006,0
+Pakistan,Asia,Cyprus,Europe,2006,0
+Pakistan,Asia,China,Asia,2006,0
+Pakistan,Asia,Ivory Coast,Africa,2006,0
+Pakistan,Asia,Congo,Africa,2006,0
+Thailand,Asia,United States,North America,2006,0
+Thailand,Asia,Canada,North America,2006,0
+Thailand,Asia,Mexico,North America,2006,0
+Thailand,Asia,Brazil,South America,2006,0
+Thailand,Asia,Argentina,South America,2006,0
+Thailand,Asia,United Kingdom,Europe,2006,0
+Thailand,Asia,Netherlands,Europe,2006,210
+Thailand,Asia,Belgium,Europe,2006,0
+Thailand,Asia,France,Europe,2006,0
+Thailand,Asia,Switzerland,Europe,2006,0
+Thailand,Asia,Spain,Europe,2006,0
+Thailand,Asia,Portugal,Europe,2006,0
+Thailand,Asia,Germany,Europe,2006,0
+Thailand,Asia,Poland,Europe,2006,0
+Thailand,Asia,Austria,Europe,2006,0
+Thailand,Asia,Hungary,Europe,2006,0
+Thailand,Asia,Czech Republic,Europe,2006,0
+Thailand,Asia,Slovakia,Europe,2006,0
+Thailand,Asia,Italy,Europe,2006,0
+Thailand,Asia,Croatia,Europe,2006,0
+Thailand,Asia,Serbia,Europe,2006,0
+Thailand,Asia,Bosnia,Europe,2006,0
+Thailand,Asia,Greece,Europe,2006,0
+Thailand,Asia,Bulgaria,Europe,2006,0
+Thailand,Asia,Romania,Europe,2006,0
+Thailand,Asia,Russia,Asia,2006,0
+Thailand,Asia,Ukraine,Europe,2006,0
+Thailand,Asia,Finland,Europe,2006,0
+Thailand,Asia,Sweden,Europe,2006,0
+Thailand,Asia,Norway,Europe,2006,0
+Thailand,Asia,Denmark,Europe,2006,0
+Thailand,Asia,South Africa,Africa,2006,0
+Thailand,Asia,Turkey,Asia,2006,0
+Thailand,Asia,Israel,Asia,2006,0
+Thailand,Asia,United Arab Emirates,Asia,2006,0
+Thailand,Asia,Taiwan,Asia,2006,0
+Thailand,Asia,South Korea,Asia,2006,0
+Thailand,Asia,Japan,Asia,2006,0
+Thailand,Asia,India,Asia,2006,0
+Thailand,Asia,Pakistan,Asia,2006,72
+Thailand,Asia,Thailand,Asia,2006,0
+Thailand,Asia,Malaysia,Asia,2006,0
+Thailand,Asia,Singapore,Asia,2006,8685358
+Thailand,Asia,Philippines,Asia,2006,0
+Thailand,Asia,Indonesia,Asia,2006,0
+Thailand,Asia,Australia,Oceania,2006,0
+Thailand,Asia,Cyprus,Europe,2006,0
+Thailand,Asia,China,Asia,2006,0
+Thailand,Asia,Ivory Coast,Africa,2006,0
+Thailand,Asia,Congo,Africa,2006,0
+Malaysia,Asia,United States,North America,2006,2463
+Malaysia,Asia,Canada,North America,2006,0
+Malaysia,Asia,Mexico,North America,2006,0
+Malaysia,Asia,Brazil,South America,2006,0
+Malaysia,Asia,Argentina,South America,2006,0
+Malaysia,Asia,United Kingdom,Europe,2006,0
+Malaysia,Asia,Netherlands,Europe,2006,0
+Malaysia,Asia,Belgium,Europe,2006,0
+Malaysia,Asia,France,Europe,2006,0
+Malaysia,Asia,Switzerland,Europe,2006,47120
+Malaysia,Asia,Spain,Europe,2006,0
+Malaysia,Asia,Portugal,Europe,2006,0
+Malaysia,Asia,Germany,Europe,2006,0
+Malaysia,Asia,Poland,Europe,2006,0
+Malaysia,Asia,Austria,Europe,2006,0
+Malaysia,Asia,Hungary,Europe,2006,0
+Malaysia,Asia,Czech Republic,Europe,2006,0
+Malaysia,Asia,Slovakia,Europe,2006,0
+Malaysia,Asia,Italy,Europe,2006,0
+Malaysia,Asia,Croatia,Europe,2006,0
+Malaysia,Asia,Serbia,Europe,2006,0
+Malaysia,Asia,Bosnia,Europe,2006,0
+Malaysia,Asia,Greece,Europe,2006,0
+Malaysia,Asia,Bulgaria,Europe,2006,0
+Malaysia,Asia,Romania,Europe,2006,0
+Malaysia,Asia,Russia,Asia,2006,0
+Malaysia,Asia,Ukraine,Europe,2006,0
+Malaysia,Asia,Finland,Europe,2006,0
+Malaysia,Asia,Sweden,Europe,2006,0
+Malaysia,Asia,Norway,Europe,2006,0
+Malaysia,Asia,Denmark,Europe,2006,0
+Malaysia,Asia,South Africa,Africa,2006,0
+Malaysia,Asia,Turkey,Asia,2006,0
+Malaysia,Asia,Israel,Asia,2006,0
+Malaysia,Asia,United Arab Emirates,Asia,2006,0
+Malaysia,Asia,Taiwan,Asia,2006,3338
+Malaysia,Asia,South Korea,Asia,2006,0
+Malaysia,Asia,Japan,Asia,2006,0
+Malaysia,Asia,India,Asia,2006,0
+Malaysia,Asia,Pakistan,Asia,2006,0
+Malaysia,Asia,Thailand,Asia,2006,681106
+Malaysia,Asia,Malaysia,Asia,2006,0
+Malaysia,Asia,Singapore,Asia,2006,3147
+Malaysia,Asia,Philippines,Asia,2006,0
+Malaysia,Asia,Indonesia,Asia,2006,33376
+Malaysia,Asia,Australia,Oceania,2006,14979
+Malaysia,Asia,Cyprus,Europe,2006,0
+Malaysia,Asia,China,Asia,2006,0
+Malaysia,Asia,Ivory Coast,Africa,2006,0
+Malaysia,Asia,Congo,Africa,2006,0
+Singapore,Asia,United States,North America,2006,190163
+Singapore,Asia,Canada,North America,2006,0
+Singapore,Asia,Mexico,North America,2006,0
+Singapore,Asia,Brazil,South America,2006,0
+Singapore,Asia,Argentina,South America,2006,0
+Singapore,Asia,United Kingdom,Europe,2006,0
+Singapore,Asia,Netherlands,Europe,2006,0
+Singapore,Asia,Belgium,Europe,2006,0
+Singapore,Asia,France,Europe,2006,0
+Singapore,Asia,Switzerland,Europe,2006,1101741
+Singapore,Asia,Spain,Europe,2006,0
+Singapore,Asia,Portugal,Europe,2006,0
+Singapore,Asia,Germany,Europe,2006,0
+Singapore,Asia,Poland,Europe,2006,0
+Singapore,Asia,Austria,Europe,2006,0
+Singapore,Asia,Hungary,Europe,2006,0
+Singapore,Asia,Czech Republic,Europe,2006,0
+Singapore,Asia,Slovakia,Europe,2006,0
+Singapore,Asia,Italy,Europe,2006,0
+Singapore,Asia,Croatia,Europe,2006,0
+Singapore,Asia,Serbia,Europe,2006,0
+Singapore,Asia,Bosnia,Europe,2006,0
+Singapore,Asia,Greece,Europe,2006,0
+Singapore,Asia,Bulgaria,Europe,2006,0
+Singapore,Asia,Romania,Europe,2006,0
+Singapore,Asia,Russia,Asia,2006,0
+Singapore,Asia,Ukraine,Europe,2006,0
+Singapore,Asia,Finland,Europe,2006,1515872
+Singapore,Asia,Sweden,Europe,2006,0
+Singapore,Asia,Norway,Europe,2006,0
+Singapore,Asia,Denmark,Europe,2006,0
+Singapore,Asia,South Africa,Africa,2006,0
+Singapore,Asia,Turkey,Asia,2006,0
+Singapore,Asia,Israel,Asia,2006,0
+Singapore,Asia,United Arab Emirates,Asia,2006,0
+Singapore,Asia,Taiwan,Asia,2006,5157
+Singapore,Asia,South Korea,Asia,2006,0
+Singapore,Asia,Japan,Asia,2006,0
+Singapore,Asia,India,Asia,2006,102
+Singapore,Asia,Pakistan,Asia,2006,0
+Singapore,Asia,Thailand,Asia,2006,0
+Singapore,Asia,Malaysia,Asia,2006,50957
+Singapore,Asia,Singapore,Asia,2006,0
+Singapore,Asia,Philippines,Asia,2006,0
+Singapore,Asia,Indonesia,Asia,2006,34671
+Singapore,Asia,Australia,Oceania,2006,6401
+Singapore,Asia,Cyprus,Europe,2006,0
+Singapore,Asia,China,Asia,2006,0
+Singapore,Asia,Ivory Coast,Africa,2006,0
+Singapore,Asia,Congo,Africa,2006,0
+Philippines,Asia,United States,North America,2006,3675814
+Philippines,Asia,Canada,North America,2006,0
+Philippines,Asia,Mexico,North America,2006,0
+Philippines,Asia,Brazil,South America,2006,0
+Philippines,Asia,Argentina,South America,2006,0
+Philippines,Asia,United Kingdom,Europe,2006,0
+Philippines,Asia,Netherlands,Europe,2006,0
+Philippines,Asia,Belgium,Europe,2006,0
+Philippines,Asia,France,Europe,2006,114434
+Philippines,Asia,Switzerland,Europe,2006,0
+Philippines,Asia,Spain,Europe,2006,0
+Philippines,Asia,Portugal,Europe,2006,0
+Philippines,Asia,Germany,Europe,2006,36236
+Philippines,Asia,Poland,Europe,2006,0
+Philippines,Asia,Austria,Europe,2006,0
+Philippines,Asia,Hungary,Europe,2006,0
+Philippines,Asia,Czech Republic,Europe,2006,0
+Philippines,Asia,Slovakia,Europe,2006,0
+Philippines,Asia,Italy,Europe,2006,29648
+Philippines,Asia,Croatia,Europe,2006,0
+Philippines,Asia,Serbia,Europe,2006,0
+Philippines,Asia,Bosnia,Europe,2006,0
+Philippines,Asia,Greece,Europe,2006,0
+Philippines,Asia,Bulgaria,Europe,2006,0
+Philippines,Asia,Romania,Europe,2006,0
+Philippines,Asia,Russia,Asia,2006,0
+Philippines,Asia,Ukraine,Europe,2006,0
+Philippines,Asia,Finland,Europe,2006,17223
+Philippines,Asia,Sweden,Europe,2006,0
+Philippines,Asia,Norway,Europe,2006,0
+Philippines,Asia,Denmark,Europe,2006,0
+Philippines,Asia,South Africa,Africa,2006,0
+Philippines,Asia,Turkey,Asia,2006,0
+Philippines,Asia,Israel,Asia,2006,0
+Philippines,Asia,United Arab Emirates,Asia,2006,0
+Philippines,Asia,Taiwan,Asia,2006,0
+Philippines,Asia,South Korea,Asia,2006,0
+Philippines,Asia,Japan,Asia,2006,15567
+Philippines,Asia,India,Asia,2006,0
+Philippines,Asia,Pakistan,Asia,2006,18505
+Philippines,Asia,Thailand,Asia,2006,361164
+Philippines,Asia,Malaysia,Asia,2006,0
+Philippines,Asia,Singapore,Asia,2006,0
+Philippines,Asia,Philippines,Asia,2006,0
+Philippines,Asia,Indonesia,Asia,2006,0
+Philippines,Asia,Australia,Oceania,2006,158653
+Philippines,Asia,Cyprus,Europe,2006,0
+Philippines,Asia,China,Asia,2006,38
+Philippines,Asia,Ivory Coast,Africa,2006,0
+Philippines,Asia,Congo,Africa,2006,0
+Indonesia,Asia,United States,North America,2006,76
+Indonesia,Asia,Canada,North America,2006,0
+Indonesia,Asia,Mexico,North America,2006,0
+Indonesia,Asia,Brazil,South America,2006,0
+Indonesia,Asia,Argentina,South America,2006,0
+Indonesia,Asia,United Kingdom,Europe,2006,0
+Indonesia,Asia,Netherlands,Europe,2006,0
+Indonesia,Asia,Belgium,Europe,2006,0
+Indonesia,Asia,France,Europe,2006,0
+Indonesia,Asia,Switzerland,Europe,2006,0
+Indonesia,Asia,Spain,Europe,2006,0
+Indonesia,Asia,Portugal,Europe,2006,0
+Indonesia,Asia,Germany,Europe,2006,0
+Indonesia,Asia,Poland,Europe,2006,0
+Indonesia,Asia,Austria,Europe,2006,0
+Indonesia,Asia,Hungary,Europe,2006,0
+Indonesia,Asia,Czech Republic,Europe,2006,0
+Indonesia,Asia,Slovakia,Europe,2006,0
+Indonesia,Asia,Italy,Europe,2006,2514
+Indonesia,Asia,Croatia,Europe,2006,0
+Indonesia,Asia,Serbia,Europe,2006,153
+Indonesia,Asia,Bosnia,Europe,2006,0
+Indonesia,Asia,Greece,Europe,2006,0
+Indonesia,Asia,Bulgaria,Europe,2006,0
+Indonesia,Asia,Romania,Europe,2006,0
+Indonesia,Asia,Russia,Asia,2006,0
+Indonesia,Asia,Ukraine,Europe,2006,0
+Indonesia,Asia,Finland,Europe,2006,0
+Indonesia,Asia,Sweden,Europe,2006,0
+Indonesia,Asia,Norway,Europe,2006,0
+Indonesia,Asia,Denmark,Europe,2006,0
+Indonesia,Asia,South Africa,Africa,2006,18975
+Indonesia,Asia,Turkey,Asia,2006,1054
+Indonesia,Asia,Israel,Asia,2006,0
+Indonesia,Asia,United Arab Emirates,Asia,2006,0
+Indonesia,Asia,Taiwan,Asia,2006,960
+Indonesia,Asia,South Korea,Asia,2006,47862
+Indonesia,Asia,Japan,Asia,2006,0
+Indonesia,Asia,India,Asia,2006,0
+Indonesia,Asia,Pakistan,Asia,2006,0
+Indonesia,Asia,Thailand,Asia,2006,27171
+Indonesia,Asia,Malaysia,Asia,2006,0
+Indonesia,Asia,Singapore,Asia,2006,31058
+Indonesia,Asia,Philippines,Asia,2006,0
+Indonesia,Asia,Indonesia,Asia,2006,0
+Indonesia,Asia,Australia,Oceania,2006,0
+Indonesia,Asia,Cyprus,Europe,2006,0
+Indonesia,Asia,China,Asia,2006,0
+Indonesia,Asia,Ivory Coast,Africa,2006,0
+Indonesia,Asia,Congo,Africa,2006,0
+Australia,Oceania,United States,North America,2006,2116174
+Australia,Oceania,Canada,North America,2006,231681
+Australia,Oceania,Mexico,North America,2006,5022
+Australia,Oceania,Brazil,South America,2006,0
+Australia,Oceania,Argentina,South America,2006,0
+Australia,Oceania,United Kingdom,Europe,2006,408579
+Australia,Oceania,Netherlands,Europe,2006,310644
+Australia,Oceania,Belgium,Europe,2006,446416
+Australia,Oceania,France,Europe,2006,241100
+Australia,Oceania,Switzerland,Europe,2006,30490
+Australia,Oceania,Spain,Europe,2006,25765
+Australia,Oceania,Portugal,Europe,2006,0
+Australia,Oceania,Germany,Europe,2006,88868
+Australia,Oceania,Poland,Europe,2006,9549
+Australia,Oceania,Austria,Europe,2006,2490
+Australia,Oceania,Hungary,Europe,2006,0
+Australia,Oceania,Czech Republic,Europe,2006,956
+Australia,Oceania,Slovakia,Europe,2006,0
+Australia,Oceania,Italy,Europe,2006,50810
+Australia,Oceania,Croatia,Europe,2006,395
+Australia,Oceania,Serbia,Europe,2006,0
+Australia,Oceania,Bosnia,Europe,2006,0
+Australia,Oceania,Greece,Europe,2006,0
+Australia,Oceania,Bulgaria,Europe,2006,0
+Australia,Oceania,Romania,Europe,2006,0
+Australia,Oceania,Russia,Asia,2006,2980
+Australia,Oceania,Ukraine,Europe,2006,0
+Australia,Oceania,Finland,Europe,2006,11428
+Australia,Oceania,Sweden,Europe,2006,41027
+Australia,Oceania,Norway,Europe,2006,1800
+Australia,Oceania,Denmark,Europe,2006,0
+Australia,Oceania,South Africa,Africa,2006,62880
+Australia,Oceania,Turkey,Asia,2006,0
+Australia,Oceania,Israel,Asia,2006,0
+Australia,Oceania,United Arab Emirates,Asia,2006,14571
+Australia,Oceania,Taiwan,Asia,2006,47260
+Australia,Oceania,South Korea,Asia,2006,37427
+Australia,Oceania,Japan,Asia,2006,2598821
+Australia,Oceania,India,Asia,2006,59986
+Australia,Oceania,Pakistan,Asia,2006,33849
+Australia,Oceania,Thailand,Asia,2006,758015
+Australia,Oceania,Malaysia,Asia,2006,109070
+Australia,Oceania,Singapore,Asia,2006,78023
+Australia,Oceania,Philippines,Asia,2006,242763
+Australia,Oceania,Indonesia,Asia,2006,0
+Australia,Oceania,Australia,Oceania,2006,3229974
+Australia,Oceania,Cyprus,Europe,2006,39483
+Australia,Oceania,China,Asia,2006,261047
+Australia,Oceania,Ivory Coast,Africa,2006,0
+Australia,Oceania,Congo,Africa,2006,0
+Cyprus,Europe,United States,North America,2006,0
+Cyprus,Europe,Canada,North America,2006,0
+Cyprus,Europe,Mexico,North America,2006,0
+Cyprus,Europe,Brazil,South America,2006,0
+Cyprus,Europe,Argentina,South America,2006,0
+Cyprus,Europe,United Kingdom,Europe,2006,963451
+Cyprus,Europe,Netherlands,Europe,2006,0
+Cyprus,Europe,Belgium,Europe,2006,0
+Cyprus,Europe,France,Europe,2006,0
+Cyprus,Europe,Switzerland,Europe,2006,0
+Cyprus,Europe,Spain,Europe,2006,0
+Cyprus,Europe,Portugal,Europe,2006,0
+Cyprus,Europe,Germany,Europe,2006,4392
+Cyprus,Europe,Poland,Europe,2006,0
+Cyprus,Europe,Austria,Europe,2006,0
+Cyprus,Europe,Hungary,Europe,2006,0
+Cyprus,Europe,Czech Republic,Europe,2006,0
+Cyprus,Europe,Slovakia,Europe,2006,0
+Cyprus,Europe,Italy,Europe,2006,0
+Cyprus,Europe,Croatia,Europe,2006,90205
+Cyprus,Europe,Serbia,Europe,2006,485548
+Cyprus,Europe,Bosnia,Europe,2006,857999
+Cyprus,Europe,Greece,Europe,2006,2028399
+Cyprus,Europe,Bulgaria,Europe,2006,0
+Cyprus,Europe,Romania,Europe,2006,78373
+Cyprus,Europe,Russia,Asia,2006,4013
+Cyprus,Europe,Ukraine,Europe,2006,20906
+Cyprus,Europe,Finland,Europe,2006,72981
+Cyprus,Europe,Sweden,Europe,2006,0
+Cyprus,Europe,Norway,Europe,2006,72901
+Cyprus,Europe,Denmark,Europe,2006,28351
+Cyprus,Europe,South Africa,Africa,2006,0
+Cyprus,Europe,Turkey,Asia,2006,2328860
+Cyprus,Europe,Israel,Asia,2006,6306
+Cyprus,Europe,United Arab Emirates,Asia,2006,203222
+Cyprus,Europe,Taiwan,Asia,2006,0
+Cyprus,Europe,South Korea,Asia,2006,0
+Cyprus,Europe,Japan,Asia,2006,0
+Cyprus,Europe,India,Asia,2006,117006
+Cyprus,Europe,Pakistan,Asia,2006,0
+Cyprus,Europe,Thailand,Asia,2006,0
+Cyprus,Europe,Malaysia,Asia,2006,0
+Cyprus,Europe,Singapore,Asia,2006,0
+Cyprus,Europe,Philippines,Asia,2006,0
+Cyprus,Europe,Indonesia,Asia,2006,0
+Cyprus,Europe,Australia,Oceania,2006,145371
+Cyprus,Europe,Cyprus,Europe,2006,0
+Cyprus,Europe,China,Asia,2006,2387
+Cyprus,Europe,Ivory Coast,Africa,2006,0
+Cyprus,Europe,Congo,Africa,2006,0
+China,Asia,United States,North America,2006,7819150
+China,Asia,Canada,North America,2006,533253
+China,Asia,Mexico,North America,2006,0
+China,Asia,Brazil,South America,2006,35270
+China,Asia,Argentina,South America,2006,129215
+China,Asia,United Kingdom,Europe,2006,670109
+China,Asia,Netherlands,Europe,2006,0
+China,Asia,Belgium,Europe,2006,0
+China,Asia,France,Europe,2006,65677
+China,Asia,Switzerland,Europe,2006,6966
+China,Asia,Spain,Europe,2006,0
+China,Asia,Portugal,Europe,2006,10706
+China,Asia,Germany,Europe,2006,1109089
+China,Asia,Poland,Europe,2006,43712
+China,Asia,Austria,Europe,2006,20834
+China,Asia,Hungary,Europe,2006,0
+China,Asia,Czech Republic,Europe,2006,4387
+China,Asia,Slovakia,Europe,2006,8383
+China,Asia,Italy,Europe,2006,79864
+China,Asia,Croatia,Europe,2006,0
+China,Asia,Serbia,Europe,2006,0
+China,Asia,Bosnia,Europe,2006,7134
+China,Asia,Greece,Europe,2006,0
+China,Asia,Bulgaria,Europe,2006,0
+China,Asia,Romania,Europe,2006,0
+China,Asia,Russia,Asia,2006,0
+China,Asia,Ukraine,Europe,2006,0
+China,Asia,Finland,Europe,2006,28117
+China,Asia,Sweden,Europe,2006,0
+China,Asia,Norway,Europe,2006,1571
+China,Asia,Denmark,Europe,2006,0
+China,Asia,South Africa,Africa,2006,0
+China,Asia,Turkey,Asia,2006,662
+China,Asia,Israel,Asia,2006,0
+China,Asia,United Arab Emirates,Asia,2006,0
+China,Asia,Taiwan,Asia,2006,0
+China,Asia,South Korea,Asia,2006,9606
+China,Asia,Japan,Asia,2006,2474
+China,Asia,India,Asia,2006,9086
+China,Asia,Pakistan,Asia,2006,966771
+China,Asia,Thailand,Asia,2006,189916
+China,Asia,Malaysia,Asia,2006,34268
+China,Asia,Singapore,Asia,2006,4058757
+China,Asia,Philippines,Asia,2006,600703
+China,Asia,Indonesia,Asia,2006,307
+China,Asia,Australia,Oceania,2006,0
+China,Asia,Cyprus,Europe,2006,358
+China,Asia,China,Asia,2006,0
+China,Asia,Ivory Coast,Africa,2006,509
+China,Asia,Congo,Africa,2006,0
+Ivory Coast,Africa,United States,North America,2006,0
+Ivory Coast,Africa,Canada,North America,2006,0
+Ivory Coast,Africa,Mexico,North America,2006,0
+Ivory Coast,Africa,Brazil,South America,2006,0
+Ivory Coast,Africa,Argentina,South America,2006,0
+Ivory Coast,Africa,United Kingdom,Europe,2006,0
+Ivory Coast,Africa,Netherlands,Europe,2006,0
+Ivory Coast,Africa,Belgium,Europe,2006,0
+Ivory Coast,Africa,France,Europe,2006,1282318
+Ivory Coast,Africa,Switzerland,Europe,2006,0
+Ivory Coast,Africa,Spain,Europe,2006,0
+Ivory Coast,Africa,Portugal,Europe,2006,0
+Ivory Coast,Africa,Germany,Europe,2006,0
+Ivory Coast,Africa,Poland,Europe,2006,0
+Ivory Coast,Africa,Austria,Europe,2006,0
+Ivory Coast,Africa,Hungary,Europe,2006,0
+Ivory Coast,Africa,Czech Republic,Europe,2006,0
+Ivory Coast,Africa,Slovakia,Europe,2006,0
+Ivory Coast,Africa,Italy,Europe,2006,0
+Ivory Coast,Africa,Croatia,Europe,2006,0
+Ivory Coast,Africa,Serbia,Europe,2006,0
+Ivory Coast,Africa,Bosnia,Europe,2006,0
+Ivory Coast,Africa,Greece,Europe,2006,0
+Ivory Coast,Africa,Bulgaria,Europe,2006,0
+Ivory Coast,Africa,Romania,Europe,2006,0
+Ivory Coast,Africa,Russia,Asia,2006,0
+Ivory Coast,Africa,Ukraine,Europe,2006,0
+Ivory Coast,Africa,Finland,Europe,2006,0
+Ivory Coast,Africa,Sweden,Europe,2006,0
+Ivory Coast,Africa,Norway,Europe,2006,0
+Ivory Coast,Africa,Denmark,Europe,2006,0
+Ivory Coast,Africa,South Africa,Africa,2006,0
+Ivory Coast,Africa,Turkey,Asia,2006,0
+Ivory Coast,Africa,Israel,Asia,2006,0
+Ivory Coast,Africa,United Arab Emirates,Asia,2006,0
+Ivory Coast,Africa,Taiwan,Asia,2006,0
+Ivory Coast,Africa,South Korea,Asia,2006,0
+Ivory Coast,Africa,Japan,Asia,2006,0
+Ivory Coast,Africa,India,Asia,2006,0
+Ivory Coast,Africa,Pakistan,Asia,2006,0
+Ivory Coast,Africa,Thailand,Asia,2006,0
+Ivory Coast,Africa,Malaysia,Asia,2006,0
+Ivory Coast,Africa,Singapore,Asia,2006,0
+Ivory Coast,Africa,Philippines,Asia,2006,0
+Ivory Coast,Africa,Indonesia,Asia,2006,0
+Ivory Coast,Africa,Australia,Oceania,2006,0
+Ivory Coast,Africa,Cyprus,Europe,2006,0
+Ivory Coast,Africa,China,Asia,2006,0
+Ivory Coast,Africa,Ivory Coast,Africa,2006,0
+Ivory Coast,Africa,Congo,Africa,2006,0
+Congo,Africa,United States,North America,2006,0
+Congo,Africa,Canada,North America,2006,0
+Congo,Africa,Mexico,North America,2006,0
+Congo,Africa,Brazil,South America,2006,0
+Congo,Africa,Argentina,South America,2006,0
+Congo,Africa,United Kingdom,Europe,2006,0
+Congo,Africa,Netherlands,Europe,2006,0
+Congo,Africa,Belgium,Europe,2006,0
+Congo,Africa,France,Europe,2006,0
+Congo,Africa,Switzerland,Europe,2006,0
+Congo,Africa,Spain,Europe,2006,0
+Congo,Africa,Portugal,Europe,2006,0
+Congo,Africa,Germany,Europe,2006,0
+Congo,Africa,Poland,Europe,2006,0
+Congo,Africa,Austria,Europe,2006,0
+Congo,Africa,Hungary,Europe,2006,0
+Congo,Africa,Czech Republic,Europe,2006,0
+Congo,Africa,Slovakia,Europe,2006,0
+Congo,Africa,Italy,Europe,2006,0
+Congo,Africa,Croatia,Europe,2006,0
+Congo,Africa,Serbia,Europe,2006,0
+Congo,Africa,Bosnia,Europe,2006,0
+Congo,Africa,Greece,Europe,2006,0
+Congo,Africa,Bulgaria,Europe,2006,0
+Congo,Africa,Romania,Europe,2006,0
+Congo,Africa,Russia,Asia,2006,0
+Congo,Africa,Ukraine,Europe,2006,0
+Congo,Africa,Finland,Europe,2006,0
+Congo,Africa,Sweden,Europe,2006,0
+Congo,Africa,Norway,Europe,2006,0
+Congo,Africa,Denmark,Europe,2006,0
+Congo,Africa,South Africa,Africa,2006,0
+Congo,Africa,Turkey,Asia,2006,0
+Congo,Africa,Israel,Asia,2006,0
+Congo,Africa,United Arab Emirates,Asia,2006,0
+Congo,Africa,Taiwan,Asia,2006,0
+Congo,Africa,South Korea,Asia,2006,0
+Congo,Africa,Japan,Asia,2006,0
+Congo,Africa,India,Asia,2006,0
+Congo,Africa,Pakistan,Asia,2006,0
+Congo,Africa,Thailand,Asia,2006,0
+Congo,Africa,Malaysia,Asia,2006,0
+Congo,Africa,Singapore,Asia,2006,0
+Congo,Africa,Philippines,Asia,2006,0
+Congo,Africa,Indonesia,Asia,2006,0
+Congo,Africa,Australia,Oceania,2006,0
+Congo,Africa,Cyprus,Europe,2006,0
+Congo,Africa,China,Asia,2006,0
+Congo,Africa,Ivory Coast,Africa,2006,0
+Congo,Africa,Congo,Africa,2006,0

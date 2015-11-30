@@ -1,0 +1,120 @@
+#infoPanel {
+    display: block;
+    width: 3%;
+    height: 1300px;
+    float: right;
+    /*background-color: grey;*/
+}
+
+#contentPanel {
+    display: block;
+    width: 97%;
+    height: 1300px;
+    float: right;
+    /*background-color: yellow;*/
+}
+
+#sliderDouble {
+    display: block;
+    height: 155px;
+    width: 60%;
+    margin: auto;
+    float: left;
+    top: 50%;
+    margin-bottom: 50px;
+}
+
+
+/*---------------------------------------*/
+
+#menuPanel {
+    display: block;
+    width: 100%;
+    height: 1300px;
+    float: right;
+    /*background-color: chartreuse;*/
+}
+
+#vizPanel {
+    display: block;
+    width: 100%;
+    height: 0px;
+    float: right;
+    /*background-color: yellow;*/
+}
+
+#titlePanel {
+    display: block;
+    width: 100%;
+    height: 100px;
+    float: left;
+    /*background-color: coral;*/
+}
+
+#matrixPanel {
+    display: block;
+    width: 100%;
+    height: 1100px;
+    float: right;
+    margin: auto;
+    /*background-color: blue;*/
+}
+
+#sliderPanel {
+    /*display: block;*/
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0px;
+    float: right;
+    color: black;
+    width: 100%;
+    height: 100px;
+    /*background-color: burlywood;*/
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#topChart {
+    width: 100%;
+    height: 150px;
+    float: left;
+    /*background-color: cyan;*/
+}
+
+#mainSVG {
+    width: 85%;
+    height: 1050px;
+    float: left;
+    /*background-color: green;*/
+}
+
+#sideChart {
+    width: 15%;
+    height: 1050px;
+    float: left;
+    /*background-color: yellow;*/
+}
+
+#mainTitle {
+    /*margin-top: 20px;*/
+    color: #111;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: left;
+    padding-left: 40px;
+    width: 70%;
+    float: left;
+}
+
+#chart {
+    display: block;
+    width: 85%;
+    height: 1050px;
+    /*float: left;*/
+    overflow: hidden;
+    margin: auto;
+    /*background-color: green;*/
+}
