@@ -1,3 +1,10 @@
+#sliderDouble {
+    display: block;
+    position: relative;
+    top: 30px;
+    margin-top: 30px;
+}
+
 #sliderDouble.ui-slider {
     border-radius: 0px;
     background: #c7cdd5;

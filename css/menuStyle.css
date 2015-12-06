@@ -21,7 +21,7 @@
 
 #columnleftId {
     width: 70%;
-    height: 600px;
+    height: 200px;
     overflow-x: hidden;
     overflow-y: scroll;
 }
@@ -39,15 +39,46 @@
     filter: alpha(opacity=50);
 }
 
+#nxtBtnId {
+    /*padding-top: 30px;*/
+}
+
 .clFormHead {
     position: relative;
     color: #ffffff;
     font-family: 'Raleway', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 800;
-    line-height: 72px;
-    margin: 25px 0 24px;
+    line-height: 32px;
+    margin: 5px 0 10px;
+    margin-bottom: 2px;
     text-align: center;
+    text-transform: uppercase;
+}
+
+.clCheckBoxLabel {
+    position: relative;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    font-weight: 800;
+    line-height: 22px;
+    margin: 10px 0 10px;
+    margin-left: 20px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.clRadioLabel {
+    position: relative;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    font-weight: 800;
+    line-height: 22px;
+    margin: 10px 0 10px;
+    margin-left: 20px;
+    text-align: left;
     text-transform: uppercase;
 }
 
@@ -96,7 +127,7 @@
     position: relative;
     left: 0px;
     margin: auto;
-    margin-top: 10px;
+    margin-top: 3px;
     padding: 10px;
 }
 

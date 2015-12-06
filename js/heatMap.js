@@ -22,6 +22,12 @@ var hm_masterLabel = [];
 var hm_allCountriesAlphabetical = [];
 var hm_allCountriesByContinent = [];
 var hm_allCountriesByExportVal = [];
+var hm_africa = []; 
+var hm_asia = []; 
+var hm_europe = []; 
+var hm_northAmerica = []; 
+var hm_oceania = []; 
+var hm_southAmerica = []; 
 var hm_continents = [];
 var hm_legendKeys = ["$0", "$1", "$10", "$100", "$1 k.", "$10 k.", "$100 k.", "$1 m.", "$10 m.", "$100 m.", "$1 b.", "$10 b."];
 var hm_legendVals = [0, 1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000, 10000000000];
@@ -33,9 +39,9 @@ var hm_data;
 var hm_filteredData;
 var hm_year;
 var hm_format = d3.format(",3r");
-var hm_sortOrderAlphabetical = "alphabetical";
-var hm_sortOrderHighestExporters = "highestExporters";
-var hm_sortOrderByContinent = "byContinent";
+var hm_sortOrderAlphabetical = "Alphabetically";
+var hm_sortOrderHighestExporters = "Value";
+var hm_sortOrderByContinent = "Continent";
 
 // load the heat map
 function loadHeatMap(hm_yearValue) {
@@ -45,7 +51,7 @@ function loadHeatMap(hm_yearValue) {
 
 //read in the heat map data
 function readHeatMapData(y, hm_fileInd, loadVisBool) {
-    console.log("HeatMap.js: Reading Heat Map Data for Year " + y[hm_fileInd] + ".");
+    //console.log("HeatMap.js: Reading Heat Map Data for Year " + y[hm_fileInd] + ".");
     hm_data = null;
     d3.csv("data/" + y[hm_fileInd] + "AggregatedArmsData.csv", function (hm_dataset) {
         if (hm_fileInd < hm_year.length - 1) {
@@ -81,7 +87,7 @@ function sortAllData(y, loadVisBool) {
         }
     }
 
-    console.log("HeatMap.js: Number of countries: " + hm_masterLabel.length);
+    //console.log("HeatMap.js: Number of countries: " + hm_masterLabel.length);
 
     // create the alphabetically sorted arrays
     hm_allCountriesAlphabetical = hm_masterLabel.sort();
@@ -94,6 +100,24 @@ function sortAllData(y, loadVisBool) {
 
         // sort the continents alphabetically
         for (var hm_i = 0; hm_i < hm_continentData.length; hm_i++) {
+        	var tempContinent = hm_continentData[hm_i]["Continent"].trim(); 
+        	if (tempContinent == "Africa") {
+        		hm_africa.push(hm_continentData[hm_i]["Country"].trim());
+        	} else if (tempContinent == "Asia") {
+        		hm_asia.push(hm_continentData[hm_i]["Country"].trim());
+        	} else if (tempContinent == "Europe") {
+        		hm_europe.push(hm_continentData[hm_i]["Country"].trim());
+        	} else if (tempContinent == "North America") {
+        		hm_northAmerica.push(hm_continentData[hm_i]["Country"].trim());
+        	} else if (tempContinent == "Oceania") {
+        		hm_oceania.push(hm_continentData[hm_i]["Country"].trim());
+        	} else if (tempContinent == "South America") {
+        		hm_southAmerica.push(hm_continentData[hm_i]["Country"].trim());
+        	} else {
+        		console.log("Couldn't locate continent " + tempContinent);
+        	}
+        	
+        	
             if ($.inArray(hm_continentData[hm_i]["Continent"].trim(), hm_continents) > -1) {
                 // already in array
             } else {
@@ -198,6 +222,42 @@ function getSortedArray(hm_inputArray, hm_sortOrder, hm_currentYear) {
 	return hm_sortedArray; 
 }
 
+// get countries with the given continent
+function getCountriesByContinent(hm_continentList) {
+	var hm_countriesByContinentList = [];
+	
+	if (hm_continentList.length > 0) {
+		if (hm_continentList.length == 1 && hm_continentList[0] == "Oceania") {
+			alert("Only one Oceanican country in the Arms and Ammunition data set. A minimum of two countries are required to visualize.");
+			return hm_allCountriesByContinent; 
+		} else {
+			if (hm_continentList.indexOf("Africa") > -1) {
+				hm_countriesByContinentList = hm_countriesByContinentList.concat(hm_africa);
+			}
+			if (hm_continentList.indexOf("Asia") > -1) {
+				hm_countriesByContinentList = hm_countriesByContinentList.concat(hm_asia);
+			}
+			if (hm_continentList.indexOf("Europe") > -1) {
+				hm_countriesByContinentList = hm_countriesByContinentList.concat(hm_europe);
+			}
+			if (hm_continentList.indexOf("North America") > -1) {
+				hm_countriesByContinentList = hm_countriesByContinentList.concat(hm_northAmerica);
+			}
+			if (hm_continentList.indexOf("Oceania") > -1) {
+				hm_countriesByContinentList = hm_countriesByContinentList.concat(hm_oceania);
+			}
+			if (hm_continentList.indexOf("South America") > -1) {
+				hm_countriesByContinentList = hm_countriesByContinentList.concat(hm_southAmerica);
+			}
+			
+			return hm_countriesByContinentList;
+		}
+	} else {
+		alert("No continents were selected. A minimum of two countries are required to visualize.");
+		return hm_allCountriesByContinent; 
+	}
+}
+
 // create the heat map vis
 function loadHeatMapVis(hm_rLabel, hm_cLabel) {
 
@@ -245,9 +305,11 @@ function loadHeatMapVis(hm_rLabel, hm_cLabel) {
         })
         .on("mouseover", function (d) {
             d3.select(this).classed("text-hover", true);
+            hm_brush([d]);
         })
         .on("mouseout", function (d) {
             d3.select(this).classed("text-hover", false);
+            hm_unBrush(); 
         })
         .on("click", function (d) {
             var hm_element = d3.select(this);
@@ -280,9 +342,11 @@ function loadHeatMapVis(hm_rLabel, hm_cLabel) {
         })
         .on("mouseover", function (d) {
             d3.select(this).classed("text-hover", true);
+            hm_brush([d]);
         })
         .on("mouseout", function (d) {
             d3.select(this).classed("text-hover", false);
+            hm_unBrush(); 
         })
         .on("click", function (d) {
             var hm_element = d3.select(this);
@@ -347,12 +411,14 @@ function loadHeatMapVis(hm_rLabel, hm_cLabel) {
                 .text(hm_rowLabel[hm_rowLabel.indexOf(d.Country1)] + " exported $" + hm_format(d.Value) + " to " + hm_colLabel[hm_rowLabel.indexOf(d.Country2)] + ".");
             //Show the tooltip
             d3.select("#hm-tooltip").classed("hidden", false);
+            hm_brush([d.Country1, d.Country2]); 
         })
         .on("mouseout", function () {
             d3.select(this).classed("cell-hover", false).classed("text-hover", false);
             d3.selectAll(".rowLabel").classed("text-hover", false);
             d3.selectAll(".colLabel").classed("text-hover", false);
             d3.select("#hm-tooltip").classed("hidden", true);
+            hm_unBrush(); 
         });
     
     // create the legend rectangles
@@ -526,9 +592,11 @@ function updateHeatMapVis(hm_clickedCells) {
         .style("vertical-align", "middle")
         .on("mouseover", function (d) {
             d3.select(this).classed("text-hover", true);
+            hm_brush([d]); 
         })
         .on("mouseout", function (d) {
             d3.select(this).classed("text-hover", false);
+            hm_unBrush(); 
         })
         .on("click", function (d) {
             var hm_element = d3.select(this);
@@ -567,9 +635,11 @@ function updateHeatMapVis(hm_clickedCells) {
 		.style("vertical-align", "middle")
 		.on("mouseover", function (d) {
 			d3.select(this).classed("text-hover", true);
+			hm_brush([d]);
 		})
 		.on("mouseout", function (d) {
 			d3.select(this).classed("text-hover", false);
+			hm_unBrush(); 
 		})
 		.on("click", function (d) {
 			var hm_element = d3.select(this);
@@ -630,12 +700,14 @@ function updateHeatMapVis(hm_clickedCells) {
 	    		.text(hm_rowLabel[hm_rowLabel.indexOf(d.Country1)] + " exported $" + hm_format(d.Value) + " to " + hm_colLabel[hm_rowLabel.indexOf(d.Country2)] + ".");
 	    	//Show the tooltip
 		   	d3.select("#hm-tooltip").classed("hidden", false);
+		   	hm_brush([d.Country1, d.Country2]); 
 		})
 		.on("mouseout", function () {
 		    d3.select(this).classed("cell-hover", false).classed("text-hover", false);
 		   	d3.selectAll(".rowLabel").classed("text-hover", false);
 		   	d3.selectAll(".colLabel").classed("text-hover", false);
 		   	d3.select("#hm-tooltip").classed("hidden", true);
+		   	hm_unBrush(); 
 		});
     
     // update cells
@@ -696,4 +768,83 @@ function arrayContains(hm_array, hm_c1, hm_c2) {
 // return an array of the countries currently on the heat map
 function getCountriesOnHeatMap() {
 	return hm_rowLabel; 
+}
+
+// locate the corresponding svg elements on the chord diagram or line chart and highlight
+function hm_brush(hm_brushCountries) {
+	if ($("#chordSvg").length != 0) {
+		var hm_tempIndex = []; 
+		var hm_tempText = [];
+		d3.select("#chordSvg")
+			.select("#circle")
+			.selectAll(".chord-arc")
+			.each(function(d) {
+				if (hm_brushCountries.indexOf(ch_rdr(d).gname) > -1) {
+					hm_tempText.push(ch_rdr(d).gname);
+					hm_tempIndex.push(ch_rdr(d).gindex);
+				}
+			});
+		
+		if (hm_tempIndex.length > 0) { // fade out other chords
+			d3.select("#chordSvg")
+				.select("#circle")
+				.selectAll("path.chord")
+				.classed("fade", function (p) {
+					return hm_tempIndex.indexOf(p.source.index) < 0 && hm_tempIndex.indexOf(p.target.index) < 0;
+				});
+		}
+		
+		if (hm_tempText.length > 0) { // increase text size 
+			d3.select("#chordSvg")
+				.select("#circle")
+				.selectAll(".chord-text")
+				.style("font-weight", function(d) {
+					if (hm_tempText.indexOf(ch_rdr(d).gname) > -1) {
+						return "bold";
+					}
+				}); 
+		}
+	} 
+
+	if ($("#lineSvg").length != 0) {
+		d3.select("#lineSvg")
+			.selectAll(".lc-legend-text")
+			.style("font-weight", function(d) {
+				if (hm_brushCountries.indexOf(d) > -1) {
+					return "bold"; 
+				}
+		});
+		
+		if (hm_brushCountries.indexOf(lc_country1) > -1) {
+			d3.select("#lineSvg")
+				.selectAll("path.country1")
+				.style("stroke-width", "7px"); 
+		}
+		
+		if (hm_brushCountries.indexOf(lc_country2) > -1) {
+			d3.select("#lineSvg")
+				.selectAll("path.country2")
+				.style("stroke-width", "7px"); 
+		}
+	}
+}
+
+// un-highlight the brushed elements in the other charts
+function hm_unBrush() {
+	if ($("#chordSvg").length != 0) {
+		chordPaths.classed("fade", false);
+		d3.select("#chordSvg")
+			.select("#circle")
+			.selectAll(".chord-text")
+			.style("font-weight", "");
+	} 
+		
+	if ($("#lineSvg").length != 0) {
+		d3.select("#lineSvg")
+			.selectAll(".lc-legend-text")
+			.style("font-weight", "");
+		d3.select("#lineSvg")
+			.selectAll("path")
+			.style("stroke-width", "1.4px"); 
+	}
 }

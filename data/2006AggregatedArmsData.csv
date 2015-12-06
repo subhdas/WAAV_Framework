@@ -32,15 +32,15 @@ United States,North America,Norway,Europe,2006,2687432
 United States,North America,Denmark,Europe,2006,4248459
 United States,North America,South Africa,Africa,2006,1512043
 United States,North America,Turkey,Asia,2006,1674476
+United States,North America,Iraq,Asia,2006,743294
+United States,North America,Lebanon,Asia,2006,568930
 United States,North America,Israel,Asia,2006,28984766
-United States,North America,United Arab Emirates,Asia,2006,1939051
 United States,North America,Taiwan,Asia,2006,10646671
 United States,North America,South Korea,Asia,2006,2865733
 United States,North America,Japan,Asia,2006,8532029
 United States,North America,India,Asia,2006,92402
 United States,North America,Pakistan,Asia,2006,481048
 United States,North America,Thailand,Asia,2006,7347303
-United States,North America,Malaysia,Asia,2006,475496
 United States,North America,Singapore,Asia,2006,2614199
 United States,North America,Philippines,Asia,2006,3031862
 United States,North America,Indonesia,Asia,2006,133257
@@ -48,7 +48,7 @@ United States,North America,Australia,Oceania,2006,46656567
 United States,North America,Cyprus,Europe,2006,58104
 United States,North America,China,Asia,2006,206685
 United States,North America,Ivory Coast,Africa,2006,0
-United States,North America,Congo,Africa,2006,3799
+United States,North America,Iran,Asia,2006,0
 Canada,North America,United States,North America,2006,53399987
 Canada,North America,Canada,North America,2006,364437
 Canada,North America,Mexico,North America,2006,51062
@@ -82,15 +82,15 @@ Canada,North America,Norway,Europe,2006,269803
 Canada,North America,Denmark,Europe,2006,603483
 Canada,North America,South Africa,Africa,2006,0
 Canada,North America,Turkey,Asia,2006,11823
+Canada,North America,Iraq,Asia,2006,0
+Canada,North America,Lebanon,Asia,2006,0
 Canada,North America,Israel,Asia,2006,172918
-Canada,North America,United Arab Emirates,Asia,2006,1130838
 Canada,North America,Taiwan,Asia,2006,48129
 Canada,North America,South Korea,Asia,2006,59632
 Canada,North America,Japan,Asia,2006,394804
 Canada,North America,India,Asia,2006,29717
 Canada,North America,Pakistan,Asia,2006,1551899
 Canada,North America,Thailand,Asia,2006,0
-Canada,North America,Malaysia,Asia,2006,1986
 Canada,North America,Singapore,Asia,2006,389779
 Canada,North America,Philippines,Asia,2006,51147
 Canada,North America,Indonesia,Asia,2006,0
@@ -98,7 +98,7 @@ Canada,North America,Australia,Oceania,2006,514906
 Canada,North America,Cyprus,Europe,2006,239
 Canada,North America,China,Asia,2006,25590
 Canada,North America,Ivory Coast,Africa,2006,0
-Canada,North America,Congo,Africa,2006,0
+Canada,North America,Iran,Asia,2006,0
 Mexico,North America,United States,North America,2006,2043732
 Mexico,North America,Canada,North America,2006,0
 Mexico,North America,Mexico,North America,2006,0
@@ -132,15 +132,15 @@ Mexico,North America,Norway,Europe,2006,0
 Mexico,North America,Denmark,Europe,2006,0
 Mexico,North America,South Africa,Africa,2006,0
 Mexico,North America,Turkey,Asia,2006,0
+Mexico,North America,Iraq,Asia,2006,0
+Mexico,North America,Lebanon,Asia,2006,0
 Mexico,North America,Israel,Asia,2006,0
-Mexico,North America,United Arab Emirates,Asia,2006,0
 Mexico,North America,Taiwan,Asia,2006,0
 Mexico,North America,South Korea,Asia,2006,0
 Mexico,North America,Japan,Asia,2006,0
 Mexico,North America,India,Asia,2006,0
 Mexico,North America,Pakistan,Asia,2006,0
 Mexico,North America,Thailand,Asia,2006,0
-Mexico,North America,Malaysia,Asia,2006,0
 Mexico,North America,Singapore,Asia,2006,0
 Mexico,North America,Philippines,Asia,2006,0
 Mexico,North America,Indonesia,Asia,2006,0
@@ -148,7 +148,7 @@ Mexico,North America,Australia,Oceania,2006,0
 Mexico,North America,Cyprus,Europe,2006,0
 Mexico,North America,China,Asia,2006,0
 Mexico,North America,Ivory Coast,Africa,2006,0
-Mexico,North America,Congo,Africa,2006,0
+Mexico,North America,Iran,Asia,2006,0
 Brazil,South America,United States,North America,2006,99271876
 Brazil,South America,Canada,North America,2006,430593
 Brazil,South America,Mexico,North America,2006,388866
@@ -182,15 +182,15 @@ Brazil,South America,Norway,Europe,2006,181684
 Brazil,South America,Denmark,Europe,2006,405783
 Brazil,South America,South Africa,Africa,2006,142418
 Brazil,South America,Turkey,Asia,2006,131390
+Brazil,South America,Iraq,Asia,2006,0
+Brazil,South America,Lebanon,Asia,2006,0
 Brazil,South America,Israel,Asia,2006,1085031
-Brazil,South America,United Arab Emirates,Asia,2006,89454
 Brazil,South America,Taiwan,Asia,2006,0
 Brazil,South America,South Korea,Asia,2006,0
 Brazil,South America,Japan,Asia,2006,0
 Brazil,South America,India,Asia,2006,3258
 Brazil,South America,Pakistan,Asia,2006,1061927
 Brazil,South America,Thailand,Asia,2006,731822
-Brazil,South America,Malaysia,Asia,2006,32217
 Brazil,South America,Singapore,Asia,2006,5170714
 Brazil,South America,Philippines,Asia,2006,3451759
 Brazil,South America,Indonesia,Asia,2006,4529428
@@ -198,7 +198,7 @@ Brazil,South America,Australia,Oceania,2006,656765
 Brazil,South America,Cyprus,Europe,2006,0
 Brazil,South America,China,Asia,2006,0
 Brazil,South America,Ivory Coast,Africa,2006,7137
-Brazil,South America,Congo,Africa,2006,0
+Brazil,South America,Iran,Asia,2006,0
 Argentina,South America,United States,North America,2006,7020550
 Argentina,South America,Canada,North America,2006,3566
 Argentina,South America,Mexico,North America,2006,0
@@ -232,15 +232,15 @@ Argentina,South America,Norway,Europe,2006,0
 Argentina,South America,Denmark,Europe,2006,0
 Argentina,South America,South Africa,Africa,2006,0
 Argentina,South America,Turkey,Asia,2006,0
+Argentina,South America,Iraq,Asia,2006,0
+Argentina,South America,Lebanon,Asia,2006,0
 Argentina,South America,Israel,Asia,2006,0
-Argentina,South America,United Arab Emirates,Asia,2006,0
 Argentina,South America,Taiwan,Asia,2006,0
 Argentina,South America,South Korea,Asia,2006,0
 Argentina,South America,Japan,Asia,2006,0
 Argentina,South America,India,Asia,2006,0
 Argentina,South America,Pakistan,Asia,2006,0
 Argentina,South America,Thailand,Asia,2006,0
-Argentina,South America,Malaysia,Asia,2006,0
 Argentina,South America,Singapore,Asia,2006,0
 Argentina,South America,Philippines,Asia,2006,89627
 Argentina,South America,Indonesia,Asia,2006,0
@@ -248,7 +248,7 @@ Argentina,South America,Australia,Oceania,2006,0
 Argentina,South America,Cyprus,Europe,2006,0
 Argentina,South America,China,Asia,2006,0
 Argentina,South America,Ivory Coast,Africa,2006,0
-Argentina,South America,Congo,Africa,2006,0
+Argentina,South America,Iran,Asia,2006,0
 United Kingdom,Europe,United States,North America,2006,226175155
 United Kingdom,Europe,Canada,North America,2006,1953748
 United Kingdom,Europe,Mexico,North America,2006,6062
@@ -282,15 +282,15 @@ United Kingdom,Europe,Norway,Europe,2006,3134722
 United Kingdom,Europe,Denmark,Europe,2006,3571425
 United Kingdom,Europe,South Africa,Africa,2006,407776
 United Kingdom,Europe,Turkey,Asia,2006,6550469
+United Kingdom,Europe,Iraq,Asia,2006,494070
+United Kingdom,Europe,Lebanon,Asia,2006,46237
 United Kingdom,Europe,Israel,Asia,2006,63738
-United Kingdom,Europe,United Arab Emirates,Asia,2006,1428175
 United Kingdom,Europe,Taiwan,Asia,2006,127050
 United Kingdom,Europe,South Korea,Asia,2006,229558
 United Kingdom,Europe,Japan,Asia,2006,3072353
 United Kingdom,Europe,India,Asia,2006,252502
 United Kingdom,Europe,Pakistan,Asia,2006,1338578
 United Kingdom,Europe,Thailand,Asia,2006,47590
-United Kingdom,Europe,Malaysia,Asia,2006,56041
 United Kingdom,Europe,Singapore,Asia,2006,243658
 United Kingdom,Europe,Philippines,Asia,2006,0
 United Kingdom,Europe,Indonesia,Asia,2006,0
@@ -298,7 +298,7 @@ United Kingdom,Europe,Australia,Oceania,2006,1068944
 United Kingdom,Europe,Cyprus,Europe,2006,289763
 United Kingdom,Europe,China,Asia,2006,683892
 United Kingdom,Europe,Ivory Coast,Africa,2006,0
-United Kingdom,Europe,Congo,Africa,2006,0
+United Kingdom,Europe,Iran,Asia,2006,0
 Netherlands,Europe,United States,North America,2006,114195
 Netherlands,Europe,Canada,North America,2006,6215
 Netherlands,Europe,Mexico,North America,2006,0
@@ -332,15 +332,15 @@ Netherlands,Europe,Norway,Europe,2006,112465
 Netherlands,Europe,Denmark,Europe,2006,1106
 Netherlands,Europe,South Africa,Africa,2006,0
 Netherlands,Europe,Turkey,Asia,2006,0
+Netherlands,Europe,Iraq,Asia,2006,0
+Netherlands,Europe,Lebanon,Asia,2006,0
 Netherlands,Europe,Israel,Asia,2006,0
-Netherlands,Europe,United Arab Emirates,Asia,2006,0
 Netherlands,Europe,Taiwan,Asia,2006,0
 Netherlands,Europe,South Korea,Asia,2006,0
 Netherlands,Europe,Japan,Asia,2006,0
 Netherlands,Europe,India,Asia,2006,0
 Netherlands,Europe,Pakistan,Asia,2006,0
 Netherlands,Europe,Thailand,Asia,2006,0
-Netherlands,Europe,Malaysia,Asia,2006,0
 Netherlands,Europe,Singapore,Asia,2006,0
 Netherlands,Europe,Philippines,Asia,2006,0
 Netherlands,Europe,Indonesia,Asia,2006,0
@@ -348,7 +348,7 @@ Netherlands,Europe,Australia,Oceania,2006,0
 Netherlands,Europe,Cyprus,Europe,2006,0
 Netherlands,Europe,China,Asia,2006,0
 Netherlands,Europe,Ivory Coast,Africa,2006,0
-Netherlands,Europe,Congo,Africa,2006,0
+Netherlands,Europe,Iran,Asia,2006,0
 Belgium,Europe,United States,North America,2006,28865880
 Belgium,Europe,Canada,North America,2006,1235743
 Belgium,Europe,Mexico,North America,2006,1328711
@@ -382,15 +382,15 @@ Belgium,Europe,Norway,Europe,2006,172062
 Belgium,Europe,Denmark,Europe,2006,1318711
 Belgium,Europe,South Africa,Africa,2006,0
 Belgium,Europe,Turkey,Asia,2006,114440
+Belgium,Europe,Iraq,Asia,2006,0
+Belgium,Europe,Lebanon,Asia,2006,0
 Belgium,Europe,Israel,Asia,2006,0
-Belgium,Europe,United Arab Emirates,Asia,2006,0
 Belgium,Europe,Taiwan,Asia,2006,0
 Belgium,Europe,South Korea,Asia,2006,154686
 Belgium,Europe,Japan,Asia,2006,94912
 Belgium,Europe,India,Asia,2006,0
 Belgium,Europe,Pakistan,Asia,2006,404220
 Belgium,Europe,Thailand,Asia,2006,83455
-Belgium,Europe,Malaysia,Asia,2006,0
 Belgium,Europe,Singapore,Asia,2006,844544
 Belgium,Europe,Philippines,Asia,2006,0
 Belgium,Europe,Indonesia,Asia,2006,0
@@ -398,7 +398,7 @@ Belgium,Europe,Australia,Oceania,2006,1189851
 Belgium,Europe,Cyprus,Europe,2006,44302
 Belgium,Europe,China,Asia,2006,0
 Belgium,Europe,Ivory Coast,Africa,2006,0
-Belgium,Europe,Congo,Africa,2006,0
+Belgium,Europe,Iran,Asia,2006,0
 France,Europe,United States,North America,2006,3052159
 France,Europe,Canada,North America,2006,1268277
 France,Europe,Mexico,North America,2006,64612
@@ -432,15 +432,15 @@ France,Europe,Norway,Europe,2006,25920
 France,Europe,Denmark,Europe,2006,26874
 France,Europe,South Africa,Africa,2006,43290
 France,Europe,Turkey,Asia,2006,21775
+France,Europe,Iraq,Asia,2006,0
+France,Europe,Lebanon,Asia,2006,20676
 France,Europe,Israel,Asia,2006,0
-France,Europe,United Arab Emirates,Asia,2006,63549
 France,Europe,Taiwan,Asia,2006,0
 France,Europe,South Korea,Asia,2006,4385
 France,Europe,Japan,Asia,2006,1893701
 France,Europe,India,Asia,2006,0
 France,Europe,Pakistan,Asia,2006,0
 France,Europe,Thailand,Asia,2006,558503
-France,Europe,Malaysia,Asia,2006,59775
 France,Europe,Singapore,Asia,2006,0
 France,Europe,Philippines,Asia,2006,0
 France,Europe,Indonesia,Asia,2006,0
@@ -448,7 +448,7 @@ France,Europe,Australia,Oceania,2006,877090
 France,Europe,Cyprus,Europe,2006,81331
 France,Europe,China,Asia,2006,0
 France,Europe,Ivory Coast,Africa,2006,0
-France,Europe,Congo,Africa,2006,12406
+France,Europe,Iran,Asia,2006,0
 Switzerland,Europe,United States,North America,2006,1001237
 Switzerland,Europe,Canada,North America,2006,257738
 Switzerland,Europe,Mexico,North America,2006,0
@@ -482,15 +482,15 @@ Switzerland,Europe,Norway,Europe,2006,370363
 Switzerland,Europe,Denmark,Europe,2006,7002123
 Switzerland,Europe,South Africa,Africa,2006,140651
 Switzerland,Europe,Turkey,Asia,2006,9206
+Switzerland,Europe,Iraq,Asia,2006,0
+Switzerland,Europe,Lebanon,Asia,2006,0
 Switzerland,Europe,Israel,Asia,2006,4733
-Switzerland,Europe,United Arab Emirates,Asia,2006,144181
 Switzerland,Europe,Taiwan,Asia,2006,16503
 Switzerland,Europe,South Korea,Asia,2006,42711
 Switzerland,Europe,Japan,Asia,2006,197481
 Switzerland,Europe,India,Asia,2006,21871
 Switzerland,Europe,Pakistan,Asia,2006,33565
 Switzerland,Europe,Thailand,Asia,2006,9958
-Switzerland,Europe,Malaysia,Asia,2006,1267637
 Switzerland,Europe,Singapore,Asia,2006,1326637
 Switzerland,Europe,Philippines,Asia,2006,0
 Switzerland,Europe,Indonesia,Asia,2006,0
@@ -498,7 +498,7 @@ Switzerland,Europe,Australia,Oceania,2006,300218
 Switzerland,Europe,Cyprus,Europe,2006,6136
 Switzerland,Europe,China,Asia,2006,89362
 Switzerland,Europe,Ivory Coast,Africa,2006,0
-Switzerland,Europe,Congo,Africa,2006,0
+Switzerland,Europe,Iran,Asia,2006,18793
 Spain,Europe,United States,North America,2006,7712312
 Spain,Europe,Canada,North America,2006,412446
 Spain,Europe,Mexico,North America,2006,612335
@@ -532,15 +532,15 @@ Spain,Europe,Norway,Europe,2006,1519366
 Spain,Europe,Denmark,Europe,2006,1338603
 Spain,Europe,South Africa,Africa,2006,594846
 Spain,Europe,Turkey,Asia,2006,1360650
+Spain,Europe,Iraq,Asia,2006,0
+Spain,Europe,Lebanon,Asia,2006,147510
 Spain,Europe,Israel,Asia,2006,159785
-Spain,Europe,United Arab Emirates,Asia,2006,0
 Spain,Europe,Taiwan,Asia,2006,140453
 Spain,Europe,South Korea,Asia,2006,133035
 Spain,Europe,Japan,Asia,2006,446851
 Spain,Europe,India,Asia,2006,3880
 Spain,Europe,Pakistan,Asia,2006,9746
 Spain,Europe,Thailand,Asia,2006,108757
-Spain,Europe,Malaysia,Asia,2006,184063
 Spain,Europe,Singapore,Asia,2006,0
 Spain,Europe,Philippines,Asia,2006,69142
 Spain,Europe,Indonesia,Asia,2006,41336
@@ -548,7 +548,7 @@ Spain,Europe,Australia,Oceania,2006,1756491
 Spain,Europe,Cyprus,Europe,2006,209615
 Spain,Europe,China,Asia,2006,0
 Spain,Europe,Ivory Coast,Africa,2006,0
-Spain,Europe,Congo,Africa,2006,0
+Spain,Europe,Iran,Asia,2006,222758
 Portugal,Europe,United States,North America,2006,2599481
 Portugal,Europe,Canada,North America,2006,8648
 Portugal,Europe,Mexico,North America,2006,76671
@@ -582,15 +582,15 @@ Portugal,Europe,Norway,Europe,2006,16586
 Portugal,Europe,Denmark,Europe,2006,0
 Portugal,Europe,South Africa,Africa,2006,0
 Portugal,Europe,Turkey,Asia,2006,165497
+Portugal,Europe,Iraq,Asia,2006,0
+Portugal,Europe,Lebanon,Asia,2006,0
 Portugal,Europe,Israel,Asia,2006,0
-Portugal,Europe,United Arab Emirates,Asia,2006,0
 Portugal,Europe,Taiwan,Asia,2006,0
 Portugal,Europe,South Korea,Asia,2006,43802
 Portugal,Europe,Japan,Asia,2006,123569
 Portugal,Europe,India,Asia,2006,0
 Portugal,Europe,Pakistan,Asia,2006,0
 Portugal,Europe,Thailand,Asia,2006,22188
-Portugal,Europe,Malaysia,Asia,2006,0
 Portugal,Europe,Singapore,Asia,2006,0
 Portugal,Europe,Philippines,Asia,2006,0
 Portugal,Europe,Indonesia,Asia,2006,0
@@ -598,7 +598,7 @@ Portugal,Europe,Australia,Oceania,2006,65619
 Portugal,Europe,Cyprus,Europe,2006,0
 Portugal,Europe,China,Asia,2006,0
 Portugal,Europe,Ivory Coast,Africa,2006,0
-Portugal,Europe,Congo,Africa,2006,0
+Portugal,Europe,Iran,Asia,2006,0
 Germany,Europe,United States,North America,2006,62799376
 Germany,Europe,Canada,North America,2006,2082340
 Germany,Europe,Mexico,North America,2006,2749562
@@ -632,15 +632,15 @@ Germany,Europe,Norway,Europe,2006,5703635
 Germany,Europe,Denmark,Europe,2006,5525312
 Germany,Europe,South Africa,Africa,2006,299782
 Germany,Europe,Turkey,Asia,2006,2752137
+Germany,Europe,Iraq,Asia,2006,0
+Germany,Europe,Lebanon,Asia,2006,52709
 Germany,Europe,Israel,Asia,2006,17569
-Germany,Europe,United Arab Emirates,Asia,2006,4385280
 Germany,Europe,Taiwan,Asia,2006,812765
 Germany,Europe,South Korea,Asia,2006,5457252
 Germany,Europe,Japan,Asia,2006,2078107
 Germany,Europe,India,Asia,2006,398611
 Germany,Europe,Pakistan,Asia,2006,498540
 Germany,Europe,Thailand,Asia,2006,491301
-Germany,Europe,Malaysia,Asia,2006,1345730
 Germany,Europe,Singapore,Asia,2006,188333
 Germany,Europe,Philippines,Asia,2006,225219
 Germany,Europe,Indonesia,Asia,2006,23940
@@ -648,7 +648,7 @@ Germany,Europe,Australia,Oceania,2006,2143645
 Germany,Europe,Cyprus,Europe,2006,104320
 Germany,Europe,China,Asia,2006,488657
 Germany,Europe,Ivory Coast,Africa,2006,0
-Germany,Europe,Congo,Africa,2006,166005
+Germany,Europe,Iran,Asia,2006,66984
 Poland,Europe,United States,North America,2006,16524609
 Poland,Europe,Canada,North America,2006,744011
 Poland,Europe,Mexico,North America,2006,0
@@ -682,15 +682,15 @@ Poland,Europe,Norway,Europe,2006,253861
 Poland,Europe,Denmark,Europe,2006,0
 Poland,Europe,South Africa,Africa,2006,0
 Poland,Europe,Turkey,Asia,2006,0
+Poland,Europe,Iraq,Asia,2006,9450496
+Poland,Europe,Lebanon,Asia,2006,0
 Poland,Europe,Israel,Asia,2006,1661897
-Poland,Europe,United Arab Emirates,Asia,2006,0
 Poland,Europe,Taiwan,Asia,2006,0
 Poland,Europe,South Korea,Asia,2006,0
 Poland,Europe,Japan,Asia,2006,0
 Poland,Europe,India,Asia,2006,2136418
 Poland,Europe,Pakistan,Asia,2006,0
 Poland,Europe,Thailand,Asia,2006,1705
-Poland,Europe,Malaysia,Asia,2006,0
 Poland,Europe,Singapore,Asia,2006,0
 Poland,Europe,Philippines,Asia,2006,0
 Poland,Europe,Indonesia,Asia,2006,224618
@@ -698,7 +698,7 @@ Poland,Europe,Australia,Oceania,2006,0
 Poland,Europe,Cyprus,Europe,2006,0
 Poland,Europe,China,Asia,2006,0
 Poland,Europe,Ivory Coast,Africa,2006,0
-Poland,Europe,Congo,Africa,2006,0
+Poland,Europe,Iran,Asia,2006,0
 Austria,Europe,United States,North America,2006,97321789
 Austria,Europe,Canada,North America,2006,1633818
 Austria,Europe,Mexico,North America,2006,1495658
@@ -732,15 +732,15 @@ Austria,Europe,Norway,Europe,2006,842462
 Austria,Europe,Denmark,Europe,2006,233181
 Austria,Europe,South Africa,Africa,2006,350199
 Austria,Europe,Turkey,Asia,2006,30897
+Austria,Europe,Iraq,Asia,2006,16567678
+Austria,Europe,Lebanon,Asia,2006,20851
 Austria,Europe,Israel,Asia,2006,5270
-Austria,Europe,United Arab Emirates,Asia,2006,101787
 Austria,Europe,Taiwan,Asia,2006,54610
 Austria,Europe,South Korea,Asia,2006,17130
 Austria,Europe,Japan,Asia,2006,10336
 Austria,Europe,India,Asia,2006,544606
 Austria,Europe,Pakistan,Asia,2006,85927
 Austria,Europe,Thailand,Asia,2006,3821781
-Austria,Europe,Malaysia,Asia,2006,93899
 Austria,Europe,Singapore,Asia,2006,373413
 Austria,Europe,Philippines,Asia,2006,1260506
 Austria,Europe,Indonesia,Asia,2006,126526
@@ -748,7 +748,7 @@ Austria,Europe,Australia,Oceania,2006,1304291
 Austria,Europe,Cyprus,Europe,2006,0
 Austria,Europe,China,Asia,2006,0
 Austria,Europe,Ivory Coast,Africa,2006,0
-Austria,Europe,Congo,Africa,2006,24200
+Austria,Europe,Iran,Asia,2006,0
 Hungary,Europe,United States,North America,2006,4801089
 Hungary,Europe,Canada,North America,2006,2570
 Hungary,Europe,Mexico,North America,2006,0
@@ -782,15 +782,15 @@ Hungary,Europe,Norway,Europe,2006,0
 Hungary,Europe,Denmark,Europe,2006,0
 Hungary,Europe,South Africa,Africa,2006,12353
 Hungary,Europe,Turkey,Asia,2006,10640
+Hungary,Europe,Iraq,Asia,2006,875488
+Hungary,Europe,Lebanon,Asia,2006,0
 Hungary,Europe,Israel,Asia,2006,0
-Hungary,Europe,United Arab Emirates,Asia,2006,0
 Hungary,Europe,Taiwan,Asia,2006,0
 Hungary,Europe,South Korea,Asia,2006,0
 Hungary,Europe,Japan,Asia,2006,333336
 Hungary,Europe,India,Asia,2006,0
 Hungary,Europe,Pakistan,Asia,2006,0
 Hungary,Europe,Thailand,Asia,2006,0
-Hungary,Europe,Malaysia,Asia,2006,0
 Hungary,Europe,Singapore,Asia,2006,0
 Hungary,Europe,Philippines,Asia,2006,4897
 Hungary,Europe,Indonesia,Asia,2006,0
@@ -798,7 +798,7 @@ Hungary,Europe,Australia,Oceania,2006,0
 Hungary,Europe,Cyprus,Europe,2006,0
 Hungary,Europe,China,Asia,2006,0
 Hungary,Europe,Ivory Coast,Africa,2006,0
-Hungary,Europe,Congo,Africa,2006,0
+Hungary,Europe,Iran,Asia,2006,0
 Czech Republic,Europe,United States,North America,2006,22008297
 Czech Republic,Europe,Canada,North America,2006,1013747
 Czech Republic,Europe,Mexico,North America,2006,593886
@@ -832,15 +832,15 @@ Czech Republic,Europe,Norway,Europe,2006,615477
 Czech Republic,Europe,Denmark,Europe,2006,605786
 Czech Republic,Europe,South Africa,Africa,2006,320708
 Czech Republic,Europe,Turkey,Asia,2006,592382
+Czech Republic,Europe,Iraq,Asia,2006,0
+Czech Republic,Europe,Lebanon,Asia,2006,1317
 Czech Republic,Europe,Israel,Asia,2006,179805
-Czech Republic,Europe,United Arab Emirates,Asia,2006,0
 Czech Republic,Europe,Taiwan,Asia,2006,929
 Czech Republic,Europe,South Korea,Asia,2006,3140
 Czech Republic,Europe,Japan,Asia,2006,21697
 Czech Republic,Europe,India,Asia,2006,56842
 Czech Republic,Europe,Pakistan,Asia,2006,0
 Czech Republic,Europe,Thailand,Asia,2006,6408616
-Czech Republic,Europe,Malaysia,Asia,2006,1241776
 Czech Republic,Europe,Singapore,Asia,2006,0
 Czech Republic,Europe,Philippines,Asia,2006,25689
 Czech Republic,Europe,Indonesia,Asia,2006,5481
@@ -848,7 +848,7 @@ Czech Republic,Europe,Australia,Oceania,2006,1090887
 Czech Republic,Europe,Cyprus,Europe,2006,54717
 Czech Republic,Europe,China,Asia,2006,0
 Czech Republic,Europe,Ivory Coast,Africa,2006,0
-Czech Republic,Europe,Congo,Africa,2006,0
+Czech Republic,Europe,Iran,Asia,2006,0
 Slovakia,Europe,United States,North America,2006,699149
 Slovakia,Europe,Canada,North America,2006,60029
 Slovakia,Europe,Mexico,North America,2006,0
@@ -882,15 +882,15 @@ Slovakia,Europe,Norway,Europe,2006,0
 Slovakia,Europe,Denmark,Europe,2006,0
 Slovakia,Europe,South Africa,Africa,2006,0
 Slovakia,Europe,Turkey,Asia,2006,0
+Slovakia,Europe,Iraq,Asia,2006,2423736
+Slovakia,Europe,Lebanon,Asia,2006,0
 Slovakia,Europe,Israel,Asia,2006,37915
-Slovakia,Europe,United Arab Emirates,Asia,2006,0
 Slovakia,Europe,Taiwan,Asia,2006,0
 Slovakia,Europe,South Korea,Asia,2006,0
 Slovakia,Europe,Japan,Asia,2006,0
 Slovakia,Europe,India,Asia,2006,0
 Slovakia,Europe,Pakistan,Asia,2006,0
 Slovakia,Europe,Thailand,Asia,2006,0
-Slovakia,Europe,Malaysia,Asia,2006,0
 Slovakia,Europe,Singapore,Asia,2006,0
 Slovakia,Europe,Philippines,Asia,2006,0
 Slovakia,Europe,Indonesia,Asia,2006,0
@@ -898,7 +898,7 @@ Slovakia,Europe,Australia,Oceania,2006,14771
 Slovakia,Europe,Cyprus,Europe,2006,15191851
 Slovakia,Europe,China,Asia,2006,0
 Slovakia,Europe,Ivory Coast,Africa,2006,0
-Slovakia,Europe,Congo,Africa,2006,0
+Slovakia,Europe,Iran,Asia,2006,0
 Italy,Europe,United States,North America,2006,166176402
 Italy,Europe,Canada,North America,2006,3912264
 Italy,Europe,Mexico,North America,2006,7007300
@@ -932,15 +932,15 @@ Italy,Europe,Norway,Europe,2006,7943879
 Italy,Europe,Denmark,Europe,2006,4173786
 Italy,Europe,South Africa,Africa,2006,4106444
 Italy,Europe,Turkey,Asia,2006,14759810
+Italy,Europe,Iraq,Asia,2006,0
+Italy,Europe,Lebanon,Asia,2006,214228
 Italy,Europe,Israel,Asia,2006,0
-Italy,Europe,United Arab Emirates,Asia,2006,607959
 Italy,Europe,Taiwan,Asia,2006,183164
 Italy,Europe,South Korea,Asia,2006,2866337
 Italy,Europe,Japan,Asia,2006,8704336
 Italy,Europe,India,Asia,2006,353926
 Italy,Europe,Pakistan,Asia,2006,839072
 Italy,Europe,Thailand,Asia,2006,2322753
-Italy,Europe,Malaysia,Asia,2006,268485
 Italy,Europe,Singapore,Asia,2006,41933
 Italy,Europe,Philippines,Asia,2006,534261
 Italy,Europe,Indonesia,Asia,2006,0
@@ -948,7 +948,7 @@ Italy,Europe,Australia,Oceania,2006,5375189
 Italy,Europe,Cyprus,Europe,2006,2109605
 Italy,Europe,China,Asia,2006,899423
 Italy,Europe,Ivory Coast,Africa,2006,0
-Italy,Europe,Congo,Africa,2006,0
+Italy,Europe,Iran,Asia,2006,0
 Croatia,Europe,United States,North America,2006,29040738
 Croatia,Europe,Canada,North America,2006,144338
 Croatia,Europe,Mexico,North America,2006,0
@@ -982,15 +982,15 @@ Croatia,Europe,Norway,Europe,2006,0
 Croatia,Europe,Denmark,Europe,2006,0
 Croatia,Europe,South Africa,Africa,2006,0
 Croatia,Europe,Turkey,Asia,2006,0
+Croatia,Europe,Iraq,Asia,2006,0
+Croatia,Europe,Lebanon,Asia,2006,0
 Croatia,Europe,Israel,Asia,2006,0
-Croatia,Europe,United Arab Emirates,Asia,2006,0
 Croatia,Europe,Taiwan,Asia,2006,0
 Croatia,Europe,South Korea,Asia,2006,0
 Croatia,Europe,Japan,Asia,2006,0
 Croatia,Europe,India,Asia,2006,0
 Croatia,Europe,Pakistan,Asia,2006,0
 Croatia,Europe,Thailand,Asia,2006,117794
-Croatia,Europe,Malaysia,Asia,2006,0
 Croatia,Europe,Singapore,Asia,2006,0
 Croatia,Europe,Philippines,Asia,2006,19415
 Croatia,Europe,Indonesia,Asia,2006,0
@@ -998,7 +998,7 @@ Croatia,Europe,Australia,Oceania,2006,13420
 Croatia,Europe,Cyprus,Europe,2006,0
 Croatia,Europe,China,Asia,2006,0
 Croatia,Europe,Ivory Coast,Africa,2006,0
-Croatia,Europe,Congo,Africa,2006,0
+Croatia,Europe,Iran,Asia,2006,0
 Serbia,Europe,United States,North America,2006,5927413
 Serbia,Europe,Canada,North America,2006,38977
 Serbia,Europe,Mexico,North America,2006,0
@@ -1032,15 +1032,15 @@ Serbia,Europe,Norway,Europe,2006,79485
 Serbia,Europe,Denmark,Europe,2006,95833
 Serbia,Europe,South Africa,Africa,2006,138438
 Serbia,Europe,Turkey,Asia,2006,27
+Serbia,Europe,Iraq,Asia,2006,2278118
+Serbia,Europe,Lebanon,Asia,2006,494
 Serbia,Europe,Israel,Asia,2006,4193143
-Serbia,Europe,United Arab Emirates,Asia,2006,614687
 Serbia,Europe,Taiwan,Asia,2006,0
 Serbia,Europe,South Korea,Asia,2006,7338
 Serbia,Europe,Japan,Asia,2006,0
 Serbia,Europe,India,Asia,2006,14977
 Serbia,Europe,Pakistan,Asia,2006,21251
 Serbia,Europe,Thailand,Asia,2006,82
-Serbia,Europe,Malaysia,Asia,2006,0
 Serbia,Europe,Singapore,Asia,2006,0
 Serbia,Europe,Philippines,Asia,2006,0
 Serbia,Europe,Indonesia,Asia,2006,568545
@@ -1048,7 +1048,7 @@ Serbia,Europe,Australia,Oceania,2006,549029
 Serbia,Europe,Cyprus,Europe,2006,0
 Serbia,Europe,China,Asia,2006,0
 Serbia,Europe,Ivory Coast,Africa,2006,0
-Serbia,Europe,Congo,Africa,2006,0
+Serbia,Europe,Iran,Asia,2006,0
 Bosnia,Europe,United States,North America,2006,512486
 Bosnia,Europe,Canada,North America,2006,115419
 Bosnia,Europe,Mexico,North America,2006,0
@@ -1082,15 +1082,15 @@ Bosnia,Europe,Norway,Europe,2006,0
 Bosnia,Europe,Denmark,Europe,2006,0
 Bosnia,Europe,South Africa,Africa,2006,0
 Bosnia,Europe,Turkey,Asia,2006,1224551
+Bosnia,Europe,Iraq,Asia,2006,0
+Bosnia,Europe,Lebanon,Asia,2006,0
 Bosnia,Europe,Israel,Asia,2006,332287
-Bosnia,Europe,United Arab Emirates,Asia,2006,0
 Bosnia,Europe,Taiwan,Asia,2006,0
 Bosnia,Europe,South Korea,Asia,2006,0
 Bosnia,Europe,Japan,Asia,2006,0
 Bosnia,Europe,India,Asia,2006,0
 Bosnia,Europe,Pakistan,Asia,2006,0
 Bosnia,Europe,Thailand,Asia,2006,0
-Bosnia,Europe,Malaysia,Asia,2006,84245
 Bosnia,Europe,Singapore,Asia,2006,0
 Bosnia,Europe,Philippines,Asia,2006,0
 Bosnia,Europe,Indonesia,Asia,2006,0
@@ -1098,7 +1098,7 @@ Bosnia,Europe,Australia,Oceania,2006,4904
 Bosnia,Europe,Cyprus,Europe,2006,0
 Bosnia,Europe,China,Asia,2006,0
 Bosnia,Europe,Ivory Coast,Africa,2006,0
-Bosnia,Europe,Congo,Africa,2006,0
+Bosnia,Europe,Iran,Asia,2006,0
 Greece,Europe,United States,North America,2006,174467
 Greece,Europe,Canada,North America,2006,0
 Greece,Europe,Mexico,North America,2006,1935
@@ -1132,15 +1132,15 @@ Greece,Europe,Norway,Europe,2006,0
 Greece,Europe,Denmark,Europe,2006,0
 Greece,Europe,South Africa,Africa,2006,0
 Greece,Europe,Turkey,Asia,2006,305310
+Greece,Europe,Iraq,Asia,2006,87848
+Greece,Europe,Lebanon,Asia,2006,0
 Greece,Europe,Israel,Asia,2006,0
-Greece,Europe,United Arab Emirates,Asia,2006,0
 Greece,Europe,Taiwan,Asia,2006,0
 Greece,Europe,South Korea,Asia,2006,0
 Greece,Europe,Japan,Asia,2006,0
 Greece,Europe,India,Asia,2006,0
 Greece,Europe,Pakistan,Asia,2006,0
 Greece,Europe,Thailand,Asia,2006,0
-Greece,Europe,Malaysia,Asia,2006,0
 Greece,Europe,Singapore,Asia,2006,0
 Greece,Europe,Philippines,Asia,2006,0
 Greece,Europe,Indonesia,Asia,2006,0
@@ -1148,7 +1148,7 @@ Greece,Europe,Australia,Oceania,2006,0
 Greece,Europe,Cyprus,Europe,2006,791235
 Greece,Europe,China,Asia,2006,0
 Greece,Europe,Ivory Coast,Africa,2006,0
-Greece,Europe,Congo,Africa,2006,4666
+Greece,Europe,Iran,Asia,2006,0
 Bulgaria,Europe,United States,North America,2006,3940004
 Bulgaria,Europe,Canada,North America,2006,2721
 Bulgaria,Europe,Mexico,North America,2006,0
@@ -1182,15 +1182,15 @@ Bulgaria,Europe,Norway,Europe,2006,3901
 Bulgaria,Europe,Denmark,Europe,2006,0
 Bulgaria,Europe,South Africa,Africa,2006,0
 Bulgaria,Europe,Turkey,Asia,2006,6
+Bulgaria,Europe,Iraq,Asia,2006,14918612
+Bulgaria,Europe,Lebanon,Asia,2006,2032155
 Bulgaria,Europe,Israel,Asia,2006,192787
-Bulgaria,Europe,United Arab Emirates,Asia,2006,2006270
 Bulgaria,Europe,Taiwan,Asia,2006,0
 Bulgaria,Europe,South Korea,Asia,2006,0
 Bulgaria,Europe,Japan,Asia,2006,217528
 Bulgaria,Europe,India,Asia,2006,9006
 Bulgaria,Europe,Pakistan,Asia,2006,0
 Bulgaria,Europe,Thailand,Asia,2006,0
-Bulgaria,Europe,Malaysia,Asia,2006,0
 Bulgaria,Europe,Singapore,Asia,2006,0
 Bulgaria,Europe,Philippines,Asia,2006,0
 Bulgaria,Europe,Indonesia,Asia,2006,1213
@@ -1198,7 +1198,7 @@ Bulgaria,Europe,Australia,Oceania,2006,2953
 Bulgaria,Europe,Cyprus,Europe,2006,0
 Bulgaria,Europe,China,Asia,2006,0
 Bulgaria,Europe,Ivory Coast,Africa,2006,0
-Bulgaria,Europe,Congo,Africa,2006,0
+Bulgaria,Europe,Iran,Asia,2006,0
 Romania,Europe,United States,North America,2006,24141630
 Romania,Europe,Canada,North America,2006,0
 Romania,Europe,Mexico,North America,2006,0
@@ -1232,15 +1232,15 @@ Romania,Europe,Norway,Europe,2006,0
 Romania,Europe,Denmark,Europe,2006,0
 Romania,Europe,South Africa,Africa,2006,0
 Romania,Europe,Turkey,Asia,2006,102199
+Romania,Europe,Iraq,Asia,2006,4029628
+Romania,Europe,Lebanon,Asia,2006,0
 Romania,Europe,Israel,Asia,2006,559011
-Romania,Europe,United Arab Emirates,Asia,2006,0
 Romania,Europe,Taiwan,Asia,2006,0
 Romania,Europe,South Korea,Asia,2006,0
 Romania,Europe,Japan,Asia,2006,892942
 Romania,Europe,India,Asia,2006,0
 Romania,Europe,Pakistan,Asia,2006,0
 Romania,Europe,Thailand,Asia,2006,0
-Romania,Europe,Malaysia,Asia,2006,0
 Romania,Europe,Singapore,Asia,2006,0
 Romania,Europe,Philippines,Asia,2006,0
 Romania,Europe,Indonesia,Asia,2006,0
@@ -1248,7 +1248,7 @@ Romania,Europe,Australia,Oceania,2006,7133
 Romania,Europe,Cyprus,Europe,2006,0
 Romania,Europe,China,Asia,2006,0
 Romania,Europe,Ivory Coast,Africa,2006,0
-Romania,Europe,Congo,Africa,2006,0
+Romania,Europe,Iran,Asia,2006,0
 Russia,Asia,United States,North America,2006,43321949
 Russia,Asia,Canada,North America,2006,527056
 Russia,Asia,Mexico,North America,2006,0
@@ -1282,15 +1282,15 @@ Russia,Asia,Norway,Europe,2006,217338
 Russia,Asia,Denmark,Europe,2006,66382
 Russia,Asia,South Africa,Africa,2006,0
 Russia,Asia,Turkey,Asia,2006,213914
+Russia,Asia,Iraq,Asia,2006,0
+Russia,Asia,Lebanon,Asia,2006,1045938
 Russia,Asia,Israel,Asia,2006,0
-Russia,Asia,United Arab Emirates,Asia,2006,0
 Russia,Asia,Taiwan,Asia,2006,0
 Russia,Asia,South Korea,Asia,2006,8212115
 Russia,Asia,Japan,Asia,2006,3304
 Russia,Asia,India,Asia,2006,0
 Russia,Asia,Pakistan,Asia,2006,0
 Russia,Asia,Thailand,Asia,2006,26140
-Russia,Asia,Malaysia,Asia,2006,0
 Russia,Asia,Singapore,Asia,2006,0
 Russia,Asia,Philippines,Asia,2006,9783
 Russia,Asia,Indonesia,Asia,2006,0
@@ -1298,7 +1298,7 @@ Russia,Asia,Australia,Oceania,2006,146963
 Russia,Asia,Cyprus,Europe,2006,4929159
 Russia,Asia,China,Asia,2006,0
 Russia,Asia,Ivory Coast,Africa,2006,0
-Russia,Asia,Congo,Africa,2006,0
+Russia,Asia,Iran,Asia,2006,0
 Ukraine,Europe,United States,North America,2006,10777499
 Ukraine,Europe,Canada,North America,2006,0
 Ukraine,Europe,Mexico,North America,2006,0
@@ -1332,15 +1332,15 @@ Ukraine,Europe,Norway,Europe,2006,56185
 Ukraine,Europe,Denmark,Europe,2006,0
 Ukraine,Europe,South Africa,Africa,2006,0
 Ukraine,Europe,Turkey,Asia,2006,0
+Ukraine,Europe,Iraq,Asia,2006,209292
+Ukraine,Europe,Lebanon,Asia,2006,0
 Ukraine,Europe,Israel,Asia,2006,0
-Ukraine,Europe,United Arab Emirates,Asia,2006,0
 Ukraine,Europe,Taiwan,Asia,2006,0
 Ukraine,Europe,South Korea,Asia,2006,11863878
 Ukraine,Europe,Japan,Asia,2006,0
 Ukraine,Europe,India,Asia,2006,0
 Ukraine,Europe,Pakistan,Asia,2006,0
 Ukraine,Europe,Thailand,Asia,2006,0
-Ukraine,Europe,Malaysia,Asia,2006,0
 Ukraine,Europe,Singapore,Asia,2006,0
 Ukraine,Europe,Philippines,Asia,2006,0
 Ukraine,Europe,Indonesia,Asia,2006,0
@@ -1348,7 +1348,7 @@ Ukraine,Europe,Australia,Oceania,2006,0
 Ukraine,Europe,Cyprus,Europe,2006,0
 Ukraine,Europe,China,Asia,2006,0
 Ukraine,Europe,Ivory Coast,Africa,2006,0
-Ukraine,Europe,Congo,Africa,2006,0
+Ukraine,Europe,Iran,Asia,2006,0
 Finland,Europe,United States,North America,2006,14715398
 Finland,Europe,Canada,North America,2006,3369340
 Finland,Europe,Mexico,North America,2006,0
@@ -1382,15 +1382,15 @@ Finland,Europe,Norway,Europe,2006,3673808
 Finland,Europe,Denmark,Europe,2006,1062444
 Finland,Europe,South Africa,Africa,2006,124053
 Finland,Europe,Turkey,Asia,2006,2593316
+Finland,Europe,Iraq,Asia,2006,0
+Finland,Europe,Lebanon,Asia,2006,0
 Finland,Europe,Israel,Asia,2006,0
-Finland,Europe,United Arab Emirates,Asia,2006,116684
 Finland,Europe,Taiwan,Asia,2006,2981
 Finland,Europe,South Korea,Asia,2006,565840
 Finland,Europe,Japan,Asia,2006,596503
 Finland,Europe,India,Asia,2006,25946
 Finland,Europe,Pakistan,Asia,2006,0
 Finland,Europe,Thailand,Asia,2006,114852
-Finland,Europe,Malaysia,Asia,2006,62104
 Finland,Europe,Singapore,Asia,2006,850149
 Finland,Europe,Philippines,Asia,2006,0
 Finland,Europe,Indonesia,Asia,2006,0
@@ -1398,7 +1398,7 @@ Finland,Europe,Australia,Oceania,2006,2062165
 Finland,Europe,Cyprus,Europe,2006,0
 Finland,Europe,China,Asia,2006,6017
 Finland,Europe,Ivory Coast,Africa,2006,0
-Finland,Europe,Congo,Africa,2006,0
+Finland,Europe,Iran,Asia,2006,2296
 Sweden,Europe,United States,North America,2006,3805184
 Sweden,Europe,Canada,North America,2006,229129
 Sweden,Europe,Mexico,North America,2006,88864
@@ -1432,15 +1432,15 @@ Sweden,Europe,Norway,Europe,2006,4230344
 Sweden,Europe,Denmark,Europe,2006,2382348
 Sweden,Europe,South Africa,Africa,2006,32509
 Sweden,Europe,Turkey,Asia,2006,0
+Sweden,Europe,Iraq,Asia,2006,0
+Sweden,Europe,Lebanon,Asia,2006,0
 Sweden,Europe,Israel,Asia,2006,0
-Sweden,Europe,United Arab Emirates,Asia,2006,0
 Sweden,Europe,Taiwan,Asia,2006,0
 Sweden,Europe,South Korea,Asia,2006,6276
 Sweden,Europe,Japan,Asia,2006,289364
 Sweden,Europe,India,Asia,2006,10504
 Sweden,Europe,Pakistan,Asia,2006,0
 Sweden,Europe,Thailand,Asia,2006,0
-Sweden,Europe,Malaysia,Asia,2006,0
 Sweden,Europe,Singapore,Asia,2006,0
 Sweden,Europe,Philippines,Asia,2006,0
 Sweden,Europe,Indonesia,Asia,2006,0
@@ -1448,7 +1448,7 @@ Sweden,Europe,Australia,Oceania,2006,140144
 Sweden,Europe,Cyprus,Europe,2006,903
 Sweden,Europe,China,Asia,2006,0
 Sweden,Europe,Ivory Coast,Africa,2006,0
-Sweden,Europe,Congo,Africa,2006,0
+Sweden,Europe,Iran,Asia,2006,0
 Norway,Europe,United States,North America,2006,1466951
 Norway,Europe,Canada,North America,2006,622080
 Norway,Europe,Mexico,North America,2006,0
@@ -1482,15 +1482,15 @@ Norway,Europe,Norway,Europe,2006,0
 Norway,Europe,Denmark,Europe,2006,1734825
 Norway,Europe,South Africa,Africa,2006,0
 Norway,Europe,Turkey,Asia,2006,16796
+Norway,Europe,Iraq,Asia,2006,0
+Norway,Europe,Lebanon,Asia,2006,0
 Norway,Europe,Israel,Asia,2006,0
-Norway,Europe,United Arab Emirates,Asia,2006,0
 Norway,Europe,Taiwan,Asia,2006,0
 Norway,Europe,South Korea,Asia,2006,0
 Norway,Europe,Japan,Asia,2006,0
 Norway,Europe,India,Asia,2006,0
 Norway,Europe,Pakistan,Asia,2006,0
 Norway,Europe,Thailand,Asia,2006,0
-Norway,Europe,Malaysia,Asia,2006,776574
 Norway,Europe,Singapore,Asia,2006,11671
 Norway,Europe,Philippines,Asia,2006,0
 Norway,Europe,Indonesia,Asia,2006,0
@@ -1498,7 +1498,7 @@ Norway,Europe,Australia,Oceania,2006,1673168
 Norway,Europe,Cyprus,Europe,2006,0
 Norway,Europe,China,Asia,2006,0
 Norway,Europe,Ivory Coast,Africa,2006,0
-Norway,Europe,Congo,Africa,2006,0
+Norway,Europe,Iran,Asia,2006,0
 Denmark,Europe,United States,North America,2006,126019
 Denmark,Europe,Canada,North America,2006,6384
 Denmark,Europe,Mexico,North America,2006,0
@@ -1532,15 +1532,15 @@ Denmark,Europe,Norway,Europe,2006,436100
 Denmark,Europe,Denmark,Europe,2006,0
 Denmark,Europe,South Africa,Africa,2006,2773
 Denmark,Europe,Turkey,Asia,2006,0
+Denmark,Europe,Iraq,Asia,2006,0
+Denmark,Europe,Lebanon,Asia,2006,0
 Denmark,Europe,Israel,Asia,2006,0
-Denmark,Europe,United Arab Emirates,Asia,2006,0
 Denmark,Europe,Taiwan,Asia,2006,0
 Denmark,Europe,South Korea,Asia,2006,0
 Denmark,Europe,Japan,Asia,2006,0
 Denmark,Europe,India,Asia,2006,0
 Denmark,Europe,Pakistan,Asia,2006,0
 Denmark,Europe,Thailand,Asia,2006,0
-Denmark,Europe,Malaysia,Asia,2006,0
 Denmark,Europe,Singapore,Asia,2006,0
 Denmark,Europe,Philippines,Asia,2006,0
 Denmark,Europe,Indonesia,Asia,2006,0
@@ -1548,7 +1548,7 @@ Denmark,Europe,Australia,Oceania,2006,1476391
 Denmark,Europe,Cyprus,Europe,2006,1233
 Denmark,Europe,China,Asia,2006,0
 Denmark,Europe,Ivory Coast,Africa,2006,0
-Denmark,Europe,Congo,Africa,2006,0
+Denmark,Europe,Iran,Asia,2006,0
 South Africa,Africa,United States,North America,2006,1850697
 South Africa,Africa,Canada,North America,2006,62468
 South Africa,Africa,Mexico,North America,2006,0
@@ -1582,15 +1582,15 @@ South Africa,Africa,Norway,Europe,2006,37206
 South Africa,Africa,Denmark,Europe,2006,0
 South Africa,Africa,South Africa,Africa,2006,0
 South Africa,Africa,Turkey,Asia,2006,4987
+South Africa,Africa,Iraq,Asia,2006,0
+South Africa,Africa,Lebanon,Asia,2006,0
 South Africa,Africa,Israel,Asia,2006,0
-South Africa,Africa,United Arab Emirates,Asia,2006,0
 South Africa,Africa,Taiwan,Asia,2006,0
 South Africa,Africa,South Korea,Asia,2006,9992
 South Africa,Africa,Japan,Asia,2006,0
 South Africa,Africa,India,Asia,2006,0
 South Africa,Africa,Pakistan,Asia,2006,0
 South Africa,Africa,Thailand,Asia,2006,19176
-South Africa,Africa,Malaysia,Asia,2006,0
 South Africa,Africa,Singapore,Asia,2006,0
 South Africa,Africa,Philippines,Asia,2006,0
 South Africa,Africa,Indonesia,Asia,2006,0
@@ -1598,7 +1598,7 @@ South Africa,Africa,Australia,Oceania,2006,24245
 South Africa,Africa,Cyprus,Europe,2006,7674
 South Africa,Africa,China,Asia,2006,0
 South Africa,Africa,Ivory Coast,Africa,2006,6423
-South Africa,Africa,Congo,Africa,2006,0
+South Africa,Africa,Iran,Asia,2006,0
 Turkey,Asia,United States,North America,2006,37845733
 Turkey,Asia,Canada,North America,2006,547808
 Turkey,Asia,Mexico,North America,2006,84825
@@ -1632,15 +1632,15 @@ Turkey,Asia,Norway,Europe,2006,352916
 Turkey,Asia,Denmark,Europe,2006,399885
 Turkey,Asia,South Africa,Africa,2006,43603
 Turkey,Asia,Turkey,Asia,2006,0
+Turkey,Asia,Iraq,Asia,2006,257793
+Turkey,Asia,Lebanon,Asia,2006,511527
 Turkey,Asia,Israel,Asia,2006,6507
-Turkey,Asia,United Arab Emirates,Asia,2006,0
 Turkey,Asia,Taiwan,Asia,2006,0
 Turkey,Asia,South Korea,Asia,2006,53286
 Turkey,Asia,Japan,Asia,2006,395
 Turkey,Asia,India,Asia,2006,0
 Turkey,Asia,Pakistan,Asia,2006,260630
 Turkey,Asia,Thailand,Asia,2006,441469
-Turkey,Asia,Malaysia,Asia,2006,32159
 Turkey,Asia,Singapore,Asia,2006,6257
 Turkey,Asia,Philippines,Asia,2006,93814
 Turkey,Asia,Indonesia,Asia,2006,54653
@@ -1648,7 +1648,107 @@ Turkey,Asia,Australia,Oceania,2006,323057
 Turkey,Asia,Cyprus,Europe,2006,200617
 Turkey,Asia,China,Asia,2006,0
 Turkey,Asia,Ivory Coast,Africa,2006,0
-Turkey,Asia,Congo,Africa,2006,0
+Turkey,Asia,Iran,Asia,2006,17379
+Iraq,Asia,United States,North America,2006,0
+Iraq,Asia,Canada,North America,2006,0
+Iraq,Asia,Mexico,North America,2006,0
+Iraq,Asia,Brazil,South America,2006,0
+Iraq,Asia,Argentina,South America,2006,0
+Iraq,Asia,United Kingdom,Europe,2006,0
+Iraq,Asia,Netherlands,Europe,2006,0
+Iraq,Asia,Belgium,Europe,2006,0
+Iraq,Asia,France,Europe,2006,0
+Iraq,Asia,Switzerland,Europe,2006,0
+Iraq,Asia,Spain,Europe,2006,0
+Iraq,Asia,Portugal,Europe,2006,0
+Iraq,Asia,Germany,Europe,2006,0
+Iraq,Asia,Poland,Europe,2006,0
+Iraq,Asia,Austria,Europe,2006,0
+Iraq,Asia,Hungary,Europe,2006,0
+Iraq,Asia,Czech Republic,Europe,2006,0
+Iraq,Asia,Slovakia,Europe,2006,0
+Iraq,Asia,Italy,Europe,2006,0
+Iraq,Asia,Croatia,Europe,2006,0
+Iraq,Asia,Serbia,Europe,2006,0
+Iraq,Asia,Bosnia,Europe,2006,0
+Iraq,Asia,Greece,Europe,2006,0
+Iraq,Asia,Bulgaria,Europe,2006,0
+Iraq,Asia,Romania,Europe,2006,0
+Iraq,Asia,Russia,Asia,2006,0
+Iraq,Asia,Ukraine,Europe,2006,0
+Iraq,Asia,Finland,Europe,2006,0
+Iraq,Asia,Sweden,Europe,2006,0
+Iraq,Asia,Norway,Europe,2006,0
+Iraq,Asia,Denmark,Europe,2006,0
+Iraq,Asia,South Africa,Africa,2006,0
+Iraq,Asia,Turkey,Asia,2006,0
+Iraq,Asia,Iraq,Asia,2006,0
+Iraq,Asia,Lebanon,Asia,2006,0
+Iraq,Asia,Israel,Asia,2006,0
+Iraq,Asia,Taiwan,Asia,2006,0
+Iraq,Asia,South Korea,Asia,2006,0
+Iraq,Asia,Japan,Asia,2006,0
+Iraq,Asia,India,Asia,2006,0
+Iraq,Asia,Pakistan,Asia,2006,0
+Iraq,Asia,Thailand,Asia,2006,0
+Iraq,Asia,Singapore,Asia,2006,0
+Iraq,Asia,Philippines,Asia,2006,0
+Iraq,Asia,Indonesia,Asia,2006,0
+Iraq,Asia,Australia,Oceania,2006,0
+Iraq,Asia,Cyprus,Europe,2006,0
+Iraq,Asia,China,Asia,2006,0
+Iraq,Asia,Ivory Coast,Africa,2006,0
+Iraq,Asia,Iran,Asia,2006,0
+Lebanon,Asia,United States,North America,2006,0
+Lebanon,Asia,Canada,North America,2006,0
+Lebanon,Asia,Mexico,North America,2006,0
+Lebanon,Asia,Brazil,South America,2006,0
+Lebanon,Asia,Argentina,South America,2006,0
+Lebanon,Asia,United Kingdom,Europe,2006,0
+Lebanon,Asia,Netherlands,Europe,2006,0
+Lebanon,Asia,Belgium,Europe,2006,0
+Lebanon,Asia,France,Europe,2006,0
+Lebanon,Asia,Switzerland,Europe,2006,0
+Lebanon,Asia,Spain,Europe,2006,0
+Lebanon,Asia,Portugal,Europe,2006,0
+Lebanon,Asia,Germany,Europe,2006,0
+Lebanon,Asia,Poland,Europe,2006,0
+Lebanon,Asia,Austria,Europe,2006,0
+Lebanon,Asia,Hungary,Europe,2006,0
+Lebanon,Asia,Czech Republic,Europe,2006,0
+Lebanon,Asia,Slovakia,Europe,2006,0
+Lebanon,Asia,Italy,Europe,2006,0
+Lebanon,Asia,Croatia,Europe,2006,0
+Lebanon,Asia,Serbia,Europe,2006,0
+Lebanon,Asia,Bosnia,Europe,2006,0
+Lebanon,Asia,Greece,Europe,2006,0
+Lebanon,Asia,Bulgaria,Europe,2006,0
+Lebanon,Asia,Romania,Europe,2006,0
+Lebanon,Asia,Russia,Asia,2006,0
+Lebanon,Asia,Ukraine,Europe,2006,0
+Lebanon,Asia,Finland,Europe,2006,0
+Lebanon,Asia,Sweden,Europe,2006,0
+Lebanon,Asia,Norway,Europe,2006,0
+Lebanon,Asia,Denmark,Europe,2006,0
+Lebanon,Asia,South Africa,Africa,2006,0
+Lebanon,Asia,Turkey,Asia,2006,0
+Lebanon,Asia,Iraq,Asia,2006,0
+Lebanon,Asia,Lebanon,Asia,2006,0
+Lebanon,Asia,Israel,Asia,2006,0
+Lebanon,Asia,Taiwan,Asia,2006,0
+Lebanon,Asia,South Korea,Asia,2006,0
+Lebanon,Asia,Japan,Asia,2006,0
+Lebanon,Asia,India,Asia,2006,0
+Lebanon,Asia,Pakistan,Asia,2006,0
+Lebanon,Asia,Thailand,Asia,2006,0
+Lebanon,Asia,Singapore,Asia,2006,0
+Lebanon,Asia,Philippines,Asia,2006,0
+Lebanon,Asia,Indonesia,Asia,2006,0
+Lebanon,Asia,Australia,Oceania,2006,1529
+Lebanon,Asia,Cyprus,Europe,2006,16860
+Lebanon,Asia,China,Asia,2006,0
+Lebanon,Asia,Ivory Coast,Africa,2006,0
+Lebanon,Asia,Iran,Asia,2006,0
 Israel,Asia,United States,North America,2006,17498508
 Israel,Asia,Canada,North America,2006,130679
 Israel,Asia,Mexico,North America,2006,58934
@@ -1682,15 +1782,15 @@ Israel,Asia,Norway,Europe,2006,45796
 Israel,Asia,Denmark,Europe,2006,0
 Israel,Asia,South Africa,Africa,2006,0
 Israel,Asia,Turkey,Asia,2006,263546
+Israel,Asia,Iraq,Asia,2006,0
+Israel,Asia,Lebanon,Asia,2006,0
 Israel,Asia,Israel,Asia,2006,0
-Israel,Asia,United Arab Emirates,Asia,2006,0
 Israel,Asia,Taiwan,Asia,2006,0
 Israel,Asia,South Korea,Asia,2006,22335
 Israel,Asia,Japan,Asia,2006,0
 Israel,Asia,India,Asia,2006,10567
 Israel,Asia,Pakistan,Asia,2006,0
 Israel,Asia,Thailand,Asia,2006,333124
-Israel,Asia,Malaysia,Asia,2006,0
 Israel,Asia,Singapore,Asia,2006,0
 Israel,Asia,Philippines,Asia,2006,90282
 Israel,Asia,Indonesia,Asia,2006,0
@@ -1698,57 +1798,7 @@ Israel,Asia,Australia,Oceania,2006,924611
 Israel,Asia,Cyprus,Europe,2006,674
 Israel,Asia,China,Asia,2006,0
 Israel,Asia,Ivory Coast,Africa,2006,0
-Israel,Asia,Congo,Africa,2006,0
-United Arab Emirates,Asia,United States,North America,2006,317408
-United Arab Emirates,Asia,Canada,North America,2006,0
-United Arab Emirates,Asia,Mexico,North America,2006,0
-United Arab Emirates,Asia,Brazil,South America,2006,0
-United Arab Emirates,Asia,Argentina,South America,2006,0
-United Arab Emirates,Asia,United Kingdom,Europe,2006,0
-United Arab Emirates,Asia,Netherlands,Europe,2006,0
-United Arab Emirates,Asia,Belgium,Europe,2006,0
-United Arab Emirates,Asia,France,Europe,2006,0
-United Arab Emirates,Asia,Switzerland,Europe,2006,0
-United Arab Emirates,Asia,Spain,Europe,2006,0
-United Arab Emirates,Asia,Portugal,Europe,2006,0
-United Arab Emirates,Asia,Germany,Europe,2006,0
-United Arab Emirates,Asia,Poland,Europe,2006,0
-United Arab Emirates,Asia,Austria,Europe,2006,0
-United Arab Emirates,Asia,Hungary,Europe,2006,0
-United Arab Emirates,Asia,Czech Republic,Europe,2006,0
-United Arab Emirates,Asia,Slovakia,Europe,2006,0
-United Arab Emirates,Asia,Italy,Europe,2006,76248
-United Arab Emirates,Asia,Croatia,Europe,2006,0
-United Arab Emirates,Asia,Serbia,Europe,2006,0
-United Arab Emirates,Asia,Bosnia,Europe,2006,0
-United Arab Emirates,Asia,Greece,Europe,2006,0
-United Arab Emirates,Asia,Bulgaria,Europe,2006,0
-United Arab Emirates,Asia,Romania,Europe,2006,0
-United Arab Emirates,Asia,Russia,Asia,2006,0
-United Arab Emirates,Asia,Ukraine,Europe,2006,0
-United Arab Emirates,Asia,Finland,Europe,2006,0
-United Arab Emirates,Asia,Sweden,Europe,2006,0
-United Arab Emirates,Asia,Norway,Europe,2006,0
-United Arab Emirates,Asia,Denmark,Europe,2006,0
-United Arab Emirates,Asia,South Africa,Africa,2006,0
-United Arab Emirates,Asia,Turkey,Asia,2006,0
-United Arab Emirates,Asia,Israel,Asia,2006,0
-United Arab Emirates,Asia,United Arab Emirates,Asia,2006,0
-United Arab Emirates,Asia,Taiwan,Asia,2006,0
-United Arab Emirates,Asia,South Korea,Asia,2006,0
-United Arab Emirates,Asia,Japan,Asia,2006,0
-United Arab Emirates,Asia,India,Asia,2006,1474
-United Arab Emirates,Asia,Pakistan,Asia,2006,0
-United Arab Emirates,Asia,Thailand,Asia,2006,0
-United Arab Emirates,Asia,Malaysia,Asia,2006,0
-United Arab Emirates,Asia,Singapore,Asia,2006,0
-United Arab Emirates,Asia,Philippines,Asia,2006,0
-United Arab Emirates,Asia,Indonesia,Asia,2006,0
-United Arab Emirates,Asia,Australia,Oceania,2006,0
-United Arab Emirates,Asia,Cyprus,Europe,2006,1041
-United Arab Emirates,Asia,China,Asia,2006,0
-United Arab Emirates,Asia,Ivory Coast,Africa,2006,0
-United Arab Emirates,Asia,Congo,Africa,2006,0
+Israel,Asia,Iran,Asia,2006,0
 Taiwan,Asia,United States,North America,2006,3332732
 Taiwan,Asia,Canada,North America,2006,30241
 Taiwan,Asia,Mexico,North America,2006,2140
@@ -1782,15 +1832,15 @@ Taiwan,Asia,Norway,Europe,2006,0
 Taiwan,Asia,Denmark,Europe,2006,0
 Taiwan,Asia,South Africa,Africa,2006,0
 Taiwan,Asia,Turkey,Asia,2006,0
+Taiwan,Asia,Iraq,Asia,2006,0
+Taiwan,Asia,Lebanon,Asia,2006,0
 Taiwan,Asia,Israel,Asia,2006,0
-Taiwan,Asia,United Arab Emirates,Asia,2006,0
 Taiwan,Asia,Taiwan,Asia,2006,0
 Taiwan,Asia,South Korea,Asia,2006,0
 Taiwan,Asia,Japan,Asia,2006,0
 Taiwan,Asia,India,Asia,2006,0
 Taiwan,Asia,Pakistan,Asia,2006,0
 Taiwan,Asia,Thailand,Asia,2006,0
-Taiwan,Asia,Malaysia,Asia,2006,3609
 Taiwan,Asia,Singapore,Asia,2006,855
 Taiwan,Asia,Philippines,Asia,2006,16853
 Taiwan,Asia,Indonesia,Asia,2006,0
@@ -1798,7 +1848,7 @@ Taiwan,Asia,Australia,Oceania,2006,0
 Taiwan,Asia,Cyprus,Europe,2006,0
 Taiwan,Asia,China,Asia,2006,0
 Taiwan,Asia,Ivory Coast,Africa,2006,0
-Taiwan,Asia,Congo,Africa,2006,0
+Taiwan,Asia,Iran,Asia,2006,0
 South Korea,Asia,United States,North America,2006,2088742
 South Korea,Asia,Canada,North America,2006,82638
 South Korea,Asia,Mexico,North America,2006,0
@@ -1832,15 +1882,15 @@ South Korea,Asia,Norway,Europe,2006,0
 South Korea,Asia,Denmark,Europe,2006,0
 South Korea,Asia,South Africa,Africa,2006,0
 South Korea,Asia,Turkey,Asia,2006,0
+South Korea,Asia,Iraq,Asia,2006,0
+South Korea,Asia,Lebanon,Asia,2006,0
 South Korea,Asia,Israel,Asia,2006,0
-South Korea,Asia,United Arab Emirates,Asia,2006,0
 South Korea,Asia,Taiwan,Asia,2006,1052044
 South Korea,Asia,South Korea,Asia,2006,0
 South Korea,Asia,Japan,Asia,2006,48743
 South Korea,Asia,India,Asia,2006,0
 South Korea,Asia,Pakistan,Asia,2006,55454
 South Korea,Asia,Thailand,Asia,2006,145473
-South Korea,Asia,Malaysia,Asia,2006,1244839
 South Korea,Asia,Singapore,Asia,2006,0
 South Korea,Asia,Philippines,Asia,2006,16509
 South Korea,Asia,Indonesia,Asia,2006,3031869
@@ -1848,7 +1898,7 @@ South Korea,Asia,Australia,Oceania,2006,1942451
 South Korea,Asia,Cyprus,Europe,2006,0
 South Korea,Asia,China,Asia,2006,0
 South Korea,Asia,Ivory Coast,Africa,2006,0
-South Korea,Asia,Congo,Africa,2006,0
+South Korea,Asia,Iran,Asia,2006,0
 Japan,Asia,United States,North America,2006,21809575
 Japan,Asia,Canada,North America,2006,3932999
 Japan,Asia,Mexico,North America,2006,57123
@@ -1882,15 +1932,15 @@ Japan,Asia,Norway,Europe,2006,157944
 Japan,Asia,Denmark,Europe,2006,770180
 Japan,Asia,South Africa,Africa,2006,0
 Japan,Asia,Turkey,Asia,2006,193633
+Japan,Asia,Iraq,Asia,2006,0
+Japan,Asia,Lebanon,Asia,2006,0
 Japan,Asia,Israel,Asia,2006,0
-Japan,Asia,United Arab Emirates,Asia,2006,2076
 Japan,Asia,Taiwan,Asia,2006,0
 Japan,Asia,South Korea,Asia,2006,63819
 Japan,Asia,Japan,Asia,2006,0
 Japan,Asia,India,Asia,2006,0
 Japan,Asia,Pakistan,Asia,2006,0
 Japan,Asia,Thailand,Asia,2006,7056
-Japan,Asia,Malaysia,Asia,2006,4455
 Japan,Asia,Singapore,Asia,2006,0
 Japan,Asia,Philippines,Asia,2006,0
 Japan,Asia,Indonesia,Asia,2006,185
@@ -1898,7 +1948,7 @@ Japan,Asia,Australia,Oceania,2006,2030355
 Japan,Asia,Cyprus,Europe,2006,356917
 Japan,Asia,China,Asia,2006,0
 Japan,Asia,Ivory Coast,Africa,2006,0
-Japan,Asia,Congo,Africa,2006,0
+Japan,Asia,Iran,Asia,2006,0
 India,Asia,United States,North America,2006,822662
 India,Asia,Canada,North America,2006,0
 India,Asia,Mexico,North America,2006,0
@@ -1932,15 +1982,15 @@ India,Asia,Norway,Europe,2006,0
 India,Asia,Denmark,Europe,2006,0
 India,Asia,South Africa,Africa,2006,0
 India,Asia,Turkey,Asia,2006,0
+India,Asia,Iraq,Asia,2006,0
+India,Asia,Lebanon,Asia,2006,0
 India,Asia,Israel,Asia,2006,0
-India,Asia,United Arab Emirates,Asia,2006,1162
 India,Asia,Taiwan,Asia,2006,0
 India,Asia,South Korea,Asia,2006,0
 India,Asia,Japan,Asia,2006,0
 India,Asia,India,Asia,2006,0
 India,Asia,Pakistan,Asia,2006,0
 India,Asia,Thailand,Asia,2006,0
-India,Asia,Malaysia,Asia,2006,0
 India,Asia,Singapore,Asia,2006,383800
 India,Asia,Philippines,Asia,2006,0
 India,Asia,Indonesia,Asia,2006,0
@@ -1948,7 +1998,7 @@ India,Asia,Australia,Oceania,2006,11118
 India,Asia,Cyprus,Europe,2006,0
 India,Asia,China,Asia,2006,0
 India,Asia,Ivory Coast,Africa,2006,0
-India,Asia,Congo,Africa,2006,0
+India,Asia,Iran,Asia,2006,0
 Pakistan,Asia,United States,North America,2006,280122
 Pakistan,Asia,Canada,North America,2006,0
 Pakistan,Asia,Mexico,North America,2006,0
@@ -1982,15 +2032,15 @@ Pakistan,Asia,Norway,Europe,2006,0
 Pakistan,Asia,Denmark,Europe,2006,0
 Pakistan,Asia,South Africa,Africa,2006,0
 Pakistan,Asia,Turkey,Asia,2006,1771
+Pakistan,Asia,Iraq,Asia,2006,0
+Pakistan,Asia,Lebanon,Asia,2006,0
 Pakistan,Asia,Israel,Asia,2006,0
-Pakistan,Asia,United Arab Emirates,Asia,2006,0
 Pakistan,Asia,Taiwan,Asia,2006,0
 Pakistan,Asia,South Korea,Asia,2006,0
 Pakistan,Asia,Japan,Asia,2006,0
 Pakistan,Asia,India,Asia,2006,0
 Pakistan,Asia,Pakistan,Asia,2006,0
 Pakistan,Asia,Thailand,Asia,2006,0
-Pakistan,Asia,Malaysia,Asia,2006,0
 Pakistan,Asia,Singapore,Asia,2006,0
 Pakistan,Asia,Philippines,Asia,2006,0
 Pakistan,Asia,Indonesia,Asia,2006,0
@@ -1998,7 +2048,7 @@ Pakistan,Asia,Australia,Oceania,2006,0
 Pakistan,Asia,Cyprus,Europe,2006,0
 Pakistan,Asia,China,Asia,2006,0
 Pakistan,Asia,Ivory Coast,Africa,2006,0
-Pakistan,Asia,Congo,Africa,2006,0
+Pakistan,Asia,Iran,Asia,2006,0
 Thailand,Asia,United States,North America,2006,0
 Thailand,Asia,Canada,North America,2006,0
 Thailand,Asia,Mexico,North America,2006,0
@@ -2032,15 +2082,15 @@ Thailand,Asia,Norway,Europe,2006,0
 Thailand,Asia,Denmark,Europe,2006,0
 Thailand,Asia,South Africa,Africa,2006,0
 Thailand,Asia,Turkey,Asia,2006,0
+Thailand,Asia,Iraq,Asia,2006,0
+Thailand,Asia,Lebanon,Asia,2006,0
 Thailand,Asia,Israel,Asia,2006,0
-Thailand,Asia,United Arab Emirates,Asia,2006,0
 Thailand,Asia,Taiwan,Asia,2006,0
 Thailand,Asia,South Korea,Asia,2006,0
 Thailand,Asia,Japan,Asia,2006,0
 Thailand,Asia,India,Asia,2006,0
 Thailand,Asia,Pakistan,Asia,2006,72
 Thailand,Asia,Thailand,Asia,2006,0
-Thailand,Asia,Malaysia,Asia,2006,0
 Thailand,Asia,Singapore,Asia,2006,8685358
 Thailand,Asia,Philippines,Asia,2006,0
 Thailand,Asia,Indonesia,Asia,2006,0
@@ -2048,57 +2098,7 @@ Thailand,Asia,Australia,Oceania,2006,0
 Thailand,Asia,Cyprus,Europe,2006,0
 Thailand,Asia,China,Asia,2006,0
 Thailand,Asia,Ivory Coast,Africa,2006,0
-Thailand,Asia,Congo,Africa,2006,0
-Malaysia,Asia,United States,North America,2006,2463
-Malaysia,Asia,Canada,North America,2006,0
-Malaysia,Asia,Mexico,North America,2006,0
-Malaysia,Asia,Brazil,South America,2006,0
-Malaysia,Asia,Argentina,South America,2006,0
-Malaysia,Asia,United Kingdom,Europe,2006,0
-Malaysia,Asia,Netherlands,Europe,2006,0
-Malaysia,Asia,Belgium,Europe,2006,0
-Malaysia,Asia,France,Europe,2006,0
-Malaysia,Asia,Switzerland,Europe,2006,47120
-Malaysia,Asia,Spain,Europe,2006,0
-Malaysia,Asia,Portugal,Europe,2006,0
-Malaysia,Asia,Germany,Europe,2006,0
-Malaysia,Asia,Poland,Europe,2006,0
-Malaysia,Asia,Austria,Europe,2006,0
-Malaysia,Asia,Hungary,Europe,2006,0
-Malaysia,Asia,Czech Republic,Europe,2006,0
-Malaysia,Asia,Slovakia,Europe,2006,0
-Malaysia,Asia,Italy,Europe,2006,0
-Malaysia,Asia,Croatia,Europe,2006,0
-Malaysia,Asia,Serbia,Europe,2006,0
-Malaysia,Asia,Bosnia,Europe,2006,0
-Malaysia,Asia,Greece,Europe,2006,0
-Malaysia,Asia,Bulgaria,Europe,2006,0
-Malaysia,Asia,Romania,Europe,2006,0
-Malaysia,Asia,Russia,Asia,2006,0
-Malaysia,Asia,Ukraine,Europe,2006,0
-Malaysia,Asia,Finland,Europe,2006,0
-Malaysia,Asia,Sweden,Europe,2006,0
-Malaysia,Asia,Norway,Europe,2006,0
-Malaysia,Asia,Denmark,Europe,2006,0
-Malaysia,Asia,South Africa,Africa,2006,0
-Malaysia,Asia,Turkey,Asia,2006,0
-Malaysia,Asia,Israel,Asia,2006,0
-Malaysia,Asia,United Arab Emirates,Asia,2006,0
-Malaysia,Asia,Taiwan,Asia,2006,3338
-Malaysia,Asia,South Korea,Asia,2006,0
-Malaysia,Asia,Japan,Asia,2006,0
-Malaysia,Asia,India,Asia,2006,0
-Malaysia,Asia,Pakistan,Asia,2006,0
-Malaysia,Asia,Thailand,Asia,2006,681106
-Malaysia,Asia,Malaysia,Asia,2006,0
-Malaysia,Asia,Singapore,Asia,2006,3147
-Malaysia,Asia,Philippines,Asia,2006,0
-Malaysia,Asia,Indonesia,Asia,2006,33376
-Malaysia,Asia,Australia,Oceania,2006,14979
-Malaysia,Asia,Cyprus,Europe,2006,0
-Malaysia,Asia,China,Asia,2006,0
-Malaysia,Asia,Ivory Coast,Africa,2006,0
-Malaysia,Asia,Congo,Africa,2006,0
+Thailand,Asia,Iran,Asia,2006,0
 Singapore,Asia,United States,North America,2006,190163
 Singapore,Asia,Canada,North America,2006,0
 Singapore,Asia,Mexico,North America,2006,0
@@ -2132,15 +2132,15 @@ Singapore,Asia,Norway,Europe,2006,0
 Singapore,Asia,Denmark,Europe,2006,0
 Singapore,Asia,South Africa,Africa,2006,0
 Singapore,Asia,Turkey,Asia,2006,0
+Singapore,Asia,Iraq,Asia,2006,0
+Singapore,Asia,Lebanon,Asia,2006,0
 Singapore,Asia,Israel,Asia,2006,0
-Singapore,Asia,United Arab Emirates,Asia,2006,0
 Singapore,Asia,Taiwan,Asia,2006,5157
 Singapore,Asia,South Korea,Asia,2006,0
 Singapore,Asia,Japan,Asia,2006,0
 Singapore,Asia,India,Asia,2006,102
 Singapore,Asia,Pakistan,Asia,2006,0
 Singapore,Asia,Thailand,Asia,2006,0
-Singapore,Asia,Malaysia,Asia,2006,50957
 Singapore,Asia,Singapore,Asia,2006,0
 Singapore,Asia,Philippines,Asia,2006,0
 Singapore,Asia,Indonesia,Asia,2006,34671
@@ -2148,7 +2148,7 @@ Singapore,Asia,Australia,Oceania,2006,6401
 Singapore,Asia,Cyprus,Europe,2006,0
 Singapore,Asia,China,Asia,2006,0
 Singapore,Asia,Ivory Coast,Africa,2006,0
-Singapore,Asia,Congo,Africa,2006,0
+Singapore,Asia,Iran,Asia,2006,0
 Philippines,Asia,United States,North America,2006,3675814
 Philippines,Asia,Canada,North America,2006,0
 Philippines,Asia,Mexico,North America,2006,0
@@ -2182,15 +2182,15 @@ Philippines,Asia,Norway,Europe,2006,0
 Philippines,Asia,Denmark,Europe,2006,0
 Philippines,Asia,South Africa,Africa,2006,0
 Philippines,Asia,Turkey,Asia,2006,0
+Philippines,Asia,Iraq,Asia,2006,0
+Philippines,Asia,Lebanon,Asia,2006,0
 Philippines,Asia,Israel,Asia,2006,0
-Philippines,Asia,United Arab Emirates,Asia,2006,0
 Philippines,Asia,Taiwan,Asia,2006,0
 Philippines,Asia,South Korea,Asia,2006,0
 Philippines,Asia,Japan,Asia,2006,15567
 Philippines,Asia,India,Asia,2006,0
 Philippines,Asia,Pakistan,Asia,2006,18505
 Philippines,Asia,Thailand,Asia,2006,361164
-Philippines,Asia,Malaysia,Asia,2006,0
 Philippines,Asia,Singapore,Asia,2006,0
 Philippines,Asia,Philippines,Asia,2006,0
 Philippines,Asia,Indonesia,Asia,2006,0
@@ -2198,7 +2198,7 @@ Philippines,Asia,Australia,Oceania,2006,158653
 Philippines,Asia,Cyprus,Europe,2006,0
 Philippines,Asia,China,Asia,2006,38
 Philippines,Asia,Ivory Coast,Africa,2006,0
-Philippines,Asia,Congo,Africa,2006,0
+Philippines,Asia,Iran,Asia,2006,0
 Indonesia,Asia,United States,North America,2006,76
 Indonesia,Asia,Canada,North America,2006,0
 Indonesia,Asia,Mexico,North America,2006,0
@@ -2232,15 +2232,15 @@ Indonesia,Asia,Norway,Europe,2006,0
 Indonesia,Asia,Denmark,Europe,2006,0
 Indonesia,Asia,South Africa,Africa,2006,18975
 Indonesia,Asia,Turkey,Asia,2006,1054
+Indonesia,Asia,Iraq,Asia,2006,0
+Indonesia,Asia,Lebanon,Asia,2006,0
 Indonesia,Asia,Israel,Asia,2006,0
-Indonesia,Asia,United Arab Emirates,Asia,2006,0
 Indonesia,Asia,Taiwan,Asia,2006,960
 Indonesia,Asia,South Korea,Asia,2006,47862
 Indonesia,Asia,Japan,Asia,2006,0
 Indonesia,Asia,India,Asia,2006,0
 Indonesia,Asia,Pakistan,Asia,2006,0
 Indonesia,Asia,Thailand,Asia,2006,27171
-Indonesia,Asia,Malaysia,Asia,2006,0
 Indonesia,Asia,Singapore,Asia,2006,31058
 Indonesia,Asia,Philippines,Asia,2006,0
 Indonesia,Asia,Indonesia,Asia,2006,0
@@ -2248,7 +2248,7 @@ Indonesia,Asia,Australia,Oceania,2006,0
 Indonesia,Asia,Cyprus,Europe,2006,0
 Indonesia,Asia,China,Asia,2006,0
 Indonesia,Asia,Ivory Coast,Africa,2006,0
-Indonesia,Asia,Congo,Africa,2006,0
+Indonesia,Asia,Iran,Asia,2006,0
 Australia,Oceania,United States,North America,2006,2116174
 Australia,Oceania,Canada,North America,2006,231681
 Australia,Oceania,Mexico,North America,2006,5022
@@ -2282,15 +2282,15 @@ Australia,Oceania,Norway,Europe,2006,1800
 Australia,Oceania,Denmark,Europe,2006,0
 Australia,Oceania,South Africa,Africa,2006,62880
 Australia,Oceania,Turkey,Asia,2006,0
+Australia,Oceania,Iraq,Asia,2006,0
+Australia,Oceania,Lebanon,Asia,2006,0
 Australia,Oceania,Israel,Asia,2006,0
-Australia,Oceania,United Arab Emirates,Asia,2006,14571
 Australia,Oceania,Taiwan,Asia,2006,47260
 Australia,Oceania,South Korea,Asia,2006,37427
 Australia,Oceania,Japan,Asia,2006,2598821
 Australia,Oceania,India,Asia,2006,59986
 Australia,Oceania,Pakistan,Asia,2006,33849
 Australia,Oceania,Thailand,Asia,2006,758015
-Australia,Oceania,Malaysia,Asia,2006,109070
 Australia,Oceania,Singapore,Asia,2006,78023
 Australia,Oceania,Philippines,Asia,2006,242763
 Australia,Oceania,Indonesia,Asia,2006,0
@@ -2298,7 +2298,7 @@ Australia,Oceania,Australia,Oceania,2006,3229974
 Australia,Oceania,Cyprus,Europe,2006,39483
 Australia,Oceania,China,Asia,2006,261047
 Australia,Oceania,Ivory Coast,Africa,2006,0
-Australia,Oceania,Congo,Africa,2006,0
+Australia,Oceania,Iran,Asia,2006,0
 Cyprus,Europe,United States,North America,2006,0
 Cyprus,Europe,Canada,North America,2006,0
 Cyprus,Europe,Mexico,North America,2006,0
@@ -2332,15 +2332,15 @@ Cyprus,Europe,Norway,Europe,2006,72901
 Cyprus,Europe,Denmark,Europe,2006,28351
 Cyprus,Europe,South Africa,Africa,2006,0
 Cyprus,Europe,Turkey,Asia,2006,2328860
+Cyprus,Europe,Iraq,Asia,2006,0
+Cyprus,Europe,Lebanon,Asia,2006,1480448
 Cyprus,Europe,Israel,Asia,2006,6306
-Cyprus,Europe,United Arab Emirates,Asia,2006,203222
 Cyprus,Europe,Taiwan,Asia,2006,0
 Cyprus,Europe,South Korea,Asia,2006,0
 Cyprus,Europe,Japan,Asia,2006,0
 Cyprus,Europe,India,Asia,2006,117006
 Cyprus,Europe,Pakistan,Asia,2006,0
 Cyprus,Europe,Thailand,Asia,2006,0
-Cyprus,Europe,Malaysia,Asia,2006,0
 Cyprus,Europe,Singapore,Asia,2006,0
 Cyprus,Europe,Philippines,Asia,2006,0
 Cyprus,Europe,Indonesia,Asia,2006,0
@@ -2348,7 +2348,7 @@ Cyprus,Europe,Australia,Oceania,2006,145371
 Cyprus,Europe,Cyprus,Europe,2006,0
 Cyprus,Europe,China,Asia,2006,2387
 Cyprus,Europe,Ivory Coast,Africa,2006,0
-Cyprus,Europe,Congo,Africa,2006,0
+Cyprus,Europe,Iran,Asia,2006,0
 China,Asia,United States,North America,2006,7819150
 China,Asia,Canada,North America,2006,533253
 China,Asia,Mexico,North America,2006,0
@@ -2382,15 +2382,15 @@ China,Asia,Norway,Europe,2006,1571
 China,Asia,Denmark,Europe,2006,0
 China,Asia,South Africa,Africa,2006,0
 China,Asia,Turkey,Asia,2006,662
+China,Asia,Iraq,Asia,2006,0
+China,Asia,Lebanon,Asia,2006,109727
 China,Asia,Israel,Asia,2006,0
-China,Asia,United Arab Emirates,Asia,2006,0
 China,Asia,Taiwan,Asia,2006,0
 China,Asia,South Korea,Asia,2006,9606
 China,Asia,Japan,Asia,2006,2474
 China,Asia,India,Asia,2006,9086
 China,Asia,Pakistan,Asia,2006,966771
 China,Asia,Thailand,Asia,2006,189916
-China,Asia,Malaysia,Asia,2006,34268
 China,Asia,Singapore,Asia,2006,4058757
 China,Asia,Philippines,Asia,2006,600703
 China,Asia,Indonesia,Asia,2006,307
@@ -2398,7 +2398,7 @@ China,Asia,Australia,Oceania,2006,0
 China,Asia,Cyprus,Europe,2006,358
 China,Asia,China,Asia,2006,0
 China,Asia,Ivory Coast,Africa,2006,509
-China,Asia,Congo,Africa,2006,0
+China,Asia,Iran,Asia,2006,0
 Ivory Coast,Africa,United States,North America,2006,0
 Ivory Coast,Africa,Canada,North America,2006,0
 Ivory Coast,Africa,Mexico,North America,2006,0
@@ -2432,15 +2432,15 @@ Ivory Coast,Africa,Norway,Europe,2006,0
 Ivory Coast,Africa,Denmark,Europe,2006,0
 Ivory Coast,Africa,South Africa,Africa,2006,0
 Ivory Coast,Africa,Turkey,Asia,2006,0
+Ivory Coast,Africa,Iraq,Asia,2006,0
+Ivory Coast,Africa,Lebanon,Asia,2006,0
 Ivory Coast,Africa,Israel,Asia,2006,0
-Ivory Coast,Africa,United Arab Emirates,Asia,2006,0
 Ivory Coast,Africa,Taiwan,Asia,2006,0
 Ivory Coast,Africa,South Korea,Asia,2006,0
 Ivory Coast,Africa,Japan,Asia,2006,0
 Ivory Coast,Africa,India,Asia,2006,0
 Ivory Coast,Africa,Pakistan,Asia,2006,0
 Ivory Coast,Africa,Thailand,Asia,2006,0
-Ivory Coast,Africa,Malaysia,Asia,2006,0
 Ivory Coast,Africa,Singapore,Asia,2006,0
 Ivory Coast,Africa,Philippines,Asia,2006,0
 Ivory Coast,Africa,Indonesia,Asia,2006,0
@@ -2448,54 +2448,54 @@ Ivory Coast,Africa,Australia,Oceania,2006,0
 Ivory Coast,Africa,Cyprus,Europe,2006,0
 Ivory Coast,Africa,China,Asia,2006,0
 Ivory Coast,Africa,Ivory Coast,Africa,2006,0
-Ivory Coast,Africa,Congo,Africa,2006,0
-Congo,Africa,United States,North America,2006,0
-Congo,Africa,Canada,North America,2006,0
-Congo,Africa,Mexico,North America,2006,0
-Congo,Africa,Brazil,South America,2006,0
-Congo,Africa,Argentina,South America,2006,0
-Congo,Africa,United Kingdom,Europe,2006,0
-Congo,Africa,Netherlands,Europe,2006,0
-Congo,Africa,Belgium,Europe,2006,0
-Congo,Africa,France,Europe,2006,0
-Congo,Africa,Switzerland,Europe,2006,0
-Congo,Africa,Spain,Europe,2006,0
-Congo,Africa,Portugal,Europe,2006,0
-Congo,Africa,Germany,Europe,2006,0
-Congo,Africa,Poland,Europe,2006,0
-Congo,Africa,Austria,Europe,2006,0
-Congo,Africa,Hungary,Europe,2006,0
-Congo,Africa,Czech Republic,Europe,2006,0
-Congo,Africa,Slovakia,Europe,2006,0
-Congo,Africa,Italy,Europe,2006,0
-Congo,Africa,Croatia,Europe,2006,0
-Congo,Africa,Serbia,Europe,2006,0
-Congo,Africa,Bosnia,Europe,2006,0
-Congo,Africa,Greece,Europe,2006,0
-Congo,Africa,Bulgaria,Europe,2006,0
-Congo,Africa,Romania,Europe,2006,0
-Congo,Africa,Russia,Asia,2006,0
-Congo,Africa,Ukraine,Europe,2006,0
-Congo,Africa,Finland,Europe,2006,0
-Congo,Africa,Sweden,Europe,2006,0
-Congo,Africa,Norway,Europe,2006,0
-Congo,Africa,Denmark,Europe,2006,0
-Congo,Africa,South Africa,Africa,2006,0
-Congo,Africa,Turkey,Asia,2006,0
-Congo,Africa,Israel,Asia,2006,0
-Congo,Africa,United Arab Emirates,Asia,2006,0
-Congo,Africa,Taiwan,Asia,2006,0
-Congo,Africa,South Korea,Asia,2006,0
-Congo,Africa,Japan,Asia,2006,0
-Congo,Africa,India,Asia,2006,0
-Congo,Africa,Pakistan,Asia,2006,0
-Congo,Africa,Thailand,Asia,2006,0
-Congo,Africa,Malaysia,Asia,2006,0
-Congo,Africa,Singapore,Asia,2006,0
-Congo,Africa,Philippines,Asia,2006,0
-Congo,Africa,Indonesia,Asia,2006,0
-Congo,Africa,Australia,Oceania,2006,0
-Congo,Africa,Cyprus,Europe,2006,0
-Congo,Africa,China,Asia,2006,0
-Congo,Africa,Ivory Coast,Africa,2006,0
-Congo,Africa,Congo,Africa,2006,0
+Ivory Coast,Africa,Iran,Asia,2006,0
+Iran,Asia,United States,North America,2006,0
+Iran,Asia,Canada,North America,2006,0
+Iran,Asia,Mexico,North America,2006,0
+Iran,Asia,Brazil,South America,2006,0
+Iran,Asia,Argentina,South America,2006,0
+Iran,Asia,United Kingdom,Europe,2006,0
+Iran,Asia,Netherlands,Europe,2006,0
+Iran,Asia,Belgium,Europe,2006,0
+Iran,Asia,France,Europe,2006,0
+Iran,Asia,Switzerland,Europe,2006,0
+Iran,Asia,Spain,Europe,2006,0
+Iran,Asia,Portugal,Europe,2006,0
+Iran,Asia,Germany,Europe,2006,48316
+Iran,Asia,Poland,Europe,2006,0
+Iran,Asia,Austria,Europe,2006,0
+Iran,Asia,Hungary,Europe,2006,0
+Iran,Asia,Czech Republic,Europe,2006,0
+Iran,Asia,Slovakia,Europe,2006,0
+Iran,Asia,Italy,Europe,2006,0
+Iran,Asia,Croatia,Europe,2006,0
+Iran,Asia,Serbia,Europe,2006,0
+Iran,Asia,Bosnia,Europe,2006,0
+Iran,Asia,Greece,Europe,2006,0
+Iran,Asia,Bulgaria,Europe,2006,0
+Iran,Asia,Romania,Europe,2006,0
+Iran,Asia,Russia,Asia,2006,0
+Iran,Asia,Ukraine,Europe,2006,0
+Iran,Asia,Finland,Europe,2006,2280
+Iran,Asia,Sweden,Europe,2006,0
+Iran,Asia,Norway,Europe,2006,0
+Iran,Asia,Denmark,Europe,2006,0
+Iran,Asia,South Africa,Africa,2006,0
+Iran,Asia,Turkey,Asia,2006,0
+Iran,Asia,Iraq,Asia,2006,0
+Iran,Asia,Lebanon,Asia,2006,0
+Iran,Asia,Israel,Asia,2006,0
+Iran,Asia,Taiwan,Asia,2006,0
+Iran,Asia,South Korea,Asia,2006,0
+Iran,Asia,Japan,Asia,2006,0
+Iran,Asia,India,Asia,2006,0
+Iran,Asia,Pakistan,Asia,2006,0
+Iran,Asia,Thailand,Asia,2006,0
+Iran,Asia,Singapore,Asia,2006,0
+Iran,Asia,Philippines,Asia,2006,0
+Iran,Asia,Indonesia,Asia,2006,0
+Iran,Asia,Australia,Oceania,2006,0
+Iran,Asia,Cyprus,Europe,2006,0
+Iran,Asia,China,Asia,2006,0
+Iran,Asia,Ivory Coast,Africa,2006,0
+Iran,Asia,Iran,Asia,2006,0

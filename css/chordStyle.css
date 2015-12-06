@@ -28,7 +28,7 @@ path.chord {
 	stroke-width: .25px;
 }
 
-#circle:hover path.fade {
+path.fade {
 	display: none;
 }
 

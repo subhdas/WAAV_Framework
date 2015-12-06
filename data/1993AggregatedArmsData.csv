@@ -32,15 +32,15 @@ United States,North America,Norway,Europe,1993,3128065
 United States,North America,Denmark,Europe,1993,958206
 United States,North America,South Africa,Africa,1993,575001
 United States,North America,Turkey,Asia,1993,27486679
+United States,North America,Iraq,Asia,1993,0
+United States,North America,Lebanon,Asia,1993,1060397
 United States,North America,Israel,Asia,1993,4781320
-United States,North America,United Arab Emirates,Asia,1993,2145751
 United States,North America,Taiwan,Asia,1993,24333924
 United States,North America,South Korea,Asia,1993,5484147
 United States,North America,Japan,Asia,1993,3272804
 United States,North America,India,Asia,1993,9095
 United States,North America,Pakistan,Asia,1993,597914
 United States,North America,Thailand,Asia,1993,20528454
-United States,North America,Malaysia,Asia,1993,520262
 United States,North America,Singapore,Asia,1993,1148346
 United States,North America,Philippines,Asia,1993,3760306
 United States,North America,Indonesia,Asia,1993,740192
@@ -48,7 +48,7 @@ United States,North America,Australia,Oceania,1993,17994297
 United States,North America,Cyprus,Europe,1993,100503
 United States,North America,China,Asia,1993,284624
 United States,North America,Ivory Coast,Africa,1993,0
-United States,North America,Congo,Africa,1993,0
+United States,North America,Iran,Asia,1993,0
 Canada,North America,United States,North America,1993,8082904
 Canada,North America,Canada,North America,1993,0
 Canada,North America,Mexico,North America,1993,0
@@ -82,15 +82,15 @@ Canada,North America,Norway,Europe,1993,1327435
 Canada,North America,Denmark,Europe,1993,4844664
 Canada,North America,South Africa,Africa,1993,28861
 Canada,North America,Turkey,Asia,1993,15290
+Canada,North America,Iraq,Asia,1993,0
+Canada,North America,Lebanon,Asia,1993,0
 Canada,North America,Israel,Asia,1993,7323
-Canada,North America,United Arab Emirates,Asia,1993,273644
 Canada,North America,Taiwan,Asia,1993,0
 Canada,North America,South Korea,Asia,1993,231402
 Canada,North America,Japan,Asia,1993,8018
 Canada,North America,India,Asia,1993,6873
 Canada,North America,Pakistan,Asia,1993,0
 Canada,North America,Thailand,Asia,1993,18817
-Canada,North America,Malaysia,Asia,1993,14094
 Canada,North America,Singapore,Asia,1993,4385
 Canada,North America,Philippines,Asia,1993,0
 Canada,North America,Indonesia,Asia,1993,0
@@ -98,7 +98,7 @@ Canada,North America,Australia,Oceania,1993,246259
 Canada,North America,Cyprus,Europe,1993,3484
 Canada,North America,China,Asia,1993,0
 Canada,North America,Ivory Coast,Africa,1993,0
-Canada,North America,Congo,Africa,1993,0
+Canada,North America,Iran,Asia,1993,0
 Mexico,North America,United States,North America,1993,765175
 Mexico,North America,Canada,North America,1993,2497
 Mexico,North America,Mexico,North America,1993,0
@@ -132,15 +132,15 @@ Mexico,North America,Norway,Europe,1993,0
 Mexico,North America,Denmark,Europe,1993,0
 Mexico,North America,South Africa,Africa,1993,0
 Mexico,North America,Turkey,Asia,1993,0
+Mexico,North America,Iraq,Asia,1993,0
+Mexico,North America,Lebanon,Asia,1993,0
 Mexico,North America,Israel,Asia,1993,0
-Mexico,North America,United Arab Emirates,Asia,1993,0
 Mexico,North America,Taiwan,Asia,1993,0
 Mexico,North America,South Korea,Asia,1993,0
 Mexico,North America,Japan,Asia,1993,0
 Mexico,North America,India,Asia,1993,0
 Mexico,North America,Pakistan,Asia,1993,0
 Mexico,North America,Thailand,Asia,1993,2468
-Mexico,North America,Malaysia,Asia,1993,0
 Mexico,North America,Singapore,Asia,1993,0
 Mexico,North America,Philippines,Asia,1993,0
 Mexico,North America,Indonesia,Asia,1993,0
@@ -148,7 +148,7 @@ Mexico,North America,Australia,Oceania,1993,0
 Mexico,North America,Cyprus,Europe,1993,0
 Mexico,North America,China,Asia,1993,0
 Mexico,North America,Ivory Coast,Africa,1993,0
-Mexico,North America,Congo,Africa,1993,0
+Mexico,North America,Iran,Asia,1993,0
 Brazil,South America,United States,North America,1993,56753939
 Brazil,South America,Canada,North America,1993,411118
 Brazil,South America,Mexico,North America,1993,448653
@@ -182,15 +182,15 @@ Brazil,South America,Norway,Europe,1993,889096
 Brazil,South America,Denmark,Europe,1993,23034
 Brazil,South America,South Africa,Africa,1993,3806262
 Brazil,South America,Turkey,Asia,1993,318891
+Brazil,South America,Iraq,Asia,1993,0
+Brazil,South America,Lebanon,Asia,1993,114841
 Brazil,South America,Israel,Asia,1993,0
-Brazil,South America,United Arab Emirates,Asia,1993,0
 Brazil,South America,Taiwan,Asia,1993,0
 Brazil,South America,South Korea,Asia,1993,1132951
 Brazil,South America,Japan,Asia,1993,0
 Brazil,South America,India,Asia,1993,0
 Brazil,South America,Pakistan,Asia,1993,16287
 Brazil,South America,Thailand,Asia,1993,1865345
-Brazil,South America,Malaysia,Asia,1993,236071
 Brazil,South America,Singapore,Asia,1993,762278
 Brazil,South America,Philippines,Asia,1993,32866
 Brazil,South America,Indonesia,Asia,1993,0
@@ -198,7 +198,7 @@ Brazil,South America,Australia,Oceania,1993,163048
 Brazil,South America,Cyprus,Europe,1993,156492
 Brazil,South America,China,Asia,1993,0
 Brazil,South America,Ivory Coast,Africa,1993,0
-Brazil,South America,Congo,Africa,1993,0
+Brazil,South America,Iran,Asia,1993,0
 Argentina,South America,United States,North America,1993,3767383
 Argentina,South America,Canada,North America,1993,345013
 Argentina,South America,Mexico,North America,1993,0
@@ -232,15 +232,15 @@ Argentina,South America,Norway,Europe,1993,0
 Argentina,South America,Denmark,Europe,1993,0
 Argentina,South America,South Africa,Africa,1993,169240
 Argentina,South America,Turkey,Asia,1993,0
+Argentina,South America,Iraq,Asia,1993,0
+Argentina,South America,Lebanon,Asia,1993,0
 Argentina,South America,Israel,Asia,1993,0
-Argentina,South America,United Arab Emirates,Asia,1993,0
 Argentina,South America,Taiwan,Asia,1993,0
 Argentina,South America,South Korea,Asia,1993,0
 Argentina,South America,Japan,Asia,1993,0
 Argentina,South America,India,Asia,1993,0
 Argentina,South America,Pakistan,Asia,1993,0
 Argentina,South America,Thailand,Asia,1993,0
-Argentina,South America,Malaysia,Asia,1993,0
 Argentina,South America,Singapore,Asia,1993,0
 Argentina,South America,Philippines,Asia,1993,19998
 Argentina,South America,Indonesia,Asia,1993,0
@@ -248,7 +248,7 @@ Argentina,South America,Australia,Oceania,1993,0
 Argentina,South America,Cyprus,Europe,1993,0
 Argentina,South America,China,Asia,1993,0
 Argentina,South America,Ivory Coast,Africa,1993,0
-Argentina,South America,Congo,Africa,1993,0
+Argentina,South America,Iran,Asia,1993,0
 United Kingdom,Europe,United States,North America,1993,4920217
 United Kingdom,Europe,Canada,North America,1993,762306
 United Kingdom,Europe,Mexico,North America,1993,34779
@@ -282,15 +282,15 @@ United Kingdom,Europe,Norway,Europe,1993,1305343
 United Kingdom,Europe,Denmark,Europe,1993,1034674
 United Kingdom,Europe,South Africa,Africa,1993,548982
 United Kingdom,Europe,Turkey,Asia,1993,1695402
+United Kingdom,Europe,Iraq,Asia,1993,0
+United Kingdom,Europe,Lebanon,Asia,1993,0
 United Kingdom,Europe,Israel,Asia,1993,89057
-United Kingdom,Europe,United Arab Emirates,Asia,1993,2741864
 United Kingdom,Europe,Taiwan,Asia,1993,55707
 United Kingdom,Europe,South Korea,Asia,1993,1020199
 United Kingdom,Europe,Japan,Asia,1993,1396998
 United Kingdom,Europe,India,Asia,1993,43573
 United Kingdom,Europe,Pakistan,Asia,1993,49177
 United Kingdom,Europe,Thailand,Asia,1993,460710
-United Kingdom,Europe,Malaysia,Asia,1993,286990
 United Kingdom,Europe,Singapore,Asia,1993,226977
 United Kingdom,Europe,Philippines,Asia,1993,108069
 United Kingdom,Europe,Indonesia,Asia,1993,414051
@@ -298,7 +298,7 @@ United Kingdom,Europe,Australia,Oceania,1993,1685602
 United Kingdom,Europe,Cyprus,Europe,1993,720712
 United Kingdom,Europe,China,Asia,1993,10139
 United Kingdom,Europe,Ivory Coast,Africa,1993,0
-United Kingdom,Europe,Congo,Africa,1993,12389
+United Kingdom,Europe,Iran,Asia,1993,0
 Netherlands,Europe,United States,North America,1993,33037
 Netherlands,Europe,Canada,North America,1993,1168
 Netherlands,Europe,Mexico,North America,1993,0
@@ -332,15 +332,15 @@ Netherlands,Europe,Norway,Europe,1993,1808359
 Netherlands,Europe,Denmark,Europe,1993,522443
 Netherlands,Europe,South Africa,Africa,1993,0
 Netherlands,Europe,Turkey,Asia,1993,0
+Netherlands,Europe,Iraq,Asia,1993,0
+Netherlands,Europe,Lebanon,Asia,1993,0
 Netherlands,Europe,Israel,Asia,1993,0
-Netherlands,Europe,United Arab Emirates,Asia,1993,0
 Netherlands,Europe,Taiwan,Asia,1993,0
 Netherlands,Europe,South Korea,Asia,1993,0
 Netherlands,Europe,Japan,Asia,1993,0
 Netherlands,Europe,India,Asia,1993,0
 Netherlands,Europe,Pakistan,Asia,1993,0
 Netherlands,Europe,Thailand,Asia,1993,54713
-Netherlands,Europe,Malaysia,Asia,1993,2085961
 Netherlands,Europe,Singapore,Asia,1993,0
 Netherlands,Europe,Philippines,Asia,1993,0
 Netherlands,Europe,Indonesia,Asia,1993,0
@@ -348,7 +348,7 @@ Netherlands,Europe,Australia,Oceania,1993,0
 Netherlands,Europe,Cyprus,Europe,1993,1411
 Netherlands,Europe,China,Asia,1993,0
 Netherlands,Europe,Ivory Coast,Africa,1993,0
-Netherlands,Europe,Congo,Africa,1993,0
+Netherlands,Europe,Iran,Asia,1993,0
 Belgium,Europe,United States,North America,1993,27102818
 Belgium,Europe,Canada,North America,1993,388658
 Belgium,Europe,Mexico,North America,1993,0
@@ -382,15 +382,15 @@ Belgium,Europe,Norway,Europe,1993,2995454
 Belgium,Europe,Denmark,Europe,1993,1040340
 Belgium,Europe,South Africa,Africa,1993,0
 Belgium,Europe,Turkey,Asia,1993,2470031
+Belgium,Europe,Iraq,Asia,1993,0
+Belgium,Europe,Lebanon,Asia,1993,0
 Belgium,Europe,Israel,Asia,1993,0
-Belgium,Europe,United Arab Emirates,Asia,1993,8757
 Belgium,Europe,Taiwan,Asia,1993,0
 Belgium,Europe,South Korea,Asia,1993,288929
 Belgium,Europe,Japan,Asia,1993,1015130
 Belgium,Europe,India,Asia,1993,0
 Belgium,Europe,Pakistan,Asia,1993,0
 Belgium,Europe,Thailand,Asia,1993,14352929
-Belgium,Europe,Malaysia,Asia,1993,749897
 Belgium,Europe,Singapore,Asia,1993,130336
 Belgium,Europe,Philippines,Asia,1993,0
 Belgium,Europe,Indonesia,Asia,1993,89692
@@ -398,7 +398,7 @@ Belgium,Europe,Australia,Oceania,1993,152706
 Belgium,Europe,Cyprus,Europe,1993,265973
 Belgium,Europe,China,Asia,1993,0
 Belgium,Europe,Ivory Coast,Africa,1993,0
-Belgium,Europe,Congo,Africa,1993,0
+Belgium,Europe,Iran,Asia,1993,0
 France,Europe,United States,North America,1993,1068966
 France,Europe,Canada,North America,1993,95905
 France,Europe,Mexico,North America,1993,0
@@ -432,15 +432,15 @@ France,Europe,Norway,Europe,1993,2841894
 France,Europe,Denmark,Europe,1993,2929
 France,Europe,South Africa,Africa,1993,0
 France,Europe,Turkey,Asia,1993,7713
+France,Europe,Iraq,Asia,1993,0
+France,Europe,Lebanon,Asia,1993,0
 France,Europe,Israel,Asia,1993,0
-France,Europe,United Arab Emirates,Asia,1993,0
 France,Europe,Taiwan,Asia,1993,0
 France,Europe,South Korea,Asia,1993,0
 France,Europe,Japan,Asia,1993,1301092
 France,Europe,India,Asia,1993,0
 France,Europe,Pakistan,Asia,1993,0
 France,Europe,Thailand,Asia,1993,2550516
-France,Europe,Malaysia,Asia,1993,0
 France,Europe,Singapore,Asia,1993,0
 France,Europe,Philippines,Asia,1993,0
 France,Europe,Indonesia,Asia,1993,2516367
@@ -448,7 +448,7 @@ France,Europe,Australia,Oceania,1993,98172
 France,Europe,Cyprus,Europe,1993,285531
 France,Europe,China,Asia,1993,0
 France,Europe,Ivory Coast,Africa,1993,0
-France,Europe,Congo,Africa,1993,58935
+France,Europe,Iran,Asia,1993,0
 Switzerland,Europe,United States,North America,1993,1300309
 Switzerland,Europe,Canada,North America,1993,492408
 Switzerland,Europe,Mexico,North America,1993,8366
@@ -482,15 +482,15 @@ Switzerland,Europe,Norway,Europe,1993,50066
 Switzerland,Europe,Denmark,Europe,1993,29774
 Switzerland,Europe,South Africa,Africa,1993,229631
 Switzerland,Europe,Turkey,Asia,1993,53797
+Switzerland,Europe,Iraq,Asia,1993,0
+Switzerland,Europe,Lebanon,Asia,1993,0
 Switzerland,Europe,Israel,Asia,1993,9861
-Switzerland,Europe,United Arab Emirates,Asia,1993,873623
 Switzerland,Europe,Taiwan,Asia,1993,30234
 Switzerland,Europe,South Korea,Asia,1993,90670
 Switzerland,Europe,Japan,Asia,1993,249950
 Switzerland,Europe,India,Asia,1993,10399
 Switzerland,Europe,Pakistan,Asia,1993,0
 Switzerland,Europe,Thailand,Asia,1993,81152
-Switzerland,Europe,Malaysia,Asia,1993,6692056
 Switzerland,Europe,Singapore,Asia,1993,2091998
 Switzerland,Europe,Philippines,Asia,1993,4075580
 Switzerland,Europe,Indonesia,Asia,1993,2500
@@ -498,7 +498,7 @@ Switzerland,Europe,Australia,Oceania,1993,158398
 Switzerland,Europe,Cyprus,Europe,1993,902
 Switzerland,Europe,China,Asia,1993,50715
 Switzerland,Europe,Ivory Coast,Africa,1993,50408
-Switzerland,Europe,Congo,Africa,1993,0
+Switzerland,Europe,Iran,Asia,1993,8775
 Spain,Europe,United States,North America,1993,20137380
 Spain,Europe,Canada,North America,1993,134584
 Spain,Europe,Mexico,North America,1993,0
@@ -532,15 +532,15 @@ Spain,Europe,Norway,Europe,1993,352574
 Spain,Europe,Denmark,Europe,1993,84002
 Spain,Europe,South Africa,Africa,1993,3020421
 Spain,Europe,Turkey,Asia,1993,1589669
+Spain,Europe,Iraq,Asia,1993,0
+Spain,Europe,Lebanon,Asia,1993,40954
 Spain,Europe,Israel,Asia,1993,369776
-Spain,Europe,United Arab Emirates,Asia,1993,1539
 Spain,Europe,Taiwan,Asia,1993,0
 Spain,Europe,South Korea,Asia,1993,82021
 Spain,Europe,Japan,Asia,1993,796375
 Spain,Europe,India,Asia,1993,0
 Spain,Europe,Pakistan,Asia,1993,306974
 Spain,Europe,Thailand,Asia,1993,703330
-Spain,Europe,Malaysia,Asia,1993,6116
 Spain,Europe,Singapore,Asia,1993,4605
 Spain,Europe,Philippines,Asia,1993,111995
 Spain,Europe,Indonesia,Asia,1993,0
@@ -548,7 +548,7 @@ Spain,Europe,Australia,Oceania,1993,45949
 Spain,Europe,Cyprus,Europe,1993,202071
 Spain,Europe,China,Asia,1993,0
 Spain,Europe,Ivory Coast,Africa,1993,0
-Spain,Europe,Congo,Africa,1993,0
+Spain,Europe,Iran,Asia,1993,0
 Portugal,Europe,United States,North America,1993,12146954
 Portugal,Europe,Canada,North America,1993,90165
 Portugal,Europe,Mexico,North America,1993,0
@@ -582,15 +582,15 @@ Portugal,Europe,Norway,Europe,1993,0
 Portugal,Europe,Denmark,Europe,1993,0
 Portugal,Europe,South Africa,Africa,1993,0
 Portugal,Europe,Turkey,Asia,1993,0
+Portugal,Europe,Iraq,Asia,1993,90506
+Portugal,Europe,Lebanon,Asia,1993,0
 Portugal,Europe,Israel,Asia,1993,0
-Portugal,Europe,United Arab Emirates,Asia,1993,0
 Portugal,Europe,Taiwan,Asia,1993,0
 Portugal,Europe,South Korea,Asia,1993,0
 Portugal,Europe,Japan,Asia,1993,309227
 Portugal,Europe,India,Asia,1993,0
 Portugal,Europe,Pakistan,Asia,1993,0
 Portugal,Europe,Thailand,Asia,1993,0
-Portugal,Europe,Malaysia,Asia,1993,0
 Portugal,Europe,Singapore,Asia,1993,0
 Portugal,Europe,Philippines,Asia,1993,0
 Portugal,Europe,Indonesia,Asia,1993,0
@@ -598,7 +598,7 @@ Portugal,Europe,Australia,Oceania,1993,0
 Portugal,Europe,Cyprus,Europe,1993,0
 Portugal,Europe,China,Asia,1993,0
 Portugal,Europe,Ivory Coast,Africa,1993,0
-Portugal,Europe,Congo,Africa,1993,0
+Portugal,Europe,Iran,Asia,1993,0
 Germany,Europe,United States,North America,1993,51914514
 Germany,Europe,Canada,North America,1993,960712
 Germany,Europe,Mexico,North America,1993,83980
@@ -632,15 +632,15 @@ Germany,Europe,Norway,Europe,1993,3287085
 Germany,Europe,Denmark,Europe,1993,2497690
 Germany,Europe,South Africa,Africa,1993,579173
 Germany,Europe,Turkey,Asia,1993,1668997
+Germany,Europe,Iraq,Asia,1993,0
+Germany,Europe,Lebanon,Asia,1993,233117
 Germany,Europe,Israel,Asia,1993,739894
-Germany,Europe,United Arab Emirates,Asia,1993,890479
 Germany,Europe,Taiwan,Asia,1993,1434903
 Germany,Europe,South Korea,Asia,1993,1045408
 Germany,Europe,Japan,Asia,1993,7576018
 Germany,Europe,India,Asia,1993,57915
 Germany,Europe,Pakistan,Asia,1993,23165
 Germany,Europe,Thailand,Asia,1993,2722575
-Germany,Europe,Malaysia,Asia,1993,51428
 Germany,Europe,Singapore,Asia,1993,693640
 Germany,Europe,Philippines,Asia,1993,49228
 Germany,Europe,Indonesia,Asia,1993,463338
@@ -648,7 +648,7 @@ Germany,Europe,Australia,Oceania,1993,382253
 Germany,Europe,Cyprus,Europe,1993,76739
 Germany,Europe,China,Asia,1993,224429
 Germany,Europe,Ivory Coast,Africa,1993,7239
-Germany,Europe,Congo,Africa,1993,0
+Germany,Europe,Iran,Asia,1993,0
 Poland,Europe,United States,North America,1993,466028
 Poland,Europe,Canada,North America,1993,90487
 Poland,Europe,Mexico,North America,1993,0
@@ -682,15 +682,15 @@ Poland,Europe,Norway,Europe,1993,0
 Poland,Europe,Denmark,Europe,1993,0
 Poland,Europe,South Africa,Africa,1993,0
 Poland,Europe,Turkey,Asia,1993,0
+Poland,Europe,Iraq,Asia,1993,0
+Poland,Europe,Lebanon,Asia,1993,0
 Poland,Europe,Israel,Asia,1993,0
-Poland,Europe,United Arab Emirates,Asia,1993,0
 Poland,Europe,Taiwan,Asia,1993,0
 Poland,Europe,South Korea,Asia,1993,0
 Poland,Europe,Japan,Asia,1993,0
 Poland,Europe,India,Asia,1993,0
 Poland,Europe,Pakistan,Asia,1993,0
 Poland,Europe,Thailand,Asia,1993,0
-Poland,Europe,Malaysia,Asia,1993,0
 Poland,Europe,Singapore,Asia,1993,0
 Poland,Europe,Philippines,Asia,1993,0
 Poland,Europe,Indonesia,Asia,1993,0
@@ -698,7 +698,7 @@ Poland,Europe,Australia,Oceania,1993,0
 Poland,Europe,Cyprus,Europe,1993,0
 Poland,Europe,China,Asia,1993,0
 Poland,Europe,Ivory Coast,Africa,1993,0
-Poland,Europe,Congo,Africa,1993,0
+Poland,Europe,Iran,Asia,1993,0
 Austria,Europe,United States,North America,1993,59964049
 Austria,Europe,Canada,North America,1993,749578
 Austria,Europe,Mexico,North America,1993,0
@@ -732,15 +732,15 @@ Austria,Europe,Norway,Europe,1993,1220726
 Austria,Europe,Denmark,Europe,1993,126259
 Austria,Europe,South Africa,Africa,1993,0
 Austria,Europe,Turkey,Asia,1993,65714
+Austria,Europe,Iraq,Asia,1993,0
+Austria,Europe,Lebanon,Asia,1993,0
 Austria,Europe,Israel,Asia,1993,0
-Austria,Europe,United Arab Emirates,Asia,1993,25288
 Austria,Europe,Taiwan,Asia,1993,0
 Austria,Europe,South Korea,Asia,1993,43021
 Austria,Europe,Japan,Asia,1993,28667
 Austria,Europe,India,Asia,1993,0
 Austria,Europe,Pakistan,Asia,1993,0
 Austria,Europe,Thailand,Asia,1993,118353
-Austria,Europe,Malaysia,Asia,1993,428727
 Austria,Europe,Singapore,Asia,1993,0
 Austria,Europe,Philippines,Asia,1993,0
 Austria,Europe,Indonesia,Asia,1993,0
@@ -748,7 +748,7 @@ Austria,Europe,Australia,Oceania,1993,326197
 Austria,Europe,Cyprus,Europe,1993,204419
 Austria,Europe,China,Asia,1993,0
 Austria,Europe,Ivory Coast,Africa,1993,0
-Austria,Europe,Congo,Africa,1993,0
+Austria,Europe,Iran,Asia,1993,0
 Hungary,Europe,United States,North America,1993,11421649
 Hungary,Europe,Canada,North America,1993,360852
 Hungary,Europe,Mexico,North America,1993,0
@@ -782,15 +782,15 @@ Hungary,Europe,Norway,Europe,1993,84937
 Hungary,Europe,Denmark,Europe,1993,27170
 Hungary,Europe,South Africa,Africa,1993,0
 Hungary,Europe,Turkey,Asia,1993,0
+Hungary,Europe,Iraq,Asia,1993,0
+Hungary,Europe,Lebanon,Asia,1993,0
 Hungary,Europe,Israel,Asia,1993,0
-Hungary,Europe,United Arab Emirates,Asia,1993,0
 Hungary,Europe,Taiwan,Asia,1993,0
 Hungary,Europe,South Korea,Asia,1993,0
 Hungary,Europe,Japan,Asia,1993,0
 Hungary,Europe,India,Asia,1993,0
 Hungary,Europe,Pakistan,Asia,1993,0
 Hungary,Europe,Thailand,Asia,1993,0
-Hungary,Europe,Malaysia,Asia,1993,0
 Hungary,Europe,Singapore,Asia,1993,0
 Hungary,Europe,Philippines,Asia,1993,0
 Hungary,Europe,Indonesia,Asia,1993,0
@@ -798,7 +798,7 @@ Hungary,Europe,Australia,Oceania,1993,0
 Hungary,Europe,Cyprus,Europe,1993,0
 Hungary,Europe,China,Asia,1993,0
 Hungary,Europe,Ivory Coast,Africa,1993,0
-Hungary,Europe,Congo,Africa,1993,0
+Hungary,Europe,Iran,Asia,1993,0
 Czech Republic,Europe,United States,North America,1993,5622345
 Czech Republic,Europe,Canada,North America,1993,887452
 Czech Republic,Europe,Mexico,North America,1993,0
@@ -832,15 +832,15 @@ Czech Republic,Europe,Norway,Europe,1993,574662
 Czech Republic,Europe,Denmark,Europe,1993,148536
 Czech Republic,Europe,South Africa,Africa,1993,104578
 Czech Republic,Europe,Turkey,Asia,1993,3703995
+Czech Republic,Europe,Iraq,Asia,1993,0
+Czech Republic,Europe,Lebanon,Asia,1993,0
 Czech Republic,Europe,Israel,Asia,1993,5611
-Czech Republic,Europe,United Arab Emirates,Asia,1993,4122
 Czech Republic,Europe,Taiwan,Asia,1993,0
 Czech Republic,Europe,South Korea,Asia,1993,0
 Czech Republic,Europe,Japan,Asia,1993,82640
 Czech Republic,Europe,India,Asia,1993,35322
 Czech Republic,Europe,Pakistan,Asia,1993,0
 Czech Republic,Europe,Thailand,Asia,1993,978146
-Czech Republic,Europe,Malaysia,Asia,1993,85907
 Czech Republic,Europe,Singapore,Asia,1993,39610
 Czech Republic,Europe,Philippines,Asia,1993,0
 Czech Republic,Europe,Indonesia,Asia,1993,0
@@ -848,7 +848,7 @@ Czech Republic,Europe,Australia,Oceania,1993,298376
 Czech Republic,Europe,Cyprus,Europe,1993,65260
 Czech Republic,Europe,China,Asia,1993,0
 Czech Republic,Europe,Ivory Coast,Africa,1993,0
-Czech Republic,Europe,Congo,Africa,1993,0
+Czech Republic,Europe,Iran,Asia,1993,0
 Slovakia,Europe,United States,North America,1993,0
 Slovakia,Europe,Canada,North America,1993,0
 Slovakia,Europe,Mexico,North America,1993,0
@@ -882,15 +882,15 @@ Slovakia,Europe,Norway,Europe,1993,0
 Slovakia,Europe,Denmark,Europe,1993,0
 Slovakia,Europe,South Africa,Africa,1993,0
 Slovakia,Europe,Turkey,Asia,1993,0
+Slovakia,Europe,Iraq,Asia,1993,0
+Slovakia,Europe,Lebanon,Asia,1993,0
 Slovakia,Europe,Israel,Asia,1993,0
-Slovakia,Europe,United Arab Emirates,Asia,1993,0
 Slovakia,Europe,Taiwan,Asia,1993,0
 Slovakia,Europe,South Korea,Asia,1993,0
 Slovakia,Europe,Japan,Asia,1993,0
 Slovakia,Europe,India,Asia,1993,0
 Slovakia,Europe,Pakistan,Asia,1993,0
 Slovakia,Europe,Thailand,Asia,1993,0
-Slovakia,Europe,Malaysia,Asia,1993,0
 Slovakia,Europe,Singapore,Asia,1993,0
 Slovakia,Europe,Philippines,Asia,1993,0
 Slovakia,Europe,Indonesia,Asia,1993,0
@@ -898,7 +898,7 @@ Slovakia,Europe,Australia,Oceania,1993,0
 Slovakia,Europe,Cyprus,Europe,1993,0
 Slovakia,Europe,China,Asia,1993,0
 Slovakia,Europe,Ivory Coast,Africa,1993,0
-Slovakia,Europe,Congo,Africa,1993,0
+Slovakia,Europe,Iran,Asia,1993,0
 Italy,Europe,United States,North America,1993,83737065
 Italy,Europe,Canada,North America,1993,1542298
 Italy,Europe,Mexico,North America,1993,377910
@@ -932,15 +932,15 @@ Italy,Europe,Norway,Europe,1993,2792633
 Italy,Europe,Denmark,Europe,1993,5908428
 Italy,Europe,South Africa,Africa,1993,0
 Italy,Europe,Turkey,Asia,1993,8323622
+Italy,Europe,Iraq,Asia,1993,0
+Italy,Europe,Lebanon,Asia,1993,0
 Italy,Europe,Israel,Asia,1993,0
-Italy,Europe,United Arab Emirates,Asia,1993,0
 Italy,Europe,Taiwan,Asia,1993,0
 Italy,Europe,South Korea,Asia,1993,8626705
 Italy,Europe,Japan,Asia,1993,6668235
 Italy,Europe,India,Asia,1993,9184
 Italy,Europe,Pakistan,Asia,1993,0
 Italy,Europe,Thailand,Asia,1993,775109
-Italy,Europe,Malaysia,Asia,1993,1076602
 Italy,Europe,Singapore,Asia,1993,375474
 Italy,Europe,Philippines,Asia,1993,0
 Italy,Europe,Indonesia,Asia,1993,0
@@ -948,7 +948,7 @@ Italy,Europe,Australia,Oceania,1993,1657705
 Italy,Europe,Cyprus,Europe,1993,1216341
 Italy,Europe,China,Asia,1993,21703
 Italy,Europe,Ivory Coast,Africa,1993,0
-Italy,Europe,Congo,Africa,1993,0
+Italy,Europe,Iran,Asia,1993,0
 Croatia,Europe,United States,North America,1993,0
 Croatia,Europe,Canada,North America,1993,0
 Croatia,Europe,Mexico,North America,1993,0
@@ -982,15 +982,15 @@ Croatia,Europe,Norway,Europe,1993,0
 Croatia,Europe,Denmark,Europe,1993,0
 Croatia,Europe,South Africa,Africa,1993,0
 Croatia,Europe,Turkey,Asia,1993,0
+Croatia,Europe,Iraq,Asia,1993,0
+Croatia,Europe,Lebanon,Asia,1993,0
 Croatia,Europe,Israel,Asia,1993,0
-Croatia,Europe,United Arab Emirates,Asia,1993,0
 Croatia,Europe,Taiwan,Asia,1993,0
 Croatia,Europe,South Korea,Asia,1993,0
 Croatia,Europe,Japan,Asia,1993,0
 Croatia,Europe,India,Asia,1993,0
 Croatia,Europe,Pakistan,Asia,1993,0
 Croatia,Europe,Thailand,Asia,1993,0
-Croatia,Europe,Malaysia,Asia,1993,0
 Croatia,Europe,Singapore,Asia,1993,0
 Croatia,Europe,Philippines,Asia,1993,0
 Croatia,Europe,Indonesia,Asia,1993,0
@@ -998,7 +998,7 @@ Croatia,Europe,Australia,Oceania,1993,0
 Croatia,Europe,Cyprus,Europe,1993,0
 Croatia,Europe,China,Asia,1993,0
 Croatia,Europe,Ivory Coast,Africa,1993,0
-Croatia,Europe,Congo,Africa,1993,0
+Croatia,Europe,Iran,Asia,1993,0
 Serbia,Europe,United States,North America,1993,0
 Serbia,Europe,Canada,North America,1993,1743
 Serbia,Europe,Mexico,North America,1993,0
@@ -1032,15 +1032,15 @@ Serbia,Europe,Norway,Europe,1993,0
 Serbia,Europe,Denmark,Europe,1993,0
 Serbia,Europe,South Africa,Africa,1993,0
 Serbia,Europe,Turkey,Asia,1993,0
+Serbia,Europe,Iraq,Asia,1993,0
+Serbia,Europe,Lebanon,Asia,1993,0
 Serbia,Europe,Israel,Asia,1993,0
-Serbia,Europe,United Arab Emirates,Asia,1993,0
 Serbia,Europe,Taiwan,Asia,1993,0
 Serbia,Europe,South Korea,Asia,1993,0
 Serbia,Europe,Japan,Asia,1993,0
 Serbia,Europe,India,Asia,1993,0
 Serbia,Europe,Pakistan,Asia,1993,0
 Serbia,Europe,Thailand,Asia,1993,0
-Serbia,Europe,Malaysia,Asia,1993,0
 Serbia,Europe,Singapore,Asia,1993,0
 Serbia,Europe,Philippines,Asia,1993,0
 Serbia,Europe,Indonesia,Asia,1993,0
@@ -1048,7 +1048,7 @@ Serbia,Europe,Australia,Oceania,1993,0
 Serbia,Europe,Cyprus,Europe,1993,0
 Serbia,Europe,China,Asia,1993,0
 Serbia,Europe,Ivory Coast,Africa,1993,0
-Serbia,Europe,Congo,Africa,1993,0
+Serbia,Europe,Iran,Asia,1993,0
 Bosnia,Europe,United States,North America,1993,0
 Bosnia,Europe,Canada,North America,1993,0
 Bosnia,Europe,Mexico,North America,1993,0
@@ -1082,15 +1082,15 @@ Bosnia,Europe,Norway,Europe,1993,0
 Bosnia,Europe,Denmark,Europe,1993,0
 Bosnia,Europe,South Africa,Africa,1993,0
 Bosnia,Europe,Turkey,Asia,1993,0
+Bosnia,Europe,Iraq,Asia,1993,0
+Bosnia,Europe,Lebanon,Asia,1993,0
 Bosnia,Europe,Israel,Asia,1993,0
-Bosnia,Europe,United Arab Emirates,Asia,1993,0
 Bosnia,Europe,Taiwan,Asia,1993,0
 Bosnia,Europe,South Korea,Asia,1993,0
 Bosnia,Europe,Japan,Asia,1993,0
 Bosnia,Europe,India,Asia,1993,0
 Bosnia,Europe,Pakistan,Asia,1993,0
 Bosnia,Europe,Thailand,Asia,1993,0
-Bosnia,Europe,Malaysia,Asia,1993,0
 Bosnia,Europe,Singapore,Asia,1993,0
 Bosnia,Europe,Philippines,Asia,1993,0
 Bosnia,Europe,Indonesia,Asia,1993,0
@@ -1098,7 +1098,7 @@ Bosnia,Europe,Australia,Oceania,1993,0
 Bosnia,Europe,Cyprus,Europe,1993,0
 Bosnia,Europe,China,Asia,1993,0
 Bosnia,Europe,Ivory Coast,Africa,1993,0
-Bosnia,Europe,Congo,Africa,1993,0
+Bosnia,Europe,Iran,Asia,1993,0
 Greece,Europe,United States,North America,1993,0
 Greece,Europe,Canada,North America,1993,0
 Greece,Europe,Mexico,North America,1993,0
@@ -1132,15 +1132,15 @@ Greece,Europe,Norway,Europe,1993,0
 Greece,Europe,Denmark,Europe,1993,0
 Greece,Europe,South Africa,Africa,1993,0
 Greece,Europe,Turkey,Asia,1993,40051
+Greece,Europe,Iraq,Asia,1993,0
+Greece,Europe,Lebanon,Asia,1993,0
 Greece,Europe,Israel,Asia,1993,0
-Greece,Europe,United Arab Emirates,Asia,1993,0
 Greece,Europe,Taiwan,Asia,1993,0
 Greece,Europe,South Korea,Asia,1993,0
 Greece,Europe,Japan,Asia,1993,0
 Greece,Europe,India,Asia,1993,0
 Greece,Europe,Pakistan,Asia,1993,0
 Greece,Europe,Thailand,Asia,1993,104920
-Greece,Europe,Malaysia,Asia,1993,0
 Greece,Europe,Singapore,Asia,1993,0
 Greece,Europe,Philippines,Asia,1993,0
 Greece,Europe,Indonesia,Asia,1993,0
@@ -1148,7 +1148,7 @@ Greece,Europe,Australia,Oceania,1993,0
 Greece,Europe,Cyprus,Europe,1993,7417
 Greece,Europe,China,Asia,1993,0
 Greece,Europe,Ivory Coast,Africa,1993,0
-Greece,Europe,Congo,Africa,1993,0
+Greece,Europe,Iran,Asia,1993,0
 Bulgaria,Europe,United States,North America,1993,163870
 Bulgaria,Europe,Canada,North America,1993,0
 Bulgaria,Europe,Mexico,North America,1993,0
@@ -1182,15 +1182,15 @@ Bulgaria,Europe,Norway,Europe,1993,0
 Bulgaria,Europe,Denmark,Europe,1993,0
 Bulgaria,Europe,South Africa,Africa,1993,0
 Bulgaria,Europe,Turkey,Asia,1993,0
+Bulgaria,Europe,Iraq,Asia,1993,0
+Bulgaria,Europe,Lebanon,Asia,1993,0
 Bulgaria,Europe,Israel,Asia,1993,0
-Bulgaria,Europe,United Arab Emirates,Asia,1993,0
 Bulgaria,Europe,Taiwan,Asia,1993,0
 Bulgaria,Europe,South Korea,Asia,1993,0
 Bulgaria,Europe,Japan,Asia,1993,0
 Bulgaria,Europe,India,Asia,1993,0
 Bulgaria,Europe,Pakistan,Asia,1993,0
 Bulgaria,Europe,Thailand,Asia,1993,0
-Bulgaria,Europe,Malaysia,Asia,1993,0
 Bulgaria,Europe,Singapore,Asia,1993,0
 Bulgaria,Europe,Philippines,Asia,1993,0
 Bulgaria,Europe,Indonesia,Asia,1993,0
@@ -1198,7 +1198,7 @@ Bulgaria,Europe,Australia,Oceania,1993,0
 Bulgaria,Europe,Cyprus,Europe,1993,0
 Bulgaria,Europe,China,Asia,1993,0
 Bulgaria,Europe,Ivory Coast,Africa,1993,0
-Bulgaria,Europe,Congo,Africa,1993,0
+Bulgaria,Europe,Iran,Asia,1993,0
 Romania,Europe,United States,North America,1993,0
 Romania,Europe,Canada,North America,1993,0
 Romania,Europe,Mexico,North America,1993,0
@@ -1232,15 +1232,15 @@ Romania,Europe,Norway,Europe,1993,0
 Romania,Europe,Denmark,Europe,1993,0
 Romania,Europe,South Africa,Africa,1993,0
 Romania,Europe,Turkey,Asia,1993,0
+Romania,Europe,Iraq,Asia,1993,0
+Romania,Europe,Lebanon,Asia,1993,0
 Romania,Europe,Israel,Asia,1993,0
-Romania,Europe,United Arab Emirates,Asia,1993,0
 Romania,Europe,Taiwan,Asia,1993,0
 Romania,Europe,South Korea,Asia,1993,0
 Romania,Europe,Japan,Asia,1993,0
 Romania,Europe,India,Asia,1993,0
 Romania,Europe,Pakistan,Asia,1993,0
 Romania,Europe,Thailand,Asia,1993,0
-Romania,Europe,Malaysia,Asia,1993,0
 Romania,Europe,Singapore,Asia,1993,0
 Romania,Europe,Philippines,Asia,1993,0
 Romania,Europe,Indonesia,Asia,1993,0
@@ -1248,7 +1248,7 @@ Romania,Europe,Australia,Oceania,1993,0
 Romania,Europe,Cyprus,Europe,1993,0
 Romania,Europe,China,Asia,1993,0
 Romania,Europe,Ivory Coast,Africa,1993,0
-Romania,Europe,Congo,Africa,1993,0
+Romania,Europe,Iran,Asia,1993,0
 Russia,Asia,United States,North America,1993,12651521
 Russia,Asia,Canada,North America,1993,851610
 Russia,Asia,Mexico,North America,1993,0
@@ -1282,15 +1282,15 @@ Russia,Asia,Norway,Europe,1993,99335
 Russia,Asia,Denmark,Europe,1993,112937
 Russia,Asia,South Africa,Africa,1993,0
 Russia,Asia,Turkey,Asia,1993,58128
+Russia,Asia,Iraq,Asia,1993,0
+Russia,Asia,Lebanon,Asia,1993,0
 Russia,Asia,Israel,Asia,1993,0
-Russia,Asia,United Arab Emirates,Asia,1993,0
 Russia,Asia,Taiwan,Asia,1993,0
 Russia,Asia,South Korea,Asia,1993,0
 Russia,Asia,Japan,Asia,1993,13898
 Russia,Asia,India,Asia,1993,0
 Russia,Asia,Pakistan,Asia,1993,0
 Russia,Asia,Thailand,Asia,1993,39334
-Russia,Asia,Malaysia,Asia,1993,0
 Russia,Asia,Singapore,Asia,1993,0
 Russia,Asia,Philippines,Asia,1993,0
 Russia,Asia,Indonesia,Asia,1993,0
@@ -1298,7 +1298,7 @@ Russia,Asia,Australia,Oceania,1993,37485
 Russia,Asia,Cyprus,Europe,1993,4757556
 Russia,Asia,China,Asia,1993,60420
 Russia,Asia,Ivory Coast,Africa,1993,0
-Russia,Asia,Congo,Africa,1993,0
+Russia,Asia,Iran,Asia,1993,0
 Ukraine,Europe,United States,North America,1993,0
 Ukraine,Europe,Canada,North America,1993,0
 Ukraine,Europe,Mexico,North America,1993,0
@@ -1332,15 +1332,15 @@ Ukraine,Europe,Norway,Europe,1993,0
 Ukraine,Europe,Denmark,Europe,1993,0
 Ukraine,Europe,South Africa,Africa,1993,0
 Ukraine,Europe,Turkey,Asia,1993,0
+Ukraine,Europe,Iraq,Asia,1993,0
+Ukraine,Europe,Lebanon,Asia,1993,0
 Ukraine,Europe,Israel,Asia,1993,0
-Ukraine,Europe,United Arab Emirates,Asia,1993,0
 Ukraine,Europe,Taiwan,Asia,1993,0
 Ukraine,Europe,South Korea,Asia,1993,0
 Ukraine,Europe,Japan,Asia,1993,0
 Ukraine,Europe,India,Asia,1993,0
 Ukraine,Europe,Pakistan,Asia,1993,0
 Ukraine,Europe,Thailand,Asia,1993,0
-Ukraine,Europe,Malaysia,Asia,1993,0
 Ukraine,Europe,Singapore,Asia,1993,0
 Ukraine,Europe,Philippines,Asia,1993,0
 Ukraine,Europe,Indonesia,Asia,1993,0
@@ -1348,7 +1348,7 @@ Ukraine,Europe,Australia,Oceania,1993,0
 Ukraine,Europe,Cyprus,Europe,1993,0
 Ukraine,Europe,China,Asia,1993,0
 Ukraine,Europe,Ivory Coast,Africa,1993,0
-Ukraine,Europe,Congo,Africa,1993,0
+Ukraine,Europe,Iran,Asia,1993,0
 Finland,Europe,United States,North America,1993,1700509
 Finland,Europe,Canada,North America,1993,581004
 Finland,Europe,Mexico,North America,1993,56469
@@ -1382,15 +1382,15 @@ Finland,Europe,Norway,Europe,1993,2184984
 Finland,Europe,Denmark,Europe,1993,2282530
 Finland,Europe,South Africa,Africa,1993,56458
 Finland,Europe,Turkey,Asia,1993,105528
+Finland,Europe,Iraq,Asia,1993,0
+Finland,Europe,Lebanon,Asia,1993,0
 Finland,Europe,Israel,Asia,1993,0
-Finland,Europe,United Arab Emirates,Asia,1993,34484
 Finland,Europe,Taiwan,Asia,1993,28970
 Finland,Europe,South Korea,Asia,1993,0
 Finland,Europe,Japan,Asia,1993,386140
 Finland,Europe,India,Asia,1993,25492
 Finland,Europe,Pakistan,Asia,1993,0
 Finland,Europe,Thailand,Asia,1993,48100
-Finland,Europe,Malaysia,Asia,1993,489882
 Finland,Europe,Singapore,Asia,1993,677582
 Finland,Europe,Philippines,Asia,1993,0
 Finland,Europe,Indonesia,Asia,1993,0
@@ -1398,7 +1398,7 @@ Finland,Europe,Australia,Oceania,1993,454446
 Finland,Europe,Cyprus,Europe,1993,0
 Finland,Europe,China,Asia,1993,30144
 Finland,Europe,Ivory Coast,Africa,1993,0
-Finland,Europe,Congo,Africa,1993,0
+Finland,Europe,Iran,Asia,1993,0
 Sweden,Europe,United States,North America,1993,9857698
 Sweden,Europe,Canada,North America,1993,18719298
 Sweden,Europe,Mexico,North America,1993,573382
@@ -1432,15 +1432,15 @@ Sweden,Europe,Norway,Europe,1993,15044572
 Sweden,Europe,Denmark,Europe,1993,2580966
 Sweden,Europe,South Africa,Africa,1993,0
 Sweden,Europe,Turkey,Asia,1993,3344
+Sweden,Europe,Iraq,Asia,1993,0
+Sweden,Europe,Lebanon,Asia,1993,0
 Sweden,Europe,Israel,Asia,1993,0
-Sweden,Europe,United Arab Emirates,Asia,1993,0
 Sweden,Europe,Taiwan,Asia,1993,0
 Sweden,Europe,South Korea,Asia,1993,108204
 Sweden,Europe,Japan,Asia,1993,305964
 Sweden,Europe,India,Asia,1993,0
 Sweden,Europe,Pakistan,Asia,1993,3344
 Sweden,Europe,Thailand,Asia,1993,0
-Sweden,Europe,Malaysia,Asia,1993,0
 Sweden,Europe,Singapore,Asia,1993,0
 Sweden,Europe,Philippines,Asia,1993,0
 Sweden,Europe,Indonesia,Asia,1993,0
@@ -1448,7 +1448,7 @@ Sweden,Europe,Australia,Oceania,1993,1178922
 Sweden,Europe,Cyprus,Europe,1993,0
 Sweden,Europe,China,Asia,1993,0
 Sweden,Europe,Ivory Coast,Africa,1993,0
-Sweden,Europe,Congo,Africa,1993,0
+Sweden,Europe,Iran,Asia,1993,0
 Norway,Europe,United States,North America,1993,4332078
 Norway,Europe,Canada,North America,1993,0
 Norway,Europe,Mexico,North America,1993,0
@@ -1482,15 +1482,15 @@ Norway,Europe,Norway,Europe,1993,0
 Norway,Europe,Denmark,Europe,1993,4246124
 Norway,Europe,South Africa,Africa,1993,0
 Norway,Europe,Turkey,Asia,1993,172614
+Norway,Europe,Iraq,Asia,1993,0
+Norway,Europe,Lebanon,Asia,1993,0
 Norway,Europe,Israel,Asia,1993,0
-Norway,Europe,United Arab Emirates,Asia,1993,0
 Norway,Europe,Taiwan,Asia,1993,0
 Norway,Europe,South Korea,Asia,1993,0
 Norway,Europe,Japan,Asia,1993,2810
 Norway,Europe,India,Asia,1993,0
 Norway,Europe,Pakistan,Asia,1993,0
 Norway,Europe,Thailand,Asia,1993,0
-Norway,Europe,Malaysia,Asia,1993,0
 Norway,Europe,Singapore,Asia,1993,0
 Norway,Europe,Philippines,Asia,1993,0
 Norway,Europe,Indonesia,Asia,1993,0
@@ -1498,7 +1498,7 @@ Norway,Europe,Australia,Oceania,1993,0
 Norway,Europe,Cyprus,Europe,1993,0
 Norway,Europe,China,Asia,1993,0
 Norway,Europe,Ivory Coast,Africa,1993,0
-Norway,Europe,Congo,Africa,1993,0
+Norway,Europe,Iran,Asia,1993,0
 Denmark,Europe,United States,North America,1993,5698
 Denmark,Europe,Canada,North America,1993,0
 Denmark,Europe,Mexico,North America,1993,0
@@ -1532,15 +1532,15 @@ Denmark,Europe,Norway,Europe,1993,301510
 Denmark,Europe,Denmark,Europe,1993,0
 Denmark,Europe,South Africa,Africa,1993,18828
 Denmark,Europe,Turkey,Asia,1993,0
+Denmark,Europe,Iraq,Asia,1993,0
+Denmark,Europe,Lebanon,Asia,1993,0
 Denmark,Europe,Israel,Asia,1993,0
-Denmark,Europe,United Arab Emirates,Asia,1993,0
 Denmark,Europe,Taiwan,Asia,1993,0
 Denmark,Europe,South Korea,Asia,1993,0
 Denmark,Europe,Japan,Asia,1993,537850
 Denmark,Europe,India,Asia,1993,0
 Denmark,Europe,Pakistan,Asia,1993,0
 Denmark,Europe,Thailand,Asia,1993,0
-Denmark,Europe,Malaysia,Asia,1993,0
 Denmark,Europe,Singapore,Asia,1993,0
 Denmark,Europe,Philippines,Asia,1993,0
 Denmark,Europe,Indonesia,Asia,1993,0
@@ -1548,7 +1548,7 @@ Denmark,Europe,Australia,Oceania,1993,1897696
 Denmark,Europe,Cyprus,Europe,1993,3596
 Denmark,Europe,China,Asia,1993,0
 Denmark,Europe,Ivory Coast,Africa,1993,0
-Denmark,Europe,Congo,Africa,1993,0
+Denmark,Europe,Iran,Asia,1993,0
 South Africa,Africa,United States,North America,1993,0
 South Africa,Africa,Canada,North America,1993,0
 South Africa,Africa,Mexico,North America,1993,0
@@ -1582,15 +1582,15 @@ South Africa,Africa,Norway,Europe,1993,0
 South Africa,Africa,Denmark,Europe,1993,0
 South Africa,Africa,South Africa,Africa,1993,0
 South Africa,Africa,Turkey,Asia,1993,0
+South Africa,Africa,Iraq,Asia,1993,0
+South Africa,Africa,Lebanon,Asia,1993,0
 South Africa,Africa,Israel,Asia,1993,0
-South Africa,Africa,United Arab Emirates,Asia,1993,0
 South Africa,Africa,Taiwan,Asia,1993,0
 South Africa,Africa,South Korea,Asia,1993,0
 South Africa,Africa,Japan,Asia,1993,0
 South Africa,Africa,India,Asia,1993,0
 South Africa,Africa,Pakistan,Asia,1993,0
 South Africa,Africa,Thailand,Asia,1993,7844
-South Africa,Africa,Malaysia,Asia,1993,0
 South Africa,Africa,Singapore,Asia,1993,0
 South Africa,Africa,Philippines,Asia,1993,0
 South Africa,Africa,Indonesia,Asia,1993,0
@@ -1598,7 +1598,7 @@ South Africa,Africa,Australia,Oceania,1993,0
 South Africa,Africa,Cyprus,Europe,1993,2096
 South Africa,Africa,China,Asia,1993,0
 South Africa,Africa,Ivory Coast,Africa,1993,0
-South Africa,Africa,Congo,Africa,1993,0
+South Africa,Africa,Iran,Asia,1993,0
 Turkey,Asia,United States,North America,1993,1010248
 Turkey,Asia,Canada,North America,1993,0
 Turkey,Asia,Mexico,North America,1993,0
@@ -1632,15 +1632,15 @@ Turkey,Asia,Norway,Europe,1993,4044150
 Turkey,Asia,Denmark,Europe,1993,0
 Turkey,Asia,South Africa,Africa,1993,0
 Turkey,Asia,Turkey,Asia,1993,0
+Turkey,Asia,Iraq,Asia,1993,0
+Turkey,Asia,Lebanon,Asia,1993,27018
 Turkey,Asia,Israel,Asia,1993,0
-Turkey,Asia,United Arab Emirates,Asia,1993,0
 Turkey,Asia,Taiwan,Asia,1993,0
 Turkey,Asia,South Korea,Asia,1993,5124
 Turkey,Asia,Japan,Asia,1993,0
 Turkey,Asia,India,Asia,1993,0
 Turkey,Asia,Pakistan,Asia,1993,0
 Turkey,Asia,Thailand,Asia,1993,0
-Turkey,Asia,Malaysia,Asia,1993,0
 Turkey,Asia,Singapore,Asia,1993,0
 Turkey,Asia,Philippines,Asia,1993,0
 Turkey,Asia,Indonesia,Asia,1993,0
@@ -1648,7 +1648,107 @@ Turkey,Asia,Australia,Oceania,1993,0
 Turkey,Asia,Cyprus,Europe,1993,0
 Turkey,Asia,China,Asia,1993,0
 Turkey,Asia,Ivory Coast,Africa,1993,0
-Turkey,Asia,Congo,Africa,1993,0
+Turkey,Asia,Iran,Asia,1993,0
+Iraq,Asia,United States,North America,1993,0
+Iraq,Asia,Canada,North America,1993,0
+Iraq,Asia,Mexico,North America,1993,0
+Iraq,Asia,Brazil,South America,1993,0
+Iraq,Asia,Argentina,South America,1993,0
+Iraq,Asia,United Kingdom,Europe,1993,0
+Iraq,Asia,Netherlands,Europe,1993,0
+Iraq,Asia,Belgium,Europe,1993,0
+Iraq,Asia,France,Europe,1993,0
+Iraq,Asia,Switzerland,Europe,1993,0
+Iraq,Asia,Spain,Europe,1993,0
+Iraq,Asia,Portugal,Europe,1993,0
+Iraq,Asia,Germany,Europe,1993,0
+Iraq,Asia,Poland,Europe,1993,0
+Iraq,Asia,Austria,Europe,1993,0
+Iraq,Asia,Hungary,Europe,1993,0
+Iraq,Asia,Czech Republic,Europe,1993,0
+Iraq,Asia,Slovakia,Europe,1993,0
+Iraq,Asia,Italy,Europe,1993,0
+Iraq,Asia,Croatia,Europe,1993,0
+Iraq,Asia,Serbia,Europe,1993,0
+Iraq,Asia,Bosnia,Europe,1993,0
+Iraq,Asia,Greece,Europe,1993,0
+Iraq,Asia,Bulgaria,Europe,1993,0
+Iraq,Asia,Romania,Europe,1993,0
+Iraq,Asia,Russia,Asia,1993,0
+Iraq,Asia,Ukraine,Europe,1993,0
+Iraq,Asia,Finland,Europe,1993,0
+Iraq,Asia,Sweden,Europe,1993,0
+Iraq,Asia,Norway,Europe,1993,0
+Iraq,Asia,Denmark,Europe,1993,0
+Iraq,Asia,South Africa,Africa,1993,0
+Iraq,Asia,Turkey,Asia,1993,0
+Iraq,Asia,Iraq,Asia,1993,0
+Iraq,Asia,Lebanon,Asia,1993,0
+Iraq,Asia,Israel,Asia,1993,0
+Iraq,Asia,Taiwan,Asia,1993,0
+Iraq,Asia,South Korea,Asia,1993,0
+Iraq,Asia,Japan,Asia,1993,0
+Iraq,Asia,India,Asia,1993,0
+Iraq,Asia,Pakistan,Asia,1993,0
+Iraq,Asia,Thailand,Asia,1993,0
+Iraq,Asia,Singapore,Asia,1993,0
+Iraq,Asia,Philippines,Asia,1993,0
+Iraq,Asia,Indonesia,Asia,1993,0
+Iraq,Asia,Australia,Oceania,1993,0
+Iraq,Asia,Cyprus,Europe,1993,0
+Iraq,Asia,China,Asia,1993,0
+Iraq,Asia,Ivory Coast,Africa,1993,0
+Iraq,Asia,Iran,Asia,1993,0
+Lebanon,Asia,United States,North America,1993,0
+Lebanon,Asia,Canada,North America,1993,0
+Lebanon,Asia,Mexico,North America,1993,0
+Lebanon,Asia,Brazil,South America,1993,0
+Lebanon,Asia,Argentina,South America,1993,0
+Lebanon,Asia,United Kingdom,Europe,1993,0
+Lebanon,Asia,Netherlands,Europe,1993,0
+Lebanon,Asia,Belgium,Europe,1993,0
+Lebanon,Asia,France,Europe,1993,0
+Lebanon,Asia,Switzerland,Europe,1993,0
+Lebanon,Asia,Spain,Europe,1993,0
+Lebanon,Asia,Portugal,Europe,1993,0
+Lebanon,Asia,Germany,Europe,1993,0
+Lebanon,Asia,Poland,Europe,1993,0
+Lebanon,Asia,Austria,Europe,1993,0
+Lebanon,Asia,Hungary,Europe,1993,0
+Lebanon,Asia,Czech Republic,Europe,1993,0
+Lebanon,Asia,Slovakia,Europe,1993,0
+Lebanon,Asia,Italy,Europe,1993,0
+Lebanon,Asia,Croatia,Europe,1993,0
+Lebanon,Asia,Serbia,Europe,1993,0
+Lebanon,Asia,Bosnia,Europe,1993,0
+Lebanon,Asia,Greece,Europe,1993,0
+Lebanon,Asia,Bulgaria,Europe,1993,0
+Lebanon,Asia,Romania,Europe,1993,0
+Lebanon,Asia,Russia,Asia,1993,0
+Lebanon,Asia,Ukraine,Europe,1993,0
+Lebanon,Asia,Finland,Europe,1993,0
+Lebanon,Asia,Sweden,Europe,1993,0
+Lebanon,Asia,Norway,Europe,1993,0
+Lebanon,Asia,Denmark,Europe,1993,0
+Lebanon,Asia,South Africa,Africa,1993,0
+Lebanon,Asia,Turkey,Asia,1993,0
+Lebanon,Asia,Iraq,Asia,1993,0
+Lebanon,Asia,Lebanon,Asia,1993,0
+Lebanon,Asia,Israel,Asia,1993,0
+Lebanon,Asia,Taiwan,Asia,1993,0
+Lebanon,Asia,South Korea,Asia,1993,0
+Lebanon,Asia,Japan,Asia,1993,0
+Lebanon,Asia,India,Asia,1993,0
+Lebanon,Asia,Pakistan,Asia,1993,0
+Lebanon,Asia,Thailand,Asia,1993,0
+Lebanon,Asia,Singapore,Asia,1993,0
+Lebanon,Asia,Philippines,Asia,1993,0
+Lebanon,Asia,Indonesia,Asia,1993,0
+Lebanon,Asia,Australia,Oceania,1993,0
+Lebanon,Asia,Cyprus,Europe,1993,0
+Lebanon,Asia,China,Asia,1993,0
+Lebanon,Asia,Ivory Coast,Africa,1993,0
+Lebanon,Asia,Iran,Asia,1993,0
 Israel,Asia,United States,North America,1993,28271850
 Israel,Asia,Canada,North America,1993,142678
 Israel,Asia,Mexico,North America,1993,0
@@ -1682,15 +1782,15 @@ Israel,Asia,Norway,Europe,1993,0
 Israel,Asia,Denmark,Europe,1993,0
 Israel,Asia,South Africa,Africa,1993,0
 Israel,Asia,Turkey,Asia,1993,12214
+Israel,Asia,Iraq,Asia,1993,0
+Israel,Asia,Lebanon,Asia,1993,0
 Israel,Asia,Israel,Asia,1993,0
-Israel,Asia,United Arab Emirates,Asia,1993,0
 Israel,Asia,Taiwan,Asia,1993,0
 Israel,Asia,South Korea,Asia,1993,0
 Israel,Asia,Japan,Asia,1993,0
 Israel,Asia,India,Asia,1993,0
 Israel,Asia,Pakistan,Asia,1993,0
 Israel,Asia,Thailand,Asia,1993,90646
-Israel,Asia,Malaysia,Asia,1993,0
 Israel,Asia,Singapore,Asia,1993,0
 Israel,Asia,Philippines,Asia,1993,0
 Israel,Asia,Indonesia,Asia,1993,0
@@ -1698,57 +1798,7 @@ Israel,Asia,Australia,Oceania,1993,226506
 Israel,Asia,Cyprus,Europe,1993,0
 Israel,Asia,China,Asia,1993,0
 Israel,Asia,Ivory Coast,Africa,1993,0
-Israel,Asia,Congo,Africa,1993,0
-United Arab Emirates,Asia,United States,North America,1993,0
-United Arab Emirates,Asia,Canada,North America,1993,0
-United Arab Emirates,Asia,Mexico,North America,1993,0
-United Arab Emirates,Asia,Brazil,South America,1993,0
-United Arab Emirates,Asia,Argentina,South America,1993,0
-United Arab Emirates,Asia,United Kingdom,Europe,1993,1518650
-United Arab Emirates,Asia,Netherlands,Europe,1993,0
-United Arab Emirates,Asia,Belgium,Europe,1993,0
-United Arab Emirates,Asia,France,Europe,1993,0
-United Arab Emirates,Asia,Switzerland,Europe,1993,0
-United Arab Emirates,Asia,Spain,Europe,1993,0
-United Arab Emirates,Asia,Portugal,Europe,1993,0
-United Arab Emirates,Asia,Germany,Europe,1993,2894
-United Arab Emirates,Asia,Poland,Europe,1993,0
-United Arab Emirates,Asia,Austria,Europe,1993,0
-United Arab Emirates,Asia,Hungary,Europe,1993,0
-United Arab Emirates,Asia,Czech Republic,Europe,1993,0
-United Arab Emirates,Asia,Slovakia,Europe,1993,0
-United Arab Emirates,Asia,Italy,Europe,1993,0
-United Arab Emirates,Asia,Croatia,Europe,1993,0
-United Arab Emirates,Asia,Serbia,Europe,1993,0
-United Arab Emirates,Asia,Bosnia,Europe,1993,0
-United Arab Emirates,Asia,Greece,Europe,1993,0
-United Arab Emirates,Asia,Bulgaria,Europe,1993,0
-United Arab Emirates,Asia,Romania,Europe,1993,0
-United Arab Emirates,Asia,Russia,Asia,1993,0
-United Arab Emirates,Asia,Ukraine,Europe,1993,0
-United Arab Emirates,Asia,Finland,Europe,1993,0
-United Arab Emirates,Asia,Sweden,Europe,1993,0
-United Arab Emirates,Asia,Norway,Europe,1993,0
-United Arab Emirates,Asia,Denmark,Europe,1993,0
-United Arab Emirates,Asia,South Africa,Africa,1993,0
-United Arab Emirates,Asia,Turkey,Asia,1993,0
-United Arab Emirates,Asia,Israel,Asia,1993,0
-United Arab Emirates,Asia,United Arab Emirates,Asia,1993,0
-United Arab Emirates,Asia,Taiwan,Asia,1993,0
-United Arab Emirates,Asia,South Korea,Asia,1993,0
-United Arab Emirates,Asia,Japan,Asia,1993,0
-United Arab Emirates,Asia,India,Asia,1993,0
-United Arab Emirates,Asia,Pakistan,Asia,1993,0
-United Arab Emirates,Asia,Thailand,Asia,1993,0
-United Arab Emirates,Asia,Malaysia,Asia,1993,0
-United Arab Emirates,Asia,Singapore,Asia,1993,0
-United Arab Emirates,Asia,Philippines,Asia,1993,0
-United Arab Emirates,Asia,Indonesia,Asia,1993,0
-United Arab Emirates,Asia,Australia,Oceania,1993,0
-United Arab Emirates,Asia,Cyprus,Europe,1993,0
-United Arab Emirates,Asia,China,Asia,1993,0
-United Arab Emirates,Asia,Ivory Coast,Africa,1993,0
-United Arab Emirates,Asia,Congo,Africa,1993,0
+Israel,Asia,Iran,Asia,1993,0
 Taiwan,Asia,United States,North America,1993,5428
 Taiwan,Asia,Canada,North America,1993,1714
 Taiwan,Asia,Mexico,North America,1993,0
@@ -1782,15 +1832,15 @@ Taiwan,Asia,Norway,Europe,1993,0
 Taiwan,Asia,Denmark,Europe,1993,0
 Taiwan,Asia,South Africa,Africa,1993,0
 Taiwan,Asia,Turkey,Asia,1993,0
+Taiwan,Asia,Iraq,Asia,1993,0
+Taiwan,Asia,Lebanon,Asia,1993,0
 Taiwan,Asia,Israel,Asia,1993,0
-Taiwan,Asia,United Arab Emirates,Asia,1993,0
 Taiwan,Asia,Taiwan,Asia,1993,0
 Taiwan,Asia,South Korea,Asia,1993,0
 Taiwan,Asia,Japan,Asia,1993,0
 Taiwan,Asia,India,Asia,1993,0
 Taiwan,Asia,Pakistan,Asia,1993,0
 Taiwan,Asia,Thailand,Asia,1993,0
-Taiwan,Asia,Malaysia,Asia,1993,0
 Taiwan,Asia,Singapore,Asia,1993,0
 Taiwan,Asia,Philippines,Asia,1993,0
 Taiwan,Asia,Indonesia,Asia,1993,2472
@@ -1798,7 +1848,7 @@ Taiwan,Asia,Australia,Oceania,1993,0
 Taiwan,Asia,Cyprus,Europe,1993,0
 Taiwan,Asia,China,Asia,1993,0
 Taiwan,Asia,Ivory Coast,Africa,1993,0
-Taiwan,Asia,Congo,Africa,1993,0
+Taiwan,Asia,Iran,Asia,1993,0
 South Korea,Asia,United States,North America,1993,3226438
 South Korea,Asia,Canada,North America,1993,256130
 South Korea,Asia,Mexico,North America,1993,0
@@ -1832,15 +1882,15 @@ South Korea,Asia,Norway,Europe,1993,0
 South Korea,Asia,Denmark,Europe,1993,0
 South Korea,Asia,South Africa,Africa,1993,0
 South Korea,Asia,Turkey,Asia,1993,14868010
+South Korea,Asia,Iraq,Asia,1993,0
+South Korea,Asia,Lebanon,Asia,1993,0
 South Korea,Asia,Israel,Asia,1993,36198
-South Korea,Asia,United Arab Emirates,Asia,1993,23664
 South Korea,Asia,Taiwan,Asia,1993,0
 South Korea,Asia,South Korea,Asia,1993,0
 South Korea,Asia,Japan,Asia,1993,178168
 South Korea,Asia,India,Asia,1993,0
 South Korea,Asia,Pakistan,Asia,1993,0
 South Korea,Asia,Thailand,Asia,1993,172638
-South Korea,Asia,Malaysia,Asia,1993,3708
 South Korea,Asia,Singapore,Asia,1993,0
 South Korea,Asia,Philippines,Asia,1993,25224
 South Korea,Asia,Indonesia,Asia,1993,13824
@@ -1848,7 +1898,7 @@ South Korea,Asia,Australia,Oceania,1993,92798
 South Korea,Asia,Cyprus,Europe,1993,0
 South Korea,Asia,China,Asia,1993,32968
 South Korea,Asia,Ivory Coast,Africa,1993,0
-South Korea,Asia,Congo,Africa,1993,0
+South Korea,Asia,Iran,Asia,1993,0
 Japan,Asia,United States,North America,1993,92067510
 Japan,Asia,Canada,North America,1993,5419364
 Japan,Asia,Mexico,North America,1993,0
@@ -1882,15 +1932,15 @@ Japan,Asia,Norway,Europe,1993,130662
 Japan,Asia,Denmark,Europe,1993,758570
 Japan,Asia,South Africa,Africa,1993,52722
 Japan,Asia,Turkey,Asia,1993,647470
+Japan,Asia,Iraq,Asia,1993,0
+Japan,Asia,Lebanon,Asia,1993,0
 Japan,Asia,Israel,Asia,1993,0
-Japan,Asia,United Arab Emirates,Asia,1993,0
 Japan,Asia,Taiwan,Asia,1993,0
 Japan,Asia,South Korea,Asia,1993,234538
 Japan,Asia,Japan,Asia,1993,0
 Japan,Asia,India,Asia,1993,0
 Japan,Asia,Pakistan,Asia,1993,0
 Japan,Asia,Thailand,Asia,1993,118300
-Japan,Asia,Malaysia,Asia,1993,71782
 Japan,Asia,Singapore,Asia,1993,260826
 Japan,Asia,Philippines,Asia,1993,0
 Japan,Asia,Indonesia,Asia,1993,0
@@ -1898,7 +1948,7 @@ Japan,Asia,Australia,Oceania,1993,2185376
 Japan,Asia,Cyprus,Europe,1993,170644
 Japan,Asia,China,Asia,1993,13364
 Japan,Asia,Ivory Coast,Africa,1993,0
-Japan,Asia,Congo,Africa,1993,0
+Japan,Asia,Iran,Asia,1993,0
 India,Asia,United States,North America,1993,0
 India,Asia,Canada,North America,1993,0
 India,Asia,Mexico,North America,1993,0
@@ -1932,15 +1982,15 @@ India,Asia,Norway,Europe,1993,0
 India,Asia,Denmark,Europe,1993,0
 India,Asia,South Africa,Africa,1993,0
 India,Asia,Turkey,Asia,1993,0
+India,Asia,Iraq,Asia,1993,0
+India,Asia,Lebanon,Asia,1993,0
 India,Asia,Israel,Asia,1993,0
-India,Asia,United Arab Emirates,Asia,1993,0
 India,Asia,Taiwan,Asia,1993,0
 India,Asia,South Korea,Asia,1993,0
 India,Asia,Japan,Asia,1993,0
 India,Asia,India,Asia,1993,0
 India,Asia,Pakistan,Asia,1993,0
 India,Asia,Thailand,Asia,1993,0
-India,Asia,Malaysia,Asia,1993,0
 India,Asia,Singapore,Asia,1993,0
 India,Asia,Philippines,Asia,1993,0
 India,Asia,Indonesia,Asia,1993,0
@@ -1948,7 +1998,7 @@ India,Asia,Australia,Oceania,1993,24998
 India,Asia,Cyprus,Europe,1993,0
 India,Asia,China,Asia,1993,0
 India,Asia,Ivory Coast,Africa,1993,0
-India,Asia,Congo,Africa,1993,0
+India,Asia,Iran,Asia,1993,0
 Pakistan,Asia,United States,North America,1993,0
 Pakistan,Asia,Canada,North America,1993,0
 Pakistan,Asia,Mexico,North America,1993,0
@@ -1982,15 +2032,15 @@ Pakistan,Asia,Norway,Europe,1993,0
 Pakistan,Asia,Denmark,Europe,1993,0
 Pakistan,Asia,South Africa,Africa,1993,0
 Pakistan,Asia,Turkey,Asia,1993,0
+Pakistan,Asia,Iraq,Asia,1993,0
+Pakistan,Asia,Lebanon,Asia,1993,0
 Pakistan,Asia,Israel,Asia,1993,0
-Pakistan,Asia,United Arab Emirates,Asia,1993,0
 Pakistan,Asia,Taiwan,Asia,1993,0
 Pakistan,Asia,South Korea,Asia,1993,0
 Pakistan,Asia,Japan,Asia,1993,0
 Pakistan,Asia,India,Asia,1993,0
 Pakistan,Asia,Pakistan,Asia,1993,0
 Pakistan,Asia,Thailand,Asia,1993,13376
-Pakistan,Asia,Malaysia,Asia,1993,0
 Pakistan,Asia,Singapore,Asia,1993,0
 Pakistan,Asia,Philippines,Asia,1993,0
 Pakistan,Asia,Indonesia,Asia,1993,0
@@ -1998,7 +2048,7 @@ Pakistan,Asia,Australia,Oceania,1993,0
 Pakistan,Asia,Cyprus,Europe,1993,0
 Pakistan,Asia,China,Asia,1993,0
 Pakistan,Asia,Ivory Coast,Africa,1993,0
-Pakistan,Asia,Congo,Africa,1993,0
+Pakistan,Asia,Iran,Asia,1993,0
 Thailand,Asia,United States,North America,1993,31388
 Thailand,Asia,Canada,North America,1993,869392
 Thailand,Asia,Mexico,North America,1993,0
@@ -2032,15 +2082,15 @@ Thailand,Asia,Norway,Europe,1993,0
 Thailand,Asia,Denmark,Europe,1993,0
 Thailand,Asia,South Africa,Africa,1993,0
 Thailand,Asia,Turkey,Asia,1993,0
+Thailand,Asia,Iraq,Asia,1993,0
+Thailand,Asia,Lebanon,Asia,1993,0
 Thailand,Asia,Israel,Asia,1993,0
-Thailand,Asia,United Arab Emirates,Asia,1993,0
 Thailand,Asia,Taiwan,Asia,1993,0
 Thailand,Asia,South Korea,Asia,1993,0
 Thailand,Asia,Japan,Asia,1993,4708
 Thailand,Asia,India,Asia,1993,0
 Thailand,Asia,Pakistan,Asia,1993,0
 Thailand,Asia,Thailand,Asia,1993,0
-Thailand,Asia,Malaysia,Asia,1993,0
 Thailand,Asia,Singapore,Asia,1993,0
 Thailand,Asia,Philippines,Asia,1993,0
 Thailand,Asia,Indonesia,Asia,1993,0
@@ -2048,57 +2098,7 @@ Thailand,Asia,Australia,Oceania,1993,0
 Thailand,Asia,Cyprus,Europe,1993,0
 Thailand,Asia,China,Asia,1993,0
 Thailand,Asia,Ivory Coast,Africa,1993,0
-Thailand,Asia,Congo,Africa,1993,0
-Malaysia,Asia,United States,North America,1993,204192
-Malaysia,Asia,Canada,North America,1993,0
-Malaysia,Asia,Mexico,North America,1993,0
-Malaysia,Asia,Brazil,South America,1993,4056
-Malaysia,Asia,Argentina,South America,1993,0
-Malaysia,Asia,United Kingdom,Europe,1993,16622
-Malaysia,Asia,Netherlands,Europe,1993,0
-Malaysia,Asia,Belgium,Europe,1993,0
-Malaysia,Asia,France,Europe,1993,0
-Malaysia,Asia,Switzerland,Europe,1993,0
-Malaysia,Asia,Spain,Europe,1993,0
-Malaysia,Asia,Portugal,Europe,1993,0
-Malaysia,Asia,Germany,Europe,1993,0
-Malaysia,Asia,Poland,Europe,1993,0
-Malaysia,Asia,Austria,Europe,1993,0
-Malaysia,Asia,Hungary,Europe,1993,0
-Malaysia,Asia,Czech Republic,Europe,1993,0
-Malaysia,Asia,Slovakia,Europe,1993,0
-Malaysia,Asia,Italy,Europe,1993,0
-Malaysia,Asia,Croatia,Europe,1993,0
-Malaysia,Asia,Serbia,Europe,1993,0
-Malaysia,Asia,Bosnia,Europe,1993,0
-Malaysia,Asia,Greece,Europe,1993,0
-Malaysia,Asia,Bulgaria,Europe,1993,0
-Malaysia,Asia,Romania,Europe,1993,0
-Malaysia,Asia,Russia,Asia,1993,0
-Malaysia,Asia,Ukraine,Europe,1993,0
-Malaysia,Asia,Finland,Europe,1993,6866
-Malaysia,Asia,Sweden,Europe,1993,0
-Malaysia,Asia,Norway,Europe,1993,0
-Malaysia,Asia,Denmark,Europe,1993,0
-Malaysia,Asia,South Africa,Africa,1993,0
-Malaysia,Asia,Turkey,Asia,1993,0
-Malaysia,Asia,Israel,Asia,1993,0
-Malaysia,Asia,United Arab Emirates,Asia,1993,9998
-Malaysia,Asia,Taiwan,Asia,1993,4916
-Malaysia,Asia,South Korea,Asia,1993,0
-Malaysia,Asia,Japan,Asia,1993,0
-Malaysia,Asia,India,Asia,1993,0
-Malaysia,Asia,Pakistan,Asia,1993,0
-Malaysia,Asia,Thailand,Asia,1993,0
-Malaysia,Asia,Malaysia,Asia,1993,0
-Malaysia,Asia,Singapore,Asia,1993,13166
-Malaysia,Asia,Philippines,Asia,1993,67048
-Malaysia,Asia,Indonesia,Asia,1993,0
-Malaysia,Asia,Australia,Oceania,1993,0
-Malaysia,Asia,Cyprus,Europe,1993,0
-Malaysia,Asia,China,Asia,1993,0
-Malaysia,Asia,Ivory Coast,Africa,1993,0
-Malaysia,Asia,Congo,Africa,1993,0
+Thailand,Asia,Iran,Asia,1993,0
 Singapore,Asia,United States,North America,1993,0
 Singapore,Asia,Canada,North America,1993,0
 Singapore,Asia,Mexico,North America,1993,0
@@ -2132,15 +2132,15 @@ Singapore,Asia,Norway,Europe,1993,0
 Singapore,Asia,Denmark,Europe,1993,0
 Singapore,Asia,South Africa,Africa,1993,0
 Singapore,Asia,Turkey,Asia,1993,0
+Singapore,Asia,Iraq,Asia,1993,0
+Singapore,Asia,Lebanon,Asia,1993,0
 Singapore,Asia,Israel,Asia,1993,0
-Singapore,Asia,United Arab Emirates,Asia,1993,0
 Singapore,Asia,Taiwan,Asia,1993,161676
 Singapore,Asia,South Korea,Asia,1993,26470
 Singapore,Asia,Japan,Asia,1993,72844
 Singapore,Asia,India,Asia,1993,0
 Singapore,Asia,Pakistan,Asia,1993,0
 Singapore,Asia,Thailand,Asia,1993,1618
-Singapore,Asia,Malaysia,Asia,1993,254894
 Singapore,Asia,Singapore,Asia,1993,0
 Singapore,Asia,Philippines,Asia,1993,26540
 Singapore,Asia,Indonesia,Asia,1993,55778
@@ -2148,7 +2148,7 @@ Singapore,Asia,Australia,Oceania,1993,0
 Singapore,Asia,Cyprus,Europe,1993,183100
 Singapore,Asia,China,Asia,1993,9920
 Singapore,Asia,Ivory Coast,Africa,1993,0
-Singapore,Asia,Congo,Africa,1993,0
+Singapore,Asia,Iran,Asia,1993,0
 Philippines,Asia,United States,North America,1993,738712
 Philippines,Asia,Canada,North America,1993,472738
 Philippines,Asia,Mexico,North America,1993,0
@@ -2182,15 +2182,15 @@ Philippines,Asia,Norway,Europe,1993,23024
 Philippines,Asia,Denmark,Europe,1993,0
 Philippines,Asia,South Africa,Africa,1993,0
 Philippines,Asia,Turkey,Asia,1993,0
+Philippines,Asia,Iraq,Asia,1993,0
+Philippines,Asia,Lebanon,Asia,1993,0
 Philippines,Asia,Israel,Asia,1993,0
-Philippines,Asia,United Arab Emirates,Asia,1993,0
 Philippines,Asia,Taiwan,Asia,1993,0
 Philippines,Asia,South Korea,Asia,1993,0
 Philippines,Asia,Japan,Asia,1993,0
 Philippines,Asia,India,Asia,1993,0
 Philippines,Asia,Pakistan,Asia,1993,0
 Philippines,Asia,Thailand,Asia,1993,161490
-Philippines,Asia,Malaysia,Asia,1993,0
 Philippines,Asia,Singapore,Asia,1993,0
 Philippines,Asia,Philippines,Asia,1993,0
 Philippines,Asia,Indonesia,Asia,1993,0
@@ -2198,7 +2198,7 @@ Philippines,Asia,Australia,Oceania,1993,169934
 Philippines,Asia,Cyprus,Europe,1993,0
 Philippines,Asia,China,Asia,1993,0
 Philippines,Asia,Ivory Coast,Africa,1993,0
-Philippines,Asia,Congo,Africa,1993,0
+Philippines,Asia,Iran,Asia,1993,0
 Indonesia,Asia,United States,North America,1993,0
 Indonesia,Asia,Canada,North America,1993,0
 Indonesia,Asia,Mexico,North America,1993,0
@@ -2232,15 +2232,15 @@ Indonesia,Asia,Norway,Europe,1993,0
 Indonesia,Asia,Denmark,Europe,1993,0
 Indonesia,Asia,South Africa,Africa,1993,0
 Indonesia,Asia,Turkey,Asia,1993,0
+Indonesia,Asia,Iraq,Asia,1993,0
+Indonesia,Asia,Lebanon,Asia,1993,0
 Indonesia,Asia,Israel,Asia,1993,0
-Indonesia,Asia,United Arab Emirates,Asia,1993,0
 Indonesia,Asia,Taiwan,Asia,1993,0
 Indonesia,Asia,South Korea,Asia,1993,0
 Indonesia,Asia,Japan,Asia,1993,0
 Indonesia,Asia,India,Asia,1993,0
 Indonesia,Asia,Pakistan,Asia,1993,0
 Indonesia,Asia,Thailand,Asia,1993,56448
-Indonesia,Asia,Malaysia,Asia,1993,0
 Indonesia,Asia,Singapore,Asia,1993,0
 Indonesia,Asia,Philippines,Asia,1993,0
 Indonesia,Asia,Indonesia,Asia,1993,0
@@ -2248,7 +2248,7 @@ Indonesia,Asia,Australia,Oceania,1993,0
 Indonesia,Asia,Cyprus,Europe,1993,6116
 Indonesia,Asia,China,Asia,1993,0
 Indonesia,Asia,Ivory Coast,Africa,1993,0
-Indonesia,Asia,Congo,Africa,1993,0
+Indonesia,Asia,Iran,Asia,1993,0
 Australia,Oceania,United States,North America,1993,591436
 Australia,Oceania,Canada,North America,1993,259462
 Australia,Oceania,Mexico,North America,1993,0
@@ -2282,15 +2282,15 @@ Australia,Oceania,Norway,Europe,1993,45656
 Australia,Oceania,Denmark,Europe,1993,0
 Australia,Oceania,South Africa,Africa,1993,22330
 Australia,Oceania,Turkey,Asia,1993,1966
+Australia,Oceania,Iraq,Asia,1993,0
+Australia,Oceania,Lebanon,Asia,1993,0
 Australia,Oceania,Israel,Asia,1993,0
-Australia,Oceania,United Arab Emirates,Asia,1993,0
 Australia,Oceania,Taiwan,Asia,1993,200564
 Australia,Oceania,South Korea,Asia,1993,22408
 Australia,Oceania,Japan,Asia,1993,1444828
 Australia,Oceania,India,Asia,1993,0
 Australia,Oceania,Pakistan,Asia,1993,0
 Australia,Oceania,Thailand,Asia,1993,284712
-Australia,Oceania,Malaysia,Asia,1993,271708
 Australia,Oceania,Singapore,Asia,1993,40370
 Australia,Oceania,Philippines,Asia,1993,69024
 Australia,Oceania,Indonesia,Asia,1993,107118
@@ -2298,7 +2298,7 @@ Australia,Oceania,Australia,Oceania,1993,0
 Australia,Oceania,Cyprus,Europe,1993,29610
 Australia,Oceania,China,Asia,1993,0
 Australia,Oceania,Ivory Coast,Africa,1993,0
-Australia,Oceania,Congo,Africa,1993,0
+Australia,Oceania,Iran,Asia,1993,0
 Cyprus,Europe,United States,North America,1993,627360
 Cyprus,Europe,Canada,North America,1993,0
 Cyprus,Europe,Mexico,North America,1993,0
@@ -2332,15 +2332,15 @@ Cyprus,Europe,Norway,Europe,1993,0
 Cyprus,Europe,Denmark,Europe,1993,0
 Cyprus,Europe,South Africa,Africa,1993,0
 Cyprus,Europe,Turkey,Asia,1993,0
+Cyprus,Europe,Iraq,Asia,1993,0
+Cyprus,Europe,Lebanon,Asia,1993,897308
 Cyprus,Europe,Israel,Asia,1993,0
-Cyprus,Europe,United Arab Emirates,Asia,1993,0
 Cyprus,Europe,Taiwan,Asia,1993,0
 Cyprus,Europe,South Korea,Asia,1993,0
 Cyprus,Europe,Japan,Asia,1993,0
 Cyprus,Europe,India,Asia,1993,0
 Cyprus,Europe,Pakistan,Asia,1993,0
 Cyprus,Europe,Thailand,Asia,1993,0
-Cyprus,Europe,Malaysia,Asia,1993,0
 Cyprus,Europe,Singapore,Asia,1993,0
 Cyprus,Europe,Philippines,Asia,1993,0
 Cyprus,Europe,Indonesia,Asia,1993,0
@@ -2348,7 +2348,7 @@ Cyprus,Europe,Australia,Oceania,1993,0
 Cyprus,Europe,Cyprus,Europe,1993,0
 Cyprus,Europe,China,Asia,1993,0
 Cyprus,Europe,Ivory Coast,Africa,1993,0
-Cyprus,Europe,Congo,Africa,1993,0
+Cyprus,Europe,Iran,Asia,1993,0
 China,Asia,United States,North America,1993,189393290
 China,Asia,Canada,North America,1993,1598820
 China,Asia,Mexico,North America,1993,0
@@ -2382,15 +2382,15 @@ China,Asia,Norway,Europe,1993,33750
 China,Asia,Denmark,Europe,1993,0
 China,Asia,South Africa,Africa,1993,0
 China,Asia,Turkey,Asia,1993,0
+China,Asia,Iraq,Asia,1993,0
+China,Asia,Lebanon,Asia,1993,0
 China,Asia,Israel,Asia,1993,0
-China,Asia,United Arab Emirates,Asia,1993,73670
 China,Asia,Taiwan,Asia,1993,0
 China,Asia,South Korea,Asia,1993,118582
 China,Asia,Japan,Asia,1993,0
 China,Asia,India,Asia,1993,0
 China,Asia,Pakistan,Asia,1993,315962
 China,Asia,Thailand,Asia,1993,1463186
-China,Asia,Malaysia,Asia,1993,17580
 China,Asia,Singapore,Asia,1993,0
 China,Asia,Philippines,Asia,1993,8252
 China,Asia,Indonesia,Asia,1993,0
@@ -2398,7 +2398,7 @@ China,Asia,Australia,Oceania,1993,1118274
 China,Asia,Cyprus,Europe,1993,0
 China,Asia,China,Asia,1993,0
 China,Asia,Ivory Coast,Africa,1993,0
-China,Asia,Congo,Africa,1993,0
+China,Asia,Iran,Asia,1993,0
 Ivory Coast,Africa,United States,North America,1993,0
 Ivory Coast,Africa,Canada,North America,1993,0
 Ivory Coast,Africa,Mexico,North America,1993,0
@@ -2432,15 +2432,15 @@ Ivory Coast,Africa,Norway,Europe,1993,0
 Ivory Coast,Africa,Denmark,Europe,1993,0
 Ivory Coast,Africa,South Africa,Africa,1993,0
 Ivory Coast,Africa,Turkey,Asia,1993,0
+Ivory Coast,Africa,Iraq,Asia,1993,0
+Ivory Coast,Africa,Lebanon,Asia,1993,0
 Ivory Coast,Africa,Israel,Asia,1993,0
-Ivory Coast,Africa,United Arab Emirates,Asia,1993,0
 Ivory Coast,Africa,Taiwan,Asia,1993,0
 Ivory Coast,Africa,South Korea,Asia,1993,0
 Ivory Coast,Africa,Japan,Asia,1993,0
 Ivory Coast,Africa,India,Asia,1993,0
 Ivory Coast,Africa,Pakistan,Asia,1993,0
 Ivory Coast,Africa,Thailand,Asia,1993,0
-Ivory Coast,Africa,Malaysia,Asia,1993,0
 Ivory Coast,Africa,Singapore,Asia,1993,0
 Ivory Coast,Africa,Philippines,Asia,1993,0
 Ivory Coast,Africa,Indonesia,Asia,1993,0
@@ -2448,54 +2448,54 @@ Ivory Coast,Africa,Australia,Oceania,1993,0
 Ivory Coast,Africa,Cyprus,Europe,1993,0
 Ivory Coast,Africa,China,Asia,1993,0
 Ivory Coast,Africa,Ivory Coast,Africa,1993,0
-Ivory Coast,Africa,Congo,Africa,1993,0
-Congo,Africa,United States,North America,1993,0
-Congo,Africa,Canada,North America,1993,0
-Congo,Africa,Mexico,North America,1993,0
-Congo,Africa,Brazil,South America,1993,0
-Congo,Africa,Argentina,South America,1993,0
-Congo,Africa,United Kingdom,Europe,1993,0
-Congo,Africa,Netherlands,Europe,1993,0
-Congo,Africa,Belgium,Europe,1993,0
-Congo,Africa,France,Europe,1993,0
-Congo,Africa,Switzerland,Europe,1993,0
-Congo,Africa,Spain,Europe,1993,0
-Congo,Africa,Portugal,Europe,1993,0
-Congo,Africa,Germany,Europe,1993,0
-Congo,Africa,Poland,Europe,1993,0
-Congo,Africa,Austria,Europe,1993,0
-Congo,Africa,Hungary,Europe,1993,0
-Congo,Africa,Czech Republic,Europe,1993,0
-Congo,Africa,Slovakia,Europe,1993,0
-Congo,Africa,Italy,Europe,1993,0
-Congo,Africa,Croatia,Europe,1993,0
-Congo,Africa,Serbia,Europe,1993,0
-Congo,Africa,Bosnia,Europe,1993,0
-Congo,Africa,Greece,Europe,1993,0
-Congo,Africa,Bulgaria,Europe,1993,0
-Congo,Africa,Romania,Europe,1993,0
-Congo,Africa,Russia,Asia,1993,0
-Congo,Africa,Ukraine,Europe,1993,0
-Congo,Africa,Finland,Europe,1993,0
-Congo,Africa,Sweden,Europe,1993,0
-Congo,Africa,Norway,Europe,1993,0
-Congo,Africa,Denmark,Europe,1993,0
-Congo,Africa,South Africa,Africa,1993,0
-Congo,Africa,Turkey,Asia,1993,0
-Congo,Africa,Israel,Asia,1993,0
-Congo,Africa,United Arab Emirates,Asia,1993,0
-Congo,Africa,Taiwan,Asia,1993,0
-Congo,Africa,South Korea,Asia,1993,0
-Congo,Africa,Japan,Asia,1993,0
-Congo,Africa,India,Asia,1993,0
-Congo,Africa,Pakistan,Asia,1993,0
-Congo,Africa,Thailand,Asia,1993,0
-Congo,Africa,Malaysia,Asia,1993,0
-Congo,Africa,Singapore,Asia,1993,0
-Congo,Africa,Philippines,Asia,1993,0
-Congo,Africa,Indonesia,Asia,1993,0
-Congo,Africa,Australia,Oceania,1993,0
-Congo,Africa,Cyprus,Europe,1993,0
-Congo,Africa,China,Asia,1993,0
-Congo,Africa,Ivory Coast,Africa,1993,0
-Congo,Africa,Congo,Africa,1993,0
+Ivory Coast,Africa,Iran,Asia,1993,0
+Iran,Asia,United States,North America,1993,0
+Iran,Asia,Canada,North America,1993,0
+Iran,Asia,Mexico,North America,1993,0
+Iran,Asia,Brazil,South America,1993,0
+Iran,Asia,Argentina,South America,1993,0
+Iran,Asia,United Kingdom,Europe,1993,0
+Iran,Asia,Netherlands,Europe,1993,0
+Iran,Asia,Belgium,Europe,1993,0
+Iran,Asia,France,Europe,1993,0
+Iran,Asia,Switzerland,Europe,1993,0
+Iran,Asia,Spain,Europe,1993,0
+Iran,Asia,Portugal,Europe,1993,0
+Iran,Asia,Germany,Europe,1993,0
+Iran,Asia,Poland,Europe,1993,0
+Iran,Asia,Austria,Europe,1993,0
+Iran,Asia,Hungary,Europe,1993,0
+Iran,Asia,Czech Republic,Europe,1993,0
+Iran,Asia,Slovakia,Europe,1993,0
+Iran,Asia,Italy,Europe,1993,0
+Iran,Asia,Croatia,Europe,1993,0
+Iran,Asia,Serbia,Europe,1993,0
+Iran,Asia,Bosnia,Europe,1993,0
+Iran,Asia,Greece,Europe,1993,0
+Iran,Asia,Bulgaria,Europe,1993,0
+Iran,Asia,Romania,Europe,1993,0
+Iran,Asia,Russia,Asia,1993,0
+Iran,Asia,Ukraine,Europe,1993,0
+Iran,Asia,Finland,Europe,1993,0
+Iran,Asia,Sweden,Europe,1993,0
+Iran,Asia,Norway,Europe,1993,0
+Iran,Asia,Denmark,Europe,1993,0
+Iran,Asia,South Africa,Africa,1993,0
+Iran,Asia,Turkey,Asia,1993,0
+Iran,Asia,Iraq,Asia,1993,0
+Iran,Asia,Lebanon,Asia,1993,0
+Iran,Asia,Israel,Asia,1993,0
+Iran,Asia,Taiwan,Asia,1993,0
+Iran,Asia,South Korea,Asia,1993,0
+Iran,Asia,Japan,Asia,1993,0
+Iran,Asia,India,Asia,1993,0
+Iran,Asia,Pakistan,Asia,1993,0
+Iran,Asia,Thailand,Asia,1993,0
+Iran,Asia,Singapore,Asia,1993,0
+Iran,Asia,Philippines,Asia,1993,0
+Iran,Asia,Indonesia,Asia,1993,0
+Iran,Asia,Australia,Oceania,1993,0
+Iran,Asia,Cyprus,Europe,1993,0
+Iran,Asia,China,Asia,1993,0
+Iran,Asia,Ivory Coast,Africa,1993,0
+Iran,Asia,Iran,Asia,1993,0

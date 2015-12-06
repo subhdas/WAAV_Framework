@@ -1,18 +1,16 @@
 Country,Continent
 Argentina,South America
-Congo,Africa
 Finland,Europe
 Ivory Coast,Africa
 Bosnia,Europe
 Sweden,Europe
 Poland,Europe
 Bulgaria,Europe
-United Arab Emirates,Asia
+Lebanon,Asia
 Czech Republic,Europe
 Israel,Asia
 Australia,Oceania
 Cyprus,Europe
-Malaysia,Asia
 Brazil,South America
 Italy,Europe
 Singapore,Asia
@@ -24,6 +22,8 @@ Philippines,Asia
 Indonesia,Asia
 Portugal,Europe
 Greece,Europe
+Iran,Asia
+Iraq,Asia
 Ukraine,Europe
 India,Asia
 Canada,North America

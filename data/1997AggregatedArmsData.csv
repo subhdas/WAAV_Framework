@@ -32,15 +32,15 @@ United States,North America,Norway,Europe,1997,3658894
 United States,North America,Denmark,Europe,1997,2104207
 United States,North America,South Africa,Africa,1997,4450580
 United States,North America,Turkey,Asia,1997,3221011
+United States,North America,Iraq,Asia,1997,0
+United States,North America,Lebanon,Asia,1997,7727121
 United States,North America,Israel,Asia,1997,14083884
-United States,North America,United Arab Emirates,Asia,1997,7521194
 United States,North America,Taiwan,Asia,1997,19355335
 United States,North America,South Korea,Asia,1997,2173701
 United States,North America,Japan,Asia,1997,3974598
 United States,North America,India,Asia,1997,154552
 United States,North America,Pakistan,Asia,1997,1107469
 United States,North America,Thailand,Asia,1997,15587338
-United States,North America,Malaysia,Asia,1997,1742560
 United States,North America,Singapore,Asia,1997,1764873
 United States,North America,Philippines,Asia,1997,3193750
 United States,North America,Indonesia,Asia,1997,91591
@@ -48,7 +48,7 @@ United States,North America,Australia,Oceania,1997,18413768
 United States,North America,Cyprus,Europe,1997,113094
 United States,North America,China,Asia,1997,25939
 United States,North America,Ivory Coast,Africa,1997,21804
-United States,North America,Congo,Africa,1997,0
+United States,North America,Iran,Asia,1997,0
 Canada,North America,United States,North America,1997,18843931
 Canada,North America,Canada,North America,1997,0
 Canada,North America,Mexico,North America,1997,0
@@ -82,15 +82,15 @@ Canada,North America,Norway,Europe,1997,928387
 Canada,North America,Denmark,Europe,1997,9172893
 Canada,North America,South Africa,Africa,1997,0
 Canada,North America,Turkey,Asia,1997,74284
+Canada,North America,Iraq,Asia,1997,0
+Canada,North America,Lebanon,Asia,1997,0
 Canada,North America,Israel,Asia,1997,73937
-Canada,North America,United Arab Emirates,Asia,1997,0
 Canada,North America,Taiwan,Asia,1997,0
 Canada,North America,South Korea,Asia,1997,5108
 Canada,North America,Japan,Asia,1997,0
 Canada,North America,India,Asia,1997,0
 Canada,North America,Pakistan,Asia,1997,0
 Canada,North America,Thailand,Asia,1997,504526
-Canada,North America,Malaysia,Asia,1997,0
 Canada,North America,Singapore,Asia,1997,76307
 Canada,North America,Philippines,Asia,1997,209808
 Canada,North America,Indonesia,Asia,1997,0
@@ -98,7 +98,7 @@ Canada,North America,Australia,Oceania,1997,207231
 Canada,North America,Cyprus,Europe,1997,0
 Canada,North America,China,Asia,1997,0
 Canada,North America,Ivory Coast,Africa,1997,0
-Canada,North America,Congo,Africa,1997,0
+Canada,North America,Iran,Asia,1997,0
 Mexico,North America,United States,North America,1997,4334352
 Mexico,North America,Canada,North America,1997,2861
 Mexico,North America,Mexico,North America,1997,0
@@ -132,15 +132,15 @@ Mexico,North America,Norway,Europe,1997,0
 Mexico,North America,Denmark,Europe,1997,0
 Mexico,North America,South Africa,Africa,1997,0
 Mexico,North America,Turkey,Asia,1997,0
+Mexico,North America,Iraq,Asia,1997,0
+Mexico,North America,Lebanon,Asia,1997,0
 Mexico,North America,Israel,Asia,1997,0
-Mexico,North America,United Arab Emirates,Asia,1997,0
 Mexico,North America,Taiwan,Asia,1997,0
 Mexico,North America,South Korea,Asia,1997,0
 Mexico,North America,Japan,Asia,1997,0
 Mexico,North America,India,Asia,1997,0
 Mexico,North America,Pakistan,Asia,1997,0
 Mexico,North America,Thailand,Asia,1997,0
-Mexico,North America,Malaysia,Asia,1997,0
 Mexico,North America,Singapore,Asia,1997,0
 Mexico,North America,Philippines,Asia,1997,0
 Mexico,North America,Indonesia,Asia,1997,0
@@ -148,7 +148,7 @@ Mexico,North America,Australia,Oceania,1997,166132
 Mexico,North America,Cyprus,Europe,1997,0
 Mexico,North America,China,Asia,1997,0
 Mexico,North America,Ivory Coast,Africa,1997,0
-Mexico,North America,Congo,Africa,1997,0
+Mexico,North America,Iran,Asia,1997,0
 Brazil,South America,United States,North America,1997,36548873
 Brazil,South America,Canada,North America,1997,125005
 Brazil,South America,Mexico,North America,1997,3460082
@@ -182,15 +182,15 @@ Brazil,South America,Norway,Europe,1997,2500737
 Brazil,South America,Denmark,Europe,1997,8965
 Brazil,South America,South Africa,Africa,1997,2015032
 Brazil,South America,Turkey,Asia,1997,110873
+Brazil,South America,Iraq,Asia,1997,0
+Brazil,South America,Lebanon,Asia,1997,0
 Brazil,South America,Israel,Asia,1997,27898
-Brazil,South America,United Arab Emirates,Asia,1997,0
 Brazil,South America,Taiwan,Asia,1997,0
 Brazil,South America,South Korea,Asia,1997,0
 Brazil,South America,Japan,Asia,1997,0
 Brazil,South America,India,Asia,1997,0
 Brazil,South America,Pakistan,Asia,1997,0
 Brazil,South America,Thailand,Asia,1997,1765970
-Brazil,South America,Malaysia,Asia,1997,33786
 Brazil,South America,Singapore,Asia,1997,10721
 Brazil,South America,Philippines,Asia,1997,2159646
 Brazil,South America,Indonesia,Asia,1997,2555513
@@ -198,7 +198,7 @@ Brazil,South America,Australia,Oceania,1997,1224138
 Brazil,South America,Cyprus,Europe,1997,301860
 Brazil,South America,China,Asia,1997,0
 Brazil,South America,Ivory Coast,Africa,1997,7209
-Brazil,South America,Congo,Africa,1997,0
+Brazil,South America,Iran,Asia,1997,0
 Argentina,South America,United States,North America,1997,3276123
 Argentina,South America,Canada,North America,1997,7999
 Argentina,South America,Mexico,North America,1997,0
@@ -232,15 +232,15 @@ Argentina,South America,Norway,Europe,1997,0
 Argentina,South America,Denmark,Europe,1997,0
 Argentina,South America,South Africa,Africa,1997,91351
 Argentina,South America,Turkey,Asia,1997,0
+Argentina,South America,Iraq,Asia,1997,0
+Argentina,South America,Lebanon,Asia,1997,0
 Argentina,South America,Israel,Asia,1997,0
-Argentina,South America,United Arab Emirates,Asia,1997,0
 Argentina,South America,Taiwan,Asia,1997,0
 Argentina,South America,South Korea,Asia,1997,0
 Argentina,South America,Japan,Asia,1997,0
 Argentina,South America,India,Asia,1997,0
 Argentina,South America,Pakistan,Asia,1997,0
 Argentina,South America,Thailand,Asia,1997,0
-Argentina,South America,Malaysia,Asia,1997,0
 Argentina,South America,Singapore,Asia,1997,0
 Argentina,South America,Philippines,Asia,1997,41395
 Argentina,South America,Indonesia,Asia,1997,0
@@ -248,7 +248,7 @@ Argentina,South America,Australia,Oceania,1997,0
 Argentina,South America,Cyprus,Europe,1997,0
 Argentina,South America,China,Asia,1997,0
 Argentina,South America,Ivory Coast,Africa,1997,0
-Argentina,South America,Congo,Africa,1997,0
+Argentina,South America,Iran,Asia,1997,0
 United Kingdom,Europe,United States,North America,1997,11893438
 United Kingdom,Europe,Canada,North America,1997,644740
 United Kingdom,Europe,Mexico,North America,1997,24832
@@ -282,15 +282,15 @@ United Kingdom,Europe,Norway,Europe,1997,1007672
 United Kingdom,Europe,Denmark,Europe,1997,4966973
 United Kingdom,Europe,South Africa,Africa,1997,328505
 United Kingdom,Europe,Turkey,Asia,1997,2191365
+United Kingdom,Europe,Iraq,Asia,1997,0
+United Kingdom,Europe,Lebanon,Asia,1997,880792
 United Kingdom,Europe,Israel,Asia,1997,73297
-United Kingdom,Europe,United Arab Emirates,Asia,1997,1151279
 United Kingdom,Europe,Taiwan,Asia,1997,52846
 United Kingdom,Europe,South Korea,Asia,1997,537557
 United Kingdom,Europe,Japan,Asia,1997,1670934
 United Kingdom,Europe,India,Asia,1997,171161
 United Kingdom,Europe,Pakistan,Asia,1997,565171
 United Kingdom,Europe,Thailand,Asia,1997,544920
-United Kingdom,Europe,Malaysia,Asia,1997,274447
 United Kingdom,Europe,Singapore,Asia,1997,118089
 United Kingdom,Europe,Philippines,Asia,1997,438754
 United Kingdom,Europe,Indonesia,Asia,1997,1214
@@ -298,7 +298,7 @@ United Kingdom,Europe,Australia,Oceania,1997,1270891
 United Kingdom,Europe,Cyprus,Europe,1997,102992
 United Kingdom,Europe,China,Asia,1997,209592
 United Kingdom,Europe,Ivory Coast,Africa,1997,0
-United Kingdom,Europe,Congo,Africa,1997,0
+United Kingdom,Europe,Iran,Asia,1997,0
 Netherlands,Europe,United States,North America,1997,211168
 Netherlands,Europe,Canada,North America,1997,85177
 Netherlands,Europe,Mexico,North America,1997,0
@@ -332,15 +332,15 @@ Netherlands,Europe,Norway,Europe,1997,582437
 Netherlands,Europe,Denmark,Europe,1997,423140
 Netherlands,Europe,South Africa,Africa,1997,0
 Netherlands,Europe,Turkey,Asia,1997,37779
+Netherlands,Europe,Iraq,Asia,1997,0
+Netherlands,Europe,Lebanon,Asia,1997,0
 Netherlands,Europe,Israel,Asia,1997,0
-Netherlands,Europe,United Arab Emirates,Asia,1997,0
 Netherlands,Europe,Taiwan,Asia,1997,0
 Netherlands,Europe,South Korea,Asia,1997,11053182
 Netherlands,Europe,Japan,Asia,1997,0
 Netherlands,Europe,India,Asia,1997,0
 Netherlands,Europe,Pakistan,Asia,1997,0
 Netherlands,Europe,Thailand,Asia,1997,0
-Netherlands,Europe,Malaysia,Asia,1997,0
 Netherlands,Europe,Singapore,Asia,1997,466415
 Netherlands,Europe,Philippines,Asia,1997,0
 Netherlands,Europe,Indonesia,Asia,1997,0
@@ -348,7 +348,7 @@ Netherlands,Europe,Australia,Oceania,1997,4341
 Netherlands,Europe,Cyprus,Europe,1997,3071
 Netherlands,Europe,China,Asia,1997,0
 Netherlands,Europe,Ivory Coast,Africa,1997,0
-Netherlands,Europe,Congo,Africa,1997,0
+Netherlands,Europe,Iran,Asia,1997,0
 Belgium,Europe,United States,North America,1997,6938079
 Belgium,Europe,Canada,North America,1997,402409
 Belgium,Europe,Mexico,North America,1997,1099489
@@ -382,15 +382,15 @@ Belgium,Europe,Norway,Europe,1997,601255
 Belgium,Europe,Denmark,Europe,1997,382293
 Belgium,Europe,South Africa,Africa,1997,1991
 Belgium,Europe,Turkey,Asia,1997,1990621
+Belgium,Europe,Iraq,Asia,1997,0
+Belgium,Europe,Lebanon,Asia,1997,42721
 Belgium,Europe,Israel,Asia,1997,0
-Belgium,Europe,United Arab Emirates,Asia,1997,169452
 Belgium,Europe,Taiwan,Asia,1997,46134
 Belgium,Europe,South Korea,Asia,1997,239412
 Belgium,Europe,Japan,Asia,1997,345116
 Belgium,Europe,India,Asia,1997,14394
 Belgium,Europe,Pakistan,Asia,1997,0
 Belgium,Europe,Thailand,Asia,1997,684497
-Belgium,Europe,Malaysia,Asia,1997,0
 Belgium,Europe,Singapore,Asia,1997,0
 Belgium,Europe,Philippines,Asia,1997,285598
 Belgium,Europe,Indonesia,Asia,1997,0
@@ -398,7 +398,7 @@ Belgium,Europe,Australia,Oceania,1997,66248
 Belgium,Europe,Cyprus,Europe,1997,4723
 Belgium,Europe,China,Asia,1997,0
 Belgium,Europe,Ivory Coast,Africa,1997,1208
-Belgium,Europe,Congo,Africa,1997,0
+Belgium,Europe,Iran,Asia,1997,0
 France,Europe,United States,North America,1997,1647969
 France,Europe,Canada,North America,1997,7937
 France,Europe,Mexico,North America,1997,0
@@ -432,15 +432,15 @@ France,Europe,Norway,Europe,1997,731602
 France,Europe,Denmark,Europe,1997,15385
 France,Europe,South Africa,Africa,1997,18605
 France,Europe,Turkey,Asia,1997,90717
+France,Europe,Iraq,Asia,1997,0
+France,Europe,Lebanon,Asia,1997,164240
 France,Europe,Israel,Asia,1997,0
-France,Europe,United Arab Emirates,Asia,1997,46400
 France,Europe,Taiwan,Asia,1997,0
 France,Europe,South Korea,Asia,1997,117195
 France,Europe,Japan,Asia,1997,203400
 France,Europe,India,Asia,1997,40815
 France,Europe,Pakistan,Asia,1997,0
 France,Europe,Thailand,Asia,1997,764
-France,Europe,Malaysia,Asia,1997,250351
 France,Europe,Singapore,Asia,1997,0
 France,Europe,Philippines,Asia,1997,49659
 France,Europe,Indonesia,Asia,1997,0
@@ -448,7 +448,7 @@ France,Europe,Australia,Oceania,1997,101745
 France,Europe,Cyprus,Europe,1997,148849
 France,Europe,China,Asia,1997,5512
 France,Europe,Ivory Coast,Africa,1997,69924
-France,Europe,Congo,Africa,1997,13782
+France,Europe,Iran,Asia,1997,0
 Switzerland,Europe,United States,North America,1997,824520
 Switzerland,Europe,Canada,North America,1997,1129972
 Switzerland,Europe,Mexico,North America,1997,0
@@ -482,15 +482,15 @@ Switzerland,Europe,Norway,Europe,1997,126420
 Switzerland,Europe,Denmark,Europe,1997,2296370
 Switzerland,Europe,South Africa,Africa,1997,742048
 Switzerland,Europe,Turkey,Asia,1997,223994
+Switzerland,Europe,Iraq,Asia,1997,0
+Switzerland,Europe,Lebanon,Asia,1997,33407
 Switzerland,Europe,Israel,Asia,1997,155274
-Switzerland,Europe,United Arab Emirates,Asia,1997,616673
 Switzerland,Europe,Taiwan,Asia,1997,0
 Switzerland,Europe,South Korea,Asia,1997,52711
 Switzerland,Europe,Japan,Asia,1997,178795
 Switzerland,Europe,India,Asia,1997,45447
 Switzerland,Europe,Pakistan,Asia,1997,0
 Switzerland,Europe,Thailand,Asia,1997,51780
-Switzerland,Europe,Malaysia,Asia,1997,41964
 Switzerland,Europe,Singapore,Asia,1997,454574
 Switzerland,Europe,Philippines,Asia,1997,107362
 Switzerland,Europe,Indonesia,Asia,1997,39477
@@ -498,7 +498,7 @@ Switzerland,Europe,Australia,Oceania,1997,75082
 Switzerland,Europe,Cyprus,Europe,1997,5017
 Switzerland,Europe,China,Asia,1997,27518
 Switzerland,Europe,Ivory Coast,Africa,1997,2216
-Switzerland,Europe,Congo,Africa,1997,0
+Switzerland,Europe,Iran,Asia,1997,0
 Spain,Europe,United States,North America,1997,6886380
 Spain,Europe,Canada,North America,1997,127990
 Spain,Europe,Mexico,North America,1997,80541
@@ -532,15 +532,15 @@ Spain,Europe,Norway,Europe,1997,408230
 Spain,Europe,Denmark,Europe,1997,1270623
 Spain,Europe,South Africa,Africa,1997,207671
 Spain,Europe,Turkey,Asia,1997,7917728
+Spain,Europe,Iraq,Asia,1997,0
+Spain,Europe,Lebanon,Asia,1997,468589
 Spain,Europe,Israel,Asia,1997,7531
-Spain,Europe,United Arab Emirates,Asia,1997,0
 Spain,Europe,Taiwan,Asia,1997,0
 Spain,Europe,South Korea,Asia,1997,322003
 Spain,Europe,Japan,Asia,1997,1699665
 Spain,Europe,India,Asia,1997,0
 Spain,Europe,Pakistan,Asia,1997,0
 Spain,Europe,Thailand,Asia,1997,172508
-Spain,Europe,Malaysia,Asia,1997,2644
 Spain,Europe,Singapore,Asia,1997,27980
 Spain,Europe,Philippines,Asia,1997,986107
 Spain,Europe,Indonesia,Asia,1997,0
@@ -548,7 +548,7 @@ Spain,Europe,Australia,Oceania,1997,3002329
 Spain,Europe,Cyprus,Europe,1997,704870
 Spain,Europe,China,Asia,1997,14175
 Spain,Europe,Ivory Coast,Africa,1997,3299
-Spain,Europe,Congo,Africa,1997,0
+Spain,Europe,Iran,Asia,1997,0
 Portugal,Europe,United States,North America,1997,739932
 Portugal,Europe,Canada,North America,1997,11329
 Portugal,Europe,Mexico,North America,1997,0
@@ -582,15 +582,15 @@ Portugal,Europe,Norway,Europe,1997,0
 Portugal,Europe,Denmark,Europe,1997,0
 Portugal,Europe,South Africa,Africa,1997,0
 Portugal,Europe,Turkey,Asia,1997,0
+Portugal,Europe,Iraq,Asia,1997,0
+Portugal,Europe,Lebanon,Asia,1997,117069
 Portugal,Europe,Israel,Asia,1997,0
-Portugal,Europe,United Arab Emirates,Asia,1997,0
 Portugal,Europe,Taiwan,Asia,1997,0
 Portugal,Europe,South Korea,Asia,1997,0
 Portugal,Europe,Japan,Asia,1997,179661
 Portugal,Europe,India,Asia,1997,0
 Portugal,Europe,Pakistan,Asia,1997,0
 Portugal,Europe,Thailand,Asia,1997,0
-Portugal,Europe,Malaysia,Asia,1997,0
 Portugal,Europe,Singapore,Asia,1997,0
 Portugal,Europe,Philippines,Asia,1997,0
 Portugal,Europe,Indonesia,Asia,1997,0
@@ -598,7 +598,7 @@ Portugal,Europe,Australia,Oceania,1997,0
 Portugal,Europe,Cyprus,Europe,1997,0
 Portugal,Europe,China,Asia,1997,0
 Portugal,Europe,Ivory Coast,Africa,1997,0
-Portugal,Europe,Congo,Africa,1997,0
+Portugal,Europe,Iran,Asia,1997,0
 Germany,Europe,United States,North America,1997,38971094
 Germany,Europe,Canada,North America,1997,421874
 Germany,Europe,Mexico,North America,1997,25765
@@ -632,15 +632,15 @@ Germany,Europe,Norway,Europe,1997,1890861
 Germany,Europe,Denmark,Europe,1997,2240303
 Germany,Europe,South Africa,Africa,1997,455009
 Germany,Europe,Turkey,Asia,1997,3707580
+Germany,Europe,Iraq,Asia,1997,0
+Germany,Europe,Lebanon,Asia,1997,203943
 Germany,Europe,Israel,Asia,1997,576294
-Germany,Europe,United Arab Emirates,Asia,1997,946334
 Germany,Europe,Taiwan,Asia,1997,448060
 Germany,Europe,South Korea,Asia,1997,592398
 Germany,Europe,Japan,Asia,1997,1444096
 Germany,Europe,India,Asia,1997,56388
 Germany,Europe,Pakistan,Asia,1997,179992
 Germany,Europe,Thailand,Asia,1997,2735489
-Germany,Europe,Malaysia,Asia,1997,68063
 Germany,Europe,Singapore,Asia,1997,422427
 Germany,Europe,Philippines,Asia,1997,144763
 Germany,Europe,Indonesia,Asia,1997,439560
@@ -648,7 +648,7 @@ Germany,Europe,Australia,Oceania,1997,375440
 Germany,Europe,Cyprus,Europe,1997,40967
 Germany,Europe,China,Asia,1997,68753
 Germany,Europe,Ivory Coast,Africa,1997,2317
-Germany,Europe,Congo,Africa,1997,0
+Germany,Europe,Iran,Asia,1997,0
 Poland,Europe,United States,North America,1997,102012
 Poland,Europe,Canada,North America,1997,1604
 Poland,Europe,Mexico,North America,1997,0
@@ -682,15 +682,15 @@ Poland,Europe,Norway,Europe,1997,0
 Poland,Europe,Denmark,Europe,1997,4737
 Poland,Europe,South Africa,Africa,1997,0
 Poland,Europe,Turkey,Asia,1997,36680
+Poland,Europe,Iraq,Asia,1997,0
+Poland,Europe,Lebanon,Asia,1997,125243
 Poland,Europe,Israel,Asia,1997,0
-Poland,Europe,United Arab Emirates,Asia,1997,0
 Poland,Europe,Taiwan,Asia,1997,0
 Poland,Europe,South Korea,Asia,1997,0
 Poland,Europe,Japan,Asia,1997,0
 Poland,Europe,India,Asia,1997,639567
 Poland,Europe,Pakistan,Asia,1997,0
 Poland,Europe,Thailand,Asia,1997,0
-Poland,Europe,Malaysia,Asia,1997,0
 Poland,Europe,Singapore,Asia,1997,0
 Poland,Europe,Philippines,Asia,1997,0
 Poland,Europe,Indonesia,Asia,1997,0
@@ -698,7 +698,7 @@ Poland,Europe,Australia,Oceania,1997,0
 Poland,Europe,Cyprus,Europe,1997,0
 Poland,Europe,China,Asia,1997,0
 Poland,Europe,Ivory Coast,Africa,1997,0
-Poland,Europe,Congo,Africa,1997,0
+Poland,Europe,Iran,Asia,1997,0
 Austria,Europe,United States,North America,1997,54414239
 Austria,Europe,Canada,North America,1997,226332
 Austria,Europe,Mexico,North America,1997,308696
@@ -732,15 +732,15 @@ Austria,Europe,Norway,Europe,1997,137394
 Austria,Europe,Denmark,Europe,1997,296199
 Austria,Europe,South Africa,Africa,1997,845299
 Austria,Europe,Turkey,Asia,1997,767
+Austria,Europe,Iraq,Asia,1997,0
+Austria,Europe,Lebanon,Asia,1997,30825
 Austria,Europe,Israel,Asia,1997,0
-Austria,Europe,United Arab Emirates,Asia,1997,272101
 Austria,Europe,Taiwan,Asia,1997,0
 Austria,Europe,South Korea,Asia,1997,21026
 Austria,Europe,Japan,Asia,1997,31404
 Austria,Europe,India,Asia,1997,4829
 Austria,Europe,Pakistan,Asia,1997,3776184
 Austria,Europe,Thailand,Asia,1997,687522
-Austria,Europe,Malaysia,Asia,1997,247955
 Austria,Europe,Singapore,Asia,1997,290441
 Austria,Europe,Philippines,Asia,1997,419935
 Austria,Europe,Indonesia,Asia,1997,5128
@@ -748,7 +748,7 @@ Austria,Europe,Australia,Oceania,1997,1557169
 Austria,Europe,Cyprus,Europe,1997,21670
 Austria,Europe,China,Asia,1997,5269
 Austria,Europe,Ivory Coast,Africa,1997,0
-Austria,Europe,Congo,Africa,1997,0
+Austria,Europe,Iran,Asia,1997,0
 Hungary,Europe,United States,North America,1997,4288598
 Hungary,Europe,Canada,North America,1997,17614
 Hungary,Europe,Mexico,North America,1997,0
@@ -782,15 +782,15 @@ Hungary,Europe,Norway,Europe,1997,319116
 Hungary,Europe,Denmark,Europe,1997,0
 Hungary,Europe,South Africa,Africa,1997,0
 Hungary,Europe,Turkey,Asia,1997,0
+Hungary,Europe,Iraq,Asia,1997,0
+Hungary,Europe,Lebanon,Asia,1997,0
 Hungary,Europe,Israel,Asia,1997,0
-Hungary,Europe,United Arab Emirates,Asia,1997,0
 Hungary,Europe,Taiwan,Asia,1997,0
 Hungary,Europe,South Korea,Asia,1997,0
 Hungary,Europe,Japan,Asia,1997,285339
 Hungary,Europe,India,Asia,1997,0
 Hungary,Europe,Pakistan,Asia,1997,0
 Hungary,Europe,Thailand,Asia,1997,0
-Hungary,Europe,Malaysia,Asia,1997,0
 Hungary,Europe,Singapore,Asia,1997,14873
 Hungary,Europe,Philippines,Asia,1997,297312
 Hungary,Europe,Indonesia,Asia,1997,0
@@ -798,7 +798,7 @@ Hungary,Europe,Australia,Oceania,1997,57598
 Hungary,Europe,Cyprus,Europe,1997,0
 Hungary,Europe,China,Asia,1997,0
 Hungary,Europe,Ivory Coast,Africa,1997,0
-Hungary,Europe,Congo,Africa,1997,0
+Hungary,Europe,Iran,Asia,1997,0
 Czech Republic,Europe,United States,North America,1997,10839689
 Czech Republic,Europe,Canada,North America,1997,42618
 Czech Republic,Europe,Mexico,North America,1997,354349
@@ -832,15 +832,15 @@ Czech Republic,Europe,Norway,Europe,1997,518179
 Czech Republic,Europe,Denmark,Europe,1997,199712
 Czech Republic,Europe,South Africa,Africa,1997,1848955
 Czech Republic,Europe,Turkey,Asia,1997,7535485
+Czech Republic,Europe,Iraq,Asia,1997,0
+Czech Republic,Europe,Lebanon,Asia,1997,736299
 Czech Republic,Europe,Israel,Asia,1997,73066
-Czech Republic,Europe,United Arab Emirates,Asia,1997,34233
 Czech Republic,Europe,Taiwan,Asia,1997,0
 Czech Republic,Europe,South Korea,Asia,1997,0
 Czech Republic,Europe,Japan,Asia,1997,1934
 Czech Republic,Europe,India,Asia,1997,24254
 Czech Republic,Europe,Pakistan,Asia,1997,21169
 Czech Republic,Europe,Thailand,Asia,1997,3063431
-Czech Republic,Europe,Malaysia,Asia,1997,55416
 Czech Republic,Europe,Singapore,Asia,1997,25666
 Czech Republic,Europe,Philippines,Asia,1997,1210925
 Czech Republic,Europe,Indonesia,Asia,1997,442545
@@ -848,7 +848,7 @@ Czech Republic,Europe,Australia,Oceania,1997,1106004
 Czech Republic,Europe,Cyprus,Europe,1997,4642
 Czech Republic,Europe,China,Asia,1997,0
 Czech Republic,Europe,Ivory Coast,Africa,1997,0
-Czech Republic,Europe,Congo,Africa,1997,0
+Czech Republic,Europe,Iran,Asia,1997,0
 Slovakia,Europe,United States,North America,1997,4834
 Slovakia,Europe,Canada,North America,1997,0
 Slovakia,Europe,Mexico,North America,1997,0
@@ -882,15 +882,15 @@ Slovakia,Europe,Norway,Europe,1997,0
 Slovakia,Europe,Denmark,Europe,1997,0
 Slovakia,Europe,South Africa,Africa,1997,0
 Slovakia,Europe,Turkey,Asia,1997,0
+Slovakia,Europe,Iraq,Asia,1997,0
+Slovakia,Europe,Lebanon,Asia,1997,0
 Slovakia,Europe,Israel,Asia,1997,0
-Slovakia,Europe,United Arab Emirates,Asia,1997,0
 Slovakia,Europe,Taiwan,Asia,1997,0
 Slovakia,Europe,South Korea,Asia,1997,0
 Slovakia,Europe,Japan,Asia,1997,0
 Slovakia,Europe,India,Asia,1997,0
 Slovakia,Europe,Pakistan,Asia,1997,0
 Slovakia,Europe,Thailand,Asia,1997,0
-Slovakia,Europe,Malaysia,Asia,1997,48095
 Slovakia,Europe,Singapore,Asia,1997,0
 Slovakia,Europe,Philippines,Asia,1997,0
 Slovakia,Europe,Indonesia,Asia,1997,0
@@ -898,7 +898,7 @@ Slovakia,Europe,Australia,Oceania,1997,0
 Slovakia,Europe,Cyprus,Europe,1997,0
 Slovakia,Europe,China,Asia,1997,0
 Slovakia,Europe,Ivory Coast,Africa,1997,0
-Slovakia,Europe,Congo,Africa,1997,0
+Slovakia,Europe,Iran,Asia,1997,0
 Italy,Europe,United States,North America,1997,69754869
 Italy,Europe,Canada,North America,1997,226554
 Italy,Europe,Mexico,North America,1997,1310774
@@ -932,15 +932,15 @@ Italy,Europe,Norway,Europe,1997,5842433
 Italy,Europe,Denmark,Europe,1997,2609595
 Italy,Europe,South Africa,Africa,1997,369978
 Italy,Europe,Turkey,Asia,1997,34578501
+Italy,Europe,Iraq,Asia,1997,0
+Italy,Europe,Lebanon,Asia,1997,3203813
 Italy,Europe,Israel,Asia,1997,299947
-Italy,Europe,United Arab Emirates,Asia,1997,428808
 Italy,Europe,Taiwan,Asia,1997,841831
 Italy,Europe,South Korea,Asia,1997,369832
 Italy,Europe,Japan,Asia,1997,11056143
 Italy,Europe,India,Asia,1997,42361
 Italy,Europe,Pakistan,Asia,1997,152083
 Italy,Europe,Thailand,Asia,1997,2374731
-Italy,Europe,Malaysia,Asia,1997,203127
 Italy,Europe,Singapore,Asia,1997,298182
 Italy,Europe,Philippines,Asia,1997,2594576
 Italy,Europe,Indonesia,Asia,1997,190801
@@ -948,7 +948,7 @@ Italy,Europe,Australia,Oceania,1997,8398585
 Italy,Europe,Cyprus,Europe,1997,1942457
 Italy,Europe,China,Asia,1997,121446
 Italy,Europe,Ivory Coast,Africa,1997,87223
-Italy,Europe,Congo,Africa,1997,160469
+Italy,Europe,Iran,Asia,1997,0
 Croatia,Europe,United States,North America,1997,0
 Croatia,Europe,Canada,North America,1997,0
 Croatia,Europe,Mexico,North America,1997,0
@@ -982,15 +982,15 @@ Croatia,Europe,Norway,Europe,1997,0
 Croatia,Europe,Denmark,Europe,1997,0
 Croatia,Europe,South Africa,Africa,1997,0
 Croatia,Europe,Turkey,Asia,1997,0
+Croatia,Europe,Iraq,Asia,1997,0
+Croatia,Europe,Lebanon,Asia,1997,0
 Croatia,Europe,Israel,Asia,1997,0
-Croatia,Europe,United Arab Emirates,Asia,1997,0
 Croatia,Europe,Taiwan,Asia,1997,0
 Croatia,Europe,South Korea,Asia,1997,0
 Croatia,Europe,Japan,Asia,1997,0
 Croatia,Europe,India,Asia,1997,0
 Croatia,Europe,Pakistan,Asia,1997,0
 Croatia,Europe,Thailand,Asia,1997,0
-Croatia,Europe,Malaysia,Asia,1997,0
 Croatia,Europe,Singapore,Asia,1997,0
 Croatia,Europe,Philippines,Asia,1997,0
 Croatia,Europe,Indonesia,Asia,1997,0
@@ -998,7 +998,7 @@ Croatia,Europe,Australia,Oceania,1997,0
 Croatia,Europe,Cyprus,Europe,1997,0
 Croatia,Europe,China,Asia,1997,0
 Croatia,Europe,Ivory Coast,Africa,1997,0
-Croatia,Europe,Congo,Africa,1997,0
+Croatia,Europe,Iran,Asia,1997,0
 Serbia,Europe,United States,North America,1997,4297
 Serbia,Europe,Canada,North America,1997,102190
 Serbia,Europe,Mexico,North America,1997,0
@@ -1032,15 +1032,15 @@ Serbia,Europe,Norway,Europe,1997,0
 Serbia,Europe,Denmark,Europe,1997,0
 Serbia,Europe,South Africa,Africa,1997,780927
 Serbia,Europe,Turkey,Asia,1997,0
+Serbia,Europe,Iraq,Asia,1997,0
+Serbia,Europe,Lebanon,Asia,1997,85727
 Serbia,Europe,Israel,Asia,1997,0
-Serbia,Europe,United Arab Emirates,Asia,1997,0
 Serbia,Europe,Taiwan,Asia,1997,0
 Serbia,Europe,South Korea,Asia,1997,0
 Serbia,Europe,Japan,Asia,1997,0
 Serbia,Europe,India,Asia,1997,0
 Serbia,Europe,Pakistan,Asia,1997,0
 Serbia,Europe,Thailand,Asia,1997,0
-Serbia,Europe,Malaysia,Asia,1997,0
 Serbia,Europe,Singapore,Asia,1997,0
 Serbia,Europe,Philippines,Asia,1997,0
 Serbia,Europe,Indonesia,Asia,1997,0
@@ -1048,7 +1048,7 @@ Serbia,Europe,Australia,Oceania,1997,46881
 Serbia,Europe,Cyprus,Europe,1997,0
 Serbia,Europe,China,Asia,1997,0
 Serbia,Europe,Ivory Coast,Africa,1997,0
-Serbia,Europe,Congo,Africa,1997,0
+Serbia,Europe,Iran,Asia,1997,0
 Bosnia,Europe,United States,North America,1997,0
 Bosnia,Europe,Canada,North America,1997,0
 Bosnia,Europe,Mexico,North America,1997,0
@@ -1082,15 +1082,15 @@ Bosnia,Europe,Norway,Europe,1997,0
 Bosnia,Europe,Denmark,Europe,1997,0
 Bosnia,Europe,South Africa,Africa,1997,0
 Bosnia,Europe,Turkey,Asia,1997,0
+Bosnia,Europe,Iraq,Asia,1997,0
+Bosnia,Europe,Lebanon,Asia,1997,0
 Bosnia,Europe,Israel,Asia,1997,0
-Bosnia,Europe,United Arab Emirates,Asia,1997,0
 Bosnia,Europe,Taiwan,Asia,1997,0
 Bosnia,Europe,South Korea,Asia,1997,0
 Bosnia,Europe,Japan,Asia,1997,0
 Bosnia,Europe,India,Asia,1997,0
 Bosnia,Europe,Pakistan,Asia,1997,0
 Bosnia,Europe,Thailand,Asia,1997,0
-Bosnia,Europe,Malaysia,Asia,1997,0
 Bosnia,Europe,Singapore,Asia,1997,0
 Bosnia,Europe,Philippines,Asia,1997,0
 Bosnia,Europe,Indonesia,Asia,1997,0
@@ -1098,7 +1098,7 @@ Bosnia,Europe,Australia,Oceania,1997,0
 Bosnia,Europe,Cyprus,Europe,1997,0
 Bosnia,Europe,China,Asia,1997,0
 Bosnia,Europe,Ivory Coast,Africa,1997,0
-Bosnia,Europe,Congo,Africa,1997,0
+Bosnia,Europe,Iran,Asia,1997,0
 Greece,Europe,United States,North America,1997,729146
 Greece,Europe,Canada,North America,1997,7432
 Greece,Europe,Mexico,North America,1997,0
@@ -1132,15 +1132,15 @@ Greece,Europe,Norway,Europe,1997,0
 Greece,Europe,Denmark,Europe,1997,0
 Greece,Europe,South Africa,Africa,1997,0
 Greece,Europe,Turkey,Asia,1997,487342
+Greece,Europe,Iraq,Asia,1997,0
+Greece,Europe,Lebanon,Asia,1997,10661
 Greece,Europe,Israel,Asia,1997,0
-Greece,Europe,United Arab Emirates,Asia,1997,0
 Greece,Europe,Taiwan,Asia,1997,0
 Greece,Europe,South Korea,Asia,1997,0
 Greece,Europe,Japan,Asia,1997,0
 Greece,Europe,India,Asia,1997,0
 Greece,Europe,Pakistan,Asia,1997,0
 Greece,Europe,Thailand,Asia,1997,191823
-Greece,Europe,Malaysia,Asia,1997,0
 Greece,Europe,Singapore,Asia,1997,0
 Greece,Europe,Philippines,Asia,1997,0
 Greece,Europe,Indonesia,Asia,1997,0
@@ -1148,7 +1148,7 @@ Greece,Europe,Australia,Oceania,1997,0
 Greece,Europe,Cyprus,Europe,1997,443048
 Greece,Europe,China,Asia,1997,0
 Greece,Europe,Ivory Coast,Africa,1997,0
-Greece,Europe,Congo,Africa,1997,0
+Greece,Europe,Iran,Asia,1997,0
 Bulgaria,Europe,United States,North America,1997,6607533
 Bulgaria,Europe,Canada,North America,1997,4810
 Bulgaria,Europe,Mexico,North America,1997,0
@@ -1182,15 +1182,15 @@ Bulgaria,Europe,Norway,Europe,1997,0
 Bulgaria,Europe,Denmark,Europe,1997,0
 Bulgaria,Europe,South Africa,Africa,1997,0
 Bulgaria,Europe,Turkey,Asia,1997,1149191
+Bulgaria,Europe,Iraq,Asia,1997,0
+Bulgaria,Europe,Lebanon,Asia,1997,802
 Bulgaria,Europe,Israel,Asia,1997,0
-Bulgaria,Europe,United Arab Emirates,Asia,1997,0
 Bulgaria,Europe,Taiwan,Asia,1997,0
 Bulgaria,Europe,South Korea,Asia,1997,0
 Bulgaria,Europe,Japan,Asia,1997,0
 Bulgaria,Europe,India,Asia,1997,0
 Bulgaria,Europe,Pakistan,Asia,1997,0
 Bulgaria,Europe,Thailand,Asia,1997,0
-Bulgaria,Europe,Malaysia,Asia,1997,0
 Bulgaria,Europe,Singapore,Asia,1997,0
 Bulgaria,Europe,Philippines,Asia,1997,0
 Bulgaria,Europe,Indonesia,Asia,1997,0
@@ -1198,7 +1198,7 @@ Bulgaria,Europe,Australia,Oceania,1997,0
 Bulgaria,Europe,Cyprus,Europe,1997,0
 Bulgaria,Europe,China,Asia,1997,0
 Bulgaria,Europe,Ivory Coast,Africa,1997,0
-Bulgaria,Europe,Congo,Africa,1997,0
+Bulgaria,Europe,Iran,Asia,1997,0
 Romania,Europe,United States,North America,1997,5309572
 Romania,Europe,Canada,North America,1997,0
 Romania,Europe,Mexico,North America,1997,0
@@ -1232,15 +1232,15 @@ Romania,Europe,Norway,Europe,1997,0
 Romania,Europe,Denmark,Europe,1997,0
 Romania,Europe,South Africa,Africa,1997,0
 Romania,Europe,Turkey,Asia,1997,313165
+Romania,Europe,Iraq,Asia,1997,0
+Romania,Europe,Lebanon,Asia,1997,0
 Romania,Europe,Israel,Asia,1997,0
-Romania,Europe,United Arab Emirates,Asia,1997,0
 Romania,Europe,Taiwan,Asia,1997,0
 Romania,Europe,South Korea,Asia,1997,0
 Romania,Europe,Japan,Asia,1997,0
 Romania,Europe,India,Asia,1997,0
 Romania,Europe,Pakistan,Asia,1997,0
 Romania,Europe,Thailand,Asia,1997,0
-Romania,Europe,Malaysia,Asia,1997,0
 Romania,Europe,Singapore,Asia,1997,0
 Romania,Europe,Philippines,Asia,1997,0
 Romania,Europe,Indonesia,Asia,1997,0
@@ -1248,7 +1248,7 @@ Romania,Europe,Australia,Oceania,1997,0
 Romania,Europe,Cyprus,Europe,1997,0
 Romania,Europe,China,Asia,1997,0
 Romania,Europe,Ivory Coast,Africa,1997,0
-Romania,Europe,Congo,Africa,1997,0
+Romania,Europe,Iran,Asia,1997,0
 Russia,Asia,United States,North America,1997,8504055
 Russia,Asia,Canada,North America,1997,12281
 Russia,Asia,Mexico,North America,1997,0
@@ -1282,15 +1282,15 @@ Russia,Asia,Norway,Europe,1997,263874
 Russia,Asia,Denmark,Europe,1997,235420
 Russia,Asia,South Africa,Africa,1997,0
 Russia,Asia,Turkey,Asia,1997,98637
+Russia,Asia,Iraq,Asia,1997,0
+Russia,Asia,Lebanon,Asia,1997,636689
 Russia,Asia,Israel,Asia,1997,0
-Russia,Asia,United Arab Emirates,Asia,1997,0
 Russia,Asia,Taiwan,Asia,1997,0
 Russia,Asia,South Korea,Asia,1997,8840
 Russia,Asia,Japan,Asia,1997,0
 Russia,Asia,India,Asia,1997,0
 Russia,Asia,Pakistan,Asia,1997,0
 Russia,Asia,Thailand,Asia,1997,817896
-Russia,Asia,Malaysia,Asia,1997,0
 Russia,Asia,Singapore,Asia,1997,0
 Russia,Asia,Philippines,Asia,1997,0
 Russia,Asia,Indonesia,Asia,1997,0
@@ -1298,7 +1298,7 @@ Russia,Asia,Australia,Oceania,1997,130854
 Russia,Asia,Cyprus,Europe,1997,3153820
 Russia,Asia,China,Asia,1997,1899
 Russia,Asia,Ivory Coast,Africa,1997,0
-Russia,Asia,Congo,Africa,1997,0
+Russia,Asia,Iran,Asia,1997,0
 Ukraine,Europe,United States,North America,1997,0
 Ukraine,Europe,Canada,North America,1997,0
 Ukraine,Europe,Mexico,North America,1997,0
@@ -1332,15 +1332,15 @@ Ukraine,Europe,Norway,Europe,1997,0
 Ukraine,Europe,Denmark,Europe,1997,0
 Ukraine,Europe,South Africa,Africa,1997,0
 Ukraine,Europe,Turkey,Asia,1997,0
+Ukraine,Europe,Iraq,Asia,1997,0
+Ukraine,Europe,Lebanon,Asia,1997,0
 Ukraine,Europe,Israel,Asia,1997,0
-Ukraine,Europe,United Arab Emirates,Asia,1997,0
 Ukraine,Europe,Taiwan,Asia,1997,0
 Ukraine,Europe,South Korea,Asia,1997,0
 Ukraine,Europe,Japan,Asia,1997,0
 Ukraine,Europe,India,Asia,1997,0
 Ukraine,Europe,Pakistan,Asia,1997,0
 Ukraine,Europe,Thailand,Asia,1997,0
-Ukraine,Europe,Malaysia,Asia,1997,0
 Ukraine,Europe,Singapore,Asia,1997,0
 Ukraine,Europe,Philippines,Asia,1997,0
 Ukraine,Europe,Indonesia,Asia,1997,0
@@ -1348,7 +1348,7 @@ Ukraine,Europe,Australia,Oceania,1997,0
 Ukraine,Europe,Cyprus,Europe,1997,0
 Ukraine,Europe,China,Asia,1997,0
 Ukraine,Europe,Ivory Coast,Africa,1997,0
-Ukraine,Europe,Congo,Africa,1997,0
+Ukraine,Europe,Iran,Asia,1997,0
 Finland,Europe,United States,North America,1997,2374691
 Finland,Europe,Canada,North America,1997,621473
 Finland,Europe,Mexico,North America,1997,0
@@ -1382,15 +1382,15 @@ Finland,Europe,Norway,Europe,1997,2482628
 Finland,Europe,Denmark,Europe,1997,1083878
 Finland,Europe,South Africa,Africa,1997,404518
 Finland,Europe,Turkey,Asia,1997,157137
+Finland,Europe,Iraq,Asia,1997,0
+Finland,Europe,Lebanon,Asia,1997,0
 Finland,Europe,Israel,Asia,1997,0
-Finland,Europe,United Arab Emirates,Asia,1997,216157
 Finland,Europe,Taiwan,Asia,1997,8833
 Finland,Europe,South Korea,Asia,1997,189213
 Finland,Europe,Japan,Asia,1997,130822
 Finland,Europe,India,Asia,1997,6560
 Finland,Europe,Pakistan,Asia,1997,0
 Finland,Europe,Thailand,Asia,1997,1215904
-Finland,Europe,Malaysia,Asia,1997,27719
 Finland,Europe,Singapore,Asia,1997,302684
 Finland,Europe,Philippines,Asia,1997,5115
 Finland,Europe,Indonesia,Asia,1997,0
@@ -1398,7 +1398,7 @@ Finland,Europe,Australia,Oceania,1997,591568
 Finland,Europe,Cyprus,Europe,1997,863
 Finland,Europe,China,Asia,1997,88824
 Finland,Europe,Ivory Coast,Africa,1997,0
-Finland,Europe,Congo,Africa,1997,0
+Finland,Europe,Iran,Asia,1997,0
 Sweden,Europe,United States,North America,1997,9317379
 Sweden,Europe,Canada,North America,1997,133286
 Sweden,Europe,Mexico,North America,1997,0
@@ -1432,15 +1432,15 @@ Sweden,Europe,Norway,Europe,1997,3078085
 Sweden,Europe,Denmark,Europe,1997,1548240
 Sweden,Europe,South Africa,Africa,1997,0
 Sweden,Europe,Turkey,Asia,1997,0
+Sweden,Europe,Iraq,Asia,1997,0
+Sweden,Europe,Lebanon,Asia,1997,0
 Sweden,Europe,Israel,Asia,1997,1228
-Sweden,Europe,United Arab Emirates,Asia,1997,0
 Sweden,Europe,Taiwan,Asia,1997,0
 Sweden,Europe,South Korea,Asia,1997,0
 Sweden,Europe,Japan,Asia,1997,305971
 Sweden,Europe,India,Asia,1997,0
 Sweden,Europe,Pakistan,Asia,1997,0
 Sweden,Europe,Thailand,Asia,1997,1185
-Sweden,Europe,Malaysia,Asia,1997,0
 Sweden,Europe,Singapore,Asia,1997,0
 Sweden,Europe,Philippines,Asia,1997,0
 Sweden,Europe,Indonesia,Asia,1997,0
@@ -1448,7 +1448,7 @@ Sweden,Europe,Australia,Oceania,1997,862
 Sweden,Europe,Cyprus,Europe,1997,0
 Sweden,Europe,China,Asia,1997,0
 Sweden,Europe,Ivory Coast,Africa,1997,0
-Sweden,Europe,Congo,Africa,1997,0
+Sweden,Europe,Iran,Asia,1997,0
 Norway,Europe,United States,North America,1997,8157
 Norway,Europe,Canada,North America,1997,0
 Norway,Europe,Mexico,North America,1997,0
@@ -1482,15 +1482,15 @@ Norway,Europe,Norway,Europe,1997,0
 Norway,Europe,Denmark,Europe,1997,1470122
 Norway,Europe,South Africa,Africa,1997,0
 Norway,Europe,Turkey,Asia,1997,0
+Norway,Europe,Iraq,Asia,1997,0
+Norway,Europe,Lebanon,Asia,1997,0
 Norway,Europe,Israel,Asia,1997,0
-Norway,Europe,United Arab Emirates,Asia,1997,0
 Norway,Europe,Taiwan,Asia,1997,0
 Norway,Europe,South Korea,Asia,1997,0
 Norway,Europe,Japan,Asia,1997,0
 Norway,Europe,India,Asia,1997,0
 Norway,Europe,Pakistan,Asia,1997,1068
 Norway,Europe,Thailand,Asia,1997,0
-Norway,Europe,Malaysia,Asia,1997,0
 Norway,Europe,Singapore,Asia,1997,0
 Norway,Europe,Philippines,Asia,1997,0
 Norway,Europe,Indonesia,Asia,1997,0
@@ -1498,7 +1498,7 @@ Norway,Europe,Australia,Oceania,1997,0
 Norway,Europe,Cyprus,Europe,1997,0
 Norway,Europe,China,Asia,1997,0
 Norway,Europe,Ivory Coast,Africa,1997,0
-Norway,Europe,Congo,Africa,1997,0
+Norway,Europe,Iran,Asia,1997,0
 Denmark,Europe,United States,North America,1997,124441
 Denmark,Europe,Canada,North America,1997,2748
 Denmark,Europe,Mexico,North America,1997,0
@@ -1532,15 +1532,15 @@ Denmark,Europe,Norway,Europe,1997,71823
 Denmark,Europe,Denmark,Europe,1997,0
 Denmark,Europe,South Africa,Africa,1997,4978
 Denmark,Europe,Turkey,Asia,1997,0
+Denmark,Europe,Iraq,Asia,1997,0
+Denmark,Europe,Lebanon,Asia,1997,0
 Denmark,Europe,Israel,Asia,1997,0
-Denmark,Europe,United Arab Emirates,Asia,1997,0
 Denmark,Europe,Taiwan,Asia,1997,0
 Denmark,Europe,South Korea,Asia,1997,0
 Denmark,Europe,Japan,Asia,1997,0
 Denmark,Europe,India,Asia,1997,0
 Denmark,Europe,Pakistan,Asia,1997,0
 Denmark,Europe,Thailand,Asia,1997,0
-Denmark,Europe,Malaysia,Asia,1997,0
 Denmark,Europe,Singapore,Asia,1997,0
 Denmark,Europe,Philippines,Asia,1997,0
 Denmark,Europe,Indonesia,Asia,1997,0
@@ -1548,7 +1548,7 @@ Denmark,Europe,Australia,Oceania,1997,0
 Denmark,Europe,Cyprus,Europe,1997,0
 Denmark,Europe,China,Asia,1997,0
 Denmark,Europe,Ivory Coast,Africa,1997,0
-Denmark,Europe,Congo,Africa,1997,0
+Denmark,Europe,Iran,Asia,1997,0
 South Africa,Africa,United States,North America,1997,299295
 South Africa,Africa,Canada,North America,1997,6019
 South Africa,Africa,Mexico,North America,1997,3213
@@ -1582,15 +1582,15 @@ South Africa,Africa,Norway,Europe,1997,22312
 South Africa,Africa,Denmark,Europe,1997,25061
 South Africa,Africa,South Africa,Africa,1997,0
 South Africa,Africa,Turkey,Asia,1997,0
+South Africa,Africa,Iraq,Asia,1997,0
+South Africa,Africa,Lebanon,Asia,1997,0
 South Africa,Africa,Israel,Asia,1997,0
-South Africa,Africa,United Arab Emirates,Asia,1997,0
 South Africa,Africa,Taiwan,Asia,1997,0
 South Africa,Africa,South Korea,Asia,1997,0
 South Africa,Africa,Japan,Asia,1997,0
 South Africa,Africa,India,Asia,1997,2037
 South Africa,Africa,Pakistan,Asia,1997,0
 South Africa,Africa,Thailand,Asia,1997,400326
-South Africa,Africa,Malaysia,Asia,1997,0
 South Africa,Africa,Singapore,Asia,1997,121061
 South Africa,Africa,Philippines,Asia,1997,198939
 South Africa,Africa,Indonesia,Asia,1997,0
@@ -1598,7 +1598,7 @@ South Africa,Africa,Australia,Oceania,1997,84258
 South Africa,Africa,Cyprus,Europe,1997,0
 South Africa,Africa,China,Asia,1997,0
 South Africa,Africa,Ivory Coast,Africa,1997,0
-South Africa,Africa,Congo,Africa,1997,0
+South Africa,Africa,Iran,Asia,1997,0
 Turkey,Asia,United States,North America,1997,881834
 Turkey,Asia,Canada,North America,1997,0
 Turkey,Asia,Mexico,North America,1997,0
@@ -1632,15 +1632,15 @@ Turkey,Asia,Norway,Europe,1997,5056
 Turkey,Asia,Denmark,Europe,1997,41625
 Turkey,Asia,South Africa,Africa,1997,0
 Turkey,Asia,Turkey,Asia,1997,0
+Turkey,Asia,Iraq,Asia,1997,0
+Turkey,Asia,Lebanon,Asia,1997,147960
 Turkey,Asia,Israel,Asia,1997,0
-Turkey,Asia,United Arab Emirates,Asia,1997,0
 Turkey,Asia,Taiwan,Asia,1997,0
 Turkey,Asia,South Korea,Asia,1997,2751
 Turkey,Asia,Japan,Asia,1997,13877
 Turkey,Asia,India,Asia,1997,0
 Turkey,Asia,Pakistan,Asia,1997,0
 Turkey,Asia,Thailand,Asia,1997,0
-Turkey,Asia,Malaysia,Asia,1997,6748
 Turkey,Asia,Singapore,Asia,1997,0
 Turkey,Asia,Philippines,Asia,1997,82379
 Turkey,Asia,Indonesia,Asia,1997,1137
@@ -1648,7 +1648,107 @@ Turkey,Asia,Australia,Oceania,1997,1994
 Turkey,Asia,Cyprus,Europe,1997,107364
 Turkey,Asia,China,Asia,1997,0
 Turkey,Asia,Ivory Coast,Africa,1997,0
-Turkey,Asia,Congo,Africa,1997,0
+Turkey,Asia,Iran,Asia,1997,0
+Iraq,Asia,United States,North America,1997,0
+Iraq,Asia,Canada,North America,1997,0
+Iraq,Asia,Mexico,North America,1997,0
+Iraq,Asia,Brazil,South America,1997,0
+Iraq,Asia,Argentina,South America,1997,0
+Iraq,Asia,United Kingdom,Europe,1997,0
+Iraq,Asia,Netherlands,Europe,1997,0
+Iraq,Asia,Belgium,Europe,1997,0
+Iraq,Asia,France,Europe,1997,0
+Iraq,Asia,Switzerland,Europe,1997,0
+Iraq,Asia,Spain,Europe,1997,0
+Iraq,Asia,Portugal,Europe,1997,0
+Iraq,Asia,Germany,Europe,1997,0
+Iraq,Asia,Poland,Europe,1997,0
+Iraq,Asia,Austria,Europe,1997,0
+Iraq,Asia,Hungary,Europe,1997,0
+Iraq,Asia,Czech Republic,Europe,1997,0
+Iraq,Asia,Slovakia,Europe,1997,0
+Iraq,Asia,Italy,Europe,1997,0
+Iraq,Asia,Croatia,Europe,1997,0
+Iraq,Asia,Serbia,Europe,1997,0
+Iraq,Asia,Bosnia,Europe,1997,0
+Iraq,Asia,Greece,Europe,1997,0
+Iraq,Asia,Bulgaria,Europe,1997,0
+Iraq,Asia,Romania,Europe,1997,0
+Iraq,Asia,Russia,Asia,1997,0
+Iraq,Asia,Ukraine,Europe,1997,0
+Iraq,Asia,Finland,Europe,1997,0
+Iraq,Asia,Sweden,Europe,1997,0
+Iraq,Asia,Norway,Europe,1997,0
+Iraq,Asia,Denmark,Europe,1997,0
+Iraq,Asia,South Africa,Africa,1997,0
+Iraq,Asia,Turkey,Asia,1997,0
+Iraq,Asia,Iraq,Asia,1997,0
+Iraq,Asia,Lebanon,Asia,1997,0
+Iraq,Asia,Israel,Asia,1997,0
+Iraq,Asia,Taiwan,Asia,1997,0
+Iraq,Asia,South Korea,Asia,1997,0
+Iraq,Asia,Japan,Asia,1997,0
+Iraq,Asia,India,Asia,1997,0
+Iraq,Asia,Pakistan,Asia,1997,0
+Iraq,Asia,Thailand,Asia,1997,0
+Iraq,Asia,Singapore,Asia,1997,0
+Iraq,Asia,Philippines,Asia,1997,0
+Iraq,Asia,Indonesia,Asia,1997,0
+Iraq,Asia,Australia,Oceania,1997,0
+Iraq,Asia,Cyprus,Europe,1997,0
+Iraq,Asia,China,Asia,1997,0
+Iraq,Asia,Ivory Coast,Africa,1997,0
+Iraq,Asia,Iran,Asia,1997,0
+Lebanon,Asia,United States,North America,1997,0
+Lebanon,Asia,Canada,North America,1997,6208
+Lebanon,Asia,Mexico,North America,1997,0
+Lebanon,Asia,Brazil,South America,1997,0
+Lebanon,Asia,Argentina,South America,1997,0
+Lebanon,Asia,United Kingdom,Europe,1997,0
+Lebanon,Asia,Netherlands,Europe,1997,0
+Lebanon,Asia,Belgium,Europe,1997,826
+Lebanon,Asia,France,Europe,1997,0
+Lebanon,Asia,Switzerland,Europe,1997,0
+Lebanon,Asia,Spain,Europe,1997,0
+Lebanon,Asia,Portugal,Europe,1997,0
+Lebanon,Asia,Germany,Europe,1997,0
+Lebanon,Asia,Poland,Europe,1997,0
+Lebanon,Asia,Austria,Europe,1997,0
+Lebanon,Asia,Hungary,Europe,1997,0
+Lebanon,Asia,Czech Republic,Europe,1997,0
+Lebanon,Asia,Slovakia,Europe,1997,0
+Lebanon,Asia,Italy,Europe,1997,19939
+Lebanon,Asia,Croatia,Europe,1997,0
+Lebanon,Asia,Serbia,Europe,1997,0
+Lebanon,Asia,Bosnia,Europe,1997,0
+Lebanon,Asia,Greece,Europe,1997,0
+Lebanon,Asia,Bulgaria,Europe,1997,0
+Lebanon,Asia,Romania,Europe,1997,0
+Lebanon,Asia,Russia,Asia,1997,0
+Lebanon,Asia,Ukraine,Europe,1997,0
+Lebanon,Asia,Finland,Europe,1997,0
+Lebanon,Asia,Sweden,Europe,1997,0
+Lebanon,Asia,Norway,Europe,1997,0
+Lebanon,Asia,Denmark,Europe,1997,0
+Lebanon,Asia,South Africa,Africa,1997,0
+Lebanon,Asia,Turkey,Asia,1997,0
+Lebanon,Asia,Iraq,Asia,1997,0
+Lebanon,Asia,Lebanon,Asia,1997,0
+Lebanon,Asia,Israel,Asia,1997,0
+Lebanon,Asia,Taiwan,Asia,1997,0
+Lebanon,Asia,South Korea,Asia,1997,0
+Lebanon,Asia,Japan,Asia,1997,0
+Lebanon,Asia,India,Asia,1997,0
+Lebanon,Asia,Pakistan,Asia,1997,0
+Lebanon,Asia,Thailand,Asia,1997,0
+Lebanon,Asia,Singapore,Asia,1997,0
+Lebanon,Asia,Philippines,Asia,1997,0
+Lebanon,Asia,Indonesia,Asia,1997,0
+Lebanon,Asia,Australia,Oceania,1997,2078
+Lebanon,Asia,Cyprus,Europe,1997,3924
+Lebanon,Asia,China,Asia,1997,0
+Lebanon,Asia,Ivory Coast,Africa,1997,0
+Lebanon,Asia,Iran,Asia,1997,0
 Israel,Asia,United States,North America,1997,6386784
 Israel,Asia,Canada,North America,1997,3568
 Israel,Asia,Mexico,North America,1997,4753
@@ -1682,15 +1782,15 @@ Israel,Asia,Norway,Europe,1997,54291
 Israel,Asia,Denmark,Europe,1997,3987
 Israel,Asia,South Africa,Africa,1997,0
 Israel,Asia,Turkey,Asia,1997,1364000
+Israel,Asia,Iraq,Asia,1997,0
+Israel,Asia,Lebanon,Asia,1997,0
 Israel,Asia,Israel,Asia,1997,0
-Israel,Asia,United Arab Emirates,Asia,1997,0
 Israel,Asia,Taiwan,Asia,1997,0
 Israel,Asia,South Korea,Asia,1997,7869
 Israel,Asia,Japan,Asia,1997,0
 Israel,Asia,India,Asia,1997,0
 Israel,Asia,Pakistan,Asia,1997,0
 Israel,Asia,Thailand,Asia,1997,24364
-Israel,Asia,Malaysia,Asia,1997,0
 Israel,Asia,Singapore,Asia,1997,0
 Israel,Asia,Philippines,Asia,1997,269015
 Israel,Asia,Indonesia,Asia,1997,0
@@ -1698,57 +1798,7 @@ Israel,Asia,Australia,Oceania,1997,28134
 Israel,Asia,Cyprus,Europe,1997,0
 Israel,Asia,China,Asia,1997,0
 Israel,Asia,Ivory Coast,Africa,1997,0
-Israel,Asia,Congo,Africa,1997,0
-United Arab Emirates,Asia,United States,North America,1997,0
-United Arab Emirates,Asia,Canada,North America,1997,0
-United Arab Emirates,Asia,Mexico,North America,1997,0
-United Arab Emirates,Asia,Brazil,South America,1997,0
-United Arab Emirates,Asia,Argentina,South America,1997,0
-United Arab Emirates,Asia,United Kingdom,Europe,1997,2194
-United Arab Emirates,Asia,Netherlands,Europe,1997,0
-United Arab Emirates,Asia,Belgium,Europe,1997,169494
-United Arab Emirates,Asia,France,Europe,1997,0
-United Arab Emirates,Asia,Switzerland,Europe,1997,15468
-United Arab Emirates,Asia,Spain,Europe,1997,0
-United Arab Emirates,Asia,Portugal,Europe,1997,0
-United Arab Emirates,Asia,Germany,Europe,1997,12367
-United Arab Emirates,Asia,Poland,Europe,1997,0
-United Arab Emirates,Asia,Austria,Europe,1997,0
-United Arab Emirates,Asia,Hungary,Europe,1997,0
-United Arab Emirates,Asia,Czech Republic,Europe,1997,0
-United Arab Emirates,Asia,Slovakia,Europe,1997,0
-United Arab Emirates,Asia,Italy,Europe,1997,168239
-United Arab Emirates,Asia,Croatia,Europe,1997,0
-United Arab Emirates,Asia,Serbia,Europe,1997,0
-United Arab Emirates,Asia,Bosnia,Europe,1997,0
-United Arab Emirates,Asia,Greece,Europe,1997,0
-United Arab Emirates,Asia,Bulgaria,Europe,1997,0
-United Arab Emirates,Asia,Romania,Europe,1997,0
-United Arab Emirates,Asia,Russia,Asia,1997,0
-United Arab Emirates,Asia,Ukraine,Europe,1997,0
-United Arab Emirates,Asia,Finland,Europe,1997,0
-United Arab Emirates,Asia,Sweden,Europe,1997,0
-United Arab Emirates,Asia,Norway,Europe,1997,0
-United Arab Emirates,Asia,Denmark,Europe,1997,0
-United Arab Emirates,Asia,South Africa,Africa,1997,0
-United Arab Emirates,Asia,Turkey,Asia,1997,0
-United Arab Emirates,Asia,Israel,Asia,1997,0
-United Arab Emirates,Asia,United Arab Emirates,Asia,1997,0
-United Arab Emirates,Asia,Taiwan,Asia,1997,0
-United Arab Emirates,Asia,South Korea,Asia,1997,0
-United Arab Emirates,Asia,Japan,Asia,1997,0
-United Arab Emirates,Asia,India,Asia,1997,0
-United Arab Emirates,Asia,Pakistan,Asia,1997,0
-United Arab Emirates,Asia,Thailand,Asia,1997,0
-United Arab Emirates,Asia,Malaysia,Asia,1997,0
-United Arab Emirates,Asia,Singapore,Asia,1997,0
-United Arab Emirates,Asia,Philippines,Asia,1997,0
-United Arab Emirates,Asia,Indonesia,Asia,1997,0
-United Arab Emirates,Asia,Australia,Oceania,1997,0
-United Arab Emirates,Asia,Cyprus,Europe,1997,0
-United Arab Emirates,Asia,China,Asia,1997,0
-United Arab Emirates,Asia,Ivory Coast,Africa,1997,0
-United Arab Emirates,Asia,Congo,Africa,1997,0
+Israel,Asia,Iran,Asia,1997,0
 Taiwan,Asia,United States,North America,1997,104949
 Taiwan,Asia,Canada,North America,1997,10932
 Taiwan,Asia,Mexico,North America,1997,0
@@ -1782,15 +1832,15 @@ Taiwan,Asia,Norway,Europe,1997,0
 Taiwan,Asia,Denmark,Europe,1997,0
 Taiwan,Asia,South Africa,Africa,1997,0
 Taiwan,Asia,Turkey,Asia,1997,0
+Taiwan,Asia,Iraq,Asia,1997,0
+Taiwan,Asia,Lebanon,Asia,1997,0
 Taiwan,Asia,Israel,Asia,1997,0
-Taiwan,Asia,United Arab Emirates,Asia,1997,0
 Taiwan,Asia,Taiwan,Asia,1997,0
 Taiwan,Asia,South Korea,Asia,1997,0
 Taiwan,Asia,Japan,Asia,1997,0
 Taiwan,Asia,India,Asia,1997,0
 Taiwan,Asia,Pakistan,Asia,1997,0
 Taiwan,Asia,Thailand,Asia,1997,0
-Taiwan,Asia,Malaysia,Asia,1997,0
 Taiwan,Asia,Singapore,Asia,1997,10432
 Taiwan,Asia,Philippines,Asia,1997,0
 Taiwan,Asia,Indonesia,Asia,1997,157467
@@ -1798,7 +1848,7 @@ Taiwan,Asia,Australia,Oceania,1997,0
 Taiwan,Asia,Cyprus,Europe,1997,0
 Taiwan,Asia,China,Asia,1997,0
 Taiwan,Asia,Ivory Coast,Africa,1997,0
-Taiwan,Asia,Congo,Africa,1997,0
+Taiwan,Asia,Iran,Asia,1997,0
 South Korea,Asia,United States,North America,1997,13976088
 South Korea,Asia,Canada,North America,1997,10677
 South Korea,Asia,Mexico,North America,1997,0
@@ -1832,15 +1882,15 @@ South Korea,Asia,Norway,Europe,1997,5864
 South Korea,Asia,Denmark,Europe,1997,0
 South Korea,Asia,South Africa,Africa,1997,0
 South Korea,Asia,Turkey,Asia,1997,27946840
+South Korea,Asia,Iraq,Asia,1997,0
+South Korea,Asia,Lebanon,Asia,1997,56735
 South Korea,Asia,Israel,Asia,1997,2142419
-South Korea,Asia,United Arab Emirates,Asia,1997,0
 South Korea,Asia,Taiwan,Asia,1997,3156075
 South Korea,Asia,South Korea,Asia,1997,0
 South Korea,Asia,Japan,Asia,1997,0
 South Korea,Asia,India,Asia,1997,0
 South Korea,Asia,Pakistan,Asia,1997,0
 South Korea,Asia,Thailand,Asia,1997,1455248
-South Korea,Asia,Malaysia,Asia,1997,0
 South Korea,Asia,Singapore,Asia,1997,0
 South Korea,Asia,Philippines,Asia,1997,2210908
 South Korea,Asia,Indonesia,Asia,1997,125718
@@ -1848,7 +1898,7 @@ South Korea,Asia,Australia,Oceania,1997,54222
 South Korea,Asia,Cyprus,Europe,1997,0
 South Korea,Asia,China,Asia,1997,0
 South Korea,Asia,Ivory Coast,Africa,1997,0
-South Korea,Asia,Congo,Africa,1997,0
+South Korea,Asia,Iran,Asia,1997,0
 Japan,Asia,United States,North America,1997,28037202
 Japan,Asia,Canada,North America,1997,1421162
 Japan,Asia,Mexico,North America,1997,0
@@ -1882,15 +1932,15 @@ Japan,Asia,Norway,Europe,1997,130388
 Japan,Asia,Denmark,Europe,1997,369370
 Japan,Asia,South Africa,Africa,1997,0
 Japan,Asia,Turkey,Asia,1997,0
+Japan,Asia,Iraq,Asia,1997,0
+Japan,Asia,Lebanon,Asia,1997,30272
 Japan,Asia,Israel,Asia,1997,0
-Japan,Asia,United Arab Emirates,Asia,1997,0
 Japan,Asia,Taiwan,Asia,1997,0
 Japan,Asia,South Korea,Asia,1997,37480
 Japan,Asia,Japan,Asia,1997,0
 Japan,Asia,India,Asia,1997,0
 Japan,Asia,Pakistan,Asia,1997,0
 Japan,Asia,Thailand,Asia,1997,8426
-Japan,Asia,Malaysia,Asia,1997,2687
 Japan,Asia,Singapore,Asia,1997,0
 Japan,Asia,Philippines,Asia,1997,34216
 Japan,Asia,Indonesia,Asia,1997,1352
@@ -1898,7 +1948,7 @@ Japan,Asia,Australia,Oceania,1997,2347120
 Japan,Asia,Cyprus,Europe,1997,273439
 Japan,Asia,China,Asia,1997,0
 Japan,Asia,Ivory Coast,Africa,1997,0
-Japan,Asia,Congo,Africa,1997,0
+Japan,Asia,Iran,Asia,1997,0
 India,Asia,United States,North America,1997,9732
 India,Asia,Canada,North America,1997,14045
 India,Asia,Mexico,North America,1997,0
@@ -1932,15 +1982,15 @@ India,Asia,Norway,Europe,1997,0
 India,Asia,Denmark,Europe,1997,0
 India,Asia,South Africa,Africa,1997,0
 India,Asia,Turkey,Asia,1997,0
+India,Asia,Iraq,Asia,1997,0
+India,Asia,Lebanon,Asia,1997,0
 India,Asia,Israel,Asia,1997,0
-India,Asia,United Arab Emirates,Asia,1997,0
 India,Asia,Taiwan,Asia,1997,0
 India,Asia,South Korea,Asia,1997,0
 India,Asia,Japan,Asia,1997,0
 India,Asia,India,Asia,1997,0
 India,Asia,Pakistan,Asia,1997,0
 India,Asia,Thailand,Asia,1997,0
-India,Asia,Malaysia,Asia,1997,0
 India,Asia,Singapore,Asia,1997,0
 India,Asia,Philippines,Asia,1997,0
 India,Asia,Indonesia,Asia,1997,32563
@@ -1948,7 +1998,7 @@ India,Asia,Australia,Oceania,1997,50775
 India,Asia,Cyprus,Europe,1997,4266070
 India,Asia,China,Asia,1997,0
 India,Asia,Ivory Coast,Africa,1997,0
-India,Asia,Congo,Africa,1997,0
+India,Asia,Iran,Asia,1997,0
 Pakistan,Asia,United States,North America,1997,0
 Pakistan,Asia,Canada,North America,1997,0
 Pakistan,Asia,Mexico,North America,1997,0
@@ -1982,15 +2032,15 @@ Pakistan,Asia,Norway,Europe,1997,0
 Pakistan,Asia,Denmark,Europe,1997,0
 Pakistan,Asia,South Africa,Africa,1997,0
 Pakistan,Asia,Turkey,Asia,1997,0
+Pakistan,Asia,Iraq,Asia,1997,0
+Pakistan,Asia,Lebanon,Asia,1997,0
 Pakistan,Asia,Israel,Asia,1997,0
-Pakistan,Asia,United Arab Emirates,Asia,1997,0
 Pakistan,Asia,Taiwan,Asia,1997,0
 Pakistan,Asia,South Korea,Asia,1997,0
 Pakistan,Asia,Japan,Asia,1997,0
 Pakistan,Asia,India,Asia,1997,0
 Pakistan,Asia,Pakistan,Asia,1997,0
 Pakistan,Asia,Thailand,Asia,1997,0
-Pakistan,Asia,Malaysia,Asia,1997,0
 Pakistan,Asia,Singapore,Asia,1997,0
 Pakistan,Asia,Philippines,Asia,1997,0
 Pakistan,Asia,Indonesia,Asia,1997,0
@@ -1998,7 +2048,7 @@ Pakistan,Asia,Australia,Oceania,1997,0
 Pakistan,Asia,Cyprus,Europe,1997,0
 Pakistan,Asia,China,Asia,1997,0
 Pakistan,Asia,Ivory Coast,Africa,1997,0
-Pakistan,Asia,Congo,Africa,1997,0
+Pakistan,Asia,Iran,Asia,1997,0
 Thailand,Asia,United States,North America,1997,0
 Thailand,Asia,Canada,North America,1997,0
 Thailand,Asia,Mexico,North America,1997,0
@@ -2032,15 +2082,15 @@ Thailand,Asia,Norway,Europe,1997,0
 Thailand,Asia,Denmark,Europe,1997,0
 Thailand,Asia,South Africa,Africa,1997,0
 Thailand,Asia,Turkey,Asia,1997,0
+Thailand,Asia,Iraq,Asia,1997,0
+Thailand,Asia,Lebanon,Asia,1997,0
 Thailand,Asia,Israel,Asia,1997,0
-Thailand,Asia,United Arab Emirates,Asia,1997,0
 Thailand,Asia,Taiwan,Asia,1997,0
 Thailand,Asia,South Korea,Asia,1997,0
 Thailand,Asia,Japan,Asia,1997,0
 Thailand,Asia,India,Asia,1997,0
 Thailand,Asia,Pakistan,Asia,1997,0
 Thailand,Asia,Thailand,Asia,1997,0
-Thailand,Asia,Malaysia,Asia,1997,0
 Thailand,Asia,Singapore,Asia,1997,0
 Thailand,Asia,Philippines,Asia,1997,0
 Thailand,Asia,Indonesia,Asia,1997,0
@@ -2048,57 +2098,7 @@ Thailand,Asia,Australia,Oceania,1997,0
 Thailand,Asia,Cyprus,Europe,1997,0
 Thailand,Asia,China,Asia,1997,0
 Thailand,Asia,Ivory Coast,Africa,1997,0
-Thailand,Asia,Congo,Africa,1997,0
-Malaysia,Asia,United States,North America,1997,3343
-Malaysia,Asia,Canada,North America,1997,0
-Malaysia,Asia,Mexico,North America,1997,0
-Malaysia,Asia,Brazil,South America,1997,0
-Malaysia,Asia,Argentina,South America,1997,0
-Malaysia,Asia,United Kingdom,Europe,1997,0
-Malaysia,Asia,Netherlands,Europe,1997,0
-Malaysia,Asia,Belgium,Europe,1997,0
-Malaysia,Asia,France,Europe,1997,0
-Malaysia,Asia,Switzerland,Europe,1997,0
-Malaysia,Asia,Spain,Europe,1997,0
-Malaysia,Asia,Portugal,Europe,1997,0
-Malaysia,Asia,Germany,Europe,1997,0
-Malaysia,Asia,Poland,Europe,1997,0
-Malaysia,Asia,Austria,Europe,1997,0
-Malaysia,Asia,Hungary,Europe,1997,0
-Malaysia,Asia,Czech Republic,Europe,1997,0
-Malaysia,Asia,Slovakia,Europe,1997,0
-Malaysia,Asia,Italy,Europe,1997,0
-Malaysia,Asia,Croatia,Europe,1997,0
-Malaysia,Asia,Serbia,Europe,1997,0
-Malaysia,Asia,Bosnia,Europe,1997,0
-Malaysia,Asia,Greece,Europe,1997,0
-Malaysia,Asia,Bulgaria,Europe,1997,0
-Malaysia,Asia,Romania,Europe,1997,0
-Malaysia,Asia,Russia,Asia,1997,0
-Malaysia,Asia,Ukraine,Europe,1997,0
-Malaysia,Asia,Finland,Europe,1997,0
-Malaysia,Asia,Sweden,Europe,1997,0
-Malaysia,Asia,Norway,Europe,1997,0
-Malaysia,Asia,Denmark,Europe,1997,0
-Malaysia,Asia,South Africa,Africa,1997,0
-Malaysia,Asia,Turkey,Asia,1997,0
-Malaysia,Asia,Israel,Asia,1997,0
-Malaysia,Asia,United Arab Emirates,Asia,1997,0
-Malaysia,Asia,Taiwan,Asia,1997,0
-Malaysia,Asia,South Korea,Asia,1997,0
-Malaysia,Asia,Japan,Asia,1997,0
-Malaysia,Asia,India,Asia,1997,0
-Malaysia,Asia,Pakistan,Asia,1997,0
-Malaysia,Asia,Thailand,Asia,1997,0
-Malaysia,Asia,Malaysia,Asia,1997,0
-Malaysia,Asia,Singapore,Asia,1997,0
-Malaysia,Asia,Philippines,Asia,1997,112563
-Malaysia,Asia,Indonesia,Asia,1997,0
-Malaysia,Asia,Australia,Oceania,1997,0
-Malaysia,Asia,Cyprus,Europe,1997,0
-Malaysia,Asia,China,Asia,1997,0
-Malaysia,Asia,Ivory Coast,Africa,1997,0
-Malaysia,Asia,Congo,Africa,1997,0
+Thailand,Asia,Iran,Asia,1997,0
 Singapore,Asia,United States,North America,1997,176760
 Singapore,Asia,Canada,North America,1997,0
 Singapore,Asia,Mexico,North America,1997,2032
@@ -2132,15 +2132,15 @@ Singapore,Asia,Norway,Europe,1997,0
 Singapore,Asia,Denmark,Europe,1997,0
 Singapore,Asia,South Africa,Africa,1997,0
 Singapore,Asia,Turkey,Asia,1997,444030
+Singapore,Asia,Iraq,Asia,1997,0
+Singapore,Asia,Lebanon,Asia,1997,0
 Singapore,Asia,Israel,Asia,1997,0
-Singapore,Asia,United Arab Emirates,Asia,1997,0
 Singapore,Asia,Taiwan,Asia,1997,0
 Singapore,Asia,South Korea,Asia,1997,0
 Singapore,Asia,Japan,Asia,1997,0
 Singapore,Asia,India,Asia,1997,0
 Singapore,Asia,Pakistan,Asia,1997,0
 Singapore,Asia,Thailand,Asia,1997,124847
-Singapore,Asia,Malaysia,Asia,1997,30375
 Singapore,Asia,Singapore,Asia,1997,0
 Singapore,Asia,Philippines,Asia,1997,273217
 Singapore,Asia,Indonesia,Asia,1997,8884
@@ -2148,7 +2148,7 @@ Singapore,Asia,Australia,Oceania,1997,57197
 Singapore,Asia,Cyprus,Europe,1997,0
 Singapore,Asia,China,Asia,1997,0
 Singapore,Asia,Ivory Coast,Africa,1997,0
-Singapore,Asia,Congo,Africa,1997,0
+Singapore,Asia,Iran,Asia,1997,0
 Philippines,Asia,United States,North America,1997,529854
 Philippines,Asia,Canada,North America,1997,2215
 Philippines,Asia,Mexico,North America,1997,0
@@ -2182,15 +2182,15 @@ Philippines,Asia,Norway,Europe,1997,0
 Philippines,Asia,Denmark,Europe,1997,21015
 Philippines,Asia,South Africa,Africa,1997,28343
 Philippines,Asia,Turkey,Asia,1997,0
+Philippines,Asia,Iraq,Asia,1997,0
+Philippines,Asia,Lebanon,Asia,1997,0
 Philippines,Asia,Israel,Asia,1997,0
-Philippines,Asia,United Arab Emirates,Asia,1997,0
 Philippines,Asia,Taiwan,Asia,1997,0
 Philippines,Asia,South Korea,Asia,1997,0
 Philippines,Asia,Japan,Asia,1997,0
 Philippines,Asia,India,Asia,1997,0
 Philippines,Asia,Pakistan,Asia,1997,0
 Philippines,Asia,Thailand,Asia,1997,29617
-Philippines,Asia,Malaysia,Asia,1997,0
 Philippines,Asia,Singapore,Asia,1997,0
 Philippines,Asia,Philippines,Asia,1997,0
 Philippines,Asia,Indonesia,Asia,1997,0
@@ -2198,7 +2198,7 @@ Philippines,Asia,Australia,Oceania,1997,295209
 Philippines,Asia,Cyprus,Europe,1997,0
 Philippines,Asia,China,Asia,1997,0
 Philippines,Asia,Ivory Coast,Africa,1997,0
-Philippines,Asia,Congo,Africa,1997,0
+Philippines,Asia,Iran,Asia,1997,0
 Indonesia,Asia,United States,North America,1997,59478
 Indonesia,Asia,Canada,North America,1997,0
 Indonesia,Asia,Mexico,North America,1997,0
@@ -2232,15 +2232,15 @@ Indonesia,Asia,Norway,Europe,1997,0
 Indonesia,Asia,Denmark,Europe,1997,0
 Indonesia,Asia,South Africa,Africa,1997,0
 Indonesia,Asia,Turkey,Asia,1997,0
+Indonesia,Asia,Iraq,Asia,1997,0
+Indonesia,Asia,Lebanon,Asia,1997,0
 Indonesia,Asia,Israel,Asia,1997,0
-Indonesia,Asia,United Arab Emirates,Asia,1997,0
 Indonesia,Asia,Taiwan,Asia,1997,0
 Indonesia,Asia,South Korea,Asia,1997,0
 Indonesia,Asia,Japan,Asia,1997,0
 Indonesia,Asia,India,Asia,1997,0
 Indonesia,Asia,Pakistan,Asia,1997,0
 Indonesia,Asia,Thailand,Asia,1997,0
-Indonesia,Asia,Malaysia,Asia,1997,0
 Indonesia,Asia,Singapore,Asia,1997,0
 Indonesia,Asia,Philippines,Asia,1997,11468
 Indonesia,Asia,Indonesia,Asia,1997,0
@@ -2248,7 +2248,7 @@ Indonesia,Asia,Australia,Oceania,1997,0
 Indonesia,Asia,Cyprus,Europe,1997,0
 Indonesia,Asia,China,Asia,1997,0
 Indonesia,Asia,Ivory Coast,Africa,1997,0
-Indonesia,Asia,Congo,Africa,1997,0
+Indonesia,Asia,Iran,Asia,1997,0
 Australia,Oceania,United States,North America,1997,301902
 Australia,Oceania,Canada,North America,1997,15035
 Australia,Oceania,Mexico,North America,1997,0
@@ -2282,15 +2282,15 @@ Australia,Oceania,Norway,Europe,1997,11980
 Australia,Oceania,Denmark,Europe,1997,5564
 Australia,Oceania,South Africa,Africa,1997,258999
 Australia,Oceania,Turkey,Asia,1997,0
+Australia,Oceania,Iraq,Asia,1997,0
+Australia,Oceania,Lebanon,Asia,1997,1390
 Australia,Oceania,Israel,Asia,1997,0
-Australia,Oceania,United Arab Emirates,Asia,1997,0
 Australia,Oceania,Taiwan,Asia,1997,0
 Australia,Oceania,South Korea,Asia,1997,382541
 Australia,Oceania,Japan,Asia,1997,1660740
 Australia,Oceania,India,Asia,1997,0
 Australia,Oceania,Pakistan,Asia,1997,0
 Australia,Oceania,Thailand,Asia,1997,258768
-Australia,Oceania,Malaysia,Asia,1997,46386
 Australia,Oceania,Singapore,Asia,1997,114006
 Australia,Oceania,Philippines,Asia,1997,99046
 Australia,Oceania,Indonesia,Asia,1997,0
@@ -2298,7 +2298,7 @@ Australia,Oceania,Australia,Oceania,1997,0
 Australia,Oceania,Cyprus,Europe,1997,9568
 Australia,Oceania,China,Asia,1997,0
 Australia,Oceania,Ivory Coast,Africa,1997,0
-Australia,Oceania,Congo,Africa,1997,0
+Australia,Oceania,Iran,Asia,1997,0
 Cyprus,Europe,United States,North America,1997,915822
 Cyprus,Europe,Canada,North America,1997,0
 Cyprus,Europe,Mexico,North America,1997,0
@@ -2332,15 +2332,15 @@ Cyprus,Europe,Norway,Europe,1997,0
 Cyprus,Europe,Denmark,Europe,1997,1723
 Cyprus,Europe,South Africa,Africa,1997,5245
 Cyprus,Europe,Turkey,Asia,1997,0
+Cyprus,Europe,Iraq,Asia,1997,0
+Cyprus,Europe,Lebanon,Asia,1997,884298
 Cyprus,Europe,Israel,Asia,1997,0
-Cyprus,Europe,United Arab Emirates,Asia,1997,0
 Cyprus,Europe,Taiwan,Asia,1997,0
 Cyprus,Europe,South Korea,Asia,1997,0
 Cyprus,Europe,Japan,Asia,1997,69706
 Cyprus,Europe,India,Asia,1997,0
 Cyprus,Europe,Pakistan,Asia,1997,0
 Cyprus,Europe,Thailand,Asia,1997,14248
-Cyprus,Europe,Malaysia,Asia,1997,5363
 Cyprus,Europe,Singapore,Asia,1997,0
 Cyprus,Europe,Philippines,Asia,1997,0
 Cyprus,Europe,Indonesia,Asia,1997,0
@@ -2348,7 +2348,7 @@ Cyprus,Europe,Australia,Oceania,1997,216727
 Cyprus,Europe,Cyprus,Europe,1997,0
 Cyprus,Europe,China,Asia,1997,0
 Cyprus,Europe,Ivory Coast,Africa,1997,0
-Cyprus,Europe,Congo,Africa,1997,0
+Cyprus,Europe,Iran,Asia,1997,0
 China,Asia,United States,North America,1997,953488
 China,Asia,Canada,North America,1997,18847
 China,Asia,Mexico,North America,1997,3128
@@ -2382,15 +2382,15 @@ China,Asia,Norway,Europe,1997,30216
 China,Asia,Denmark,Europe,1997,0
 China,Asia,South Africa,Africa,1997,51235
 China,Asia,Turkey,Asia,1997,4104024
+China,Asia,Iraq,Asia,1997,0
+China,Asia,Lebanon,Asia,1997,0
 China,Asia,Israel,Asia,1997,0
-China,Asia,United Arab Emirates,Asia,1997,0
 China,Asia,Taiwan,Asia,1997,0
 China,Asia,South Korea,Asia,1997,0
 China,Asia,Japan,Asia,1997,0
 China,Asia,India,Asia,1997,0
 China,Asia,Pakistan,Asia,1997,38664
 China,Asia,Thailand,Asia,1997,484825
-China,Asia,Malaysia,Asia,1997,74453
 China,Asia,Singapore,Asia,1997,0
 China,Asia,Philippines,Asia,1997,743711
 China,Asia,Indonesia,Asia,1997,0
@@ -2398,7 +2398,7 @@ China,Asia,Australia,Oceania,1997,329947
 China,Asia,Cyprus,Europe,1997,0
 China,Asia,China,Asia,1997,0
 China,Asia,Ivory Coast,Africa,1997,0
-China,Asia,Congo,Africa,1997,0
+China,Asia,Iran,Asia,1997,4339972
 Ivory Coast,Africa,United States,North America,1997,0
 Ivory Coast,Africa,Canada,North America,1997,0
 Ivory Coast,Africa,Mexico,North America,1997,0
@@ -2432,15 +2432,15 @@ Ivory Coast,Africa,Norway,Europe,1997,0
 Ivory Coast,Africa,Denmark,Europe,1997,0
 Ivory Coast,Africa,South Africa,Africa,1997,0
 Ivory Coast,Africa,Turkey,Asia,1997,0
+Ivory Coast,Africa,Iraq,Asia,1997,0
+Ivory Coast,Africa,Lebanon,Asia,1997,0
 Ivory Coast,Africa,Israel,Asia,1997,0
-Ivory Coast,Africa,United Arab Emirates,Asia,1997,0
 Ivory Coast,Africa,Taiwan,Asia,1997,0
 Ivory Coast,Africa,South Korea,Asia,1997,0
 Ivory Coast,Africa,Japan,Asia,1997,0
 Ivory Coast,Africa,India,Asia,1997,0
 Ivory Coast,Africa,Pakistan,Asia,1997,0
 Ivory Coast,Africa,Thailand,Asia,1997,0
-Ivory Coast,Africa,Malaysia,Asia,1997,0
 Ivory Coast,Africa,Singapore,Asia,1997,0
 Ivory Coast,Africa,Philippines,Asia,1997,0
 Ivory Coast,Africa,Indonesia,Asia,1997,0
@@ -2448,54 +2448,54 @@ Ivory Coast,Africa,Australia,Oceania,1997,0
 Ivory Coast,Africa,Cyprus,Europe,1997,0
 Ivory Coast,Africa,China,Asia,1997,0
 Ivory Coast,Africa,Ivory Coast,Africa,1997,0
-Ivory Coast,Africa,Congo,Africa,1997,0
-Congo,Africa,United States,North America,1997,0
-Congo,Africa,Canada,North America,1997,0
-Congo,Africa,Mexico,North America,1997,0
-Congo,Africa,Brazil,South America,1997,0
-Congo,Africa,Argentina,South America,1997,0
-Congo,Africa,United Kingdom,Europe,1997,0
-Congo,Africa,Netherlands,Europe,1997,0
-Congo,Africa,Belgium,Europe,1997,0
-Congo,Africa,France,Europe,1997,0
-Congo,Africa,Switzerland,Europe,1997,0
-Congo,Africa,Spain,Europe,1997,0
-Congo,Africa,Portugal,Europe,1997,0
-Congo,Africa,Germany,Europe,1997,0
-Congo,Africa,Poland,Europe,1997,0
-Congo,Africa,Austria,Europe,1997,0
-Congo,Africa,Hungary,Europe,1997,0
-Congo,Africa,Czech Republic,Europe,1997,0
-Congo,Africa,Slovakia,Europe,1997,0
-Congo,Africa,Italy,Europe,1997,0
-Congo,Africa,Croatia,Europe,1997,0
-Congo,Africa,Serbia,Europe,1997,0
-Congo,Africa,Bosnia,Europe,1997,0
-Congo,Africa,Greece,Europe,1997,0
-Congo,Africa,Bulgaria,Europe,1997,0
-Congo,Africa,Romania,Europe,1997,0
-Congo,Africa,Russia,Asia,1997,0
-Congo,Africa,Ukraine,Europe,1997,0
-Congo,Africa,Finland,Europe,1997,0
-Congo,Africa,Sweden,Europe,1997,0
-Congo,Africa,Norway,Europe,1997,0
-Congo,Africa,Denmark,Europe,1997,0
-Congo,Africa,South Africa,Africa,1997,0
-Congo,Africa,Turkey,Asia,1997,0
-Congo,Africa,Israel,Asia,1997,0
-Congo,Africa,United Arab Emirates,Asia,1997,0
-Congo,Africa,Taiwan,Asia,1997,0
-Congo,Africa,South Korea,Asia,1997,0
-Congo,Africa,Japan,Asia,1997,0
-Congo,Africa,India,Asia,1997,0
-Congo,Africa,Pakistan,Asia,1997,0
-Congo,Africa,Thailand,Asia,1997,0
-Congo,Africa,Malaysia,Asia,1997,0
-Congo,Africa,Singapore,Asia,1997,0
-Congo,Africa,Philippines,Asia,1997,0
-Congo,Africa,Indonesia,Asia,1997,0
-Congo,Africa,Australia,Oceania,1997,0
-Congo,Africa,Cyprus,Europe,1997,0
-Congo,Africa,China,Asia,1997,0
-Congo,Africa,Ivory Coast,Africa,1997,0
-Congo,Africa,Congo,Africa,1997,0
+Ivory Coast,Africa,Iran,Asia,1997,0
+Iran,Asia,United States,North America,1997,0
+Iran,Asia,Canada,North America,1997,0
+Iran,Asia,Mexico,North America,1997,0
+Iran,Asia,Brazil,South America,1997,0
+Iran,Asia,Argentina,South America,1997,0
+Iran,Asia,United Kingdom,Europe,1997,0
+Iran,Asia,Netherlands,Europe,1997,0
+Iran,Asia,Belgium,Europe,1997,0
+Iran,Asia,France,Europe,1997,0
+Iran,Asia,Switzerland,Europe,1997,0
+Iran,Asia,Spain,Europe,1997,0
+Iran,Asia,Portugal,Europe,1997,0
+Iran,Asia,Germany,Europe,1997,0
+Iran,Asia,Poland,Europe,1997,0
+Iran,Asia,Austria,Europe,1997,0
+Iran,Asia,Hungary,Europe,1997,0
+Iran,Asia,Czech Republic,Europe,1997,0
+Iran,Asia,Slovakia,Europe,1997,0
+Iran,Asia,Italy,Europe,1997,0
+Iran,Asia,Croatia,Europe,1997,0
+Iran,Asia,Serbia,Europe,1997,0
+Iran,Asia,Bosnia,Europe,1997,0
+Iran,Asia,Greece,Europe,1997,0
+Iran,Asia,Bulgaria,Europe,1997,0
+Iran,Asia,Romania,Europe,1997,0
+Iran,Asia,Russia,Asia,1997,0
+Iran,Asia,Ukraine,Europe,1997,0
+Iran,Asia,Finland,Europe,1997,0
+Iran,Asia,Sweden,Europe,1997,0
+Iran,Asia,Norway,Europe,1997,0
+Iran,Asia,Denmark,Europe,1997,0
+Iran,Asia,South Africa,Africa,1997,0
+Iran,Asia,Turkey,Asia,1997,0
+Iran,Asia,Iraq,Asia,1997,0
+Iran,Asia,Lebanon,Asia,1997,0
+Iran,Asia,Israel,Asia,1997,0
+Iran,Asia,Taiwan,Asia,1997,0
+Iran,Asia,South Korea,Asia,1997,0
+Iran,Asia,Japan,Asia,1997,0
+Iran,Asia,India,Asia,1997,0
+Iran,Asia,Pakistan,Asia,1997,0
+Iran,Asia,Thailand,Asia,1997,8130
+Iran,Asia,Singapore,Asia,1997,0
+Iran,Asia,Philippines,Asia,1997,0
+Iran,Asia,Indonesia,Asia,1997,0
+Iran,Asia,Australia,Oceania,1997,0
+Iran,Asia,Cyprus,Europe,1997,0
+Iran,Asia,China,Asia,1997,0
+Iran,Asia,Ivory Coast,Africa,1997,0
+Iran,Asia,Iran,Asia,1997,0

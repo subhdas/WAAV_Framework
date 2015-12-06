@@ -7,9 +7,13 @@ var ch_innerRadius = ch_outerRadius - 70;
 var ch_fill;
 var ch_year;
 var ch_rdr;
-var chordPaths
+var chordPaths;
 var wchord;
 var hchord;
+var ch_smWidth = 620; 
+var ch_smHeight = 550; 
+var ch_bigWidth = 980; 
+var ch_bigHeight = 800; 
 var ch_r1; 
 var ch_r0;
 var ch_fill; 
@@ -20,17 +24,20 @@ var ch_initialized = false;
 var ch_colors = ["#E6EBF5", "#C8D3E9", "#FFAA00", "#A4B6DB", "#CC8800", "#8099CC", "#E69900", "#B37700", "#6D8AC5", "#5B7CBD", "#FFAA00", "#496DB6", "#FFBB33", "#4262A4", "#FFC34D", "#3A5792", "#FFCC66", "#334D7f", "#FFDD99", "2C426D", "#996600", "#FFEECC"];
 
 // load the chord diagram
-function loadChordDiagram(ch_countries, ch_yearValue) {
-	d3.select("#vizPanel").select("svg").remove(); 
-    console.log("Chord.js: Width of Chord Diagram is : " + ch_width);
+function loadChordDiagram(ch_countries, ch_yearValue, ch_chordWidth, ch_chordHeight) {
+	console.log("Chord.js: Loading chord diagram with " + ch_countries);
+	d3.select("#vizPanel").empty();
+	$("chordSvg").remove(); 
+	$("#lineSvg").remove(); 
+    //console.log("Chord.js: Width of Chord Diagram is : " + ch_width);
     ch_year = ch_yearValue;
     ch_data = null; 
-    readChordData(ch_countries, ch_yearValue, 0, true);
+    readChordData(ch_countries, ch_yearValue, 0, true, ch_chordWidth, ch_chordHeight);
 }
 
 //read the chord diagram data
-function readChordData(ch_countryList, ch_y, ch_fileInd, ch_loadVisBool) {
-	console.log("Chord.js: Reading Chord Diagram Data for Year " + ch_y[ch_fileInd] + ".");
+function readChordData(ch_countryList, ch_y, ch_fileInd, ch_loadVisBool, ch_chordWidth, ch_chordHeight) {
+	//console.log("Chord.js: Reading Chord Diagram Data for Year " + ch_y[ch_fileInd] + ".");
 	ch_countries = ch_countryList;
 	d3.csv("data/" + ch_y[ch_fileInd] + "AggregatedArmsData.csv", function (ch_dataset) {
 		ch_dataset = ch_dataset.filter(function (d) {
@@ -41,7 +48,7 @@ function readChordData(ch_countryList, ch_y, ch_fileInd, ch_loadVisBool) {
 			}
 		});
 
-		if (ch_fileInd < ch_year.length - 1) { readChordData(ch_countryList, ch_year, Number(ch_fileInd)+1); }
+		if (ch_fileInd < ch_year.length - 1) { readChordData(ch_countryList, ch_year, Number(ch_fileInd)+1, ch_chordWidth, ch_chordHeight); }
 		if (ch_data == null) { 
 			ch_data = ch_dataset; 
 			
@@ -81,16 +88,16 @@ function readChordData(ch_countryList, ch_y, ch_fileInd, ch_loadVisBool) {
 					}
 					return +ch_recs[0].Value;
 				});
-			loadChordVis(ch_mpr.getMatrix(), ch_mpr.getMap()); 
+			loadChordVis(ch_mpr.getMatrix(), ch_mpr.getMap(), ch_chordWidth, ch_chordHeight); 
 		}
 	});
 }
 
 // load the chord diagram vis
-function loadChordVis(matrix, mmap) {
+function loadChordVis(matrix, mmap, ch_chordWidth, ch_chordHeight) {
 	// define the dimensions
-	wchord = 980;
-    hchord = 800;
+	wchord = ch_chordWidth; 
+	hchord = ch_chordHeight;
 
     // define the radii
     ch_r1 = hchord / 2;
@@ -138,9 +145,12 @@ function loadChordVis(matrix, mmap) {
             return ch_fill(d.index);
         })
         .attr("d", ch_arc)
-        .on("mouseover", ch_mouseover)
+        .on("mouseover", function (d, i) {
+        	ch_mouseover(d, i, true);
+        })
         .on("mouseout", function (d) {
             d3.select("#chord-tooltip").style("visibility", "hidden");
+            ch_unBrush();
         });
 
     // add the text
@@ -154,7 +164,7 @@ function loadChordVis(matrix, mmap) {
         })
         .attr("dy", ".35em")
         .style("font-family", "helvetica, arial, sans-serif")
-        .style("font-size", "10px")
+        .style("font-size", "12px")
         .attr("text-anchor", function (d) {
             return d.angle > Math.PI ? "end" : null;
         })
@@ -164,9 +174,12 @@ function loadChordVis(matrix, mmap) {
         .text(function (d) {
             return ch_rdr(d).gname;
         })
-        .on("mouseover", ch_mouseover)
+        .on("mouseover", function (d, i) {
+        	ch_mouseover(d, i, true);
+        })
         .on("mouseout", function (d) {
             d3.select("#chord-tooltip").style("visibility", "hidden");
+            ch_unBrush();
         });
  
     // add the chords
@@ -194,6 +207,7 @@ function loadChordVis(matrix, mmap) {
         })
         .on("mouseout", function (d) {
             d3.select("#chord-tooltip").style("visibility", "hidden");
+            chordPaths.classed("fade", false);
         });
     ch_initialized = true;
 }
@@ -289,6 +303,7 @@ function chordRdr(matrix, mmap) {
             g = _.where(mmap, {
                 id: d.index
             });
+            m.gindex = d.index; // emily
             m.gname = g[0].name;
             m.gdata = g[0].data;
             m.gvalue = d.value;
@@ -312,6 +327,7 @@ function updateChordDiagram(ch_newCountries, ch_newYears) {
         console.log("Chord.js: ERROR: Invalid year array passed to updateChordDiagram function.");
         console.log("Chord.js: Years: " + ch_newYears);
     }
+	console.log("Chord.js: Countries on diagram: " + ch_newCountries);
 	
 	var ch_yearChangeBool = false;
     if (ch_newYears.length != ch_year.length) {
@@ -326,24 +342,8 @@ function updateChordDiagram(ch_newCountries, ch_newYears) {
     ch_year = ch_newYears;
     ch_countries = ch_newCountries;
     
-    if (ch_yearChangeBool) { // the year has changed on the slider
-    	console.log("Chord.js: Year change detected.");
-    	ch_data = null;
-        updateChordDiagramData(ch_newYears, 0);
-    } else {
-    	var ch_mpr = chordMpr(ch_data);
-		ch_mpr.addValuesToMap("Country1")
-			.setFilter(function (ch_row, ch_a, ch_b) {
-				return (ch_row.Country1 === ch_a.name && ch_row.Country2 === ch_b.name)
-			})
-			.setAccessor(function (ch_recs, ch_a, ch_b) {
-				if (!ch_recs[0]) {
-					return 0;
-				}
-				return +ch_recs[0].Value;
-			});
-		updateChordDiagramVis(ch_mpr.getMatrix(), ch_mpr.getMap());
-    }
+    ch_data = null;
+    updateChordDiagramData(ch_newYears, 0);
 }
 
 // update the chord diagram data
@@ -431,9 +431,12 @@ function updateChordDiagramVis(matrix, mmap) {
     	.append("svg:path")
     	.attr("class", "group chord-arc")
     	.style("stroke", "black")
-        .on("mouseover", ch_mouseover)
+        .on("mouseover", function (d, i) {
+        	ch_mouseover(d, i, true);
+        })
         .on("mouseout", function (d) {
             d3.select("#chord-tooltip").style("visibility", "hidden");
+            ch_unBrush();
         });
     
     // update the arcs
@@ -455,7 +458,7 @@ function updateChordDiagramVis(matrix, mmap) {
     	.append("svg:text")
     	.attr("class", "group chord-text")
         .style("font-family", "helvetica, arial, sans-serif")
-        .style("font-size", "10px");
+        .style("font-size", "12px");
     
     // update text
     ch_text.transition().duration(ch_transitionDuration)
@@ -474,9 +477,12 @@ function updateChordDiagramVis(matrix, mmap) {
     	});
     
     // update mouseover action for text
-    ch_text.on("mouseover", ch_mouseover)
+    ch_text.on("mouseover", function (d, i) {
+    		ch_mouseover(d, i, true);
+    	})
     	.on("mouseout", function (d) {
     		d3.select("#chord-tooltip").style("visibility", "hidden");
+    		ch_unBrush();
     	});
     
     // remove old text
@@ -515,6 +521,7 @@ function updateChordDiagramVis(matrix, mmap) {
     	})
     	.on("mouseout", function (d) {
     		d3.select("#chord-tooltip").style("visibility", "hidden");
+    		chordPaths.classed("fade", false);
     	});
     
     // remove old chord paths
@@ -536,20 +543,61 @@ function ch_groupTip(d) {
 }
 
 // function for group mouseover
-function ch_mouseover(d, i) {
-    d3.select("#chord-tooltip")
-        .style("visibility", "visible")
-        .html(ch_groupTip(ch_rdr(d)))
-        .style("top", function () {
-            return (d3.event.pageY - 100) + "px"
-        })
-        .style("left", function () {
-            return (d3.event.pageX - 320) + "px";
-        })
+function ch_mouseover(d, i, ch_tooltipBool) {
+	if (ch_tooltipBool) {
+		d3.select("#chord-tooltip")
+			.style("visibility", "visible")
+			.html(ch_groupTip(ch_rdr(d)))
+			.style("top", function () {
+				return (d3.event.pageY - 100) + "px"
+			})
+			.style("left", function () {
+				return (d3.event.pageX - 320) + "px";
+			})
+	}
 
     chordPaths.classed("fade", function (p) {
         return p.source.index != i && p.target.index != i;
     });
+    
+    var ch_brushCountryName = ch_rdr(d).gname; 
+    
+    // brush & link with heat map
+    d3.select("#chart")
+    	.select("#rowLabelGroup")
+    	.selectAll(".rowLabel")
+    	.style("font-weight", function(d) {
+    		if (ch_brushCountryName == d) {
+    			return "bold"; 
+    		}
+    	})
+    	.style("font-size", function(d) {
+    		if (ch_brushCountryName == d) {
+    			return "11pt"; 
+    		}
+    	})
+    	.style("fill", function(d) {
+    		if (ch_brushCountryName == d) {
+    			return "#000"; 
+    		}
+    	});
+}
+
+// remove brushed stylings
+function ch_unBrush() {
+	chordPaths.classed("fade", false);
+	d3.select("#chart")
+		.select("#rowLabelGroup")
+		.selectAll(".rowLabel")
+		.style("font-weight", "")
+		.style("font-size", "8pt")
+		.style("fill", "aaa");
+	d3.select("#chart")
+		.select("#colLabelGroup")
+		.selectAll(".colLabel")
+		.style("font-weight", "")
+		.style("font-size", "8pt")
+		.style("fill", "aaa");
 }
 
 // return the index of the data item with the given country1 and country2
@@ -567,4 +615,9 @@ function ch_clearPanel() {
 	console.log("Chord.js: Clearing viz panel");
 	$('#vizPanel').empty();
 	ch_initialized = false; 
+}
+
+// get the countries on the chord diagram
+function getCountriesOnChordDiagram() {
+	return ch_countries; 
 }

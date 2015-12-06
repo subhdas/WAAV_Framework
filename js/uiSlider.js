@@ -512,7 +512,10 @@ $("#sliderDouble")
                     var yearInfo = "Drag Handles to update year values. Selected years are : " + values[0] + " - " + values[1];
                     $("#sliderDouble").attr("title", yearInfo);
                     console.log("UISlider.js: Transitioning Heat Map");
-                    updateHeatMap(rowCountries, colCountries, yearValues);
+                    updateHeatMap(getCountriesOnHeatMap(), getCountriesOnHeatMap(), yearValues);
+                    if ($('#chordSvg').length != 0) {
+                    	updateChordDiagram(getCountriesOnChordDiagram(), yearValues); 
+                    }
                 });
 
 

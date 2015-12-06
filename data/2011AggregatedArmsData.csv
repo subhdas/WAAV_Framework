@@ -32,15 +32,15 @@ United States,North America,Norway,Europe,2011,6717920
 United States,North America,Denmark,Europe,2011,6645764
 United States,North America,South Africa,Africa,2011,5524060
 United States,North America,Turkey,Asia,2011,7674162
+United States,North America,Iraq,Asia,2011,14845429
+United States,North America,Lebanon,Asia,2011,2361587
 United States,North America,Israel,Asia,2011,48383160
-United States,North America,United Arab Emirates,Asia,2011,5166699
 United States,North America,Taiwan,Asia,2011,649084
 United States,North America,South Korea,Asia,2011,21850202
 United States,North America,Japan,Asia,2011,6541987
 United States,North America,India,Asia,2011,288492
 United States,North America,Pakistan,Asia,2011,1947206
 United States,North America,Thailand,Asia,2011,46127231
-United States,North America,Malaysia,Asia,2011,1806447
 United States,North America,Singapore,Asia,2011,1613859
 United States,North America,Philippines,Asia,2011,13714692
 United States,North America,Indonesia,Asia,2011,1363732
@@ -48,7 +48,7 @@ United States,North America,Australia,Oceania,2011,89076471
 United States,North America,Cyprus,Europe,2011,27329
 United States,North America,China,Asia,2011,442351
 United States,North America,Ivory Coast,Africa,2011,51596
-United States,North America,Congo,Africa,2011,0
+United States,North America,Iran,Asia,2011,0
 Canada,North America,United States,North America,2011,40068514
 Canada,North America,Canada,North America,2011,37894
 Canada,North America,Mexico,North America,2011,40313
@@ -82,15 +82,15 @@ Canada,North America,Norway,Europe,2011,2627006
 Canada,North America,Denmark,Europe,2011,6878604
 Canada,North America,South Africa,Africa,2011,2311
 Canada,North America,Turkey,Asia,2011,30548
+Canada,North America,Iraq,Asia,2011,0
+Canada,North America,Lebanon,Asia,2011,0
 Canada,North America,Israel,Asia,2011,399314
-Canada,North America,United Arab Emirates,Asia,2011,4621
 Canada,North America,Taiwan,Asia,2011,107754
 Canada,North America,South Korea,Asia,2011,143342
 Canada,North America,Japan,Asia,2011,80337
 Canada,North America,India,Asia,2011,48160
 Canada,North America,Pakistan,Asia,2011,1714
 Canada,North America,Thailand,Asia,2011,80867
-Canada,North America,Malaysia,Asia,2011,0
 Canada,North America,Singapore,Asia,2011,85494
 Canada,North America,Philippines,Asia,2011,0
 Canada,North America,Indonesia,Asia,2011,90897
@@ -98,7 +98,7 @@ Canada,North America,Australia,Oceania,2011,191568
 Canada,North America,Cyprus,Europe,2011,0
 Canada,North America,China,Asia,2011,0
 Canada,North America,Ivory Coast,Africa,2011,0
-Canada,North America,Congo,Africa,2011,0
+Canada,North America,Iran,Asia,2011,0
 Mexico,North America,United States,North America,2011,4710903
 Mexico,North America,Canada,North America,2011,9753
 Mexico,North America,Mexico,North America,2011,0
@@ -132,15 +132,15 @@ Mexico,North America,Norway,Europe,2011,0
 Mexico,North America,Denmark,Europe,2011,0
 Mexico,North America,South Africa,Africa,2011,0
 Mexico,North America,Turkey,Asia,2011,0
+Mexico,North America,Iraq,Asia,2011,0
+Mexico,North America,Lebanon,Asia,2011,0
 Mexico,North America,Israel,Asia,2011,0
-Mexico,North America,United Arab Emirates,Asia,2011,0
 Mexico,North America,Taiwan,Asia,2011,0
 Mexico,North America,South Korea,Asia,2011,0
 Mexico,North America,Japan,Asia,2011,0
 Mexico,North America,India,Asia,2011,0
 Mexico,North America,Pakistan,Asia,2011,0
 Mexico,North America,Thailand,Asia,2011,34535
-Mexico,North America,Malaysia,Asia,2011,0
 Mexico,North America,Singapore,Asia,2011,0
 Mexico,North America,Philippines,Asia,2011,0
 Mexico,North America,Indonesia,Asia,2011,0
@@ -148,7 +148,7 @@ Mexico,North America,Australia,Oceania,2011,7471
 Mexico,North America,Cyprus,Europe,2011,0
 Mexico,North America,China,Asia,2011,0
 Mexico,North America,Ivory Coast,Africa,2011,0
-Mexico,North America,Congo,Africa,2011,0
+Mexico,North America,Iran,Asia,2011,0
 Brazil,South America,United States,North America,2011,148679550
 Brazil,South America,Canada,North America,2011,1060676
 Brazil,South America,Mexico,North America,2011,326239
@@ -182,15 +182,15 @@ Brazil,South America,Norway,Europe,2011,97593
 Brazil,South America,Denmark,Europe,2011,289796
 Brazil,South America,South Africa,Africa,2011,484225
 Brazil,South America,Turkey,Asia,2011,1779536
+Brazil,South America,Iraq,Asia,2011,0
+Brazil,South America,Lebanon,Asia,2011,261090
 Brazil,South America,Israel,Asia,2011,1237835
-Brazil,South America,United Arab Emirates,Asia,2011,51154
 Brazil,South America,Taiwan,Asia,2011,0
 Brazil,South America,South Korea,Asia,2011,2119
 Brazil,South America,Japan,Asia,2011,0
 Brazil,South America,India,Asia,2011,0
 Brazil,South America,Pakistan,Asia,2011,2041854
 Brazil,South America,Thailand,Asia,2011,3027069
-Brazil,South America,Malaysia,Asia,2011,12660
 Brazil,South America,Singapore,Asia,2011,16915578
 Brazil,South America,Philippines,Asia,2011,12824739
 Brazil,South America,Indonesia,Asia,2011,35990
@@ -198,7 +198,7 @@ Brazil,South America,Australia,Oceania,2011,894131
 Brazil,South America,Cyprus,Europe,2011,23576
 Brazil,South America,China,Asia,2011,0
 Brazil,South America,Ivory Coast,Africa,2011,0
-Brazil,South America,Congo,Africa,2011,0
+Brazil,South America,Iran,Asia,2011,0
 Argentina,South America,United States,North America,2011,10249467
 Argentina,South America,Canada,North America,2011,0
 Argentina,South America,Mexico,North America,2011,0
@@ -232,15 +232,15 @@ Argentina,South America,Norway,Europe,2011,0
 Argentina,South America,Denmark,Europe,2011,0
 Argentina,South America,South Africa,Africa,2011,0
 Argentina,South America,Turkey,Asia,2011,0
+Argentina,South America,Iraq,Asia,2011,0
+Argentina,South America,Lebanon,Asia,2011,0
 Argentina,South America,Israel,Asia,2011,0
-Argentina,South America,United Arab Emirates,Asia,2011,0
 Argentina,South America,Taiwan,Asia,2011,0
 Argentina,South America,South Korea,Asia,2011,0
 Argentina,South America,Japan,Asia,2011,0
 Argentina,South America,India,Asia,2011,0
 Argentina,South America,Pakistan,Asia,2011,0
 Argentina,South America,Thailand,Asia,2011,0
-Argentina,South America,Malaysia,Asia,2011,0
 Argentina,South America,Singapore,Asia,2011,0
 Argentina,South America,Philippines,Asia,2011,139200
 Argentina,South America,Indonesia,Asia,2011,0
@@ -248,7 +248,7 @@ Argentina,South America,Australia,Oceania,2011,0
 Argentina,South America,Cyprus,Europe,2011,0
 Argentina,South America,China,Asia,2011,0
 Argentina,South America,Ivory Coast,Africa,2011,0
-Argentina,South America,Congo,Africa,2011,0
+Argentina,South America,Iran,Asia,2011,0
 United Kingdom,Europe,United States,North America,2011,23402840
 United Kingdom,Europe,Canada,North America,2011,1279501
 United Kingdom,Europe,Mexico,North America,2011,28610
@@ -282,15 +282,15 @@ United Kingdom,Europe,Norway,Europe,2011,2814311
 United Kingdom,Europe,Denmark,Europe,2011,5546732
 United Kingdom,Europe,South Africa,Africa,2011,1779656
 United Kingdom,Europe,Turkey,Asia,2011,18335
+United Kingdom,Europe,Iraq,Asia,2011,0
+United Kingdom,Europe,Lebanon,Asia,2011,20684
 United Kingdom,Europe,Israel,Asia,2011,8628
-United Kingdom,Europe,United Arab Emirates,Asia,2011,70278
 United Kingdom,Europe,Taiwan,Asia,2011,27048
 United Kingdom,Europe,South Korea,Asia,2011,777702
 United Kingdom,Europe,Japan,Asia,2011,2039089
 United Kingdom,Europe,India,Asia,2011,301455
 United Kingdom,Europe,Pakistan,Asia,2011,126049
 United Kingdom,Europe,Thailand,Asia,2011,5040435
-United Kingdom,Europe,Malaysia,Asia,2011,67816
 United Kingdom,Europe,Singapore,Asia,2011,339991
 United Kingdom,Europe,Philippines,Asia,2011,35739
 United Kingdom,Europe,Indonesia,Asia,2011,346130
@@ -298,7 +298,7 @@ United Kingdom,Europe,Australia,Oceania,2011,7194958
 United Kingdom,Europe,Cyprus,Europe,2011,544239
 United Kingdom,Europe,China,Asia,2011,1288956
 United Kingdom,Europe,Ivory Coast,Africa,2011,0
-United Kingdom,Europe,Congo,Africa,2011,0
+United Kingdom,Europe,Iran,Asia,2011,0
 Netherlands,Europe,United States,North America,2011,660286
 Netherlands,Europe,Canada,North America,2011,5719
 Netherlands,Europe,Mexico,North America,2011,0
@@ -332,15 +332,15 @@ Netherlands,Europe,Norway,Europe,2011,95236
 Netherlands,Europe,Denmark,Europe,2011,4291
 Netherlands,Europe,South Africa,Africa,2011,0
 Netherlands,Europe,Turkey,Asia,2011,2073
+Netherlands,Europe,Iraq,Asia,2011,0
+Netherlands,Europe,Lebanon,Asia,2011,0
 Netherlands,Europe,Israel,Asia,2011,0
-Netherlands,Europe,United Arab Emirates,Asia,2011,0
 Netherlands,Europe,Taiwan,Asia,2011,4254
 Netherlands,Europe,South Korea,Asia,2011,2191
 Netherlands,Europe,Japan,Asia,2011,0
 Netherlands,Europe,India,Asia,2011,0
 Netherlands,Europe,Pakistan,Asia,2011,0
 Netherlands,Europe,Thailand,Asia,2011,0
-Netherlands,Europe,Malaysia,Asia,2011,0
 Netherlands,Europe,Singapore,Asia,2011,0
 Netherlands,Europe,Philippines,Asia,2011,0
 Netherlands,Europe,Indonesia,Asia,2011,4407
@@ -348,7 +348,7 @@ Netherlands,Europe,Australia,Oceania,2011,0
 Netherlands,Europe,Cyprus,Europe,2011,0
 Netherlands,Europe,China,Asia,2011,0
 Netherlands,Europe,Ivory Coast,Africa,2011,0
-Netherlands,Europe,Congo,Africa,2011,0
+Netherlands,Europe,Iran,Asia,2011,1504
 Belgium,Europe,United States,North America,2011,23042853
 Belgium,Europe,Canada,North America,2011,3721305
 Belgium,Europe,Mexico,North America,2011,608864
@@ -382,15 +382,15 @@ Belgium,Europe,Norway,Europe,2011,3997691
 Belgium,Europe,Denmark,Europe,2011,749645
 Belgium,Europe,South Africa,Africa,2011,100067
 Belgium,Europe,Turkey,Asia,2011,600
+Belgium,Europe,Iraq,Asia,2011,0
+Belgium,Europe,Lebanon,Asia,2011,235907
 Belgium,Europe,Israel,Asia,2011,0
-Belgium,Europe,United Arab Emirates,Asia,2011,0
 Belgium,Europe,Taiwan,Asia,2011,15542
 Belgium,Europe,South Korea,Asia,2011,2249863
 Belgium,Europe,Japan,Asia,2011,120512
 Belgium,Europe,India,Asia,2011,3303
 Belgium,Europe,Pakistan,Asia,2011,10253
 Belgium,Europe,Thailand,Asia,2011,916208
-Belgium,Europe,Malaysia,Asia,2011,1517980
 Belgium,Europe,Singapore,Asia,2011,0
 Belgium,Europe,Philippines,Asia,2011,0
 Belgium,Europe,Indonesia,Asia,2011,1547891
@@ -398,7 +398,7 @@ Belgium,Europe,Australia,Oceania,2011,869560
 Belgium,Europe,Cyprus,Europe,2011,198638
 Belgium,Europe,China,Asia,2011,0
 Belgium,Europe,Ivory Coast,Africa,2011,0
-Belgium,Europe,Congo,Africa,2011,0
+Belgium,Europe,Iran,Asia,2011,0
 France,Europe,United States,North America,2011,3732545
 France,Europe,Canada,North America,2011,842254
 France,Europe,Mexico,North America,2011,76089
@@ -432,15 +432,15 @@ France,Europe,Norway,Europe,2011,21083842
 France,Europe,Denmark,Europe,2011,100174
 France,Europe,South Africa,Africa,2011,26436
 France,Europe,Turkey,Asia,2011,141111
+France,Europe,Iraq,Asia,2011,0
+France,Europe,Lebanon,Asia,2011,998304
 France,Europe,Israel,Asia,2011,19478
-France,Europe,United Arab Emirates,Asia,2011,41739
 France,Europe,Taiwan,Asia,2011,0
 France,Europe,South Korea,Asia,2011,408251
 France,Europe,Japan,Asia,2011,1682754
 France,Europe,India,Asia,2011,0
 France,Europe,Pakistan,Asia,2011,4174
 France,Europe,Thailand,Asia,2011,10285
-France,Europe,Malaysia,Asia,2011,155747
 France,Europe,Singapore,Asia,2011,0
 France,Europe,Philippines,Asia,2011,0
 France,Europe,Indonesia,Asia,2011,7443916
@@ -448,7 +448,7 @@ France,Europe,Australia,Oceania,2011,307697
 France,Europe,Cyprus,Europe,2011,119976
 France,Europe,China,Asia,2011,0
 France,Europe,Ivory Coast,Africa,2011,2576470
-France,Europe,Congo,Africa,2011,50087
+France,Europe,Iran,Asia,2011,0
 Switzerland,Europe,United States,North America,2011,2199220
 Switzerland,Europe,Canada,North America,2011,814217
 Switzerland,Europe,Mexico,North America,2011,0
@@ -482,15 +482,15 @@ Switzerland,Europe,Norway,Europe,2011,16122628
 Switzerland,Europe,Denmark,Europe,2011,13316526
 Switzerland,Europe,South Africa,Africa,2011,5058850
 Switzerland,Europe,Turkey,Asia,2011,237493
+Switzerland,Europe,Iraq,Asia,2011,673
+Switzerland,Europe,Lebanon,Asia,2011,4061
 Switzerland,Europe,Israel,Asia,2011,16631
-Switzerland,Europe,United Arab Emirates,Asia,2011,1419166
 Switzerland,Europe,Taiwan,Asia,2011,24044
 Switzerland,Europe,South Korea,Asia,2011,120460
 Switzerland,Europe,Japan,Asia,2011,642863
 Switzerland,Europe,India,Asia,2011,3677981
 Switzerland,Europe,Pakistan,Asia,2011,0
 Switzerland,Europe,Thailand,Asia,2011,285520
-Switzerland,Europe,Malaysia,Asia,2011,247549
 Switzerland,Europe,Singapore,Asia,2011,5989715
 Switzerland,Europe,Philippines,Asia,2011,136755
 Switzerland,Europe,Indonesia,Asia,2011,866032
@@ -498,7 +498,7 @@ Switzerland,Europe,Australia,Oceania,2011,1174399
 Switzerland,Europe,Cyprus,Europe,2011,73457
 Switzerland,Europe,China,Asia,2011,658710
 Switzerland,Europe,Ivory Coast,Africa,2011,0
-Switzerland,Europe,Congo,Africa,2011,97
+Switzerland,Europe,Iran,Asia,2011,242836
 Spain,Europe,United States,North America,2011,39004554
 Spain,Europe,Canada,North America,2011,128304
 Spain,Europe,Mexico,North America,2011,1684219
@@ -532,15 +532,15 @@ Spain,Europe,Norway,Europe,2011,3285230
 Spain,Europe,Denmark,Europe,2011,510763
 Spain,Europe,South Africa,Africa,2011,52636
 Spain,Europe,Turkey,Asia,2011,676014
+Spain,Europe,Iraq,Asia,2011,0
+Spain,Europe,Lebanon,Asia,2011,451384
 Spain,Europe,Israel,Asia,2011,22139
-Spain,Europe,United Arab Emirates,Asia,2011,19138
 Spain,Europe,Taiwan,Asia,2011,0
 Spain,Europe,South Korea,Asia,2011,123073
 Spain,Europe,Japan,Asia,2011,1964512
 Spain,Europe,India,Asia,2011,0
 Spain,Europe,Pakistan,Asia,2011,675376
 Spain,Europe,Thailand,Asia,2011,738324
-Spain,Europe,Malaysia,Asia,2011,52565
 Spain,Europe,Singapore,Asia,2011,0
 Spain,Europe,Philippines,Asia,2011,249206
 Spain,Europe,Indonesia,Asia,2011,400056
@@ -548,7 +548,7 @@ Spain,Europe,Australia,Oceania,2011,2566742
 Spain,Europe,Cyprus,Europe,2011,12820
 Spain,Europe,China,Asia,2011,187546
 Spain,Europe,Ivory Coast,Africa,2011,0
-Spain,Europe,Congo,Africa,2011,0
+Spain,Europe,Iran,Asia,2011,0
 Portugal,Europe,United States,North America,2011,5544448
 Portugal,Europe,Canada,North America,2011,0
 Portugal,Europe,Mexico,North America,2011,302148
@@ -582,15 +582,15 @@ Portugal,Europe,Norway,Europe,2011,274322
 Portugal,Europe,Denmark,Europe,2011,0
 Portugal,Europe,South Africa,Africa,2011,23217
 Portugal,Europe,Turkey,Asia,2011,603036
+Portugal,Europe,Iraq,Asia,2011,0
+Portugal,Europe,Lebanon,Asia,2011,783741
 Portugal,Europe,Israel,Asia,2011,0
-Portugal,Europe,United Arab Emirates,Asia,2011,0
 Portugal,Europe,Taiwan,Asia,2011,0
 Portugal,Europe,South Korea,Asia,2011,68787
 Portugal,Europe,Japan,Asia,2011,96067
 Portugal,Europe,India,Asia,2011,0
 Portugal,Europe,Pakistan,Asia,2011,1304
 Portugal,Europe,Thailand,Asia,2011,0
-Portugal,Europe,Malaysia,Asia,2011,0
 Portugal,Europe,Singapore,Asia,2011,0
 Portugal,Europe,Philippines,Asia,2011,0
 Portugal,Europe,Indonesia,Asia,2011,0
@@ -598,7 +598,7 @@ Portugal,Europe,Australia,Oceania,2011,0
 Portugal,Europe,Cyprus,Europe,2011,44006
 Portugal,Europe,China,Asia,2011,0
 Portugal,Europe,Ivory Coast,Africa,2011,0
-Portugal,Europe,Congo,Africa,2011,0
+Portugal,Europe,Iran,Asia,2011,0
 Germany,Europe,United States,North America,2011,81110096
 Germany,Europe,Canada,North America,2011,6363048
 Germany,Europe,Mexico,North America,2011,742766
@@ -632,15 +632,15 @@ Germany,Europe,Norway,Europe,2011,11438033
 Germany,Europe,Denmark,Europe,2011,4548261
 Germany,Europe,South Africa,Africa,2011,1233141
 Germany,Europe,Turkey,Asia,2011,4762977
+Germany,Europe,Iraq,Asia,2011,210079
+Germany,Europe,Lebanon,Asia,2011,1346792
 Germany,Europe,Israel,Asia,2011,32274
-Germany,Europe,United Arab Emirates,Asia,2011,5645277
 Germany,Europe,Taiwan,Asia,2011,0
 Germany,Europe,South Korea,Asia,2011,1055716
 Germany,Europe,Japan,Asia,2011,3465725
 Germany,Europe,India,Asia,2011,495933
 Germany,Europe,Pakistan,Asia,2011,24323
 Germany,Europe,Thailand,Asia,2011,921879
-Germany,Europe,Malaysia,Asia,2011,268570
 Germany,Europe,Singapore,Asia,2011,4677090
 Germany,Europe,Philippines,Asia,2011,425927
 Germany,Europe,Indonesia,Asia,2011,185061
@@ -648,7 +648,7 @@ Germany,Europe,Australia,Oceania,2011,4051156
 Germany,Europe,Cyprus,Europe,2011,1043419
 Germany,Europe,China,Asia,2011,2307444
 Germany,Europe,Ivory Coast,Africa,2011,0
-Germany,Europe,Congo,Africa,2011,0
+Germany,Europe,Iran,Asia,2011,0
 Poland,Europe,United States,North America,2011,2358064
 Poland,Europe,Canada,North America,2011,415856
 Poland,Europe,Mexico,North America,2011,0
@@ -682,15 +682,15 @@ Poland,Europe,Norway,Europe,2011,307625
 Poland,Europe,Denmark,Europe,2011,0
 Poland,Europe,South Africa,Africa,2011,0
 Poland,Europe,Turkey,Asia,2011,0
+Poland,Europe,Iraq,Asia,2011,1510000
+Poland,Europe,Lebanon,Asia,2011,0
 Poland,Europe,Israel,Asia,2011,0
-Poland,Europe,United Arab Emirates,Asia,2011,25003
 Poland,Europe,Taiwan,Asia,2011,0
 Poland,Europe,South Korea,Asia,2011,0
 Poland,Europe,Japan,Asia,2011,0
 Poland,Europe,India,Asia,2011,0
 Poland,Europe,Pakistan,Asia,2011,0
 Poland,Europe,Thailand,Asia,2011,493
-Poland,Europe,Malaysia,Asia,2011,0
 Poland,Europe,Singapore,Asia,2011,260242
 Poland,Europe,Philippines,Asia,2011,0
 Poland,Europe,Indonesia,Asia,2011,108285
@@ -698,7 +698,7 @@ Poland,Europe,Australia,Oceania,2011,0
 Poland,Europe,Cyprus,Europe,2011,0
 Poland,Europe,China,Asia,2011,0
 Poland,Europe,Ivory Coast,Africa,2011,0
-Poland,Europe,Congo,Africa,2011,0
+Poland,Europe,Iran,Asia,2011,0
 Austria,Europe,United States,North America,2011,225661372
 Austria,Europe,Canada,North America,2011,1614717
 Austria,Europe,Mexico,North America,2011,1795034
@@ -732,15 +732,15 @@ Austria,Europe,Norway,Europe,2011,301567
 Austria,Europe,Denmark,Europe,2011,91976
 Austria,Europe,South Africa,Africa,2011,752251
 Austria,Europe,Turkey,Asia,2011,2617440
+Austria,Europe,Iraq,Asia,2011,37267
+Austria,Europe,Lebanon,Asia,2011,836371
 Austria,Europe,Israel,Asia,2011,125506
-Austria,Europe,United Arab Emirates,Asia,2011,83935
 Austria,Europe,Taiwan,Asia,2011,0
 Austria,Europe,South Korea,Asia,2011,4500
 Austria,Europe,Japan,Asia,2011,17119
 Austria,Europe,India,Asia,2011,351647
 Austria,Europe,Pakistan,Asia,2011,906063
 Austria,Europe,Thailand,Asia,2011,6482907
-Austria,Europe,Malaysia,Asia,2011,45337
 Austria,Europe,Singapore,Asia,2011,52576
 Austria,Europe,Philippines,Asia,2011,22681
 Austria,Europe,Indonesia,Asia,2011,1360790
@@ -748,7 +748,7 @@ Austria,Europe,Australia,Oceania,2011,928309
 Austria,Europe,Cyprus,Europe,2011,633
 Austria,Europe,China,Asia,2011,1663
 Austria,Europe,Ivory Coast,Africa,2011,0
-Austria,Europe,Congo,Africa,2011,0
+Austria,Europe,Iran,Asia,2011,0
 Hungary,Europe,United States,North America,2011,5359296
 Hungary,Europe,Canada,North America,2011,58705
 Hungary,Europe,Mexico,North America,2011,0
@@ -782,15 +782,15 @@ Hungary,Europe,Norway,Europe,2011,7213
 Hungary,Europe,Denmark,Europe,2011,0
 Hungary,Europe,South Africa,Africa,2011,0
 Hungary,Europe,Turkey,Asia,2011,85778
+Hungary,Europe,Iraq,Asia,2011,0
+Hungary,Europe,Lebanon,Asia,2011,1004
 Hungary,Europe,Israel,Asia,2011,58061
-Hungary,Europe,United Arab Emirates,Asia,2011,0
 Hungary,Europe,Taiwan,Asia,2011,0
 Hungary,Europe,South Korea,Asia,2011,0
 Hungary,Europe,Japan,Asia,2011,3416
 Hungary,Europe,India,Asia,2011,0
 Hungary,Europe,Pakistan,Asia,2011,0
 Hungary,Europe,Thailand,Asia,2011,0
-Hungary,Europe,Malaysia,Asia,2011,0
 Hungary,Europe,Singapore,Asia,2011,0
 Hungary,Europe,Philippines,Asia,2011,0
 Hungary,Europe,Indonesia,Asia,2011,0
@@ -798,7 +798,7 @@ Hungary,Europe,Australia,Oceania,2011,3222
 Hungary,Europe,Cyprus,Europe,2011,0
 Hungary,Europe,China,Asia,2011,0
 Hungary,Europe,Ivory Coast,Africa,2011,0
-Hungary,Europe,Congo,Africa,2011,0
+Hungary,Europe,Iran,Asia,2011,0
 Czech Republic,Europe,United States,North America,2011,33455187
 Czech Republic,Europe,Canada,North America,2011,4881515
 Czech Republic,Europe,Mexico,North America,2011,293167
@@ -832,15 +832,15 @@ Czech Republic,Europe,Norway,Europe,2011,847831
 Czech Republic,Europe,Denmark,Europe,2011,839498
 Czech Republic,Europe,South Africa,Africa,2011,1412609
 Czech Republic,Europe,Turkey,Asia,2011,422790
+Czech Republic,Europe,Iraq,Asia,2011,2
+Czech Republic,Europe,Lebanon,Asia,2011,45460
 Czech Republic,Europe,Israel,Asia,2011,377345
-Czech Republic,Europe,United Arab Emirates,Asia,2011,17524
 Czech Republic,Europe,Taiwan,Asia,2011,0
 Czech Republic,Europe,South Korea,Asia,2011,1497
 Czech Republic,Europe,Japan,Asia,2011,101855
 Czech Republic,Europe,India,Asia,2011,67956
 Czech Republic,Europe,Pakistan,Asia,2011,1009859
 Czech Republic,Europe,Thailand,Asia,2011,17585062
-Czech Republic,Europe,Malaysia,Asia,2011,193520
 Czech Republic,Europe,Singapore,Asia,2011,39424
 Czech Republic,Europe,Philippines,Asia,2011,672805
 Czech Republic,Europe,Indonesia,Asia,2011,28687
@@ -848,7 +848,7 @@ Czech Republic,Europe,Australia,Oceania,2011,2147129
 Czech Republic,Europe,Cyprus,Europe,2011,39922
 Czech Republic,Europe,China,Asia,2011,82765
 Czech Republic,Europe,Ivory Coast,Africa,2011,0
-Czech Republic,Europe,Congo,Africa,2011,0
+Czech Republic,Europe,Iran,Asia,2011,0
 Slovakia,Europe,United States,North America,2011,752029
 Slovakia,Europe,Canada,North America,2011,381189
 Slovakia,Europe,Mexico,North America,2011,0
@@ -882,15 +882,15 @@ Slovakia,Europe,Norway,Europe,2011,0
 Slovakia,Europe,Denmark,Europe,2011,0
 Slovakia,Europe,South Africa,Africa,2011,0
 Slovakia,Europe,Turkey,Asia,2011,0
+Slovakia,Europe,Iraq,Asia,2011,0
+Slovakia,Europe,Lebanon,Asia,2011,0
 Slovakia,Europe,Israel,Asia,2011,208626
-Slovakia,Europe,United Arab Emirates,Asia,2011,0
 Slovakia,Europe,Taiwan,Asia,2011,0
 Slovakia,Europe,South Korea,Asia,2011,2243
 Slovakia,Europe,Japan,Asia,2011,0
 Slovakia,Europe,India,Asia,2011,0
 Slovakia,Europe,Pakistan,Asia,2011,0
 Slovakia,Europe,Thailand,Asia,2011,244976
-Slovakia,Europe,Malaysia,Asia,2011,0
 Slovakia,Europe,Singapore,Asia,2011,12135
 Slovakia,Europe,Philippines,Asia,2011,0
 Slovakia,Europe,Indonesia,Asia,2011,0
@@ -898,7 +898,7 @@ Slovakia,Europe,Australia,Oceania,2011,0
 Slovakia,Europe,Cyprus,Europe,2011,0
 Slovakia,Europe,China,Asia,2011,0
 Slovakia,Europe,Ivory Coast,Africa,2011,0
-Slovakia,Europe,Congo,Africa,2011,0
+Slovakia,Europe,Iran,Asia,2011,0
 Italy,Europe,United States,North America,2011,141958314
 Italy,Europe,Canada,North America,2011,8043566
 Italy,Europe,Mexico,North America,2011,11189122
@@ -932,15 +932,15 @@ Italy,Europe,Norway,Europe,2011,5442234
 Italy,Europe,Denmark,Europe,2011,4264764
 Italy,Europe,South Africa,Africa,2011,1035680
 Italy,Europe,Turkey,Asia,2011,17648499
+Italy,Europe,Iraq,Asia,2011,0
+Italy,Europe,Lebanon,Asia,2011,3046820
 Italy,Europe,Israel,Asia,2011,4459
-Italy,Europe,United Arab Emirates,Asia,2011,1212377
 Italy,Europe,Taiwan,Asia,2011,304055
 Italy,Europe,South Korea,Asia,2011,2533232
 Italy,Europe,Japan,Asia,2011,5907827
 Italy,Europe,India,Asia,2011,811894
 Italy,Europe,Pakistan,Asia,2011,583200
 Italy,Europe,Thailand,Asia,2011,4574909
-Italy,Europe,Malaysia,Asia,2011,1432601
 Italy,Europe,Singapore,Asia,2011,296408
 Italy,Europe,Philippines,Asia,2011,208060
 Italy,Europe,Indonesia,Asia,2011,1780773
@@ -948,7 +948,7 @@ Italy,Europe,Australia,Oceania,2011,7791850
 Italy,Europe,Cyprus,Europe,2011,4585953
 Italy,Europe,China,Asia,2011,5174521
 Italy,Europe,Ivory Coast,Africa,2011,0
-Italy,Europe,Congo,Africa,2011,0
+Italy,Europe,Iran,Asia,2011,0
 Croatia,Europe,United States,North America,2011,46981201
 Croatia,Europe,Canada,North America,2011,95238
 Croatia,Europe,Mexico,North America,2011,0
@@ -982,15 +982,15 @@ Croatia,Europe,Norway,Europe,2011,0
 Croatia,Europe,Denmark,Europe,2011,0
 Croatia,Europe,South Africa,Africa,2011,0
 Croatia,Europe,Turkey,Asia,2011,0
+Croatia,Europe,Iraq,Asia,2011,12813618
+Croatia,Europe,Lebanon,Asia,2011,0
 Croatia,Europe,Israel,Asia,2011,0
-Croatia,Europe,United Arab Emirates,Asia,2011,0
 Croatia,Europe,Taiwan,Asia,2011,0
 Croatia,Europe,South Korea,Asia,2011,0
 Croatia,Europe,Japan,Asia,2011,0
 Croatia,Europe,India,Asia,2011,0
 Croatia,Europe,Pakistan,Asia,2011,0
 Croatia,Europe,Thailand,Asia,2011,54150
-Croatia,Europe,Malaysia,Asia,2011,4708
 Croatia,Europe,Singapore,Asia,2011,0
 Croatia,Europe,Philippines,Asia,2011,984217
 Croatia,Europe,Indonesia,Asia,2011,0
@@ -998,7 +998,7 @@ Croatia,Europe,Australia,Oceania,2011,0
 Croatia,Europe,Cyprus,Europe,2011,0
 Croatia,Europe,China,Asia,2011,0
 Croatia,Europe,Ivory Coast,Africa,2011,0
-Croatia,Europe,Congo,Africa,2011,0
+Croatia,Europe,Iran,Asia,2011,0
 Serbia,Europe,United States,North America,2011,14934970
 Serbia,Europe,Canada,North America,2011,333229
 Serbia,Europe,Mexico,North America,2011,0
@@ -1032,15 +1032,15 @@ Serbia,Europe,Norway,Europe,2011,247569
 Serbia,Europe,Denmark,Europe,2011,0
 Serbia,Europe,South Africa,Africa,2011,26628
 Serbia,Europe,Turkey,Asia,2011,0
+Serbia,Europe,Iraq,Asia,2011,16434
+Serbia,Europe,Lebanon,Asia,2011,0
 Serbia,Europe,Israel,Asia,2011,239973
-Serbia,Europe,United Arab Emirates,Asia,2011,0
 Serbia,Europe,Taiwan,Asia,2011,0
 Serbia,Europe,South Korea,Asia,2011,0
 Serbia,Europe,Japan,Asia,2011,0
 Serbia,Europe,India,Asia,2011,0
 Serbia,Europe,Pakistan,Asia,2011,77583
 Serbia,Europe,Thailand,Asia,2011,507187
-Serbia,Europe,Malaysia,Asia,2011,0
 Serbia,Europe,Singapore,Asia,2011,0
 Serbia,Europe,Philippines,Asia,2011,186657
 Serbia,Europe,Indonesia,Asia,2011,1154941
@@ -1048,7 +1048,7 @@ Serbia,Europe,Australia,Oceania,2011,1106065
 Serbia,Europe,Cyprus,Europe,2011,0
 Serbia,Europe,China,Asia,2011,0
 Serbia,Europe,Ivory Coast,Africa,2011,0
-Serbia,Europe,Congo,Africa,2011,0
+Serbia,Europe,Iran,Asia,2011,0
 Bosnia,Europe,United States,North America,2011,3132054
 Bosnia,Europe,Canada,North America,2011,307
 Bosnia,Europe,Mexico,North America,2011,0
@@ -1082,15 +1082,15 @@ Bosnia,Europe,Norway,Europe,2011,11492
 Bosnia,Europe,Denmark,Europe,2011,0
 Bosnia,Europe,South Africa,Africa,2011,0
 Bosnia,Europe,Turkey,Asia,2011,0
+Bosnia,Europe,Iraq,Asia,2011,0
+Bosnia,Europe,Lebanon,Asia,2011,0
 Bosnia,Europe,Israel,Asia,2011,0
-Bosnia,Europe,United Arab Emirates,Asia,2011,0
 Bosnia,Europe,Taiwan,Asia,2011,0
 Bosnia,Europe,South Korea,Asia,2011,0
 Bosnia,Europe,Japan,Asia,2011,0
 Bosnia,Europe,India,Asia,2011,0
 Bosnia,Europe,Pakistan,Asia,2011,0
 Bosnia,Europe,Thailand,Asia,2011,0
-Bosnia,Europe,Malaysia,Asia,2011,0
 Bosnia,Europe,Singapore,Asia,2011,0
 Bosnia,Europe,Philippines,Asia,2011,0
 Bosnia,Europe,Indonesia,Asia,2011,0
@@ -1098,7 +1098,7 @@ Bosnia,Europe,Australia,Oceania,2011,0
 Bosnia,Europe,Cyprus,Europe,2011,0
 Bosnia,Europe,China,Asia,2011,0
 Bosnia,Europe,Ivory Coast,Africa,2011,0
-Bosnia,Europe,Congo,Africa,2011,0
+Bosnia,Europe,Iran,Asia,2011,0
 Greece,Europe,United States,North America,2011,1027694
 Greece,Europe,Canada,North America,2011,1668520
 Greece,Europe,Mexico,North America,2011,0
@@ -1132,15 +1132,15 @@ Greece,Europe,Norway,Europe,2011,46179
 Greece,Europe,Denmark,Europe,2011,0
 Greece,Europe,South Africa,Africa,2011,0
 Greece,Europe,Turkey,Asia,2011,217155
+Greece,Europe,Iraq,Asia,2011,0
+Greece,Europe,Lebanon,Asia,2011,0
 Greece,Europe,Israel,Asia,2011,0
-Greece,Europe,United Arab Emirates,Asia,2011,1416
 Greece,Europe,Taiwan,Asia,2011,0
 Greece,Europe,South Korea,Asia,2011,0
 Greece,Europe,Japan,Asia,2011,0
 Greece,Europe,India,Asia,2011,0
 Greece,Europe,Pakistan,Asia,2011,0
 Greece,Europe,Thailand,Asia,2011,0
-Greece,Europe,Malaysia,Asia,2011,13149
 Greece,Europe,Singapore,Asia,2011,0
 Greece,Europe,Philippines,Asia,2011,0
 Greece,Europe,Indonesia,Asia,2011,0
@@ -1148,7 +1148,7 @@ Greece,Europe,Australia,Oceania,2011,0
 Greece,Europe,Cyprus,Europe,2011,380751
 Greece,Europe,China,Asia,2011,0
 Greece,Europe,Ivory Coast,Africa,2011,0
-Greece,Europe,Congo,Africa,2011,0
+Greece,Europe,Iran,Asia,2011,0
 Bulgaria,Europe,United States,North America,2011,1806753
 Bulgaria,Europe,Canada,North America,2011,2695
 Bulgaria,Europe,Mexico,North America,2011,0
@@ -1182,15 +1182,15 @@ Bulgaria,Europe,Norway,Europe,2011,0
 Bulgaria,Europe,Denmark,Europe,2011,0
 Bulgaria,Europe,South Africa,Africa,2011,570722
 Bulgaria,Europe,Turkey,Asia,2011,38400
+Bulgaria,Europe,Iraq,Asia,2011,7572351
+Bulgaria,Europe,Lebanon,Asia,2011,208
 Bulgaria,Europe,Israel,Asia,2011,420144
-Bulgaria,Europe,United Arab Emirates,Asia,2011,0
 Bulgaria,Europe,Taiwan,Asia,2011,0
 Bulgaria,Europe,South Korea,Asia,2011,0
 Bulgaria,Europe,Japan,Asia,2011,0
 Bulgaria,Europe,India,Asia,2011,24157822
 Bulgaria,Europe,Pakistan,Asia,2011,19093
 Bulgaria,Europe,Thailand,Asia,2011,481
-Bulgaria,Europe,Malaysia,Asia,2011,0
 Bulgaria,Europe,Singapore,Asia,2011,0
 Bulgaria,Europe,Philippines,Asia,2011,0
 Bulgaria,Europe,Indonesia,Asia,2011,0
@@ -1198,7 +1198,7 @@ Bulgaria,Europe,Australia,Oceania,2011,0
 Bulgaria,Europe,Cyprus,Europe,2011,0
 Bulgaria,Europe,China,Asia,2011,0
 Bulgaria,Europe,Ivory Coast,Africa,2011,0
-Bulgaria,Europe,Congo,Africa,2011,0
+Bulgaria,Europe,Iran,Asia,2011,0
 Romania,Europe,United States,North America,2011,7603553
 Romania,Europe,Canada,North America,2011,2511
 Romania,Europe,Mexico,North America,2011,0
@@ -1232,15 +1232,15 @@ Romania,Europe,Norway,Europe,2011,8305
 Romania,Europe,Denmark,Europe,2011,6504
 Romania,Europe,South Africa,Africa,2011,11608
 Romania,Europe,Turkey,Asia,2011,2800700
+Romania,Europe,Iraq,Asia,2011,0
+Romania,Europe,Lebanon,Asia,2011,0
 Romania,Europe,Israel,Asia,2011,0
-Romania,Europe,United Arab Emirates,Asia,2011,0
 Romania,Europe,Taiwan,Asia,2011,0
 Romania,Europe,South Korea,Asia,2011,0
 Romania,Europe,Japan,Asia,2011,0
 Romania,Europe,India,Asia,2011,0
 Romania,Europe,Pakistan,Asia,2011,0
 Romania,Europe,Thailand,Asia,2011,1000795
-Romania,Europe,Malaysia,Asia,2011,0
 Romania,Europe,Singapore,Asia,2011,0
 Romania,Europe,Philippines,Asia,2011,0
 Romania,Europe,Indonesia,Asia,2011,0
@@ -1248,7 +1248,7 @@ Romania,Europe,Australia,Oceania,2011,8527
 Romania,Europe,Cyprus,Europe,2011,0
 Romania,Europe,China,Asia,2011,0
 Romania,Europe,Ivory Coast,Africa,2011,0
-Romania,Europe,Congo,Africa,2011,0
+Romania,Europe,Iran,Asia,2011,0
 Russia,Asia,United States,North America,2011,97525341
 Russia,Asia,Canada,North America,2011,2975548
 Russia,Asia,Mexico,North America,2011,0
@@ -1282,15 +1282,15 @@ Russia,Asia,Norway,Europe,2011,447112
 Russia,Asia,Denmark,Europe,2011,0
 Russia,Asia,South Africa,Africa,2011,38213
 Russia,Asia,Turkey,Asia,2011,10069
+Russia,Asia,Iraq,Asia,2011,0
+Russia,Asia,Lebanon,Asia,2011,1364656
 Russia,Asia,Israel,Asia,2011,0
-Russia,Asia,United Arab Emirates,Asia,2011,0
 Russia,Asia,Taiwan,Asia,2011,0
 Russia,Asia,South Korea,Asia,2011,0
 Russia,Asia,Japan,Asia,2011,0
 Russia,Asia,India,Asia,2011,0
 Russia,Asia,Pakistan,Asia,2011,1297655
 Russia,Asia,Thailand,Asia,2011,355278
-Russia,Asia,Malaysia,Asia,2011,74725
 Russia,Asia,Singapore,Asia,2011,0
 Russia,Asia,Philippines,Asia,2011,0
 Russia,Asia,Indonesia,Asia,2011,1971197
@@ -1298,7 +1298,7 @@ Russia,Asia,Australia,Oceania,2011,20146
 Russia,Asia,Cyprus,Europe,2011,6304573
 Russia,Asia,China,Asia,2011,27601
 Russia,Asia,Ivory Coast,Africa,2011,0
-Russia,Asia,Congo,Africa,2011,0
+Russia,Asia,Iran,Asia,2011,1670034
 Ukraine,Europe,United States,North America,2011,21867141
 Ukraine,Europe,Canada,North America,2011,730000
 Ukraine,Europe,Mexico,North America,2011,0
@@ -1332,15 +1332,15 @@ Ukraine,Europe,Norway,Europe,2011,0
 Ukraine,Europe,Denmark,Europe,2011,0
 Ukraine,Europe,South Africa,Africa,2011,0
 Ukraine,Europe,Turkey,Asia,2011,0
+Ukraine,Europe,Iraq,Asia,2011,0
+Ukraine,Europe,Lebanon,Asia,2011,0
 Ukraine,Europe,Israel,Asia,2011,0
-Ukraine,Europe,United Arab Emirates,Asia,2011,65000
 Ukraine,Europe,Taiwan,Asia,2011,0
 Ukraine,Europe,South Korea,Asia,2011,20100
 Ukraine,Europe,Japan,Asia,2011,0
 Ukraine,Europe,India,Asia,2011,0
 Ukraine,Europe,Pakistan,Asia,2011,500000
 Ukraine,Europe,Thailand,Asia,2011,5567
-Ukraine,Europe,Malaysia,Asia,2011,0
 Ukraine,Europe,Singapore,Asia,2011,0
 Ukraine,Europe,Philippines,Asia,2011,0
 Ukraine,Europe,Indonesia,Asia,2011,0
@@ -1348,7 +1348,7 @@ Ukraine,Europe,Australia,Oceania,2011,6570
 Ukraine,Europe,Cyprus,Europe,2011,0
 Ukraine,Europe,China,Asia,2011,0
 Ukraine,Europe,Ivory Coast,Africa,2011,0
-Ukraine,Europe,Congo,Africa,2011,0
+Ukraine,Europe,Iran,Asia,2011,0
 Finland,Europe,United States,North America,2011,14787007
 Finland,Europe,Canada,North America,2011,4500446
 Finland,Europe,Mexico,North America,2011,1050926
@@ -1382,15 +1382,15 @@ Finland,Europe,Norway,Europe,2011,4759279
 Finland,Europe,Denmark,Europe,2011,1520661
 Finland,Europe,South Africa,Africa,2011,875803
 Finland,Europe,Turkey,Asia,2011,136670
+Finland,Europe,Iraq,Asia,2011,0
+Finland,Europe,Lebanon,Asia,2011,190
 Finland,Europe,Israel,Asia,2011,0
-Finland,Europe,United Arab Emirates,Asia,2011,46843
 Finland,Europe,Taiwan,Asia,2011,0
 Finland,Europe,South Korea,Asia,2011,495499
 Finland,Europe,Japan,Asia,2011,390290
 Finland,Europe,India,Asia,2011,243247
 Finland,Europe,Pakistan,Asia,2011,0
 Finland,Europe,Thailand,Asia,2011,70625
-Finland,Europe,Malaysia,Asia,2011,84892
 Finland,Europe,Singapore,Asia,2011,276255
 Finland,Europe,Philippines,Asia,2011,14646
 Finland,Europe,Indonesia,Asia,2011,0
@@ -1398,7 +1398,7 @@ Finland,Europe,Australia,Oceania,2011,3307938
 Finland,Europe,Cyprus,Europe,2011,6656
 Finland,Europe,China,Asia,2011,0
 Finland,Europe,Ivory Coast,Africa,2011,0
-Finland,Europe,Congo,Africa,2011,0
+Finland,Europe,Iran,Asia,2011,0
 Sweden,Europe,United States,North America,2011,7730623
 Sweden,Europe,Canada,North America,2011,9040943
 Sweden,Europe,Mexico,North America,2011,727
@@ -1432,15 +1432,15 @@ Sweden,Europe,Norway,Europe,2011,7212601
 Sweden,Europe,Denmark,Europe,2011,2076621
 Sweden,Europe,South Africa,Africa,2011,188422
 Sweden,Europe,Turkey,Asia,2011,1388
+Sweden,Europe,Iraq,Asia,2011,0
+Sweden,Europe,Lebanon,Asia,2011,25341
 Sweden,Europe,Israel,Asia,2011,0
-Sweden,Europe,United Arab Emirates,Asia,2011,80471
 Sweden,Europe,Taiwan,Asia,2011,0
 Sweden,Europe,South Korea,Asia,2011,0
 Sweden,Europe,Japan,Asia,2011,230576
 Sweden,Europe,India,Asia,2011,4115
 Sweden,Europe,Pakistan,Asia,2011,0
 Sweden,Europe,Thailand,Asia,2011,174
-Sweden,Europe,Malaysia,Asia,2011,0
 Sweden,Europe,Singapore,Asia,2011,0
 Sweden,Europe,Philippines,Asia,2011,6658
 Sweden,Europe,Indonesia,Asia,2011,0
@@ -1448,7 +1448,7 @@ Sweden,Europe,Australia,Oceania,2011,410767
 Sweden,Europe,Cyprus,Europe,2011,0
 Sweden,Europe,China,Asia,2011,0
 Sweden,Europe,Ivory Coast,Africa,2011,0
-Sweden,Europe,Congo,Africa,2011,0
+Sweden,Europe,Iran,Asia,2011,0
 Norway,Europe,United States,North America,2011,92729
 Norway,Europe,Canada,North America,2011,606140
 Norway,Europe,Mexico,North America,2011,0
@@ -1482,15 +1482,15 @@ Norway,Europe,Norway,Europe,2011,0
 Norway,Europe,Denmark,Europe,2011,2902257
 Norway,Europe,South Africa,Africa,2011,29468
 Norway,Europe,Turkey,Asia,2011,0
+Norway,Europe,Iraq,Asia,2011,0
+Norway,Europe,Lebanon,Asia,2011,0
 Norway,Europe,Israel,Asia,2011,0
-Norway,Europe,United Arab Emirates,Asia,2011,0
 Norway,Europe,Taiwan,Asia,2011,0
 Norway,Europe,South Korea,Asia,2011,7177
 Norway,Europe,Japan,Asia,2011,8290
 Norway,Europe,India,Asia,2011,0
 Norway,Europe,Pakistan,Asia,2011,0
 Norway,Europe,Thailand,Asia,2011,961583
-Norway,Europe,Malaysia,Asia,2011,1617874
 Norway,Europe,Singapore,Asia,2011,136608
 Norway,Europe,Philippines,Asia,2011,0
 Norway,Europe,Indonesia,Asia,2011,0
@@ -1498,7 +1498,7 @@ Norway,Europe,Australia,Oceania,2011,138518
 Norway,Europe,Cyprus,Europe,2011,0
 Norway,Europe,China,Asia,2011,0
 Norway,Europe,Ivory Coast,Africa,2011,0
-Norway,Europe,Congo,Africa,2011,0
+Norway,Europe,Iran,Asia,2011,0
 Denmark,Europe,United States,North America,2011,17001
 Denmark,Europe,Canada,North America,2011,13232
 Denmark,Europe,Mexico,North America,2011,0
@@ -1532,15 +1532,15 @@ Denmark,Europe,Norway,Europe,2011,507961
 Denmark,Europe,Denmark,Europe,2011,0
 Denmark,Europe,South Africa,Africa,2011,0
 Denmark,Europe,Turkey,Asia,2011,0
+Denmark,Europe,Iraq,Asia,2011,0
+Denmark,Europe,Lebanon,Asia,2011,58742
 Denmark,Europe,Israel,Asia,2011,16145
-Denmark,Europe,United Arab Emirates,Asia,2011,0
 Denmark,Europe,Taiwan,Asia,2011,0
 Denmark,Europe,South Korea,Asia,2011,0
 Denmark,Europe,Japan,Asia,2011,0
 Denmark,Europe,India,Asia,2011,0
 Denmark,Europe,Pakistan,Asia,2011,124557
 Denmark,Europe,Thailand,Asia,2011,0
-Denmark,Europe,Malaysia,Asia,2011,0
 Denmark,Europe,Singapore,Asia,2011,0
 Denmark,Europe,Philippines,Asia,2011,1401
 Denmark,Europe,Indonesia,Asia,2011,0
@@ -1548,7 +1548,7 @@ Denmark,Europe,Australia,Oceania,2011,5121
 Denmark,Europe,Cyprus,Europe,2011,0
 Denmark,Europe,China,Asia,2011,0
 Denmark,Europe,Ivory Coast,Africa,2011,0
-Denmark,Europe,Congo,Africa,2011,0
+Denmark,Europe,Iran,Asia,2011,0
 South Africa,Africa,United States,North America,2011,811379
 South Africa,Africa,Canada,North America,2011,107677
 South Africa,Africa,Mexico,North America,2011,0
@@ -1582,15 +1582,15 @@ South Africa,Africa,Norway,Europe,2011,1118
 South Africa,Africa,Denmark,Europe,2011,28121
 South Africa,Africa,South Africa,Africa,2011,0
 South Africa,Africa,Turkey,Asia,2011,0
+South Africa,Africa,Iraq,Asia,2011,0
+South Africa,Africa,Lebanon,Asia,2011,0
 South Africa,Africa,Israel,Asia,2011,0
-South Africa,Africa,United Arab Emirates,Asia,2011,0
 South Africa,Africa,Taiwan,Asia,2011,0
 South Africa,Africa,South Korea,Asia,2011,0
 South Africa,Africa,Japan,Asia,2011,0
 South Africa,Africa,India,Asia,2011,0
 South Africa,Africa,Pakistan,Asia,2011,0
 South Africa,Africa,Thailand,Asia,2011,129397
-South Africa,Africa,Malaysia,Asia,2011,0
 South Africa,Africa,Singapore,Asia,2011,0
 South Africa,Africa,Philippines,Asia,2011,540650
 South Africa,Africa,Indonesia,Asia,2011,0
@@ -1598,7 +1598,7 @@ South Africa,Africa,Australia,Oceania,2011,2358
 South Africa,Africa,Cyprus,Europe,2011,7371
 South Africa,Africa,China,Asia,2011,0
 South Africa,Africa,Ivory Coast,Africa,2011,0
-South Africa,Africa,Congo,Africa,2011,0
+South Africa,Africa,Iran,Asia,2011,0
 Turkey,Asia,United States,North America,2011,30459264
 Turkey,Asia,Canada,North America,2011,498735
 Turkey,Asia,Mexico,North America,2011,192448
@@ -1632,15 +1632,15 @@ Turkey,Asia,Norway,Europe,2011,140805
 Turkey,Asia,Denmark,Europe,2011,294310
 Turkey,Asia,South Africa,Africa,2011,124370
 Turkey,Asia,Turkey,Asia,2011,0
+Turkey,Asia,Iraq,Asia,2011,359
+Turkey,Asia,Lebanon,Asia,2011,8294802
 Turkey,Asia,Israel,Asia,2011,182331
-Turkey,Asia,United Arab Emirates,Asia,2011,2941
 Turkey,Asia,Taiwan,Asia,2011,0
 Turkey,Asia,South Korea,Asia,2011,94723
 Turkey,Asia,Japan,Asia,2011,0
 Turkey,Asia,India,Asia,2011,2340
 Turkey,Asia,Pakistan,Asia,2011,5887531
 Turkey,Asia,Thailand,Asia,2011,833588
-Turkey,Asia,Malaysia,Asia,2011,53605
 Turkey,Asia,Singapore,Asia,2011,0
 Turkey,Asia,Philippines,Asia,2011,496830
 Turkey,Asia,Indonesia,Asia,2011,0
@@ -1648,7 +1648,107 @@ Turkey,Asia,Australia,Oceania,2011,1253728
 Turkey,Asia,Cyprus,Europe,2011,146336
 Turkey,Asia,China,Asia,2011,0
 Turkey,Asia,Ivory Coast,Africa,2011,0
-Turkey,Asia,Congo,Africa,2011,0
+Turkey,Asia,Iran,Asia,2011,2609957
+Iraq,Asia,United States,North America,2011,0
+Iraq,Asia,Canada,North America,2011,0
+Iraq,Asia,Mexico,North America,2011,0
+Iraq,Asia,Brazil,South America,2011,0
+Iraq,Asia,Argentina,South America,2011,0
+Iraq,Asia,United Kingdom,Europe,2011,0
+Iraq,Asia,Netherlands,Europe,2011,0
+Iraq,Asia,Belgium,Europe,2011,0
+Iraq,Asia,France,Europe,2011,0
+Iraq,Asia,Switzerland,Europe,2011,0
+Iraq,Asia,Spain,Europe,2011,0
+Iraq,Asia,Portugal,Europe,2011,0
+Iraq,Asia,Germany,Europe,2011,0
+Iraq,Asia,Poland,Europe,2011,0
+Iraq,Asia,Austria,Europe,2011,0
+Iraq,Asia,Hungary,Europe,2011,0
+Iraq,Asia,Czech Republic,Europe,2011,0
+Iraq,Asia,Slovakia,Europe,2011,0
+Iraq,Asia,Italy,Europe,2011,0
+Iraq,Asia,Croatia,Europe,2011,0
+Iraq,Asia,Serbia,Europe,2011,0
+Iraq,Asia,Bosnia,Europe,2011,0
+Iraq,Asia,Greece,Europe,2011,0
+Iraq,Asia,Bulgaria,Europe,2011,0
+Iraq,Asia,Romania,Europe,2011,0
+Iraq,Asia,Russia,Asia,2011,0
+Iraq,Asia,Ukraine,Europe,2011,0
+Iraq,Asia,Finland,Europe,2011,0
+Iraq,Asia,Sweden,Europe,2011,0
+Iraq,Asia,Norway,Europe,2011,0
+Iraq,Asia,Denmark,Europe,2011,0
+Iraq,Asia,South Africa,Africa,2011,0
+Iraq,Asia,Turkey,Asia,2011,0
+Iraq,Asia,Iraq,Asia,2011,0
+Iraq,Asia,Lebanon,Asia,2011,0
+Iraq,Asia,Israel,Asia,2011,0
+Iraq,Asia,Taiwan,Asia,2011,0
+Iraq,Asia,South Korea,Asia,2011,0
+Iraq,Asia,Japan,Asia,2011,0
+Iraq,Asia,India,Asia,2011,0
+Iraq,Asia,Pakistan,Asia,2011,0
+Iraq,Asia,Thailand,Asia,2011,0
+Iraq,Asia,Singapore,Asia,2011,0
+Iraq,Asia,Philippines,Asia,2011,0
+Iraq,Asia,Indonesia,Asia,2011,0
+Iraq,Asia,Australia,Oceania,2011,0
+Iraq,Asia,Cyprus,Europe,2011,0
+Iraq,Asia,China,Asia,2011,0
+Iraq,Asia,Ivory Coast,Africa,2011,0
+Iraq,Asia,Iran,Asia,2011,0
+Lebanon,Asia,United States,North America,2011,0
+Lebanon,Asia,Canada,North America,2011,0
+Lebanon,Asia,Mexico,North America,2011,0
+Lebanon,Asia,Brazil,South America,2011,0
+Lebanon,Asia,Argentina,South America,2011,0
+Lebanon,Asia,United Kingdom,Europe,2011,0
+Lebanon,Asia,Netherlands,Europe,2011,0
+Lebanon,Asia,Belgium,Europe,2011,0
+Lebanon,Asia,France,Europe,2011,0
+Lebanon,Asia,Switzerland,Europe,2011,0
+Lebanon,Asia,Spain,Europe,2011,0
+Lebanon,Asia,Portugal,Europe,2011,0
+Lebanon,Asia,Germany,Europe,2011,0
+Lebanon,Asia,Poland,Europe,2011,0
+Lebanon,Asia,Austria,Europe,2011,0
+Lebanon,Asia,Hungary,Europe,2011,0
+Lebanon,Asia,Czech Republic,Europe,2011,0
+Lebanon,Asia,Slovakia,Europe,2011,0
+Lebanon,Asia,Italy,Europe,2011,0
+Lebanon,Asia,Croatia,Europe,2011,0
+Lebanon,Asia,Serbia,Europe,2011,0
+Lebanon,Asia,Bosnia,Europe,2011,0
+Lebanon,Asia,Greece,Europe,2011,0
+Lebanon,Asia,Bulgaria,Europe,2011,0
+Lebanon,Asia,Romania,Europe,2011,0
+Lebanon,Asia,Russia,Asia,2011,0
+Lebanon,Asia,Ukraine,Europe,2011,0
+Lebanon,Asia,Finland,Europe,2011,0
+Lebanon,Asia,Sweden,Europe,2011,0
+Lebanon,Asia,Norway,Europe,2011,0
+Lebanon,Asia,Denmark,Europe,2011,0
+Lebanon,Asia,South Africa,Africa,2011,0
+Lebanon,Asia,Turkey,Asia,2011,0
+Lebanon,Asia,Iraq,Asia,2011,0
+Lebanon,Asia,Lebanon,Asia,2011,0
+Lebanon,Asia,Israel,Asia,2011,0
+Lebanon,Asia,Taiwan,Asia,2011,0
+Lebanon,Asia,South Korea,Asia,2011,247496
+Lebanon,Asia,Japan,Asia,2011,0
+Lebanon,Asia,India,Asia,2011,0
+Lebanon,Asia,Pakistan,Asia,2011,0
+Lebanon,Asia,Thailand,Asia,2011,0
+Lebanon,Asia,Singapore,Asia,2011,0
+Lebanon,Asia,Philippines,Asia,2011,0
+Lebanon,Asia,Indonesia,Asia,2011,0
+Lebanon,Asia,Australia,Oceania,2011,0
+Lebanon,Asia,Cyprus,Europe,2011,0
+Lebanon,Asia,China,Asia,2011,0
+Lebanon,Asia,Ivory Coast,Africa,2011,0
+Lebanon,Asia,Iran,Asia,2011,0
 Israel,Asia,United States,North America,2011,23702994
 Israel,Asia,Canada,North America,2011,88422
 Israel,Asia,Mexico,North America,2011,78345
@@ -1682,15 +1782,15 @@ Israel,Asia,Norway,Europe,2011,10824
 Israel,Asia,Denmark,Europe,2011,2100
 Israel,Asia,South Africa,Africa,2011,3000
 Israel,Asia,Turkey,Asia,2011,0
+Israel,Asia,Iraq,Asia,2011,0
+Israel,Asia,Lebanon,Asia,2011,0
 Israel,Asia,Israel,Asia,2011,0
-Israel,Asia,United Arab Emirates,Asia,2011,0
 Israel,Asia,Taiwan,Asia,2011,0
 Israel,Asia,South Korea,Asia,2011,17845
 Israel,Asia,Japan,Asia,2011,0
 Israel,Asia,India,Asia,2011,1151381
 Israel,Asia,Pakistan,Asia,2011,0
 Israel,Asia,Thailand,Asia,2011,31970638
-Israel,Asia,Malaysia,Asia,2011,0
 Israel,Asia,Singapore,Asia,2011,0
 Israel,Asia,Philippines,Asia,2011,756569
 Israel,Asia,Indonesia,Asia,2011,202815
@@ -1698,57 +1798,7 @@ Israel,Asia,Australia,Oceania,2011,9031782
 Israel,Asia,Cyprus,Europe,2011,0
 Israel,Asia,China,Asia,2011,0
 Israel,Asia,Ivory Coast,Africa,2011,0
-Israel,Asia,Congo,Africa,2011,0
-United Arab Emirates,Asia,United States,North America,2011,82900
-United Arab Emirates,Asia,Canada,North America,2011,867
-United Arab Emirates,Asia,Mexico,North America,2011,0
-United Arab Emirates,Asia,Brazil,South America,2011,0
-United Arab Emirates,Asia,Argentina,South America,2011,0
-United Arab Emirates,Asia,United Kingdom,Europe,2011,0
-United Arab Emirates,Asia,Netherlands,Europe,2011,0
-United Arab Emirates,Asia,Belgium,Europe,2011,0
-United Arab Emirates,Asia,France,Europe,2011,0
-United Arab Emirates,Asia,Switzerland,Europe,2011,8050
-United Arab Emirates,Asia,Spain,Europe,2011,0
-United Arab Emirates,Asia,Portugal,Europe,2011,0
-United Arab Emirates,Asia,Germany,Europe,2011,85442
-United Arab Emirates,Asia,Poland,Europe,2011,0
-United Arab Emirates,Asia,Austria,Europe,2011,0
-United Arab Emirates,Asia,Hungary,Europe,2011,0
-United Arab Emirates,Asia,Czech Republic,Europe,2011,0
-United Arab Emirates,Asia,Slovakia,Europe,2011,1730
-United Arab Emirates,Asia,Italy,Europe,2011,0
-United Arab Emirates,Asia,Croatia,Europe,2011,0
-United Arab Emirates,Asia,Serbia,Europe,2011,0
-United Arab Emirates,Asia,Bosnia,Europe,2011,0
-United Arab Emirates,Asia,Greece,Europe,2011,0
-United Arab Emirates,Asia,Bulgaria,Europe,2011,0
-United Arab Emirates,Asia,Romania,Europe,2011,0
-United Arab Emirates,Asia,Russia,Asia,2011,0
-United Arab Emirates,Asia,Ukraine,Europe,2011,0
-United Arab Emirates,Asia,Finland,Europe,2011,0
-United Arab Emirates,Asia,Sweden,Europe,2011,0
-United Arab Emirates,Asia,Norway,Europe,2011,0
-United Arab Emirates,Asia,Denmark,Europe,2011,0
-United Arab Emirates,Asia,South Africa,Africa,2011,0
-United Arab Emirates,Asia,Turkey,Asia,2011,0
-United Arab Emirates,Asia,Israel,Asia,2011,0
-United Arab Emirates,Asia,United Arab Emirates,Asia,2011,0
-United Arab Emirates,Asia,Taiwan,Asia,2011,0
-United Arab Emirates,Asia,South Korea,Asia,2011,0
-United Arab Emirates,Asia,Japan,Asia,2011,0
-United Arab Emirates,Asia,India,Asia,2011,0
-United Arab Emirates,Asia,Pakistan,Asia,2011,27411
-United Arab Emirates,Asia,Thailand,Asia,2011,30054
-United Arab Emirates,Asia,Malaysia,Asia,2011,0
-United Arab Emirates,Asia,Singapore,Asia,2011,0
-United Arab Emirates,Asia,Philippines,Asia,2011,80098
-United Arab Emirates,Asia,Indonesia,Asia,2011,0
-United Arab Emirates,Asia,Australia,Oceania,2011,0
-United Arab Emirates,Asia,Cyprus,Europe,2011,0
-United Arab Emirates,Asia,China,Asia,2011,0
-United Arab Emirates,Asia,Ivory Coast,Africa,2011,0
-United Arab Emirates,Asia,Congo,Africa,2011,0
+Israel,Asia,Iran,Asia,2011,0
 Taiwan,Asia,United States,North America,2011,18771006
 Taiwan,Asia,Canada,North America,2011,193880
 Taiwan,Asia,Mexico,North America,2011,2400
@@ -1782,15 +1832,15 @@ Taiwan,Asia,Norway,Europe,2011,0
 Taiwan,Asia,Denmark,Europe,2011,0
 Taiwan,Asia,South Africa,Africa,2011,0
 Taiwan,Asia,Turkey,Asia,2011,1875
+Taiwan,Asia,Iraq,Asia,2011,0
+Taiwan,Asia,Lebanon,Asia,2011,0
 Taiwan,Asia,Israel,Asia,2011,0
-Taiwan,Asia,United Arab Emirates,Asia,2011,0
 Taiwan,Asia,Taiwan,Asia,2011,0
 Taiwan,Asia,South Korea,Asia,2011,0
 Taiwan,Asia,Japan,Asia,2011,0
 Taiwan,Asia,India,Asia,2011,0
 Taiwan,Asia,Pakistan,Asia,2011,0
 Taiwan,Asia,Thailand,Asia,2011,0
-Taiwan,Asia,Malaysia,Asia,2011,2756
 Taiwan,Asia,Singapore,Asia,2011,0
 Taiwan,Asia,Philippines,Asia,2011,0
 Taiwan,Asia,Indonesia,Asia,2011,55245
@@ -1798,7 +1848,7 @@ Taiwan,Asia,Australia,Oceania,2011,6599
 Taiwan,Asia,Cyprus,Europe,2011,31915
 Taiwan,Asia,China,Asia,2011,0
 Taiwan,Asia,Ivory Coast,Africa,2011,0
-Taiwan,Asia,Congo,Africa,2011,0
+Taiwan,Asia,Iran,Asia,2011,0
 South Korea,Asia,United States,North America,2011,39661438
 South Korea,Asia,Canada,North America,2011,179109
 South Korea,Asia,Mexico,North America,2011,3826959
@@ -1832,15 +1882,15 @@ South Korea,Asia,Norway,Europe,2011,185
 South Korea,Asia,Denmark,Europe,2011,45866
 South Korea,Asia,South Africa,Africa,2011,3514
 South Korea,Asia,Turkey,Asia,2011,282171
+South Korea,Asia,Iraq,Asia,2011,0
+South Korea,Asia,Lebanon,Asia,2011,0
 South Korea,Asia,Israel,Asia,2011,338469
-South Korea,Asia,United Arab Emirates,Asia,2011,1232760
 South Korea,Asia,Taiwan,Asia,2011,476507
 South Korea,Asia,South Korea,Asia,2011,0
 South Korea,Asia,Japan,Asia,2011,223080
 South Korea,Asia,India,Asia,2011,15035
 South Korea,Asia,Pakistan,Asia,2011,10
 South Korea,Asia,Thailand,Asia,2011,22304094
-South Korea,Asia,Malaysia,Asia,2011,4101805
 South Korea,Asia,Singapore,Asia,2011,3287023
 South Korea,Asia,Philippines,Asia,2011,1517004
 South Korea,Asia,Indonesia,Asia,2011,17279185
@@ -1848,7 +1898,7 @@ South Korea,Asia,Australia,Oceania,2011,3438911
 South Korea,Asia,Cyprus,Europe,2011,20148
 South Korea,Asia,China,Asia,2011,0
 South Korea,Asia,Ivory Coast,Africa,2011,0
-South Korea,Asia,Congo,Africa,2011,0
+South Korea,Asia,Iran,Asia,2011,8902
 Japan,Asia,United States,North America,2011,28738417
 Japan,Asia,Canada,North America,2011,8983145
 Japan,Asia,Mexico,North America,2011,572859
@@ -1882,15 +1932,15 @@ Japan,Asia,Norway,Europe,2011,481397
 Japan,Asia,Denmark,Europe,2011,9079
 Japan,Asia,South Africa,Africa,2011,31585
 Japan,Asia,Turkey,Asia,2011,36622
+Japan,Asia,Iraq,Asia,2011,0
+Japan,Asia,Lebanon,Asia,2011,33683
 Japan,Asia,Israel,Asia,2011,0
-Japan,Asia,United Arab Emirates,Asia,2011,0
 Japan,Asia,Taiwan,Asia,2011,0
 Japan,Asia,South Korea,Asia,2011,0
 Japan,Asia,Japan,Asia,2011,0
 Japan,Asia,India,Asia,2011,1049117
 Japan,Asia,Pakistan,Asia,2011,978
 Japan,Asia,Thailand,Asia,2011,46118
-Japan,Asia,Malaysia,Asia,2011,0
 Japan,Asia,Singapore,Asia,2011,0
 Japan,Asia,Philippines,Asia,2011,0
 Japan,Asia,Indonesia,Asia,2011,37948
@@ -1898,7 +1948,7 @@ Japan,Asia,Australia,Oceania,2011,971224
 Japan,Asia,Cyprus,Europe,2011,183233
 Japan,Asia,China,Asia,2011,0
 Japan,Asia,Ivory Coast,Africa,2011,0
-Japan,Asia,Congo,Africa,2011,0
+Japan,Asia,Iran,Asia,2011,0
 India,Asia,United States,North America,2011,1190585
 India,Asia,Canada,North America,2011,0
 India,Asia,Mexico,North America,2011,0
@@ -1932,15 +1982,15 @@ India,Asia,Norway,Europe,2011,0
 India,Asia,Denmark,Europe,2011,0
 India,Asia,South Africa,Africa,2011,825
 India,Asia,Turkey,Asia,2011,228894
+India,Asia,Iraq,Asia,2011,0
+India,Asia,Lebanon,Asia,2011,7579
 India,Asia,Israel,Asia,2011,279887
-India,Asia,United Arab Emirates,Asia,2011,186
 India,Asia,Taiwan,Asia,2011,0
 India,Asia,South Korea,Asia,2011,77
 India,Asia,Japan,Asia,2011,932
 India,Asia,India,Asia,2011,0
 India,Asia,Pakistan,Asia,2011,0
 India,Asia,Thailand,Asia,2011,1897
-India,Asia,Malaysia,Asia,2011,461
 India,Asia,Singapore,Asia,2011,111
 India,Asia,Philippines,Asia,2011,87044
 India,Asia,Indonesia,Asia,2011,0
@@ -1948,7 +1998,7 @@ India,Asia,Australia,Oceania,2011,2865102
 India,Asia,Cyprus,Europe,2011,0
 India,Asia,China,Asia,2011,0
 India,Asia,Ivory Coast,Africa,2011,0
-India,Asia,Congo,Africa,2011,0
+India,Asia,Iran,Asia,2011,0
 Pakistan,Asia,United States,North America,2011,158127
 Pakistan,Asia,Canada,North America,2011,15
 Pakistan,Asia,Mexico,North America,2011,0
@@ -1982,15 +2032,15 @@ Pakistan,Asia,Norway,Europe,2011,0
 Pakistan,Asia,Denmark,Europe,2011,0
 Pakistan,Asia,South Africa,Africa,2011,0
 Pakistan,Asia,Turkey,Asia,2011,206498
+Pakistan,Asia,Iraq,Asia,2011,0
+Pakistan,Asia,Lebanon,Asia,2011,0
 Pakistan,Asia,Israel,Asia,2011,0
-Pakistan,Asia,United Arab Emirates,Asia,2011,0
 Pakistan,Asia,Taiwan,Asia,2011,0
 Pakistan,Asia,South Korea,Asia,2011,0
 Pakistan,Asia,Japan,Asia,2011,0
 Pakistan,Asia,India,Asia,2011,0
 Pakistan,Asia,Pakistan,Asia,2011,0
 Pakistan,Asia,Thailand,Asia,2011,387
-Pakistan,Asia,Malaysia,Asia,2011,0
 Pakistan,Asia,Singapore,Asia,2011,0
 Pakistan,Asia,Philippines,Asia,2011,0
 Pakistan,Asia,Indonesia,Asia,2011,0
@@ -1998,7 +2048,7 @@ Pakistan,Asia,Australia,Oceania,2011,0
 Pakistan,Asia,Cyprus,Europe,2011,0
 Pakistan,Asia,China,Asia,2011,303697
 Pakistan,Asia,Ivory Coast,Africa,2011,72597160
-Pakistan,Asia,Congo,Africa,2011,0
+Pakistan,Asia,Iran,Asia,2011,0
 Thailand,Asia,United States,North America,2011,53340
 Thailand,Asia,Canada,North America,2011,0
 Thailand,Asia,Mexico,North America,2011,0
@@ -2032,15 +2082,15 @@ Thailand,Asia,Norway,Europe,2011,0
 Thailand,Asia,Denmark,Europe,2011,0
 Thailand,Asia,South Africa,Africa,2011,0
 Thailand,Asia,Turkey,Asia,2011,0
+Thailand,Asia,Iraq,Asia,2011,0
+Thailand,Asia,Lebanon,Asia,2011,0
 Thailand,Asia,Israel,Asia,2011,0
-Thailand,Asia,United Arab Emirates,Asia,2011,0
 Thailand,Asia,Taiwan,Asia,2011,0
 Thailand,Asia,South Korea,Asia,2011,0
 Thailand,Asia,Japan,Asia,2011,71981
 Thailand,Asia,India,Asia,2011,7534
 Thailand,Asia,Pakistan,Asia,2011,0
 Thailand,Asia,Thailand,Asia,2011,11096
-Thailand,Asia,Malaysia,Asia,2011,777
 Thailand,Asia,Singapore,Asia,2011,9313
 Thailand,Asia,Philippines,Asia,2011,0
 Thailand,Asia,Indonesia,Asia,2011,0
@@ -2048,57 +2098,7 @@ Thailand,Asia,Australia,Oceania,2011,0
 Thailand,Asia,Cyprus,Europe,2011,0
 Thailand,Asia,China,Asia,2011,0
 Thailand,Asia,Ivory Coast,Africa,2011,0
-Thailand,Asia,Congo,Africa,2011,0
-Malaysia,Asia,United States,North America,2011,561421
-Malaysia,Asia,Canada,North America,2011,0
-Malaysia,Asia,Mexico,North America,2011,0
-Malaysia,Asia,Brazil,South America,2011,0
-Malaysia,Asia,Argentina,South America,2011,0
-Malaysia,Asia,United Kingdom,Europe,2011,0
-Malaysia,Asia,Netherlands,Europe,2011,0
-Malaysia,Asia,Belgium,Europe,2011,0
-Malaysia,Asia,France,Europe,2011,0
-Malaysia,Asia,Switzerland,Europe,2011,0
-Malaysia,Asia,Spain,Europe,2011,0
-Malaysia,Asia,Portugal,Europe,2011,0
-Malaysia,Asia,Germany,Europe,2011,0
-Malaysia,Asia,Poland,Europe,2011,0
-Malaysia,Asia,Austria,Europe,2011,0
-Malaysia,Asia,Hungary,Europe,2011,0
-Malaysia,Asia,Czech Republic,Europe,2011,0
-Malaysia,Asia,Slovakia,Europe,2011,0
-Malaysia,Asia,Italy,Europe,2011,0
-Malaysia,Asia,Croatia,Europe,2011,0
-Malaysia,Asia,Serbia,Europe,2011,0
-Malaysia,Asia,Bosnia,Europe,2011,0
-Malaysia,Asia,Greece,Europe,2011,0
-Malaysia,Asia,Bulgaria,Europe,2011,0
-Malaysia,Asia,Romania,Europe,2011,0
-Malaysia,Asia,Russia,Asia,2011,0
-Malaysia,Asia,Ukraine,Europe,2011,0
-Malaysia,Asia,Finland,Europe,2011,0
-Malaysia,Asia,Sweden,Europe,2011,0
-Malaysia,Asia,Norway,Europe,2011,0
-Malaysia,Asia,Denmark,Europe,2011,0
-Malaysia,Asia,South Africa,Africa,2011,0
-Malaysia,Asia,Turkey,Asia,2011,0
-Malaysia,Asia,Israel,Asia,2011,0
-Malaysia,Asia,United Arab Emirates,Asia,2011,0
-Malaysia,Asia,Taiwan,Asia,2011,5332
-Malaysia,Asia,South Korea,Asia,2011,0
-Malaysia,Asia,Japan,Asia,2011,13119
-Malaysia,Asia,India,Asia,2011,5461
-Malaysia,Asia,Pakistan,Asia,2011,0
-Malaysia,Asia,Thailand,Asia,2011,54741
-Malaysia,Asia,Malaysia,Asia,2011,0
-Malaysia,Asia,Singapore,Asia,2011,12516
-Malaysia,Asia,Philippines,Asia,2011,2230
-Malaysia,Asia,Indonesia,Asia,2011,134876
-Malaysia,Asia,Australia,Oceania,2011,0
-Malaysia,Asia,Cyprus,Europe,2011,0
-Malaysia,Asia,China,Asia,2011,0
-Malaysia,Asia,Ivory Coast,Africa,2011,0
-Malaysia,Asia,Congo,Africa,2011,0
+Thailand,Asia,Iran,Asia,2011,0
 Singapore,Asia,United States,North America,2011,36309
 Singapore,Asia,Canada,North America,2011,0
 Singapore,Asia,Mexico,North America,2011,0
@@ -2132,15 +2132,15 @@ Singapore,Asia,Norway,Europe,2011,0
 Singapore,Asia,Denmark,Europe,2011,0
 Singapore,Asia,South Africa,Africa,2011,0
 Singapore,Asia,Turkey,Asia,2011,0
+Singapore,Asia,Iraq,Asia,2011,0
+Singapore,Asia,Lebanon,Asia,2011,0
 Singapore,Asia,Israel,Asia,2011,0
-Singapore,Asia,United Arab Emirates,Asia,2011,0
 Singapore,Asia,Taiwan,Asia,2011,877
 Singapore,Asia,South Korea,Asia,2011,220908
 Singapore,Asia,Japan,Asia,2011,17226
 Singapore,Asia,India,Asia,2011,12181
 Singapore,Asia,Pakistan,Asia,2011,0
 Singapore,Asia,Thailand,Asia,2011,3435
-Singapore,Asia,Malaysia,Asia,2011,133644
 Singapore,Asia,Singapore,Asia,2011,0
 Singapore,Asia,Philippines,Asia,2011,13099
 Singapore,Asia,Indonesia,Asia,2011,308241
@@ -2148,7 +2148,7 @@ Singapore,Asia,Australia,Oceania,2011,331070
 Singapore,Asia,Cyprus,Europe,2011,0
 Singapore,Asia,China,Asia,2011,2562
 Singapore,Asia,Ivory Coast,Africa,2011,0
-Singapore,Asia,Congo,Africa,2011,0
+Singapore,Asia,Iran,Asia,2011,0
 Philippines,Asia,United States,North America,2011,14409273
 Philippines,Asia,Canada,North America,2011,88132
 Philippines,Asia,Mexico,North America,2011,0
@@ -2182,15 +2182,15 @@ Philippines,Asia,Norway,Europe,2011,0
 Philippines,Asia,Denmark,Europe,2011,0
 Philippines,Asia,South Africa,Africa,2011,0
 Philippines,Asia,Turkey,Asia,2011,0
+Philippines,Asia,Iraq,Asia,2011,0
+Philippines,Asia,Lebanon,Asia,2011,0
 Philippines,Asia,Israel,Asia,2011,0
-Philippines,Asia,United Arab Emirates,Asia,2011,0
 Philippines,Asia,Taiwan,Asia,2011,0
 Philippines,Asia,South Korea,Asia,2011,0
 Philippines,Asia,Japan,Asia,2011,0
 Philippines,Asia,India,Asia,2011,0
 Philippines,Asia,Pakistan,Asia,2011,46119
 Philippines,Asia,Thailand,Asia,2011,3075674
-Philippines,Asia,Malaysia,Asia,2011,50765
 Philippines,Asia,Singapore,Asia,2011,0
 Philippines,Asia,Philippines,Asia,2011,0
 Philippines,Asia,Indonesia,Asia,2011,4498
@@ -2198,7 +2198,7 @@ Philippines,Asia,Australia,Oceania,2011,108125
 Philippines,Asia,Cyprus,Europe,2011,0
 Philippines,Asia,China,Asia,2011,0
 Philippines,Asia,Ivory Coast,Africa,2011,0
-Philippines,Asia,Congo,Africa,2011,0
+Philippines,Asia,Iran,Asia,2011,0
 Indonesia,Asia,United States,North America,2011,300000
 Indonesia,Asia,Canada,North America,2011,0
 Indonesia,Asia,Mexico,North America,2011,0
@@ -2232,15 +2232,15 @@ Indonesia,Asia,Norway,Europe,2011,0
 Indonesia,Asia,Denmark,Europe,2011,0
 Indonesia,Asia,South Africa,Africa,2011,0
 Indonesia,Asia,Turkey,Asia,2011,0
+Indonesia,Asia,Iraq,Asia,2011,0
+Indonesia,Asia,Lebanon,Asia,2011,0
 Indonesia,Asia,Israel,Asia,2011,0
-Indonesia,Asia,United Arab Emirates,Asia,2011,0
 Indonesia,Asia,Taiwan,Asia,2011,0
 Indonesia,Asia,South Korea,Asia,2011,0
 Indonesia,Asia,Japan,Asia,2011,0
 Indonesia,Asia,India,Asia,2011,0
 Indonesia,Asia,Pakistan,Asia,2011,0
 Indonesia,Asia,Thailand,Asia,2011,2959130
-Indonesia,Asia,Malaysia,Asia,2011,0
 Indonesia,Asia,Singapore,Asia,2011,50
 Indonesia,Asia,Philippines,Asia,2011,0
 Indonesia,Asia,Indonesia,Asia,2011,0
@@ -2248,7 +2248,7 @@ Indonesia,Asia,Australia,Oceania,2011,0
 Indonesia,Asia,Cyprus,Europe,2011,0
 Indonesia,Asia,China,Asia,2011,0
 Indonesia,Asia,Ivory Coast,Africa,2011,0
-Indonesia,Asia,Congo,Africa,2011,0
+Indonesia,Asia,Iran,Asia,2011,0
 Australia,Oceania,United States,North America,2011,1774968
 Australia,Oceania,Canada,North America,2011,2039388
 Australia,Oceania,Mexico,North America,2011,0
@@ -2282,15 +2282,15 @@ Australia,Oceania,Norway,Europe,2011,65066
 Australia,Oceania,Denmark,Europe,2011,56192
 Australia,Oceania,South Africa,Africa,2011,125387
 Australia,Oceania,Turkey,Asia,2011,0
+Australia,Oceania,Iraq,Asia,2011,0
+Australia,Oceania,Lebanon,Asia,2011,0
 Australia,Oceania,Israel,Asia,2011,1550
-Australia,Oceania,United Arab Emirates,Asia,2011,0
 Australia,Oceania,Taiwan,Asia,2011,0
 Australia,Oceania,South Korea,Asia,2011,195591
 Australia,Oceania,Japan,Asia,2011,467887
 Australia,Oceania,India,Asia,2011,57211
 Australia,Oceania,Pakistan,Asia,2011,64865
 Australia,Oceania,Thailand,Asia,2011,422921
-Australia,Oceania,Malaysia,Asia,2011,31885
 Australia,Oceania,Singapore,Asia,2011,1075992
 Australia,Oceania,Philippines,Asia,2011,163288
 Australia,Oceania,Indonesia,Asia,2011,31181
@@ -2298,7 +2298,7 @@ Australia,Oceania,Australia,Oceania,2011,4846708
 Australia,Oceania,Cyprus,Europe,2011,696
 Australia,Oceania,China,Asia,2011,1423684
 Australia,Oceania,Ivory Coast,Africa,2011,0
-Australia,Oceania,Congo,Africa,2011,0
+Australia,Oceania,Iran,Asia,2011,0
 Cyprus,Europe,United States,North America,2011,5501
 Cyprus,Europe,Canada,North America,2011,0
 Cyprus,Europe,Mexico,North America,2011,0
@@ -2332,15 +2332,15 @@ Cyprus,Europe,Norway,Europe,2011,0
 Cyprus,Europe,Denmark,Europe,2011,0
 Cyprus,Europe,South Africa,Africa,2011,11585
 Cyprus,Europe,Turkey,Asia,2011,0
+Cyprus,Europe,Iraq,Asia,2011,0
+Cyprus,Europe,Lebanon,Asia,2011,4648310
 Cyprus,Europe,Israel,Asia,2011,12924
-Cyprus,Europe,United Arab Emirates,Asia,2011,182698
 Cyprus,Europe,Taiwan,Asia,2011,0
 Cyprus,Europe,South Korea,Asia,2011,0
 Cyprus,Europe,Japan,Asia,2011,0
 Cyprus,Europe,India,Asia,2011,232063
 Cyprus,Europe,Pakistan,Asia,2011,199799
 Cyprus,Europe,Thailand,Asia,2011,0
-Cyprus,Europe,Malaysia,Asia,2011,0
 Cyprus,Europe,Singapore,Asia,2011,0
 Cyprus,Europe,Philippines,Asia,2011,0
 Cyprus,Europe,Indonesia,Asia,2011,0
@@ -2348,7 +2348,7 @@ Cyprus,Europe,Australia,Oceania,2011,18383
 Cyprus,Europe,Cyprus,Europe,2011,0
 Cyprus,Europe,China,Asia,2011,0
 Cyprus,Europe,Ivory Coast,Africa,2011,0
-Cyprus,Europe,Congo,Africa,2011,0
+Cyprus,Europe,Iran,Asia,2011,0
 China,Asia,United States,North America,2011,13001479
 China,Asia,Canada,North America,2011,2899426
 China,Asia,Mexico,North America,2011,618544
@@ -2382,15 +2382,15 @@ China,Asia,Norway,Europe,2011,8274
 China,Asia,Denmark,Europe,2011,0
 China,Asia,South Africa,Africa,2011,0
 China,Asia,Turkey,Asia,2011,4881
+China,Asia,Iraq,Asia,2011,0
+China,Asia,Lebanon,Asia,2011,179928
 China,Asia,Israel,Asia,2011,0
-China,Asia,United Arab Emirates,Asia,2011,0
 China,Asia,Taiwan,Asia,2011,0
 China,Asia,South Korea,Asia,2011,285439
 China,Asia,Japan,Asia,2011,0
 China,Asia,India,Asia,2011,96145
 China,Asia,Pakistan,Asia,2011,5926981
 China,Asia,Thailand,Asia,2011,6004272
-China,Asia,Malaysia,Asia,2011,13119
 China,Asia,Singapore,Asia,2011,177753
 China,Asia,Philippines,Asia,2011,2315463
 China,Asia,Indonesia,Asia,2011,5505
@@ -2398,7 +2398,7 @@ China,Asia,Australia,Oceania,2011,170798
 China,Asia,Cyprus,Europe,2011,0
 China,Asia,China,Asia,2011,0
 China,Asia,Ivory Coast,Africa,2011,0
-China,Asia,Congo,Africa,2011,0
+China,Asia,Iran,Asia,2011,0
 Ivory Coast,Africa,United States,North America,2011,0
 Ivory Coast,Africa,Canada,North America,2011,0
 Ivory Coast,Africa,Mexico,North America,2011,0
@@ -2432,15 +2432,15 @@ Ivory Coast,Africa,Norway,Europe,2011,0
 Ivory Coast,Africa,Denmark,Europe,2011,0
 Ivory Coast,Africa,South Africa,Africa,2011,0
 Ivory Coast,Africa,Turkey,Asia,2011,0
+Ivory Coast,Africa,Iraq,Asia,2011,0
+Ivory Coast,Africa,Lebanon,Asia,2011,0
 Ivory Coast,Africa,Israel,Asia,2011,0
-Ivory Coast,Africa,United Arab Emirates,Asia,2011,0
 Ivory Coast,Africa,Taiwan,Asia,2011,0
 Ivory Coast,Africa,South Korea,Asia,2011,0
 Ivory Coast,Africa,Japan,Asia,2011,0
 Ivory Coast,Africa,India,Asia,2011,0
 Ivory Coast,Africa,Pakistan,Asia,2011,0
 Ivory Coast,Africa,Thailand,Asia,2011,0
-Ivory Coast,Africa,Malaysia,Asia,2011,0
 Ivory Coast,Africa,Singapore,Asia,2011,0
 Ivory Coast,Africa,Philippines,Asia,2011,0
 Ivory Coast,Africa,Indonesia,Asia,2011,0
@@ -2448,54 +2448,54 @@ Ivory Coast,Africa,Australia,Oceania,2011,0
 Ivory Coast,Africa,Cyprus,Europe,2011,0
 Ivory Coast,Africa,China,Asia,2011,0
 Ivory Coast,Africa,Ivory Coast,Africa,2011,0
-Ivory Coast,Africa,Congo,Africa,2011,0
-Congo,Africa,United States,North America,2011,0
-Congo,Africa,Canada,North America,2011,0
-Congo,Africa,Mexico,North America,2011,0
-Congo,Africa,Brazil,South America,2011,0
-Congo,Africa,Argentina,South America,2011,0
-Congo,Africa,United Kingdom,Europe,2011,0
-Congo,Africa,Netherlands,Europe,2011,0
-Congo,Africa,Belgium,Europe,2011,0
-Congo,Africa,France,Europe,2011,0
-Congo,Africa,Switzerland,Europe,2011,0
-Congo,Africa,Spain,Europe,2011,0
-Congo,Africa,Portugal,Europe,2011,0
-Congo,Africa,Germany,Europe,2011,0
-Congo,Africa,Poland,Europe,2011,0
-Congo,Africa,Austria,Europe,2011,0
-Congo,Africa,Hungary,Europe,2011,0
-Congo,Africa,Czech Republic,Europe,2011,0
-Congo,Africa,Slovakia,Europe,2011,0
-Congo,Africa,Italy,Europe,2011,0
-Congo,Africa,Croatia,Europe,2011,0
-Congo,Africa,Serbia,Europe,2011,0
-Congo,Africa,Bosnia,Europe,2011,0
-Congo,Africa,Greece,Europe,2011,0
-Congo,Africa,Bulgaria,Europe,2011,0
-Congo,Africa,Romania,Europe,2011,0
-Congo,Africa,Russia,Asia,2011,0
-Congo,Africa,Ukraine,Europe,2011,0
-Congo,Africa,Finland,Europe,2011,0
-Congo,Africa,Sweden,Europe,2011,0
-Congo,Africa,Norway,Europe,2011,0
-Congo,Africa,Denmark,Europe,2011,0
-Congo,Africa,South Africa,Africa,2011,0
-Congo,Africa,Turkey,Asia,2011,0
-Congo,Africa,Israel,Asia,2011,0
-Congo,Africa,United Arab Emirates,Asia,2011,0
-Congo,Africa,Taiwan,Asia,2011,0
-Congo,Africa,South Korea,Asia,2011,0
-Congo,Africa,Japan,Asia,2011,0
-Congo,Africa,India,Asia,2011,0
-Congo,Africa,Pakistan,Asia,2011,0
-Congo,Africa,Thailand,Asia,2011,0
-Congo,Africa,Malaysia,Asia,2011,0
-Congo,Africa,Singapore,Asia,2011,0
-Congo,Africa,Philippines,Asia,2011,0
-Congo,Africa,Indonesia,Asia,2011,0
-Congo,Africa,Australia,Oceania,2011,0
-Congo,Africa,Cyprus,Europe,2011,0
-Congo,Africa,China,Asia,2011,0
-Congo,Africa,Ivory Coast,Africa,2011,0
-Congo,Africa,Congo,Africa,2011,0
+Ivory Coast,Africa,Iran,Asia,2011,0
+Iran,Asia,United States,North America,2011,0
+Iran,Asia,Canada,North America,2011,0
+Iran,Asia,Mexico,North America,2011,0
+Iran,Asia,Brazil,South America,2011,0
+Iran,Asia,Argentina,South America,2011,0
+Iran,Asia,United Kingdom,Europe,2011,0
+Iran,Asia,Netherlands,Europe,2011,0
+Iran,Asia,Belgium,Europe,2011,0
+Iran,Asia,France,Europe,2011,0
+Iran,Asia,Switzerland,Europe,2011,0
+Iran,Asia,Spain,Europe,2011,0
+Iran,Asia,Portugal,Europe,2011,0
+Iran,Asia,Germany,Europe,2011,0
+Iran,Asia,Poland,Europe,2011,0
+Iran,Asia,Austria,Europe,2011,0
+Iran,Asia,Hungary,Europe,2011,0
+Iran,Asia,Czech Republic,Europe,2011,0
+Iran,Asia,Slovakia,Europe,2011,0
+Iran,Asia,Italy,Europe,2011,0
+Iran,Asia,Croatia,Europe,2011,0
+Iran,Asia,Serbia,Europe,2011,0
+Iran,Asia,Bosnia,Europe,2011,0
+Iran,Asia,Greece,Europe,2011,0
+Iran,Asia,Bulgaria,Europe,2011,0
+Iran,Asia,Romania,Europe,2011,0
+Iran,Asia,Russia,Asia,2011,0
+Iran,Asia,Ukraine,Europe,2011,0
+Iran,Asia,Finland,Europe,2011,0
+Iran,Asia,Sweden,Europe,2011,0
+Iran,Asia,Norway,Europe,2011,0
+Iran,Asia,Denmark,Europe,2011,0
+Iran,Asia,South Africa,Africa,2011,0
+Iran,Asia,Turkey,Asia,2011,0
+Iran,Asia,Iraq,Asia,2011,0
+Iran,Asia,Lebanon,Asia,2011,0
+Iran,Asia,Israel,Asia,2011,0
+Iran,Asia,Taiwan,Asia,2011,0
+Iran,Asia,South Korea,Asia,2011,0
+Iran,Asia,Japan,Asia,2011,0
+Iran,Asia,India,Asia,2011,0
+Iran,Asia,Pakistan,Asia,2011,0
+Iran,Asia,Thailand,Asia,2011,0
+Iran,Asia,Singapore,Asia,2011,0
+Iran,Asia,Philippines,Asia,2011,0
+Iran,Asia,Indonesia,Asia,2011,0
+Iran,Asia,Australia,Oceania,2011,0
+Iran,Asia,Cyprus,Europe,2011,0
+Iran,Asia,China,Asia,2011,0
+Iran,Asia,Ivory Coast,Africa,2011,0
+Iran,Asia,Iran,Asia,2011,0

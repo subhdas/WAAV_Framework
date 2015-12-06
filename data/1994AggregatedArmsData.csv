@@ -32,15 +32,15 @@ United States,North America,Norway,Europe,1994,2805721
 United States,North America,Denmark,Europe,1994,2517737
 United States,North America,South Africa,Africa,1994,306179
 United States,North America,Turkey,Asia,1994,7141576
+United States,North America,Iraq,Asia,1994,0
+United States,North America,Lebanon,Asia,1994,3609567
 United States,North America,Israel,Asia,1994,6245499
-United States,North America,United Arab Emirates,Asia,1994,734619
 United States,North America,Taiwan,Asia,1994,47467171
 United States,North America,South Korea,Asia,1994,2960401
 United States,North America,Japan,Asia,1994,2406927
 United States,North America,India,Asia,1994,54007
 United States,North America,Pakistan,Asia,1994,226044
 United States,North America,Thailand,Asia,1994,13282649
-United States,North America,Malaysia,Asia,1994,414961
 United States,North America,Singapore,Asia,1994,1872028
 United States,North America,Philippines,Asia,1994,5277570
 United States,North America,Indonesia,Asia,1994,13249
@@ -48,7 +48,7 @@ United States,North America,Australia,Oceania,1994,16665190
 United States,North America,Cyprus,Europe,1994,98631
 United States,North America,China,Asia,1994,221348
 United States,North America,Ivory Coast,Africa,1994,0
-United States,North America,Congo,Africa,1994,0
+United States,North America,Iran,Asia,1994,0
 Canada,North America,United States,North America,1994,16333553
 Canada,North America,Canada,North America,1994,0
 Canada,North America,Mexico,North America,1994,0
@@ -82,15 +82,15 @@ Canada,North America,Norway,Europe,1994,17136
 Canada,North America,Denmark,Europe,1994,2637751
 Canada,North America,South Africa,Africa,1994,72989
 Canada,North America,Turkey,Asia,1994,64206
+Canada,North America,Iraq,Asia,1994,0
+Canada,North America,Lebanon,Asia,1994,0
 Canada,North America,Israel,Asia,1994,13457
-Canada,North America,United Arab Emirates,Asia,1994,1559
 Canada,North America,Taiwan,Asia,1994,0
 Canada,North America,South Korea,Asia,1994,4052
 Canada,North America,Japan,Asia,1994,7236
 Canada,North America,India,Asia,1994,0
 Canada,North America,Pakistan,Asia,1994,0
 Canada,North America,Thailand,Asia,1994,30379
-Canada,North America,Malaysia,Asia,1994,0
 Canada,North America,Singapore,Asia,1994,1199
 Canada,North America,Philippines,Asia,1994,0
 Canada,North America,Indonesia,Asia,1994,0
@@ -98,7 +98,7 @@ Canada,North America,Australia,Oceania,1994,198007
 Canada,North America,Cyprus,Europe,1994,9364
 Canada,North America,China,Asia,1994,28560
 Canada,North America,Ivory Coast,Africa,1994,0
-Canada,North America,Congo,Africa,1994,0
+Canada,North America,Iran,Asia,1994,0
 Mexico,North America,United States,North America,1994,3471770
 Mexico,North America,Canada,North America,1994,7104
 Mexico,North America,Mexico,North America,1994,0
@@ -132,15 +132,15 @@ Mexico,North America,Norway,Europe,1994,0
 Mexico,North America,Denmark,Europe,1994,0
 Mexico,North America,South Africa,Africa,1994,0
 Mexico,North America,Turkey,Asia,1994,0
+Mexico,North America,Iraq,Asia,1994,0
+Mexico,North America,Lebanon,Asia,1994,0
 Mexico,North America,Israel,Asia,1994,0
-Mexico,North America,United Arab Emirates,Asia,1994,0
 Mexico,North America,Taiwan,Asia,1994,0
 Mexico,North America,South Korea,Asia,1994,0
 Mexico,North America,Japan,Asia,1994,0
 Mexico,North America,India,Asia,1994,0
 Mexico,North America,Pakistan,Asia,1994,0
 Mexico,North America,Thailand,Asia,1994,0
-Mexico,North America,Malaysia,Asia,1994,0
 Mexico,North America,Singapore,Asia,1994,0
 Mexico,North America,Philippines,Asia,1994,0
 Mexico,North America,Indonesia,Asia,1994,0
@@ -148,7 +148,7 @@ Mexico,North America,Australia,Oceania,1994,0
 Mexico,North America,Cyprus,Europe,1994,0
 Mexico,North America,China,Asia,1994,0
 Mexico,North America,Ivory Coast,Africa,1994,0
-Mexico,North America,Congo,Africa,1994,0
+Mexico,North America,Iran,Asia,1994,0
 Brazil,South America,United States,North America,1994,71562326
 Brazil,South America,Canada,North America,1994,419533
 Brazil,South America,Mexico,North America,1994,1647262
@@ -182,15 +182,15 @@ Brazil,South America,Norway,Europe,1994,1935316
 Brazil,South America,Denmark,Europe,1994,118561
 Brazil,South America,South Africa,Africa,1994,4540299
 Brazil,South America,Turkey,Asia,1994,344035
+Brazil,South America,Iraq,Asia,1994,0
+Brazil,South America,Lebanon,Asia,1994,0
 Brazil,South America,Israel,Asia,1994,0
-Brazil,South America,United Arab Emirates,Asia,1994,0
 Brazil,South America,Taiwan,Asia,1994,0
 Brazil,South America,South Korea,Asia,1994,24199
 Brazil,South America,Japan,Asia,1994,0
 Brazil,South America,India,Asia,1994,0
 Brazil,South America,Pakistan,Asia,1994,3970
 Brazil,South America,Thailand,Asia,1994,3473087
-Brazil,South America,Malaysia,Asia,1994,15501
 Brazil,South America,Singapore,Asia,1994,685628
 Brazil,South America,Philippines,Asia,1994,245882
 Brazil,South America,Indonesia,Asia,1994,0
@@ -198,7 +198,7 @@ Brazil,South America,Australia,Oceania,1994,96129
 Brazil,South America,Cyprus,Europe,1994,17860
 Brazil,South America,China,Asia,1994,0
 Brazil,South America,Ivory Coast,Africa,1994,0
-Brazil,South America,Congo,Africa,1994,0
+Brazil,South America,Iran,Asia,1994,8170
 Argentina,South America,United States,North America,1994,7037353
 Argentina,South America,Canada,North America,1994,1277
 Argentina,South America,Mexico,North America,1994,8508
@@ -232,15 +232,15 @@ Argentina,South America,Norway,Europe,1994,0
 Argentina,South America,Denmark,Europe,1994,0
 Argentina,South America,South Africa,Africa,1994,328918
 Argentina,South America,Turkey,Asia,1994,13896
+Argentina,South America,Iraq,Asia,1994,0
+Argentina,South America,Lebanon,Asia,1994,0
 Argentina,South America,Israel,Asia,1994,30218
-Argentina,South America,United Arab Emirates,Asia,1994,0
 Argentina,South America,Taiwan,Asia,1994,0
 Argentina,South America,South Korea,Asia,1994,0
 Argentina,South America,Japan,Asia,1994,0
 Argentina,South America,India,Asia,1994,0
 Argentina,South America,Pakistan,Asia,1994,0
 Argentina,South America,Thailand,Asia,1994,0
-Argentina,South America,Malaysia,Asia,1994,0
 Argentina,South America,Singapore,Asia,1994,0
 Argentina,South America,Philippines,Asia,1994,19886
 Argentina,South America,Indonesia,Asia,1994,0
@@ -248,7 +248,7 @@ Argentina,South America,Australia,Oceania,1994,0
 Argentina,South America,Cyprus,Europe,1994,0
 Argentina,South America,China,Asia,1994,0
 Argentina,South America,Ivory Coast,Africa,1994,0
-Argentina,South America,Congo,Africa,1994,0
+Argentina,South America,Iran,Asia,1994,0
 United Kingdom,Europe,United States,North America,1994,6287762
 United Kingdom,Europe,Canada,North America,1994,712935
 United Kingdom,Europe,Mexico,North America,1994,0
@@ -282,15 +282,15 @@ United Kingdom,Europe,Norway,Europe,1994,1186434
 United Kingdom,Europe,Denmark,Europe,1994,1209174
 United Kingdom,Europe,South Africa,Africa,1994,300544
 United Kingdom,Europe,Turkey,Asia,1994,1730596
+United Kingdom,Europe,Iraq,Asia,1994,0
+United Kingdom,Europe,Lebanon,Asia,1994,0
 United Kingdom,Europe,Israel,Asia,1994,22185
-United Kingdom,Europe,United Arab Emirates,Asia,1994,6635545
 United Kingdom,Europe,Taiwan,Asia,1994,101310
 United Kingdom,Europe,South Korea,Asia,1994,693685
 United Kingdom,Europe,Japan,Asia,1994,2116538
 United Kingdom,Europe,India,Asia,1994,105116
 United Kingdom,Europe,Pakistan,Asia,1994,70741
 United Kingdom,Europe,Thailand,Asia,1994,458213
-United Kingdom,Europe,Malaysia,Asia,1994,74087
 United Kingdom,Europe,Singapore,Asia,1994,4652
 United Kingdom,Europe,Philippines,Asia,1994,3043
 United Kingdom,Europe,Indonesia,Asia,1994,425584
@@ -298,7 +298,7 @@ United Kingdom,Europe,Australia,Oceania,1994,677517
 United Kingdom,Europe,Cyprus,Europe,1994,441084
 United Kingdom,Europe,China,Asia,1994,264013
 United Kingdom,Europe,Ivory Coast,Africa,1994,6523
-United Kingdom,Europe,Congo,Africa,1994,0
+United Kingdom,Europe,Iran,Asia,1994,0
 Netherlands,Europe,United States,North America,1994,84425
 Netherlands,Europe,Canada,North America,1994,9994648
 Netherlands,Europe,Mexico,North America,1994,0
@@ -332,15 +332,15 @@ Netherlands,Europe,Norway,Europe,1994,1005727
 Netherlands,Europe,Denmark,Europe,1994,12691
 Netherlands,Europe,South Africa,Africa,1994,0
 Netherlands,Europe,Turkey,Asia,1994,0
+Netherlands,Europe,Iraq,Asia,1994,0
+Netherlands,Europe,Lebanon,Asia,1994,0
 Netherlands,Europe,Israel,Asia,1994,0
-Netherlands,Europe,United Arab Emirates,Asia,1994,2015619
 Netherlands,Europe,Taiwan,Asia,1994,0
 Netherlands,Europe,South Korea,Asia,1994,0
 Netherlands,Europe,Japan,Asia,1994,0
 Netherlands,Europe,India,Asia,1994,0
 Netherlands,Europe,Pakistan,Asia,1994,0
 Netherlands,Europe,Thailand,Asia,1994,150794
-Netherlands,Europe,Malaysia,Asia,1994,0
 Netherlands,Europe,Singapore,Asia,1994,0
 Netherlands,Europe,Philippines,Asia,1994,0
 Netherlands,Europe,Indonesia,Asia,1994,0
@@ -348,7 +348,7 @@ Netherlands,Europe,Australia,Oceania,1994,0
 Netherlands,Europe,Cyprus,Europe,1994,2090
 Netherlands,Europe,China,Asia,1994,0
 Netherlands,Europe,Ivory Coast,Africa,1994,0
-Netherlands,Europe,Congo,Africa,1994,0
+Netherlands,Europe,Iran,Asia,1994,0
 Belgium,Europe,United States,North America,1994,25501175
 Belgium,Europe,Canada,North America,1994,457092
 Belgium,Europe,Mexico,North America,1994,731714
@@ -382,15 +382,15 @@ Belgium,Europe,Norway,Europe,1994,2774803
 Belgium,Europe,Denmark,Europe,1994,575998
 Belgium,Europe,South Africa,Africa,1994,0
 Belgium,Europe,Turkey,Asia,1994,1800684
+Belgium,Europe,Iraq,Asia,1994,0
+Belgium,Europe,Lebanon,Asia,1994,0
 Belgium,Europe,Israel,Asia,1994,0
-Belgium,Europe,United Arab Emirates,Asia,1994,0
 Belgium,Europe,Taiwan,Asia,1994,0
 Belgium,Europe,South Korea,Asia,1994,174775
 Belgium,Europe,Japan,Asia,1994,628401
 Belgium,Europe,India,Asia,1994,0
 Belgium,Europe,Pakistan,Asia,1994,0
 Belgium,Europe,Thailand,Asia,1994,473345
-Belgium,Europe,Malaysia,Asia,1994,290754
 Belgium,Europe,Singapore,Asia,1994,25554
 Belgium,Europe,Philippines,Asia,1994,0
 Belgium,Europe,Indonesia,Asia,1994,0
@@ -398,7 +398,7 @@ Belgium,Europe,Australia,Oceania,1994,146746
 Belgium,Europe,Cyprus,Europe,1994,76530
 Belgium,Europe,China,Asia,1994,0
 Belgium,Europe,Ivory Coast,Africa,1994,0
-Belgium,Europe,Congo,Africa,1994,0
+Belgium,Europe,Iran,Asia,1994,0
 France,Europe,United States,North America,1994,685569
 France,Europe,Canada,North America,1994,37333
 France,Europe,Mexico,North America,1994,0
@@ -432,15 +432,15 @@ France,Europe,Norway,Europe,1994,2884258
 France,Europe,Denmark,Europe,1994,143489
 France,Europe,South Africa,Africa,1994,9739
 France,Europe,Turkey,Asia,1994,34344
+France,Europe,Iraq,Asia,1994,0
+France,Europe,Lebanon,Asia,1994,11020
 France,Europe,Israel,Asia,1994,0
-France,Europe,United Arab Emirates,Asia,1994,114572
 France,Europe,Taiwan,Asia,1994,0
 France,Europe,South Korea,Asia,1994,115160
 France,Europe,Japan,Asia,1994,967983
 France,Europe,India,Asia,1994,0
 France,Europe,Pakistan,Asia,1994,0
 France,Europe,Thailand,Asia,1994,17637279
-France,Europe,Malaysia,Asia,1994,99964
 France,Europe,Singapore,Asia,1994,14149
 France,Europe,Philippines,Asia,1994,0
 France,Europe,Indonesia,Asia,1994,16622
@@ -448,7 +448,7 @@ France,Europe,Australia,Oceania,1994,49735
 France,Europe,Cyprus,Europe,1994,120979
 France,Europe,China,Asia,1994,6406
 France,Europe,Ivory Coast,Africa,1994,0
-France,Europe,Congo,Africa,1994,556098
+France,Europe,Iran,Asia,1994,0
 Switzerland,Europe,United States,North America,1994,1470198
 Switzerland,Europe,Canada,North America,1994,14066
 Switzerland,Europe,Mexico,North America,1994,0
@@ -482,15 +482,15 @@ Switzerland,Europe,Norway,Europe,1994,105662
 Switzerland,Europe,Denmark,Europe,1994,34970
 Switzerland,Europe,South Africa,Africa,1994,257741
 Switzerland,Europe,Turkey,Asia,1994,24045
+Switzerland,Europe,Iraq,Asia,1994,0
+Switzerland,Europe,Lebanon,Asia,1994,8557
 Switzerland,Europe,Israel,Asia,1994,15092
-Switzerland,Europe,United Arab Emirates,Asia,1994,716952
 Switzerland,Europe,Taiwan,Asia,1994,22882
 Switzerland,Europe,South Korea,Asia,1994,35287
 Switzerland,Europe,Japan,Asia,1994,773835
 Switzerland,Europe,India,Asia,1994,57084
 Switzerland,Europe,Pakistan,Asia,1994,10627
 Switzerland,Europe,Thailand,Asia,1994,949489
-Switzerland,Europe,Malaysia,Asia,1994,5494140
 Switzerland,Europe,Singapore,Asia,1994,380491
 Switzerland,Europe,Philippines,Asia,1994,2602
 Switzerland,Europe,Indonesia,Asia,1994,0
@@ -498,7 +498,7 @@ Switzerland,Europe,Australia,Oceania,1994,90779
 Switzerland,Europe,Cyprus,Europe,1994,81152
 Switzerland,Europe,China,Asia,1994,13539
 Switzerland,Europe,Ivory Coast,Africa,1994,20562
-Switzerland,Europe,Congo,Africa,1994,0
+Switzerland,Europe,Iran,Asia,1994,0
 Spain,Europe,United States,North America,1994,25665776
 Spain,Europe,Canada,North America,1994,163589
 Spain,Europe,Mexico,North America,1994,0
@@ -532,15 +532,15 @@ Spain,Europe,Norway,Europe,1994,406443
 Spain,Europe,Denmark,Europe,1994,244914
 Spain,Europe,South Africa,Africa,1994,1411907
 Spain,Europe,Turkey,Asia,1994,640508
+Spain,Europe,Iraq,Asia,1994,0
+Spain,Europe,Lebanon,Asia,1994,0
 Spain,Europe,Israel,Asia,1994,258792
-Spain,Europe,United Arab Emirates,Asia,1994,0
 Spain,Europe,Taiwan,Asia,1994,0
 Spain,Europe,South Korea,Asia,1994,4829
 Spain,Europe,Japan,Asia,1994,413170
 Spain,Europe,India,Asia,1994,0
 Spain,Europe,Pakistan,Asia,1994,73630
 Spain,Europe,Thailand,Asia,1994,1291590
-Spain,Europe,Malaysia,Asia,1994,23672
 Spain,Europe,Singapore,Asia,1994,8360
 Spain,Europe,Philippines,Asia,1994,130749
 Spain,Europe,Indonesia,Asia,1994,663944
@@ -548,7 +548,7 @@ Spain,Europe,Australia,Oceania,1994,196716
 Spain,Europe,Cyprus,Europe,1994,142261
 Spain,Europe,China,Asia,1994,0
 Spain,Europe,Ivory Coast,Africa,1994,0
-Spain,Europe,Congo,Africa,1994,0
+Spain,Europe,Iran,Asia,1994,0
 Portugal,Europe,United States,North America,1994,17330547
 Portugal,Europe,Canada,North America,1994,97746
 Portugal,Europe,Mexico,North America,1994,0
@@ -582,15 +582,15 @@ Portugal,Europe,Norway,Europe,1994,0
 Portugal,Europe,Denmark,Europe,1994,0
 Portugal,Europe,South Africa,Africa,1994,0
 Portugal,Europe,Turkey,Asia,1994,0
+Portugal,Europe,Iraq,Asia,1994,0
+Portugal,Europe,Lebanon,Asia,1994,45812
 Portugal,Europe,Israel,Asia,1994,0
-Portugal,Europe,United Arab Emirates,Asia,1994,0
 Portugal,Europe,Taiwan,Asia,1994,0
 Portugal,Europe,South Korea,Asia,1994,0
 Portugal,Europe,Japan,Asia,1994,14319
 Portugal,Europe,India,Asia,1994,0
 Portugal,Europe,Pakistan,Asia,1994,0
 Portugal,Europe,Thailand,Asia,1994,132679
-Portugal,Europe,Malaysia,Asia,1994,0
 Portugal,Europe,Singapore,Asia,1994,0
 Portugal,Europe,Philippines,Asia,1994,0
 Portugal,Europe,Indonesia,Asia,1994,0
@@ -598,7 +598,7 @@ Portugal,Europe,Australia,Oceania,1994,0
 Portugal,Europe,Cyprus,Europe,1994,0
 Portugal,Europe,China,Asia,1994,0
 Portugal,Europe,Ivory Coast,Africa,1994,0
-Portugal,Europe,Congo,Africa,1994,0
+Portugal,Europe,Iran,Asia,1994,0
 Germany,Europe,United States,North America,1994,62994089
 Germany,Europe,Canada,North America,1994,970146
 Germany,Europe,Mexico,North America,1994,802616
@@ -632,15 +632,15 @@ Germany,Europe,Norway,Europe,1994,3062733
 Germany,Europe,Denmark,Europe,1994,2904166
 Germany,Europe,South Africa,Africa,1994,225468
 Germany,Europe,Turkey,Asia,1994,1260164
+Germany,Europe,Iraq,Asia,1994,0
+Germany,Europe,Lebanon,Asia,1994,9926
 Germany,Europe,Israel,Asia,1994,1052193
-Germany,Europe,United Arab Emirates,Asia,1994,2576597
 Germany,Europe,Taiwan,Asia,1994,127623
 Germany,Europe,South Korea,Asia,1994,492062
 Germany,Europe,Japan,Asia,1994,2059754
 Germany,Europe,India,Asia,1994,104154
 Germany,Europe,Pakistan,Asia,1994,29778
 Germany,Europe,Thailand,Asia,1994,3996065
-Germany,Europe,Malaysia,Asia,1994,218492
 Germany,Europe,Singapore,Asia,1994,564831
 Germany,Europe,Philippines,Asia,1994,31196
 Germany,Europe,Indonesia,Asia,1994,960020
@@ -648,7 +648,7 @@ Germany,Europe,Australia,Oceania,1994,570055
 Germany,Europe,Cyprus,Europe,1994,204197
 Germany,Europe,China,Asia,1994,81206
 Germany,Europe,Ivory Coast,Africa,1994,1418
-Germany,Europe,Congo,Africa,1994,0
+Germany,Europe,Iran,Asia,1994,39704
 Poland,Europe,United States,North America,1994,537821
 Poland,Europe,Canada,North America,1994,120296
 Poland,Europe,Mexico,North America,1994,0
@@ -682,15 +682,15 @@ Poland,Europe,Norway,Europe,1994,0
 Poland,Europe,Denmark,Europe,1994,0
 Poland,Europe,South Africa,Africa,1994,0
 Poland,Europe,Turkey,Asia,1994,0
+Poland,Europe,Iraq,Asia,1994,0
+Poland,Europe,Lebanon,Asia,1994,884863
 Poland,Europe,Israel,Asia,1994,0
-Poland,Europe,United Arab Emirates,Asia,1994,0
 Poland,Europe,Taiwan,Asia,1994,0
 Poland,Europe,South Korea,Asia,1994,0
 Poland,Europe,Japan,Asia,1994,0
 Poland,Europe,India,Asia,1994,0
 Poland,Europe,Pakistan,Asia,1994,0
 Poland,Europe,Thailand,Asia,1994,0
-Poland,Europe,Malaysia,Asia,1994,191436
 Poland,Europe,Singapore,Asia,1994,0
 Poland,Europe,Philippines,Asia,1994,0
 Poland,Europe,Indonesia,Asia,1994,0
@@ -698,7 +698,7 @@ Poland,Europe,Australia,Oceania,1994,0
 Poland,Europe,Cyprus,Europe,1994,0
 Poland,Europe,China,Asia,1994,0
 Poland,Europe,Ivory Coast,Africa,1994,0
-Poland,Europe,Congo,Africa,1994,0
+Poland,Europe,Iran,Asia,1994,0
 Austria,Europe,United States,North America,1994,72501892
 Austria,Europe,Canada,North America,1994,1924821
 Austria,Europe,Mexico,North America,1994,64539
@@ -732,15 +732,15 @@ Austria,Europe,Norway,Europe,1994,144057
 Austria,Europe,Denmark,Europe,1994,172468
 Austria,Europe,South Africa,Africa,1994,1337348
 Austria,Europe,Turkey,Asia,1994,20408
+Austria,Europe,Iraq,Asia,1994,0
+Austria,Europe,Lebanon,Asia,1994,0
 Austria,Europe,Israel,Asia,1994,0
-Austria,Europe,United Arab Emirates,Asia,1994,366546
 Austria,Europe,Taiwan,Asia,1994,0
 Austria,Europe,South Korea,Asia,1994,40050
 Austria,Europe,Japan,Asia,1994,90980
 Austria,Europe,India,Asia,1994,1616225
 Austria,Europe,Pakistan,Asia,1994,1743036
 Austria,Europe,Thailand,Asia,1994,822844
-Austria,Europe,Malaysia,Asia,1994,68980
 Austria,Europe,Singapore,Asia,1994,29023
 Austria,Europe,Philippines,Asia,1994,0
 Austria,Europe,Indonesia,Asia,1994,870441
@@ -748,7 +748,7 @@ Austria,Europe,Australia,Oceania,1994,453795
 Austria,Europe,Cyprus,Europe,1994,0
 Austria,Europe,China,Asia,1994,106185
 Austria,Europe,Ivory Coast,Africa,1994,2865
-Austria,Europe,Congo,Africa,1994,0
+Austria,Europe,Iran,Asia,1994,11535
 Hungary,Europe,United States,North America,1994,12126620
 Hungary,Europe,Canada,North America,1994,421186
 Hungary,Europe,Mexico,North America,1994,0
@@ -782,15 +782,15 @@ Hungary,Europe,Norway,Europe,1994,143816
 Hungary,Europe,Denmark,Europe,1994,79443
 Hungary,Europe,South Africa,Africa,1994,0
 Hungary,Europe,Turkey,Asia,1994,0
+Hungary,Europe,Iraq,Asia,1994,0
+Hungary,Europe,Lebanon,Asia,1994,0
 Hungary,Europe,Israel,Asia,1994,0
-Hungary,Europe,United Arab Emirates,Asia,1994,0
 Hungary,Europe,Taiwan,Asia,1994,0
 Hungary,Europe,South Korea,Asia,1994,0
 Hungary,Europe,Japan,Asia,1994,136157
 Hungary,Europe,India,Asia,1994,0
 Hungary,Europe,Pakistan,Asia,1994,0
 Hungary,Europe,Thailand,Asia,1994,0
-Hungary,Europe,Malaysia,Asia,1994,0
 Hungary,Europe,Singapore,Asia,1994,0
 Hungary,Europe,Philippines,Asia,1994,0
 Hungary,Europe,Indonesia,Asia,1994,0
@@ -798,7 +798,7 @@ Hungary,Europe,Australia,Oceania,1994,5208
 Hungary,Europe,Cyprus,Europe,1994,0
 Hungary,Europe,China,Asia,1994,0
 Hungary,Europe,Ivory Coast,Africa,1994,0
-Hungary,Europe,Congo,Africa,1994,0
+Hungary,Europe,Iran,Asia,1994,0
 Czech Republic,Europe,United States,North America,1994,12457542
 Czech Republic,Europe,Canada,North America,1994,710245
 Czech Republic,Europe,Mexico,North America,1994,178674
@@ -832,15 +832,15 @@ Czech Republic,Europe,Norway,Europe,1994,466825
 Czech Republic,Europe,Denmark,Europe,1994,305778
 Czech Republic,Europe,South Africa,Africa,1994,79862
 Czech Republic,Europe,Turkey,Asia,1994,6443929
+Czech Republic,Europe,Iraq,Asia,1994,0
+Czech Republic,Europe,Lebanon,Asia,1994,0
 Czech Republic,Europe,Israel,Asia,1994,2517
-Czech Republic,Europe,United Arab Emirates,Asia,1994,43139
 Czech Republic,Europe,Taiwan,Asia,1994,0
 Czech Republic,Europe,South Korea,Asia,1994,0
 Czech Republic,Europe,Japan,Asia,1994,60318
 Czech Republic,Europe,India,Asia,1994,19216
 Czech Republic,Europe,Pakistan,Asia,1994,4490
 Czech Republic,Europe,Thailand,Asia,1994,1658150
-Czech Republic,Europe,Malaysia,Asia,1994,110498
 Czech Republic,Europe,Singapore,Asia,1994,2180
 Czech Republic,Europe,Philippines,Asia,1994,3898
 Czech Republic,Europe,Indonesia,Asia,1994,0
@@ -848,7 +848,7 @@ Czech Republic,Europe,Australia,Oceania,1994,963533
 Czech Republic,Europe,Cyprus,Europe,1994,54481
 Czech Republic,Europe,China,Asia,1994,0
 Czech Republic,Europe,Ivory Coast,Africa,1994,0
-Czech Republic,Europe,Congo,Africa,1994,0
+Czech Republic,Europe,Iran,Asia,1994,0
 Slovakia,Europe,United States,North America,1994,0
 Slovakia,Europe,Canada,North America,1994,0
 Slovakia,Europe,Mexico,North America,1994,0
@@ -882,15 +882,15 @@ Slovakia,Europe,Norway,Europe,1994,0
 Slovakia,Europe,Denmark,Europe,1994,0
 Slovakia,Europe,South Africa,Africa,1994,0
 Slovakia,Europe,Turkey,Asia,1994,0
+Slovakia,Europe,Iraq,Asia,1994,0
+Slovakia,Europe,Lebanon,Asia,1994,0
 Slovakia,Europe,Israel,Asia,1994,0
-Slovakia,Europe,United Arab Emirates,Asia,1994,0
 Slovakia,Europe,Taiwan,Asia,1994,0
 Slovakia,Europe,South Korea,Asia,1994,0
 Slovakia,Europe,Japan,Asia,1994,0
 Slovakia,Europe,India,Asia,1994,0
 Slovakia,Europe,Pakistan,Asia,1994,0
 Slovakia,Europe,Thailand,Asia,1994,0
-Slovakia,Europe,Malaysia,Asia,1994,134645
 Slovakia,Europe,Singapore,Asia,1994,0
 Slovakia,Europe,Philippines,Asia,1994,0
 Slovakia,Europe,Indonesia,Asia,1994,0
@@ -898,7 +898,7 @@ Slovakia,Europe,Australia,Oceania,1994,0
 Slovakia,Europe,Cyprus,Europe,1994,4879
 Slovakia,Europe,China,Asia,1994,0
 Slovakia,Europe,Ivory Coast,Africa,1994,0
-Slovakia,Europe,Congo,Africa,1994,0
+Slovakia,Europe,Iran,Asia,1994,0
 Italy,Europe,United States,North America,1994,76937892
 Italy,Europe,Canada,North America,1994,723131
 Italy,Europe,Mexico,North America,1994,4612505
@@ -932,15 +932,15 @@ Italy,Europe,Norway,Europe,1994,1958640
 Italy,Europe,Denmark,Europe,1994,3686179
 Italy,Europe,South Africa,Africa,1994,1238797
 Italy,Europe,Turkey,Asia,1994,11006010
+Italy,Europe,Iraq,Asia,1994,0
+Italy,Europe,Lebanon,Asia,1994,861759
 Italy,Europe,Israel,Asia,1994,1137677
-Italy,Europe,United Arab Emirates,Asia,1994,3224
 Italy,Europe,Taiwan,Asia,1994,645409
 Italy,Europe,South Korea,Asia,1994,1355516
 Italy,Europe,Japan,Asia,1994,10697970
 Italy,Europe,India,Asia,1994,238121
 Italy,Europe,Pakistan,Asia,1994,112185
 Italy,Europe,Thailand,Asia,1994,1313022
-Italy,Europe,Malaysia,Asia,1994,477971
 Italy,Europe,Singapore,Asia,1994,388967
 Italy,Europe,Philippines,Asia,1994,176004
 Italy,Europe,Indonesia,Asia,1994,30347
@@ -948,7 +948,7 @@ Italy,Europe,Australia,Oceania,1994,1304730
 Italy,Europe,Cyprus,Europe,1994,1114446
 Italy,Europe,China,Asia,1994,387583
 Italy,Europe,Ivory Coast,Africa,1994,6439
-Italy,Europe,Congo,Africa,1994,1480083
+Italy,Europe,Iran,Asia,1994,0
 Croatia,Europe,United States,North America,1994,0
 Croatia,Europe,Canada,North America,1994,0
 Croatia,Europe,Mexico,North America,1994,0
@@ -982,15 +982,15 @@ Croatia,Europe,Norway,Europe,1994,0
 Croatia,Europe,Denmark,Europe,1994,0
 Croatia,Europe,South Africa,Africa,1994,0
 Croatia,Europe,Turkey,Asia,1994,0
+Croatia,Europe,Iraq,Asia,1994,0
+Croatia,Europe,Lebanon,Asia,1994,0
 Croatia,Europe,Israel,Asia,1994,0
-Croatia,Europe,United Arab Emirates,Asia,1994,0
 Croatia,Europe,Taiwan,Asia,1994,0
 Croatia,Europe,South Korea,Asia,1994,0
 Croatia,Europe,Japan,Asia,1994,0
 Croatia,Europe,India,Asia,1994,0
 Croatia,Europe,Pakistan,Asia,1994,0
 Croatia,Europe,Thailand,Asia,1994,0
-Croatia,Europe,Malaysia,Asia,1994,0
 Croatia,Europe,Singapore,Asia,1994,0
 Croatia,Europe,Philippines,Asia,1994,0
 Croatia,Europe,Indonesia,Asia,1994,0
@@ -998,7 +998,7 @@ Croatia,Europe,Australia,Oceania,1994,0
 Croatia,Europe,Cyprus,Europe,1994,0
 Croatia,Europe,China,Asia,1994,0
 Croatia,Europe,Ivory Coast,Africa,1994,0
-Croatia,Europe,Congo,Africa,1994,0
+Croatia,Europe,Iran,Asia,1994,0
 Serbia,Europe,United States,North America,1994,0
 Serbia,Europe,Canada,North America,1994,23825
 Serbia,Europe,Mexico,North America,1994,0
@@ -1032,15 +1032,15 @@ Serbia,Europe,Norway,Europe,1994,0
 Serbia,Europe,Denmark,Europe,1994,0
 Serbia,Europe,South Africa,Africa,1994,0
 Serbia,Europe,Turkey,Asia,1994,0
+Serbia,Europe,Iraq,Asia,1994,0
+Serbia,Europe,Lebanon,Asia,1994,0
 Serbia,Europe,Israel,Asia,1994,0
-Serbia,Europe,United Arab Emirates,Asia,1994,0
 Serbia,Europe,Taiwan,Asia,1994,0
 Serbia,Europe,South Korea,Asia,1994,0
 Serbia,Europe,Japan,Asia,1994,0
 Serbia,Europe,India,Asia,1994,0
 Serbia,Europe,Pakistan,Asia,1994,0
 Serbia,Europe,Thailand,Asia,1994,0
-Serbia,Europe,Malaysia,Asia,1994,0
 Serbia,Europe,Singapore,Asia,1994,0
 Serbia,Europe,Philippines,Asia,1994,0
 Serbia,Europe,Indonesia,Asia,1994,0
@@ -1048,7 +1048,7 @@ Serbia,Europe,Australia,Oceania,1994,0
 Serbia,Europe,Cyprus,Europe,1994,0
 Serbia,Europe,China,Asia,1994,0
 Serbia,Europe,Ivory Coast,Africa,1994,0
-Serbia,Europe,Congo,Africa,1994,0
+Serbia,Europe,Iran,Asia,1994,0
 Bosnia,Europe,United States,North America,1994,1881915
 Bosnia,Europe,Canada,North America,1994,0
 Bosnia,Europe,Mexico,North America,1994,0
@@ -1082,15 +1082,15 @@ Bosnia,Europe,Norway,Europe,1994,0
 Bosnia,Europe,Denmark,Europe,1994,0
 Bosnia,Europe,South Africa,Africa,1994,0
 Bosnia,Europe,Turkey,Asia,1994,0
+Bosnia,Europe,Iraq,Asia,1994,0
+Bosnia,Europe,Lebanon,Asia,1994,0
 Bosnia,Europe,Israel,Asia,1994,0
-Bosnia,Europe,United Arab Emirates,Asia,1994,0
 Bosnia,Europe,Taiwan,Asia,1994,0
 Bosnia,Europe,South Korea,Asia,1994,0
 Bosnia,Europe,Japan,Asia,1994,0
 Bosnia,Europe,India,Asia,1994,0
 Bosnia,Europe,Pakistan,Asia,1994,0
 Bosnia,Europe,Thailand,Asia,1994,0
-Bosnia,Europe,Malaysia,Asia,1994,0
 Bosnia,Europe,Singapore,Asia,1994,0
 Bosnia,Europe,Philippines,Asia,1994,0
 Bosnia,Europe,Indonesia,Asia,1994,0
@@ -1098,7 +1098,7 @@ Bosnia,Europe,Australia,Oceania,1994,0
 Bosnia,Europe,Cyprus,Europe,1994,0
 Bosnia,Europe,China,Asia,1994,0
 Bosnia,Europe,Ivory Coast,Africa,1994,0
-Bosnia,Europe,Congo,Africa,1994,0
+Bosnia,Europe,Iran,Asia,1994,0
 Greece,Europe,United States,North America,1994,0
 Greece,Europe,Canada,North America,1994,822
 Greece,Europe,Mexico,North America,1994,0
@@ -1132,15 +1132,15 @@ Greece,Europe,Norway,Europe,1994,0
 Greece,Europe,Denmark,Europe,1994,0
 Greece,Europe,South Africa,Africa,1994,0
 Greece,Europe,Turkey,Asia,1994,206568
+Greece,Europe,Iraq,Asia,1994,0
+Greece,Europe,Lebanon,Asia,1994,0
 Greece,Europe,Israel,Asia,1994,0
-Greece,Europe,United Arab Emirates,Asia,1994,0
 Greece,Europe,Taiwan,Asia,1994,0
 Greece,Europe,South Korea,Asia,1994,0
 Greece,Europe,Japan,Asia,1994,0
 Greece,Europe,India,Asia,1994,0
 Greece,Europe,Pakistan,Asia,1994,0
 Greece,Europe,Thailand,Asia,1994,0
-Greece,Europe,Malaysia,Asia,1994,0
 Greece,Europe,Singapore,Asia,1994,0
 Greece,Europe,Philippines,Asia,1994,0
 Greece,Europe,Indonesia,Asia,1994,0
@@ -1148,7 +1148,7 @@ Greece,Europe,Australia,Oceania,1994,0
 Greece,Europe,Cyprus,Europe,1994,813052
 Greece,Europe,China,Asia,1994,0
 Greece,Europe,Ivory Coast,Africa,1994,0
-Greece,Europe,Congo,Africa,1994,0
+Greece,Europe,Iran,Asia,1994,0
 Bulgaria,Europe,United States,North America,1994,941648
 Bulgaria,Europe,Canada,North America,1994,327530
 Bulgaria,Europe,Mexico,North America,1994,0
@@ -1182,15 +1182,15 @@ Bulgaria,Europe,Norway,Europe,1994,0
 Bulgaria,Europe,Denmark,Europe,1994,0
 Bulgaria,Europe,South Africa,Africa,1994,0
 Bulgaria,Europe,Turkey,Asia,1994,0
+Bulgaria,Europe,Iraq,Asia,1994,0
+Bulgaria,Europe,Lebanon,Asia,1994,0
 Bulgaria,Europe,Israel,Asia,1994,0
-Bulgaria,Europe,United Arab Emirates,Asia,1994,0
 Bulgaria,Europe,Taiwan,Asia,1994,0
 Bulgaria,Europe,South Korea,Asia,1994,0
 Bulgaria,Europe,Japan,Asia,1994,0
 Bulgaria,Europe,India,Asia,1994,0
 Bulgaria,Europe,Pakistan,Asia,1994,0
 Bulgaria,Europe,Thailand,Asia,1994,0
-Bulgaria,Europe,Malaysia,Asia,1994,0
 Bulgaria,Europe,Singapore,Asia,1994,0
 Bulgaria,Europe,Philippines,Asia,1994,0
 Bulgaria,Europe,Indonesia,Asia,1994,0
@@ -1198,7 +1198,7 @@ Bulgaria,Europe,Australia,Oceania,1994,0
 Bulgaria,Europe,Cyprus,Europe,1994,0
 Bulgaria,Europe,China,Asia,1994,0
 Bulgaria,Europe,Ivory Coast,Africa,1994,0
-Bulgaria,Europe,Congo,Africa,1994,0
+Bulgaria,Europe,Iran,Asia,1994,0
 Romania,Europe,United States,North America,1994,200915
 Romania,Europe,Canada,North America,1994,0
 Romania,Europe,Mexico,North America,1994,0
@@ -1232,15 +1232,15 @@ Romania,Europe,Norway,Europe,1994,0
 Romania,Europe,Denmark,Europe,1994,0
 Romania,Europe,South Africa,Africa,1994,0
 Romania,Europe,Turkey,Asia,1994,0
+Romania,Europe,Iraq,Asia,1994,0
+Romania,Europe,Lebanon,Asia,1994,0
 Romania,Europe,Israel,Asia,1994,0
-Romania,Europe,United Arab Emirates,Asia,1994,0
 Romania,Europe,Taiwan,Asia,1994,0
 Romania,Europe,South Korea,Asia,1994,0
 Romania,Europe,Japan,Asia,1994,0
 Romania,Europe,India,Asia,1994,0
 Romania,Europe,Pakistan,Asia,1994,0
 Romania,Europe,Thailand,Asia,1994,0
-Romania,Europe,Malaysia,Asia,1994,0
 Romania,Europe,Singapore,Asia,1994,0
 Romania,Europe,Philippines,Asia,1994,0
 Romania,Europe,Indonesia,Asia,1994,0
@@ -1248,7 +1248,7 @@ Romania,Europe,Australia,Oceania,1994,0
 Romania,Europe,Cyprus,Europe,1994,0
 Romania,Europe,China,Asia,1994,0
 Romania,Europe,Ivory Coast,Africa,1994,0
-Romania,Europe,Congo,Africa,1994,0
+Romania,Europe,Iran,Asia,1994,0
 Russia,Asia,United States,North America,1994,54931331
 Russia,Asia,Canada,North America,1994,1256225
 Russia,Asia,Mexico,North America,1994,0
@@ -1282,15 +1282,15 @@ Russia,Asia,Norway,Europe,1994,289112
 Russia,Asia,Denmark,Europe,1994,4753
 Russia,Asia,South Africa,Africa,1994,0
 Russia,Asia,Turkey,Asia,1994,0
+Russia,Asia,Iraq,Asia,1994,0
+Russia,Asia,Lebanon,Asia,1994,0
 Russia,Asia,Israel,Asia,1994,0
-Russia,Asia,United Arab Emirates,Asia,1994,0
 Russia,Asia,Taiwan,Asia,1994,0
 Russia,Asia,South Korea,Asia,1994,0
 Russia,Asia,Japan,Asia,1994,25643
 Russia,Asia,India,Asia,1994,0
 Russia,Asia,Pakistan,Asia,1994,0
 Russia,Asia,Thailand,Asia,1994,32873
-Russia,Asia,Malaysia,Asia,1994,0
 Russia,Asia,Singapore,Asia,1994,0
 Russia,Asia,Philippines,Asia,1994,0
 Russia,Asia,Indonesia,Asia,1994,0
@@ -1298,7 +1298,7 @@ Russia,Asia,Australia,Oceania,1994,0
 Russia,Asia,Cyprus,Europe,1994,5949307
 Russia,Asia,China,Asia,1994,0
 Russia,Asia,Ivory Coast,Africa,1994,0
-Russia,Asia,Congo,Africa,1994,0
+Russia,Asia,Iran,Asia,1994,0
 Ukraine,Europe,United States,North America,1994,387859
 Ukraine,Europe,Canada,North America,1994,0
 Ukraine,Europe,Mexico,North America,1994,0
@@ -1332,15 +1332,15 @@ Ukraine,Europe,Norway,Europe,1994,0
 Ukraine,Europe,Denmark,Europe,1994,0
 Ukraine,Europe,South Africa,Africa,1994,0
 Ukraine,Europe,Turkey,Asia,1994,0
+Ukraine,Europe,Iraq,Asia,1994,0
+Ukraine,Europe,Lebanon,Asia,1994,0
 Ukraine,Europe,Israel,Asia,1994,0
-Ukraine,Europe,United Arab Emirates,Asia,1994,0
 Ukraine,Europe,Taiwan,Asia,1994,0
 Ukraine,Europe,South Korea,Asia,1994,0
 Ukraine,Europe,Japan,Asia,1994,0
 Ukraine,Europe,India,Asia,1994,0
 Ukraine,Europe,Pakistan,Asia,1994,0
 Ukraine,Europe,Thailand,Asia,1994,0
-Ukraine,Europe,Malaysia,Asia,1994,0
 Ukraine,Europe,Singapore,Asia,1994,0
 Ukraine,Europe,Philippines,Asia,1994,0
 Ukraine,Europe,Indonesia,Asia,1994,0
@@ -1348,7 +1348,7 @@ Ukraine,Europe,Australia,Oceania,1994,0
 Ukraine,Europe,Cyprus,Europe,1994,0
 Ukraine,Europe,China,Asia,1994,0
 Ukraine,Europe,Ivory Coast,Africa,1994,0
-Ukraine,Europe,Congo,Africa,1994,0
+Ukraine,Europe,Iran,Asia,1994,0
 Finland,Europe,United States,North America,1994,4402519
 Finland,Europe,Canada,North America,1994,403503
 Finland,Europe,Mexico,North America,1994,0
@@ -1382,15 +1382,15 @@ Finland,Europe,Norway,Europe,1994,2755302
 Finland,Europe,Denmark,Europe,1994,3043528
 Finland,Europe,South Africa,Africa,1994,254552
 Finland,Europe,Turkey,Asia,1994,14532
+Finland,Europe,Iraq,Asia,1994,0
+Finland,Europe,Lebanon,Asia,1994,0
 Finland,Europe,Israel,Asia,1994,0
-Finland,Europe,United Arab Emirates,Asia,1994,557920
 Finland,Europe,Taiwan,Asia,1994,98908
 Finland,Europe,South Korea,Asia,1994,106100
 Finland,Europe,Japan,Asia,1994,278680
 Finland,Europe,India,Asia,1994,305276
 Finland,Europe,Pakistan,Asia,1994,92482
 Finland,Europe,Thailand,Asia,1994,156772
-Finland,Europe,Malaysia,Asia,1994,529232
 Finland,Europe,Singapore,Asia,1994,1088208
 Finland,Europe,Philippines,Asia,1994,0
 Finland,Europe,Indonesia,Asia,1994,0
@@ -1398,7 +1398,7 @@ Finland,Europe,Australia,Oceania,1994,1238022
 Finland,Europe,Cyprus,Europe,1994,0
 Finland,Europe,China,Asia,1994,0
 Finland,Europe,Ivory Coast,Africa,1994,0
-Finland,Europe,Congo,Africa,1994,0
+Finland,Europe,Iran,Asia,1994,0
 Sweden,Europe,United States,North America,1994,7469914
 Sweden,Europe,Canada,North America,1994,613578
 Sweden,Europe,Mexico,North America,1994,8508
@@ -1432,15 +1432,15 @@ Sweden,Europe,Norway,Europe,1994,5351430
 Sweden,Europe,Denmark,Europe,1994,1805860
 Sweden,Europe,South Africa,Africa,1994,0
 Sweden,Europe,Turkey,Asia,1994,0
+Sweden,Europe,Iraq,Asia,1994,0
+Sweden,Europe,Lebanon,Asia,1994,0
 Sweden,Europe,Israel,Asia,1994,0
-Sweden,Europe,United Arab Emirates,Asia,1994,0
 Sweden,Europe,Taiwan,Asia,1994,0
 Sweden,Europe,South Korea,Asia,1994,0
 Sweden,Europe,Japan,Asia,1994,156642
 Sweden,Europe,India,Asia,1994,0
 Sweden,Europe,Pakistan,Asia,1994,0
 Sweden,Europe,Thailand,Asia,1994,8984
-Sweden,Europe,Malaysia,Asia,1994,0
 Sweden,Europe,Singapore,Asia,1994,0
 Sweden,Europe,Philippines,Asia,1994,0
 Sweden,Europe,Indonesia,Asia,1994,0
@@ -1448,7 +1448,7 @@ Sweden,Europe,Australia,Oceania,1994,36106
 Sweden,Europe,Cyprus,Europe,1994,0
 Sweden,Europe,China,Asia,1994,0
 Sweden,Europe,Ivory Coast,Africa,1994,0
-Sweden,Europe,Congo,Africa,1994,0
+Sweden,Europe,Iran,Asia,1994,0
 Norway,Europe,United States,North America,1994,15963182
 Norway,Europe,Canada,North America,1994,71218
 Norway,Europe,Mexico,North America,1994,0
@@ -1482,15 +1482,15 @@ Norway,Europe,Norway,Europe,1994,0
 Norway,Europe,Denmark,Europe,1994,1102846
 Norway,Europe,South Africa,Africa,1994,0
 Norway,Europe,Turkey,Asia,1994,195140
+Norway,Europe,Iraq,Asia,1994,0
+Norway,Europe,Lebanon,Asia,1994,0
 Norway,Europe,Israel,Asia,1994,0
-Norway,Europe,United Arab Emirates,Asia,1994,0
 Norway,Europe,Taiwan,Asia,1994,0
 Norway,Europe,South Korea,Asia,1994,0
 Norway,Europe,Japan,Asia,1994,0
 Norway,Europe,India,Asia,1994,0
 Norway,Europe,Pakistan,Asia,1994,0
 Norway,Europe,Thailand,Asia,1994,0
-Norway,Europe,Malaysia,Asia,1994,0
 Norway,Europe,Singapore,Asia,1994,40558
 Norway,Europe,Philippines,Asia,1994,0
 Norway,Europe,Indonesia,Asia,1994,0
@@ -1498,7 +1498,7 @@ Norway,Europe,Australia,Oceania,1994,28188
 Norway,Europe,Cyprus,Europe,1994,0
 Norway,Europe,China,Asia,1994,0
 Norway,Europe,Ivory Coast,Africa,1994,0
-Norway,Europe,Congo,Africa,1994,0
+Norway,Europe,Iran,Asia,1994,0
 Denmark,Europe,United States,North America,1994,377664
 Denmark,Europe,Canada,North America,1994,30472
 Denmark,Europe,Mexico,North America,1994,0
@@ -1532,15 +1532,15 @@ Denmark,Europe,Norway,Europe,1994,365722
 Denmark,Europe,Denmark,Europe,1994,0
 Denmark,Europe,South Africa,Africa,1994,18112
 Denmark,Europe,Turkey,Asia,1994,0
+Denmark,Europe,Iraq,Asia,1994,0
+Denmark,Europe,Lebanon,Asia,1994,0
 Denmark,Europe,Israel,Asia,1994,0
-Denmark,Europe,United Arab Emirates,Asia,1994,0
 Denmark,Europe,Taiwan,Asia,1994,0
 Denmark,Europe,South Korea,Asia,1994,0
 Denmark,Europe,Japan,Asia,1994,0
 Denmark,Europe,India,Asia,1994,0
 Denmark,Europe,Pakistan,Asia,1994,0
 Denmark,Europe,Thailand,Asia,1994,0
-Denmark,Europe,Malaysia,Asia,1994,0
 Denmark,Europe,Singapore,Asia,1994,0
 Denmark,Europe,Philippines,Asia,1994,0
 Denmark,Europe,Indonesia,Asia,1994,0
@@ -1548,7 +1548,7 @@ Denmark,Europe,Australia,Oceania,1994,0
 Denmark,Europe,Cyprus,Europe,1994,2304
 Denmark,Europe,China,Asia,1994,0
 Denmark,Europe,Ivory Coast,Africa,1994,0
-Denmark,Europe,Congo,Africa,1994,0
+Denmark,Europe,Iran,Asia,1994,0
 South Africa,Africa,United States,North America,1994,89944
 South Africa,Africa,Canada,North America,1994,22384
 South Africa,Africa,Mexico,North America,1994,263756
@@ -1582,15 +1582,15 @@ South Africa,Africa,Norway,Europe,1994,0
 South Africa,Africa,Denmark,Europe,1994,0
 South Africa,Africa,South Africa,Africa,1994,0
 South Africa,Africa,Turkey,Asia,1994,101520
+South Africa,Africa,Iraq,Asia,1994,0
+South Africa,Africa,Lebanon,Asia,1994,0
 South Africa,Africa,Israel,Asia,1994,0
-South Africa,Africa,United Arab Emirates,Asia,1994,0
 South Africa,Africa,Taiwan,Asia,1994,0
 South Africa,Africa,South Korea,Asia,1994,0
 South Africa,Africa,Japan,Asia,1994,0
 South Africa,Africa,India,Asia,1994,0
 South Africa,Africa,Pakistan,Asia,1994,0
 South Africa,Africa,Thailand,Asia,1994,348622
-South Africa,Africa,Malaysia,Asia,1994,2430
 South Africa,Africa,Singapore,Asia,1994,0
 South Africa,Africa,Philippines,Asia,1994,0
 South Africa,Africa,Indonesia,Asia,1994,0
@@ -1598,7 +1598,7 @@ South Africa,Africa,Australia,Oceania,1994,4912
 South Africa,Africa,Cyprus,Europe,1994,38964
 South Africa,Africa,China,Asia,1994,0
 South Africa,Africa,Ivory Coast,Africa,1994,0
-South Africa,Africa,Congo,Africa,1994,0
+South Africa,Africa,Iran,Asia,1994,0
 Turkey,Asia,United States,North America,1994,136024
 Turkey,Asia,Canada,North America,1994,219046
 Turkey,Asia,Mexico,North America,1994,0
@@ -1632,15 +1632,15 @@ Turkey,Asia,Norway,Europe,1994,0
 Turkey,Asia,Denmark,Europe,1994,0
 Turkey,Asia,South Africa,Africa,1994,0
 Turkey,Asia,Turkey,Asia,1994,0
+Turkey,Asia,Iraq,Asia,1994,0
+Turkey,Asia,Lebanon,Asia,1994,0
 Turkey,Asia,Israel,Asia,1994,0
-Turkey,Asia,United Arab Emirates,Asia,1994,0
 Turkey,Asia,Taiwan,Asia,1994,0
 Turkey,Asia,South Korea,Asia,1994,0
 Turkey,Asia,Japan,Asia,1994,0
 Turkey,Asia,India,Asia,1994,0
 Turkey,Asia,Pakistan,Asia,1994,1262064
 Turkey,Asia,Thailand,Asia,1994,0
-Turkey,Asia,Malaysia,Asia,1994,0
 Turkey,Asia,Singapore,Asia,1994,0
 Turkey,Asia,Philippines,Asia,1994,0
 Turkey,Asia,Indonesia,Asia,1994,0
@@ -1648,7 +1648,107 @@ Turkey,Asia,Australia,Oceania,1994,0
 Turkey,Asia,Cyprus,Europe,1994,568028
 Turkey,Asia,China,Asia,1994,0
 Turkey,Asia,Ivory Coast,Africa,1994,0
-Turkey,Asia,Congo,Africa,1994,0
+Turkey,Asia,Iran,Asia,1994,0
+Iraq,Asia,United States,North America,1994,0
+Iraq,Asia,Canada,North America,1994,0
+Iraq,Asia,Mexico,North America,1994,0
+Iraq,Asia,Brazil,South America,1994,0
+Iraq,Asia,Argentina,South America,1994,0
+Iraq,Asia,United Kingdom,Europe,1994,0
+Iraq,Asia,Netherlands,Europe,1994,0
+Iraq,Asia,Belgium,Europe,1994,0
+Iraq,Asia,France,Europe,1994,0
+Iraq,Asia,Switzerland,Europe,1994,0
+Iraq,Asia,Spain,Europe,1994,0
+Iraq,Asia,Portugal,Europe,1994,0
+Iraq,Asia,Germany,Europe,1994,0
+Iraq,Asia,Poland,Europe,1994,0
+Iraq,Asia,Austria,Europe,1994,0
+Iraq,Asia,Hungary,Europe,1994,0
+Iraq,Asia,Czech Republic,Europe,1994,0
+Iraq,Asia,Slovakia,Europe,1994,0
+Iraq,Asia,Italy,Europe,1994,0
+Iraq,Asia,Croatia,Europe,1994,0
+Iraq,Asia,Serbia,Europe,1994,0
+Iraq,Asia,Bosnia,Europe,1994,0
+Iraq,Asia,Greece,Europe,1994,0
+Iraq,Asia,Bulgaria,Europe,1994,0
+Iraq,Asia,Romania,Europe,1994,0
+Iraq,Asia,Russia,Asia,1994,0
+Iraq,Asia,Ukraine,Europe,1994,0
+Iraq,Asia,Finland,Europe,1994,0
+Iraq,Asia,Sweden,Europe,1994,0
+Iraq,Asia,Norway,Europe,1994,0
+Iraq,Asia,Denmark,Europe,1994,0
+Iraq,Asia,South Africa,Africa,1994,0
+Iraq,Asia,Turkey,Asia,1994,0
+Iraq,Asia,Iraq,Asia,1994,0
+Iraq,Asia,Lebanon,Asia,1994,0
+Iraq,Asia,Israel,Asia,1994,0
+Iraq,Asia,Taiwan,Asia,1994,0
+Iraq,Asia,South Korea,Asia,1994,0
+Iraq,Asia,Japan,Asia,1994,0
+Iraq,Asia,India,Asia,1994,0
+Iraq,Asia,Pakistan,Asia,1994,0
+Iraq,Asia,Thailand,Asia,1994,0
+Iraq,Asia,Singapore,Asia,1994,0
+Iraq,Asia,Philippines,Asia,1994,0
+Iraq,Asia,Indonesia,Asia,1994,0
+Iraq,Asia,Australia,Oceania,1994,0
+Iraq,Asia,Cyprus,Europe,1994,0
+Iraq,Asia,China,Asia,1994,0
+Iraq,Asia,Ivory Coast,Africa,1994,0
+Iraq,Asia,Iran,Asia,1994,0
+Lebanon,Asia,United States,North America,1994,0
+Lebanon,Asia,Canada,North America,1994,0
+Lebanon,Asia,Mexico,North America,1994,0
+Lebanon,Asia,Brazil,South America,1994,0
+Lebanon,Asia,Argentina,South America,1994,0
+Lebanon,Asia,United Kingdom,Europe,1994,0
+Lebanon,Asia,Netherlands,Europe,1994,0
+Lebanon,Asia,Belgium,Europe,1994,0
+Lebanon,Asia,France,Europe,1994,0
+Lebanon,Asia,Switzerland,Europe,1994,1602
+Lebanon,Asia,Spain,Europe,1994,0
+Lebanon,Asia,Portugal,Europe,1994,0
+Lebanon,Asia,Germany,Europe,1994,0
+Lebanon,Asia,Poland,Europe,1994,0
+Lebanon,Asia,Austria,Europe,1994,0
+Lebanon,Asia,Hungary,Europe,1994,0
+Lebanon,Asia,Czech Republic,Europe,1994,0
+Lebanon,Asia,Slovakia,Europe,1994,0
+Lebanon,Asia,Italy,Europe,1994,0
+Lebanon,Asia,Croatia,Europe,1994,0
+Lebanon,Asia,Serbia,Europe,1994,0
+Lebanon,Asia,Bosnia,Europe,1994,0
+Lebanon,Asia,Greece,Europe,1994,0
+Lebanon,Asia,Bulgaria,Europe,1994,0
+Lebanon,Asia,Romania,Europe,1994,0
+Lebanon,Asia,Russia,Asia,1994,0
+Lebanon,Asia,Ukraine,Europe,1994,0
+Lebanon,Asia,Finland,Europe,1994,0
+Lebanon,Asia,Sweden,Europe,1994,0
+Lebanon,Asia,Norway,Europe,1994,0
+Lebanon,Asia,Denmark,Europe,1994,0
+Lebanon,Asia,South Africa,Africa,1994,0
+Lebanon,Asia,Turkey,Asia,1994,0
+Lebanon,Asia,Iraq,Asia,1994,0
+Lebanon,Asia,Lebanon,Asia,1994,0
+Lebanon,Asia,Israel,Asia,1994,0
+Lebanon,Asia,Taiwan,Asia,1994,0
+Lebanon,Asia,South Korea,Asia,1994,0
+Lebanon,Asia,Japan,Asia,1994,0
+Lebanon,Asia,India,Asia,1994,0
+Lebanon,Asia,Pakistan,Asia,1994,0
+Lebanon,Asia,Thailand,Asia,1994,0
+Lebanon,Asia,Singapore,Asia,1994,0
+Lebanon,Asia,Philippines,Asia,1994,0
+Lebanon,Asia,Indonesia,Asia,1994,0
+Lebanon,Asia,Australia,Oceania,1994,0
+Lebanon,Asia,Cyprus,Europe,1994,52428
+Lebanon,Asia,China,Asia,1994,0
+Lebanon,Asia,Ivory Coast,Africa,1994,0
+Lebanon,Asia,Iran,Asia,1994,0
 Israel,Asia,United States,North America,1994,49934534
 Israel,Asia,Canada,North America,1994,75052
 Israel,Asia,Mexico,North America,1994,2836
@@ -1682,15 +1782,15 @@ Israel,Asia,Norway,Europe,1994,1934
 Israel,Asia,Denmark,Europe,1994,150494
 Israel,Asia,South Africa,Africa,1994,0
 Israel,Asia,Turkey,Asia,1994,26766
+Israel,Asia,Iraq,Asia,1994,0
+Israel,Asia,Lebanon,Asia,1994,0
 Israel,Asia,Israel,Asia,1994,0
-Israel,Asia,United Arab Emirates,Asia,1994,0
 Israel,Asia,Taiwan,Asia,1994,0
 Israel,Asia,South Korea,Asia,1994,0
 Israel,Asia,Japan,Asia,1994,189916
 Israel,Asia,India,Asia,1994,0
 Israel,Asia,Pakistan,Asia,1994,0
 Israel,Asia,Thailand,Asia,1994,479160
-Israel,Asia,Malaysia,Asia,1994,0
 Israel,Asia,Singapore,Asia,1994,0
 Israel,Asia,Philippines,Asia,1994,0
 Israel,Asia,Indonesia,Asia,1994,0
@@ -1698,57 +1798,7 @@ Israel,Asia,Australia,Oceania,1994,96568
 Israel,Asia,Cyprus,Europe,1994,0
 Israel,Asia,China,Asia,1994,0
 Israel,Asia,Ivory Coast,Africa,1994,0
-Israel,Asia,Congo,Africa,1994,0
-United Arab Emirates,Asia,United States,North America,1994,0
-United Arab Emirates,Asia,Canada,North America,1994,0
-United Arab Emirates,Asia,Mexico,North America,1994,0
-United Arab Emirates,Asia,Brazil,South America,1994,0
-United Arab Emirates,Asia,Argentina,South America,1994,0
-United Arab Emirates,Asia,United Kingdom,Europe,1994,1763144
-United Arab Emirates,Asia,Netherlands,Europe,1994,0
-United Arab Emirates,Asia,Belgium,Europe,1994,0
-United Arab Emirates,Asia,France,Europe,1994,0
-United Arab Emirates,Asia,Switzerland,Europe,1994,0
-United Arab Emirates,Asia,Spain,Europe,1994,0
-United Arab Emirates,Asia,Portugal,Europe,1994,0
-United Arab Emirates,Asia,Germany,Europe,1994,0
-United Arab Emirates,Asia,Poland,Europe,1994,0
-United Arab Emirates,Asia,Austria,Europe,1994,0
-United Arab Emirates,Asia,Hungary,Europe,1994,0
-United Arab Emirates,Asia,Czech Republic,Europe,1994,0
-United Arab Emirates,Asia,Slovakia,Europe,1994,0
-United Arab Emirates,Asia,Italy,Europe,1994,0
-United Arab Emirates,Asia,Croatia,Europe,1994,0
-United Arab Emirates,Asia,Serbia,Europe,1994,0
-United Arab Emirates,Asia,Bosnia,Europe,1994,0
-United Arab Emirates,Asia,Greece,Europe,1994,0
-United Arab Emirates,Asia,Bulgaria,Europe,1994,0
-United Arab Emirates,Asia,Romania,Europe,1994,0
-United Arab Emirates,Asia,Russia,Asia,1994,0
-United Arab Emirates,Asia,Ukraine,Europe,1994,0
-United Arab Emirates,Asia,Finland,Europe,1994,0
-United Arab Emirates,Asia,Sweden,Europe,1994,0
-United Arab Emirates,Asia,Norway,Europe,1994,0
-United Arab Emirates,Asia,Denmark,Europe,1994,0
-United Arab Emirates,Asia,South Africa,Africa,1994,0
-United Arab Emirates,Asia,Turkey,Asia,1994,0
-United Arab Emirates,Asia,Israel,Asia,1994,0
-United Arab Emirates,Asia,United Arab Emirates,Asia,1994,0
-United Arab Emirates,Asia,Taiwan,Asia,1994,0
-United Arab Emirates,Asia,South Korea,Asia,1994,0
-United Arab Emirates,Asia,Japan,Asia,1994,0
-United Arab Emirates,Asia,India,Asia,1994,0
-United Arab Emirates,Asia,Pakistan,Asia,1994,0
-United Arab Emirates,Asia,Thailand,Asia,1994,0
-United Arab Emirates,Asia,Malaysia,Asia,1994,0
-United Arab Emirates,Asia,Singapore,Asia,1994,0
-United Arab Emirates,Asia,Philippines,Asia,1994,0
-United Arab Emirates,Asia,Indonesia,Asia,1994,0
-United Arab Emirates,Asia,Australia,Oceania,1994,0
-United Arab Emirates,Asia,Cyprus,Europe,1994,0
-United Arab Emirates,Asia,China,Asia,1994,0
-United Arab Emirates,Asia,Ivory Coast,Africa,1994,0
-United Arab Emirates,Asia,Congo,Africa,1994,0
+Israel,Asia,Iran,Asia,1994,0
 Taiwan,Asia,United States,North America,1994,154680
 Taiwan,Asia,Canada,North America,1994,0
 Taiwan,Asia,Mexico,North America,1994,0
@@ -1782,15 +1832,15 @@ Taiwan,Asia,Norway,Europe,1994,0
 Taiwan,Asia,Denmark,Europe,1994,3170
 Taiwan,Asia,South Africa,Africa,1994,0
 Taiwan,Asia,Turkey,Asia,1994,0
+Taiwan,Asia,Iraq,Asia,1994,0
+Taiwan,Asia,Lebanon,Asia,1994,0
 Taiwan,Asia,Israel,Asia,1994,0
-Taiwan,Asia,United Arab Emirates,Asia,1994,0
 Taiwan,Asia,Taiwan,Asia,1994,0
 Taiwan,Asia,South Korea,Asia,1994,0
 Taiwan,Asia,Japan,Asia,1994,0
 Taiwan,Asia,India,Asia,1994,0
 Taiwan,Asia,Pakistan,Asia,1994,0
 Taiwan,Asia,Thailand,Asia,1994,0
-Taiwan,Asia,Malaysia,Asia,1994,0
 Taiwan,Asia,Singapore,Asia,1994,0
 Taiwan,Asia,Philippines,Asia,1994,0
 Taiwan,Asia,Indonesia,Asia,1994,0
@@ -1798,7 +1848,7 @@ Taiwan,Asia,Australia,Oceania,1994,0
 Taiwan,Asia,Cyprus,Europe,1994,0
 Taiwan,Asia,China,Asia,1994,0
 Taiwan,Asia,Ivory Coast,Africa,1994,0
-Taiwan,Asia,Congo,Africa,1994,0
+Taiwan,Asia,Iran,Asia,1994,0
 South Korea,Asia,United States,North America,1994,34129036
 South Korea,Asia,Canada,North America,1994,308684
 South Korea,Asia,Mexico,North America,1994,0
@@ -1832,15 +1882,15 @@ South Korea,Asia,Norway,Europe,1994,197616
 South Korea,Asia,Denmark,Europe,1994,0
 South Korea,Asia,South Africa,Africa,1994,347422
 South Korea,Asia,Turkey,Asia,1994,6978454
+South Korea,Asia,Iraq,Asia,1994,0
+South Korea,Asia,Lebanon,Asia,1994,0
 South Korea,Asia,Israel,Asia,1994,0
-South Korea,Asia,United Arab Emirates,Asia,1994,0
 South Korea,Asia,Taiwan,Asia,1994,0
 South Korea,Asia,South Korea,Asia,1994,0
 South Korea,Asia,Japan,Asia,1994,79290
 South Korea,Asia,India,Asia,1994,0
 South Korea,Asia,Pakistan,Asia,1994,0
 South Korea,Asia,Thailand,Asia,1994,378374
-South Korea,Asia,Malaysia,Asia,1994,13772
 South Korea,Asia,Singapore,Asia,1994,4338
 South Korea,Asia,Philippines,Asia,1994,1157992
 South Korea,Asia,Indonesia,Asia,1994,1415098
@@ -1848,7 +1898,7 @@ South Korea,Asia,Australia,Oceania,1994,122584
 South Korea,Asia,Cyprus,Europe,1994,2098
 South Korea,Asia,China,Asia,1994,0
 South Korea,Asia,Ivory Coast,Africa,1994,0
-South Korea,Asia,Congo,Africa,1994,0
+South Korea,Asia,Iran,Asia,1994,0
 Japan,Asia,United States,North America,1994,102939618
 Japan,Asia,Canada,North America,1994,3804008
 Japan,Asia,Mexico,North America,1994,0
@@ -1882,15 +1932,15 @@ Japan,Asia,Norway,Europe,1994,156636
 Japan,Asia,Denmark,Europe,1994,679422
 Japan,Asia,South Africa,Africa,1994,45654
 Japan,Asia,Turkey,Asia,1994,166730
+Japan,Asia,Iraq,Asia,1994,0
+Japan,Asia,Lebanon,Asia,1994,0
 Japan,Asia,Israel,Asia,1994,0
-Japan,Asia,United Arab Emirates,Asia,1994,0
 Japan,Asia,Taiwan,Asia,1994,0
 Japan,Asia,South Korea,Asia,1994,380786
 Japan,Asia,Japan,Asia,1994,0
 Japan,Asia,India,Asia,1994,41446
 Japan,Asia,Pakistan,Asia,1994,0
 Japan,Asia,Thailand,Asia,1994,19784
-Japan,Asia,Malaysia,Asia,1994,134220
 Japan,Asia,Singapore,Asia,1994,225844
 Japan,Asia,Philippines,Asia,1994,0
 Japan,Asia,Indonesia,Asia,1994,56780
@@ -1898,7 +1948,7 @@ Japan,Asia,Australia,Oceania,1994,475320
 Japan,Asia,Cyprus,Europe,1994,103474
 Japan,Asia,China,Asia,1994,4584
 Japan,Asia,Ivory Coast,Africa,1994,0
-Japan,Asia,Congo,Africa,1994,310202
+Japan,Asia,Iran,Asia,1994,0
 India,Asia,United States,North America,1994,32520
 India,Asia,Canada,North America,1994,22756
 India,Asia,Mexico,North America,1994,0
@@ -1932,15 +1982,15 @@ India,Asia,Norway,Europe,1994,0
 India,Asia,Denmark,Europe,1994,0
 India,Asia,South Africa,Africa,1994,0
 India,Asia,Turkey,Asia,1994,0
+India,Asia,Iraq,Asia,1994,0
+India,Asia,Lebanon,Asia,1994,0
 India,Asia,Israel,Asia,1994,0
-India,Asia,United Arab Emirates,Asia,1994,0
 India,Asia,Taiwan,Asia,1994,0
 India,Asia,South Korea,Asia,1994,0
 India,Asia,Japan,Asia,1994,0
 India,Asia,India,Asia,1994,0
 India,Asia,Pakistan,Asia,1994,0
 India,Asia,Thailand,Asia,1994,754752
-India,Asia,Malaysia,Asia,1994,0
 India,Asia,Singapore,Asia,1994,0
 India,Asia,Philippines,Asia,1994,0
 India,Asia,Indonesia,Asia,1994,0
@@ -1948,7 +1998,7 @@ India,Asia,Australia,Oceania,1994,5198
 India,Asia,Cyprus,Europe,1994,0
 India,Asia,China,Asia,1994,0
 India,Asia,Ivory Coast,Africa,1994,0
-India,Asia,Congo,Africa,1994,0
+India,Asia,Iran,Asia,1994,0
 Pakistan,Asia,United States,North America,1994,1797878
 Pakistan,Asia,Canada,North America,1994,0
 Pakistan,Asia,Mexico,North America,1994,0
@@ -1982,15 +2032,15 @@ Pakistan,Asia,Norway,Europe,1994,0
 Pakistan,Asia,Denmark,Europe,1994,0
 Pakistan,Asia,South Africa,Africa,1994,0
 Pakistan,Asia,Turkey,Asia,1994,0
+Pakistan,Asia,Iraq,Asia,1994,0
+Pakistan,Asia,Lebanon,Asia,1994,0
 Pakistan,Asia,Israel,Asia,1994,0
-Pakistan,Asia,United Arab Emirates,Asia,1994,0
 Pakistan,Asia,Taiwan,Asia,1994,0
 Pakistan,Asia,South Korea,Asia,1994,0
 Pakistan,Asia,Japan,Asia,1994,0
 Pakistan,Asia,India,Asia,1994,0
 Pakistan,Asia,Pakistan,Asia,1994,0
 Pakistan,Asia,Thailand,Asia,1994,26732
-Pakistan,Asia,Malaysia,Asia,1994,2818
 Pakistan,Asia,Singapore,Asia,1994,0
 Pakistan,Asia,Philippines,Asia,1994,0
 Pakistan,Asia,Indonesia,Asia,1994,0
@@ -1998,7 +2048,7 @@ Pakistan,Asia,Australia,Oceania,1994,0
 Pakistan,Asia,Cyprus,Europe,1994,0
 Pakistan,Asia,China,Asia,1994,0
 Pakistan,Asia,Ivory Coast,Africa,1994,0
-Pakistan,Asia,Congo,Africa,1994,0
+Pakistan,Asia,Iran,Asia,1994,0
 Thailand,Asia,United States,North America,1994,13732
 Thailand,Asia,Canada,North America,1994,0
 Thailand,Asia,Mexico,North America,1994,0
@@ -2032,15 +2082,15 @@ Thailand,Asia,Norway,Europe,1994,0
 Thailand,Asia,Denmark,Europe,1994,0
 Thailand,Asia,South Africa,Africa,1994,0
 Thailand,Asia,Turkey,Asia,1994,0
+Thailand,Asia,Iraq,Asia,1994,0
+Thailand,Asia,Lebanon,Asia,1994,0
 Thailand,Asia,Israel,Asia,1994,0
-Thailand,Asia,United Arab Emirates,Asia,1994,0
 Thailand,Asia,Taiwan,Asia,1994,0
 Thailand,Asia,South Korea,Asia,1994,0
 Thailand,Asia,Japan,Asia,1994,0
 Thailand,Asia,India,Asia,1994,0
 Thailand,Asia,Pakistan,Asia,1994,0
 Thailand,Asia,Thailand,Asia,1994,0
-Thailand,Asia,Malaysia,Asia,1994,0
 Thailand,Asia,Singapore,Asia,1994,0
 Thailand,Asia,Philippines,Asia,1994,0
 Thailand,Asia,Indonesia,Asia,1994,0
@@ -2048,57 +2098,7 @@ Thailand,Asia,Australia,Oceania,1994,0
 Thailand,Asia,Cyprus,Europe,1994,0
 Thailand,Asia,China,Asia,1994,0
 Thailand,Asia,Ivory Coast,Africa,1994,0
-Thailand,Asia,Congo,Africa,1994,0
-Malaysia,Asia,United States,North America,1994,13343586
-Malaysia,Asia,Canada,North America,1994,32906
-Malaysia,Asia,Mexico,North America,1994,0
-Malaysia,Asia,Brazil,South America,1994,0
-Malaysia,Asia,Argentina,South America,1994,0
-Malaysia,Asia,United Kingdom,Europe,1994,30184
-Malaysia,Asia,Netherlands,Europe,1994,0
-Malaysia,Asia,Belgium,Europe,1994,0
-Malaysia,Asia,France,Europe,1994,0
-Malaysia,Asia,Switzerland,Europe,1994,0
-Malaysia,Asia,Spain,Europe,1994,0
-Malaysia,Asia,Portugal,Europe,1994,0
-Malaysia,Asia,Germany,Europe,1994,82246
-Malaysia,Asia,Poland,Europe,1994,0
-Malaysia,Asia,Austria,Europe,1994,0
-Malaysia,Asia,Hungary,Europe,1994,0
-Malaysia,Asia,Czech Republic,Europe,1994,0
-Malaysia,Asia,Slovakia,Europe,1994,0
-Malaysia,Asia,Italy,Europe,1994,0
-Malaysia,Asia,Croatia,Europe,1994,0
-Malaysia,Asia,Serbia,Europe,1994,0
-Malaysia,Asia,Bosnia,Europe,1994,0
-Malaysia,Asia,Greece,Europe,1994,0
-Malaysia,Asia,Bulgaria,Europe,1994,0
-Malaysia,Asia,Romania,Europe,1994,0
-Malaysia,Asia,Russia,Asia,1994,0
-Malaysia,Asia,Ukraine,Europe,1994,0
-Malaysia,Asia,Finland,Europe,1994,0
-Malaysia,Asia,Sweden,Europe,1994,0
-Malaysia,Asia,Norway,Europe,1994,0
-Malaysia,Asia,Denmark,Europe,1994,0
-Malaysia,Asia,South Africa,Africa,1994,0
-Malaysia,Asia,Turkey,Asia,1994,0
-Malaysia,Asia,Israel,Asia,1994,0
-Malaysia,Asia,United Arab Emirates,Asia,1994,0
-Malaysia,Asia,Taiwan,Asia,1994,0
-Malaysia,Asia,South Korea,Asia,1994,0
-Malaysia,Asia,Japan,Asia,1994,6116
-Malaysia,Asia,India,Asia,1994,0
-Malaysia,Asia,Pakistan,Asia,1994,0
-Malaysia,Asia,Thailand,Asia,1994,29846
-Malaysia,Asia,Malaysia,Asia,1994,0
-Malaysia,Asia,Singapore,Asia,1994,7788
-Malaysia,Asia,Philippines,Asia,1994,0
-Malaysia,Asia,Indonesia,Asia,1994,0
-Malaysia,Asia,Australia,Oceania,1994,0
-Malaysia,Asia,Cyprus,Europe,1994,0
-Malaysia,Asia,China,Asia,1994,0
-Malaysia,Asia,Ivory Coast,Africa,1994,0
-Malaysia,Asia,Congo,Africa,1994,0
+Thailand,Asia,Iran,Asia,1994,0
 Singapore,Asia,United States,North America,1994,16600
 Singapore,Asia,Canada,North America,1994,0
 Singapore,Asia,Mexico,North America,1994,8508
@@ -2132,15 +2132,15 @@ Singapore,Asia,Norway,Europe,1994,0
 Singapore,Asia,Denmark,Europe,1994,0
 Singapore,Asia,South Africa,Africa,1994,0
 Singapore,Asia,Turkey,Asia,1994,34786
+Singapore,Asia,Iraq,Asia,1994,0
+Singapore,Asia,Lebanon,Asia,1994,0
 Singapore,Asia,Israel,Asia,1994,0
-Singapore,Asia,United Arab Emirates,Asia,1994,0
 Singapore,Asia,Taiwan,Asia,1994,402668
 Singapore,Asia,South Korea,Asia,1994,33466
 Singapore,Asia,Japan,Asia,1994,0
 Singapore,Asia,India,Asia,1994,1786
 Singapore,Asia,Pakistan,Asia,1994,0
 Singapore,Asia,Thailand,Asia,1994,37274
-Singapore,Asia,Malaysia,Asia,1994,3971500
 Singapore,Asia,Singapore,Asia,1994,0
 Singapore,Asia,Philippines,Asia,1994,43054
 Singapore,Asia,Indonesia,Asia,1994,14290
@@ -2148,7 +2148,7 @@ Singapore,Asia,Australia,Oceania,1994,46450
 Singapore,Asia,Cyprus,Europe,1994,0
 Singapore,Asia,China,Asia,1994,0
 Singapore,Asia,Ivory Coast,Africa,1994,0
-Singapore,Asia,Congo,Africa,1994,0
+Singapore,Asia,Iran,Asia,1994,0
 Philippines,Asia,United States,North America,1994,3746300
 Philippines,Asia,Canada,North America,1994,30652
 Philippines,Asia,Mexico,North America,1994,0
@@ -2182,15 +2182,15 @@ Philippines,Asia,Norway,Europe,1994,0
 Philippines,Asia,Denmark,Europe,1994,0
 Philippines,Asia,South Africa,Africa,1994,0
 Philippines,Asia,Turkey,Asia,1994,0
+Philippines,Asia,Iraq,Asia,1994,0
+Philippines,Asia,Lebanon,Asia,1994,0
 Philippines,Asia,Israel,Asia,1994,0
-Philippines,Asia,United Arab Emirates,Asia,1994,0
 Philippines,Asia,Taiwan,Asia,1994,0
 Philippines,Asia,South Korea,Asia,1994,1778
 Philippines,Asia,Japan,Asia,1994,0
 Philippines,Asia,India,Asia,1994,0
 Philippines,Asia,Pakistan,Asia,1994,0
 Philippines,Asia,Thailand,Asia,1994,636176
-Philippines,Asia,Malaysia,Asia,1994,0
 Philippines,Asia,Singapore,Asia,1994,0
 Philippines,Asia,Philippines,Asia,1994,0
 Philippines,Asia,Indonesia,Asia,1994,0
@@ -2198,7 +2198,7 @@ Philippines,Asia,Australia,Oceania,1994,625750
 Philippines,Asia,Cyprus,Europe,1994,0
 Philippines,Asia,China,Asia,1994,0
 Philippines,Asia,Ivory Coast,Africa,1994,0
-Philippines,Asia,Congo,Africa,1994,0
+Philippines,Asia,Iran,Asia,1994,0
 Indonesia,Asia,United States,North America,1994,873022
 Indonesia,Asia,Canada,North America,1994,0
 Indonesia,Asia,Mexico,North America,1994,0
@@ -2232,15 +2232,15 @@ Indonesia,Asia,Norway,Europe,1994,0
 Indonesia,Asia,Denmark,Europe,1994,0
 Indonesia,Asia,South Africa,Africa,1994,0
 Indonesia,Asia,Turkey,Asia,1994,0
+Indonesia,Asia,Iraq,Asia,1994,0
+Indonesia,Asia,Lebanon,Asia,1994,0
 Indonesia,Asia,Israel,Asia,1994,0
-Indonesia,Asia,United Arab Emirates,Asia,1994,0
 Indonesia,Asia,Taiwan,Asia,1994,0
 Indonesia,Asia,South Korea,Asia,1994,0
 Indonesia,Asia,Japan,Asia,1994,0
 Indonesia,Asia,India,Asia,1994,0
 Indonesia,Asia,Pakistan,Asia,1994,0
 Indonesia,Asia,Thailand,Asia,1994,0
-Indonesia,Asia,Malaysia,Asia,1994,0
 Indonesia,Asia,Singapore,Asia,1994,0
 Indonesia,Asia,Philippines,Asia,1994,0
 Indonesia,Asia,Indonesia,Asia,1994,0
@@ -2248,7 +2248,7 @@ Indonesia,Asia,Australia,Oceania,1994,0
 Indonesia,Asia,Cyprus,Europe,1994,0
 Indonesia,Asia,China,Asia,1994,0
 Indonesia,Asia,Ivory Coast,Africa,1994,0
-Indonesia,Asia,Congo,Africa,1994,0
+Indonesia,Asia,Iran,Asia,1994,0
 Australia,Oceania,United States,North America,1994,639006
 Australia,Oceania,Canada,North America,1994,253296
 Australia,Oceania,Mexico,North America,1994,0
@@ -2282,15 +2282,15 @@ Australia,Oceania,Norway,Europe,1994,803418
 Australia,Oceania,Denmark,Europe,1994,0
 Australia,Oceania,South Africa,Africa,1994,45598
 Australia,Oceania,Turkey,Asia,1994,0
+Australia,Oceania,Iraq,Asia,1994,0
+Australia,Oceania,Lebanon,Asia,1994,2076
 Australia,Oceania,Israel,Asia,1994,0
-Australia,Oceania,United Arab Emirates,Asia,1994,3580
 Australia,Oceania,Taiwan,Asia,1994,0
 Australia,Oceania,South Korea,Asia,1994,159334
 Australia,Oceania,Japan,Asia,1994,3743714
 Australia,Oceania,India,Asia,1994,0
 Australia,Oceania,Pakistan,Asia,1994,0
 Australia,Oceania,Thailand,Asia,1994,330564
-Australia,Oceania,Malaysia,Asia,1994,216456
 Australia,Oceania,Singapore,Asia,1994,118944
 Australia,Oceania,Philippines,Asia,1994,120144
 Australia,Oceania,Indonesia,Asia,1994,4774
@@ -2298,7 +2298,7 @@ Australia,Oceania,Australia,Oceania,1994,0
 Australia,Oceania,Cyprus,Europe,1994,20758
 Australia,Oceania,China,Asia,1994,0
 Australia,Oceania,Ivory Coast,Africa,1994,0
-Australia,Oceania,Congo,Africa,1994,0
+Australia,Oceania,Iran,Asia,1994,0
 Cyprus,Europe,United States,North America,1994,536361
 Cyprus,Europe,Canada,North America,1994,857
 Cyprus,Europe,Mexico,North America,1994,0
@@ -2332,15 +2332,15 @@ Cyprus,Europe,Norway,Europe,1994,0
 Cyprus,Europe,Denmark,Europe,1994,0
 Cyprus,Europe,South Africa,Africa,1994,536577
 Cyprus,Europe,Turkey,Asia,1994,0
+Cyprus,Europe,Iraq,Asia,1994,0
+Cyprus,Europe,Lebanon,Asia,1994,431076
 Cyprus,Europe,Israel,Asia,1994,29606
-Cyprus,Europe,United Arab Emirates,Asia,1994,0
 Cyprus,Europe,Taiwan,Asia,1994,0
 Cyprus,Europe,South Korea,Asia,1994,0
 Cyprus,Europe,Japan,Asia,1994,0
 Cyprus,Europe,India,Asia,1994,1001
 Cyprus,Europe,Pakistan,Asia,1994,0
 Cyprus,Europe,Thailand,Asia,1994,14607
-Cyprus,Europe,Malaysia,Asia,1994,0
 Cyprus,Europe,Singapore,Asia,1994,0
 Cyprus,Europe,Philippines,Asia,1994,0
 Cyprus,Europe,Indonesia,Asia,1994,0
@@ -2348,7 +2348,7 @@ Cyprus,Europe,Australia,Oceania,1994,143638
 Cyprus,Europe,Cyprus,Europe,1994,0
 Cyprus,Europe,China,Asia,1994,0
 Cyprus,Europe,Ivory Coast,Africa,1994,0
-Cyprus,Europe,Congo,Africa,1994,0
+Cyprus,Europe,Iran,Asia,1994,0
 China,Asia,United States,North America,1994,119953770
 China,Asia,Canada,North America,1994,2119878
 China,Asia,Mexico,North America,1994,0
@@ -2382,15 +2382,15 @@ China,Asia,Norway,Europe,1994,13876
 China,Asia,Denmark,Europe,1994,0
 China,Asia,South Africa,Africa,1994,150312
 China,Asia,Turkey,Asia,1994,1086282
+China,Asia,Iraq,Asia,1994,0
+China,Asia,Lebanon,Asia,1994,0
 China,Asia,Israel,Asia,1994,0
-China,Asia,United Arab Emirates,Asia,1994,0
 China,Asia,Taiwan,Asia,1994,0
 China,Asia,South Korea,Asia,1994,332028
 China,Asia,Japan,Asia,1994,0
 China,Asia,India,Asia,1994,0
 China,Asia,Pakistan,Asia,1994,1093846
 China,Asia,Thailand,Asia,1994,3855260
-China,Asia,Malaysia,Asia,1994,0
 China,Asia,Singapore,Asia,1994,0
 China,Asia,Philippines,Asia,1994,370688
 China,Asia,Indonesia,Asia,1994,0
@@ -2398,7 +2398,7 @@ China,Asia,Australia,Oceania,1994,1037072
 China,Asia,Cyprus,Europe,1994,0
 China,Asia,China,Asia,1994,0
 China,Asia,Ivory Coast,Africa,1994,0
-China,Asia,Congo,Africa,1994,0
+China,Asia,Iran,Asia,1994,0
 Ivory Coast,Africa,United States,North America,1994,0
 Ivory Coast,Africa,Canada,North America,1994,0
 Ivory Coast,Africa,Mexico,North America,1994,0
@@ -2432,15 +2432,15 @@ Ivory Coast,Africa,Norway,Europe,1994,0
 Ivory Coast,Africa,Denmark,Europe,1994,0
 Ivory Coast,Africa,South Africa,Africa,1994,0
 Ivory Coast,Africa,Turkey,Asia,1994,0
+Ivory Coast,Africa,Iraq,Asia,1994,0
+Ivory Coast,Africa,Lebanon,Asia,1994,0
 Ivory Coast,Africa,Israel,Asia,1994,0
-Ivory Coast,Africa,United Arab Emirates,Asia,1994,0
 Ivory Coast,Africa,Taiwan,Asia,1994,0
 Ivory Coast,Africa,South Korea,Asia,1994,0
 Ivory Coast,Africa,Japan,Asia,1994,0
 Ivory Coast,Africa,India,Asia,1994,0
 Ivory Coast,Africa,Pakistan,Asia,1994,0
 Ivory Coast,Africa,Thailand,Asia,1994,0
-Ivory Coast,Africa,Malaysia,Asia,1994,0
 Ivory Coast,Africa,Singapore,Asia,1994,0
 Ivory Coast,Africa,Philippines,Asia,1994,0
 Ivory Coast,Africa,Indonesia,Asia,1994,0
@@ -2448,54 +2448,54 @@ Ivory Coast,Africa,Australia,Oceania,1994,0
 Ivory Coast,Africa,Cyprus,Europe,1994,0
 Ivory Coast,Africa,China,Asia,1994,0
 Ivory Coast,Africa,Ivory Coast,Africa,1994,0
-Ivory Coast,Africa,Congo,Africa,1994,0
-Congo,Africa,United States,North America,1994,0
-Congo,Africa,Canada,North America,1994,0
-Congo,Africa,Mexico,North America,1994,0
-Congo,Africa,Brazil,South America,1994,0
-Congo,Africa,Argentina,South America,1994,0
-Congo,Africa,United Kingdom,Europe,1994,0
-Congo,Africa,Netherlands,Europe,1994,0
-Congo,Africa,Belgium,Europe,1994,0
-Congo,Africa,France,Europe,1994,0
-Congo,Africa,Switzerland,Europe,1994,0
-Congo,Africa,Spain,Europe,1994,0
-Congo,Africa,Portugal,Europe,1994,0
-Congo,Africa,Germany,Europe,1994,0
-Congo,Africa,Poland,Europe,1994,0
-Congo,Africa,Austria,Europe,1994,0
-Congo,Africa,Hungary,Europe,1994,0
-Congo,Africa,Czech Republic,Europe,1994,0
-Congo,Africa,Slovakia,Europe,1994,0
-Congo,Africa,Italy,Europe,1994,0
-Congo,Africa,Croatia,Europe,1994,0
-Congo,Africa,Serbia,Europe,1994,0
-Congo,Africa,Bosnia,Europe,1994,0
-Congo,Africa,Greece,Europe,1994,0
-Congo,Africa,Bulgaria,Europe,1994,0
-Congo,Africa,Romania,Europe,1994,0
-Congo,Africa,Russia,Asia,1994,0
-Congo,Africa,Ukraine,Europe,1994,0
-Congo,Africa,Finland,Europe,1994,0
-Congo,Africa,Sweden,Europe,1994,0
-Congo,Africa,Norway,Europe,1994,0
-Congo,Africa,Denmark,Europe,1994,0
-Congo,Africa,South Africa,Africa,1994,0
-Congo,Africa,Turkey,Asia,1994,0
-Congo,Africa,Israel,Asia,1994,0
-Congo,Africa,United Arab Emirates,Asia,1994,0
-Congo,Africa,Taiwan,Asia,1994,0
-Congo,Africa,South Korea,Asia,1994,0
-Congo,Africa,Japan,Asia,1994,0
-Congo,Africa,India,Asia,1994,0
-Congo,Africa,Pakistan,Asia,1994,0
-Congo,Africa,Thailand,Asia,1994,0
-Congo,Africa,Malaysia,Asia,1994,0
-Congo,Africa,Singapore,Asia,1994,0
-Congo,Africa,Philippines,Asia,1994,0
-Congo,Africa,Indonesia,Asia,1994,0
-Congo,Africa,Australia,Oceania,1994,0
-Congo,Africa,Cyprus,Europe,1994,0
-Congo,Africa,China,Asia,1994,0
-Congo,Africa,Ivory Coast,Africa,1994,0
-Congo,Africa,Congo,Africa,1994,0
+Ivory Coast,Africa,Iran,Asia,1994,0
+Iran,Asia,United States,North America,1994,0
+Iran,Asia,Canada,North America,1994,0
+Iran,Asia,Mexico,North America,1994,0
+Iran,Asia,Brazil,South America,1994,0
+Iran,Asia,Argentina,South America,1994,0
+Iran,Asia,United Kingdom,Europe,1994,0
+Iran,Asia,Netherlands,Europe,1994,0
+Iran,Asia,Belgium,Europe,1994,0
+Iran,Asia,France,Europe,1994,0
+Iran,Asia,Switzerland,Europe,1994,0
+Iran,Asia,Spain,Europe,1994,0
+Iran,Asia,Portugal,Europe,1994,0
+Iran,Asia,Germany,Europe,1994,0
+Iran,Asia,Poland,Europe,1994,0
+Iran,Asia,Austria,Europe,1994,6204
+Iran,Asia,Hungary,Europe,1994,0
+Iran,Asia,Czech Republic,Europe,1994,0
+Iran,Asia,Slovakia,Europe,1994,0
+Iran,Asia,Italy,Europe,1994,0
+Iran,Asia,Croatia,Europe,1994,0
+Iran,Asia,Serbia,Europe,1994,0
+Iran,Asia,Bosnia,Europe,1994,0
+Iran,Asia,Greece,Europe,1994,0
+Iran,Asia,Bulgaria,Europe,1994,0
+Iran,Asia,Romania,Europe,1994,0
+Iran,Asia,Russia,Asia,1994,0
+Iran,Asia,Ukraine,Europe,1994,0
+Iran,Asia,Finland,Europe,1994,0
+Iran,Asia,Sweden,Europe,1994,0
+Iran,Asia,Norway,Europe,1994,0
+Iran,Asia,Denmark,Europe,1994,0
+Iran,Asia,South Africa,Africa,1994,0
+Iran,Asia,Turkey,Asia,1994,0
+Iran,Asia,Iraq,Asia,1994,0
+Iran,Asia,Lebanon,Asia,1994,0
+Iran,Asia,Israel,Asia,1994,0
+Iran,Asia,Taiwan,Asia,1994,0
+Iran,Asia,South Korea,Asia,1994,0
+Iran,Asia,Japan,Asia,1994,0
+Iran,Asia,India,Asia,1994,0
+Iran,Asia,Pakistan,Asia,1994,0
+Iran,Asia,Thailand,Asia,1994,0
+Iran,Asia,Singapore,Asia,1994,0
+Iran,Asia,Philippines,Asia,1994,0
+Iran,Asia,Indonesia,Asia,1994,0
+Iran,Asia,Australia,Oceania,1994,0
+Iran,Asia,Cyprus,Europe,1994,0
+Iran,Asia,China,Asia,1994,0
+Iran,Asia,Ivory Coast,Africa,1994,0
+Iran,Asia,Iran,Asia,1994,0
