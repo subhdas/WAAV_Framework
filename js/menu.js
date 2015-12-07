@@ -226,7 +226,7 @@ $("#sliderDouble").attr("title", xT);
 var divBack = '<div class = "clMenuBack" id ="menuBack"></div>';
 var divHidden = '<div class = "clMenuHidden" id ="menuHidden"></div>';
 var divExtraPanel = '<div class = "clExtraPanel" id ="extraPanel"></div>';
-var menuHeader = '<p class ="clMenuHead" id = "menuHead" title="Selected Years">' + yearValues + '< /p>';
+var menuHeader = '<p class ="clMenuHead" id = "menuHead">' + yearValues + '< /p>';
 var menuDescr = '<p class ="clMenuDesc" id = "menuDesc">Worldwide Arms and Ammunition Trade</p>';
 
 var iconSearch = '<img src ="./img/menu/filterBtn.png" width = "30" height = "40" class ="clImgMenu" id = "imgSearch" title="Search & Filter">';
@@ -410,7 +410,7 @@ function milestoneMaker() {
     $("#storyPanel").append(div1);
     $("#storyPanel").append(div2);
     $("#storyControlId").empty();
-    var extraImg = '<img src ="./img/story/iraqHead.jpg" width = "100%" height = "100%" class ="clstoryImgHead" id = "iragImg" title="Iraq War">';
+    var extraImg = '<img src ="./img/story/iraqHead.jpg" width = "100%" height = "100%" class ="clstoryImgHead" id = "iragImg">';
     var extraText = "<p class = 'clstoryTextHead' id ='storyHead'>Iraq War Story </p>"
     $("#extraPanel").append(extraText);
     $("#extraPanel").append(extraImg);
@@ -831,8 +831,8 @@ function menuFolded() {
 
     $("#extraPanel").empty();
     //$("#extraPanel").append(extraBox);
-    var extraImg = '<img src ="./img/filler/arms4.jpg" width = "100%" height = "100%" class ="clstoryImgHead" id = "iragImg" title="Iraq War">';
-    var extraText = "<p class = 'clstoryTextHead' id ='genHead'>Arms & Ammunition <br>Visualization</p>"
+    var extraImg = '<img src ="./img/filler/arms4.jpg" width = "100%" height = "100%" class ="clstoryImgHead" id = "iragImg">';
+    var extraText = "<p class = 'clstoryTextHead' id ='genHead'><br><br><br>Arms & Ammunition Visualization</p>"
     $("#extraPanel").append(extraText);
     $("#extraPanel").append(extraImg);
     var val = parseInt(100 * $('#contentPanel').outerWidth() / $(window).outerWidth());
